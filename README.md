@@ -1,3 +1,3 @@
-# CourseProject
+# Github Commit Comments Sentiment Analysis
 
-Please fork this repository and paste the github link of your fork on Microsoft CMT. Detailed instructions are on Coursera under Week 1: Course Project Overview/Week 9 Activities.
+Our main goal is to analyze the emotions of GitHub commit comments associated with a person over time for a single project. 
