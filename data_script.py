@@ -27,3 +27,13 @@ f.write("repo_id, user_id\n")
 for repo_id, user_id in cursor:
     f.write(str(repo_id) + ", " + str(user_id) + "\n")
 f.close()
+
+commit_comments_query = "SELECT project_id, commit_id FROM project_commits;"
+f = open("data/project_id_commit_id.csv", "w+")
+cursor = connection.cursor()
+cursor.execute("USE mydb")
+cursor.execute(commit_comments_query)
+f.write("project_id, commit_id\n")
+for project_id, commit_id in cursor:
+    f.write(str(project_id) + ", " + str(commit_id) + "\n")
+f.close()
