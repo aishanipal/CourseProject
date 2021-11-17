@@ -1,3 +1,5 @@
+"""Tutorial: https://www.digitalocean.com/community/tutorials/how-to-perform-sentiment-analysis-in-python-3-using-the-natural-language-toolkit-nltk"""
+
 import nltk
 import pandas
 from nltk.tokenize import sent_tokenize, word_tokenize
@@ -73,5 +75,15 @@ clean_comment = data.loc[:,'clean_comment']
 
 """
 Step 5. Determining Word Density
+
+"""
+
+"""
+Step 6. Prepare Data for Model
+
+"""
+
+"""
+Step 7. Build and Test Model
 
 """
