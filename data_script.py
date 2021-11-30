@@ -26,14 +26,24 @@ connection = connect(
     )
 print("Connection at: ", connection)
 
-commit_comments_query = "SELECT user_id, commit_id, body FROM commit_comments;"
+# commit_comments_query = "SELECT user_id, commit_id, body FROM commit_comments;"
+# f = open("data/user_id_commit_comments.csv", "w+")
+# cursor = connection.cursor()
+# cursor.execute("USE mydb")
+# cursor.execute(commit_comments_query)
+# f.write("user_id;;;commit_id;;;comment\n")
+# for user_id, commit_id, comment in cursor:
+#     f.write(str(user_id) + ";;;" + str(commit_id) + ";;;" + comment + "\n")
+# f.close()
+
+commit_comments_query = "SELECT user_id, commit_id, body, created_at FROM commit_comments;"
 f = open("data/user_id_commit_comments.csv", "w+")
 cursor = connection.cursor()
 cursor.execute("USE mydb")
 cursor.execute(commit_comments_query)
-f.write("user_id;;;commit_id;;;comment\n")
-for user_id, commit_id, comment in cursor:
-    f.write(str(user_id) + ";;;" + str(commit_id) + ";;;" + comment + "\n")
+f.write("user_id;;;commit_id;;;comment;;;time\n")
+for user_id, commit_id, comment, time in cursor:
+    f.write(str(user_id) + ";;;" + str(commit_id) + ";;;" + comment + ";;;" + str(time) + "\n")
 f.close()
 
 commit_comments_query = "SELECT repo_id, user_id FROM project_members;"

@@ -16,6 +16,8 @@ Step 1. Data Collection
 """
 data = pandas.read_csv("data/user_id_commit_comments.csv", header=0, delimiter=";;;", engine='python')
 data = data.dropna()
+data = data.astype({'commit_id': 'int'})
+data['time'] = pandas.to_datetime(data['time'])
 project_commit_ids = pandas.read_csv("data/project_id_commit_id.csv", header=0, delimiter=", ", engine='python')
 grouped_project_commit_ids = project_commit_ids.groupby('project_id').agg(pandas.Series.tolist)
 # grouped_project_commit_ids.reset_index()
