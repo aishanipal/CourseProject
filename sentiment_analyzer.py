@@ -35,7 +35,7 @@ Step 2. Tokenize Data
 # punkt - pre-trained model to tokenize our data
 # nltk.download('punkt')
 data['token_comment'] = data['comment'].apply(word_tokenize)
-data['token_comment'].dropna(inplace=True)
+data = data.dropna()
 token_comments = data.loc[:,'token_comment']
 # print(token_comments)
 
@@ -89,34 +89,26 @@ clean_comment = data.loc[:,'clean_comment']
 Step 5. Classify (using pre-trained models: https://medium.com/@b.terryjack/nlp-pre-trained-sentiment-analysis-1eb52a9d742c)
 
 """
-nltk.download('vader_lexicon')
+#nltk.download('vader_lexicon')
 sid = SentimentIntensityAnalyzer()
-f = open("sentiment_data/project289_scores.txt", "w+")
 commit_ids = project_commit_ids.loc[project_commit_ids['project_id'] == 289]['commit_id']
-# print(commits)
-for commit_id in commit_ids:
-    comments = list(data.loc[data['commit_id'] == commit_id]['clean_comment'])
-    # print(commit_id, comments)
-    for comment in comments:
-        sentence =  ' '.join(word for word in comment)
-        score = sid.polarity_scores(sentence)
-        binary_score = max(score.items(), key=operator.itemgetter(1))[0]
-        f.write(sentence + "; " + binary_score + "\n")
-    # print(commit_id, sentence, score)
-    # break
-    
-# for project_id, commits in grouped_project_commit_ids.iterrows():
-#     for commit_id in commits[0]:
-#         comment = data.loc[data['commit_id'] == commit_id]['clean_comment']
-#         sentence =  ' '.join(word for word in comment)
-#         print(project_id, commit_id, sentence)
-#         break
-#     break
-# for comment in data.loc[:, 'clean_comment']:
-#     sentence =  ' '.join(word for word in comment)
-#     score = sid.polarity_scores(sentence)
-#     binary_score = max(score.items(), key=operator.itemgetter(1))[0]
-#     body = {'comment':sentence, 'binary_score':binary_score}
-#     body.update(score)
-#     f.write(json.dumps(body))
-f.close()
+project289 = data.loc[data['commit_id'].isin(commit_ids)]
+gp = project289.groupby('user_id')
+print(gp.ngroups)
+
+for g in gp.groups:
+    f = open("sentiment_data/project289_user" + str(g) + "_scores.txt", "w+", encoding="utf-8")
+    user = gp.get_group(g)
+    user_commit_ids = user['commit_id']
+    print(user_commit_ids)
+
+    for commit_id in user_commit_ids:
+        comments = list(data.loc[data['commit_id'] == commit_id]['clean_comment'])
+        # print(commit_id, comments)
+        for comment in comments:
+            sentence =  ' '.join(word for word in comment)
+            score = sid.polarity_scores(sentence)
+            binary_score = max(score.items(), key=operator.itemgetter(1))[0]
+            f.write(sentence + "; " + binary_score + "\n")
+        
+    f.close()
