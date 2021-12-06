@@ -123,3 +123,10 @@ for g in gp.groups:
             f.write(sentence + "; " + str(bin) + "; " + str(time) + "\n")
         
     f.close()
+
+
+"""
+Prep data for baseline
+
+"""
+data.to_csv('sentiment_data/baseline_data.csv')
