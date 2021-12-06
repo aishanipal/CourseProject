@@ -1,11 +1,23 @@
 import pandas
 import matplotlib.pyplot as plt
 
-data = pandas.read_csv("sentiment_data/project289_user6949_scores.txt", delimiter="; ", engine='python')
-data = data.dropna()
-data = data.astype({'score': 'int'})
-data['time'] = pandas.to_datetime(data['time'])
+user_ids = [506780, 15246, 9883, 4024, 252614, 3]
+graph_type = "line"
 
-data = data.sort_values('time', ascending=True)
-plt.scatter(data['time'], data['score'])
-plt.show()
+for user_id in user_ids:
+    user = pandas.read_csv("sentiment_data/project289_user"+str(user_id)+"_scores.txt", delimiter="; ", engine='python')
+    user = user.dropna()
+    user = user.astype({'score': 'int'})
+    user['time'] = pandas.to_datetime(user['time'])
+    user = user.sort_values('time', ascending=True)
+    if (graph_type == "scatter"):
+        plt.scatter(user['time'], user['score'])
+    elif (graph_type == "line"):
+        plt.plot(user['time'], user['score'])
+
+    plt.xlabel('Time')
+    plt.ylabel('Comment Sentiment')
+    plt.title('User ' + str(user_id))
+    plt.savefig('user'+ str(user_id) + '.png')
+    plt.clf()
+
