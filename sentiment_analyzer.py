@@ -94,21 +94,32 @@ sid = SentimentIntensityAnalyzer()
 commit_ids = project_commit_ids.loc[project_commit_ids['project_id'] == 289]['commit_id']
 project289 = data.loc[data['commit_id'].isin(commit_ids)]
 gp = project289.groupby('user_id')
-print(gp.ngroups)
+# print(gp.ngroups)
 
 for g in gp.groups:
     f = open("sentiment_data/project289_user" + str(g) + "_scores.txt", "w+", encoding="utf-8")
+    f.write("comment; score; time\n")
     user = gp.get_group(g)
     user_commit_ids = user['commit_id']
-    print(user_commit_ids)
+    # print(user_commit_ids)
 
     for commit_id in user_commit_ids:
         comments = list(data.loc[data['commit_id'] == commit_id]['clean_comment'])
         # print(commit_id, comments)
-        for comment in comments:
+        times = list(data.loc[data['commit_id'] == commit_id]['time'])
+        assert len(comments) == len(times)
+        for i in range(len(comments)):
+            comment = comments[i]
+            time = times[i]
             sentence =  ' '.join(word for word in comment)
             score = sid.polarity_scores(sentence)
+            score.pop('compound')
             binary_score = max(score.items(), key=operator.itemgetter(1))[0]
-            f.write(sentence + "; " + binary_score + "\n")
+            bin = 0
+            if binary_score == "neg":
+                bin = -1
+            elif binary_score == "pos":
+                bin = 1
+            f.write(sentence + "; " + str(bin) + "; " + str(time) + "\n")
         
     f.close()
