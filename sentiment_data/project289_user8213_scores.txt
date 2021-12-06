@@ -1,0 +1,268 @@
+comment; score; time
+мда ... нет слов это теперь девелоперы такие пошли п-ц котенку ...; 0; 2013-01-04 08:10:48
+crlf -_\\\\; 0; 2013-01-03 10:45:52
+yup developer abandon even n't know c++ good good feature; -1; 2013-01-04 17:31:44
+least 're good obfuscate commit change; 1; 2013-01-04 21:52:09
+include unistd.h comment dont compile ubuntu; 0; 2013-01-05 05:46:19
+line break build linux ... use linux mint 14 cinnamon; 0; 2013-01-05 08:37:48
+indeed; 0; 2013-01-06 16:13:35
+'s move code one place another error possible; 0; 2012-08-21 22:12:43
+receive guid use must may equal current charmguid different reaction also event must result opcode ...; 0; 2012-08-21 22:22:00
+aleays free keep notion; 1; 2012-08-22 08:28:13
+original method create placeholder move wrong bug code one place another please forgive stupidity think joking; 1; 2012-08-22 07:46:59
+rsa good style work git repo good commit part file move new file good code move without change possible also let add project file update independent code change also good clear change vie; 0; 2012-08-22 10:40:35
+владимир не берите на душу мне уже довольно давно надоело воевать с мельницами поэтому я больше прикалываюсь сейчас так вообще вся энергия ушла в -tree возможно это и хорошо хотя и втыкивание патчей с трехлетней историей тоже наверное плюс ... хз ...; 0; 2012-08-23 00:22:05
+создание плейсхолдера часто техническая операция переноса того что туда должно уйти причем тут ошибки главное некий критерий сортировки что к нему относиться и все исправление ошибок для других коммитов не вижу повода для приколов он например нуже; 0; 2012-08-23 02:25:23
+вот и надо было бы добавить чистый плейсхолдер без кода и без ошибок именно как плейсхолдер для дальнейшей работы не было бы повода прикалываться насчет добавления реализаций я не вижу что можно добавить рабочего из бранча kid10 там все настолько за; 0; 2012-08-23 02:39:42
+schmoozerd something tell leave project pity hardly somewhere find another leader ... 'm long time take seriously perhaps good behavior something offend apologize good luck; 0; 2012-08-23 09:14:49
+confirm rude n't think responsability; 0; 2012-08-23 09:26:32
+expect answer rudeness agree reflection real character 'm pretty much mangos member quite unintelligent profession bargain quiet place work past; 0; 2012-08-23 09:50:23
+schmoozerd may know n't mind course kinda sad see leave; 0; 2012-08-23 13:21:27
+commit fork first test compile virtual machine; 0; 2012-08-03 21:05:01
+triggered spell cooldown 6 second guess wo n't work ...; 0; 2011-09-27 11:35:02
+im 100 sure blizz never plain cast spell multiple time achieve max stackamount aura creation; 0; 2011-09-27 08:49:27
+sence dispute someone read line sniff; 0; 2011-09-27 23:00:48
+shauren sure guy source check instead write memory; 0; 2011-09-28 04:09:51
+zergtmn say trigger spell cd wo n't work must set stack amount aura creation; 0; 2011-09-28 05:41:40
+const_cast perfectly fit case need remove const modifier spellentry const*; 0; 2011-07-30 05:19:25
+static_cast slowdown cast type use multiple inheritance; 0; 2011-08-26 11:19:41
+hmm good note yes case multiple inheritance require additional code generation compiler cast work simplified comparison dynamic case way require; 0; 2011-08-26 13:01:40
+yes mutiply inheritance case generate real code mostly update 'this pointer register different no-op case const_cast reinterpret_cast note code cleary simple generate dynamic_cast code least; 0; 2011-08-27 12:33:28
+static_cast operator compile-time operation oppose dynamic_cast execution-time operation relies rtti; 0; 2011-08-27 03:51:05
+db data http //paste2.org/p/1478371; 0; 2011-06-19 08:23:07
+remove const ... void set getrawvalue; 0; 2012-04-22 01:18:00
+pass uint64 reference ineffective; 0; 2012-04-22 04:40:08
+clean solution already rebuild also ...; 1; 2011-06-11 11:52:09
+ok thank far try reinstall service pack instal though; 0; 2011-06-12 01:24:25
+try mark objectguid uint32 const constructor explicit; 0; 2011-06-12 04:30:39
+ah zergtmn good note explicit explicit main declaration wrong us catch declaration also good make explicit case; 0; 2011-06-12 10:12:51
+chance use ofc project file mangosdir/win dir maybe use cmake generated version; 0; 2011-06-13 12:34:26
+vs2008 sp1 pc iso download microsoft reinstall ...; 0; 2011-06-13 14:13:34
+mean problem exist beofre commit hide base affect hash_value look like instal sp1 vs2008 note free version vs2008 exist sp1 independent instal need; 0; 2011-06-13 14:09:34
+help http //gist.github.com/1024064; 1; 2011-06-13 17:10:13
+thank far weird problem solve reinstall; -1; 2011-06-14 04:12:35
+know version take chromium n't use often important; 0; 2011-06-01 04:01:01
+use setrotationangles; 0; 2011-05-24 05:43:12
+thank much; 1; 2011-05-24 06:30:13
+confirm gameobjects seem ignore orientation sometimes; 0; 2011-05-25 12:23:17
+construct like `` someguid ... `` 's safe use `` operator void* '' conversion instead; 0; 2011-05-16 00:25:12
+ca n't imagine operator void* replace m_guid never null; 0; 2011-05-16 00:57:00
+find another place use suggest way implement operator use ^^ one time thanks point ^^; 0; 2011-06-11 04:47:29
+hmm intresting point read like way ... case think select way cast raw uint64 also must work ok; 0; 2011-05-16 11:23:34
+yay vehicle implementation; 1; 2011-04-20 10:29:47
+first vehicle commit; 1; 2011-04-20 12:04:19
+е-ма-е ... уж и ждать перестал; 0; 2011-04-20 10:35:21
+first; 0; 2011-04-20 12:09:59
+finally; 0; 2011-04-20 23:04:56
+mount vehicle clean core yet; 0; 2011-05-04 23:45:08
+faq bad method store spell need method like player spells/talents store; 0; 2011-05-05 02:37:55
+try find msvcr100.dll compile vc90; 0; 2011-04-20 04:03:36
+install visual c++ 2010 redist; 0; 2011-04-20 04:11:53
+ok thx; 1; 2011-04-20 04:15:13
+need upgrade openssl lib linux; 0; 2011-05-12 11:41:55
+thanks fixed 11382; 1; 2011-04-19 09:34:06
+; -1; 2011-03-25 06:08:30
+shouldnt uint32 int32; 0; 2011-03-25 06:00:10
+side note always think aura duration spellauraholder aura class per-effect aura duration dbc spell multiple duration effect trigger different one like 49803; 0; 2011-03-25 12:41:20
+to-do list; 0; 2011-03-25 13:08:46
+; -1; 2011-03-25 06:08:30
+shouldnt uint32 int32; 0; 2011-03-25 06:00:10
+side note always think aura duration spellauraholder aura class per-effect aura duration dbc spell multiple duration effect trigger different one like 49803; 0; 2011-03-25 12:41:20
+to-do list; 0; 2011-03-25 13:08:46
+scripting library need adjust accordingly nofantasy `` happy '' patch thats sure; 0; 2010-12-29 10:07:53
+jajajajajajajajaja xd `` happy sure ''; 1; 2010-12-29 10:39:41
+read commit note 'll need updated sd2 fix come soon; 0; 2010-12-29 13:04:59
+without corrects scriptmgr call sd2 library load; 0; 2010-12-29 13:17:33
+compile fix 10938; 0; 2010-12-29 13:31:08
+scripting library need adjust accordingly nofantasy `` happy '' patch thats sure; 0; 2010-12-29 10:07:53
+jajajajajajajajaja xd `` happy sure ''; 1; 2010-12-29 10:39:41
+read commit note 'll need updated sd2 fix come soon; 0; 2010-12-29 13:04:59
+without corrects scriptmgr call sd2 library load; 0; 2010-12-29 13:17:33
+compile fix 10938; 0; 2010-12-29 13:31:08
+return 0 shoulda return getrewhonoraddition even put uint32 honor getrewhonoraddition; 0; 2010-11-11 14:05:56
+anyway 's logical mistake either return thing mention check tc null; 0; 2010-11-13 00:39:24
+lordjz expect line 289 work hardly tc- value tc null ... 'd crash without tc see 0 getrewhonormultiplier 0.100 ...; 0; 2010-11-13 07:58:45
+return 0 statement true otherwise return honor see line 293; 0; 2010-11-12 14:54:49
+dasblub probably read comment n't mess dbc function like tc tc never go null; 0; 2010-11-13 11:15:32
+write russian forum row 100 probably use calculate honor honorable kill different pvp rank victim total 14 pvp rank know 14 100 max level 1400 row; 0; 2010-11-13 00:05:00
+good idea ...; 1; 2010-11-05 11:16:52
+да уж ... сначала подгонял патчи под этот коммит а теперь обратно ...; 0; 2010-11-05 11:30:54
+да причем тут подгон ... идея-то верная а мелочи поправим; 0; 2010-11-05 11:35:23
+я смайлик забыл добавить идея скорее всего верна но что-то я не особо понял что это должно было дать на практике да нам в принципе рса можно и не брать в расчёт этот коммит ревертить этот реверт; 0; 2010-11-05 12:44:57
+reason swing frostmourne problem find solve; 0; 2010-11-05 13:05:30
+betaman2k fuck garbage post relate discuss problem think mix devs contributers; 0; 2010-11-06 05:21:56
+version least make sense redundent apply 0 timer case 0 value corret current timer value bit case wrong effect; 0; 2010-11-06 05:38:16
+vladimir version _also_ hack need special etalon timer separate thread time value _not_ must send chain update call must getted etalon time thread solve difficult; 0; 2010-11-06 05:44:58
+'m interested internal multithreading *nix work rsa give small possible example demonstrate 'll test ubuntu 10.04 give link explanation; 0; 2010-11-06 05:50:26
+teyrnon problem modification reproduce completely clean core problem misunderstanding principle multi-tasking surprising windows-users; -1; 2010-11-06 05:51:14
+'s default case gcc 4.0 remember correctly watch change want use special case need include compiler setting; 0; 2010-11-06 06:37:50
+default case lot exist code expect totally different way work; 0; 2010-11-06 06:41:37
+rsa gcc option use; 0; 2010-11-06 06:38:42
+reproduce default compiler option even -o3; 0; 2010-11-06 07:01:18
+good idea ...; 1; 2010-11-05 11:16:52
+да уж ... сначала подгонял патчи под этот коммит а теперь обратно ...; 0; 2010-11-05 11:30:54
+да причем тут подгон ... идея-то верная а мелочи поправим; 0; 2010-11-05 11:35:23
+я смайлик забыл добавить идея скорее всего верна но что-то я не особо понял что это должно было дать на практике да нам в принципе рса можно и не брать в расчёт этот коммит ревертить этот реверт; 0; 2010-11-05 12:44:57
+reason swing frostmourne problem find solve; 0; 2010-11-05 13:05:30
+betaman2k fuck garbage post relate discuss problem think mix devs contributers; 0; 2010-11-06 05:21:56
+version least make sense redundent apply 0 timer case 0 value corret current timer value bit case wrong effect; 0; 2010-11-06 05:38:16
+vladimir version _also_ hack need special etalon timer separate thread time value _not_ must send chain update call must getted etalon time thread solve difficult; 0; 2010-11-06 05:44:58
+'m interested internal multithreading *nix work rsa give small possible example demonstrate 'll test ubuntu 10.04 give link explanation; 0; 2010-11-06 05:50:26
+teyrnon problem modification reproduce completely clean core problem misunderstanding principle multi-tasking surprising windows-users; -1; 2010-11-06 05:51:14
+'s default case gcc 4.0 remember correctly watch change want use special case need include compiler setting; 0; 2010-11-06 06:37:50
+default case lot exist code expect totally different way work; 0; 2010-11-06 06:41:37
+rsa gcc option use; 0; 2010-11-06 06:38:42
+reproduce default compiler option even -o3; 0; 2010-11-06 07:01:18
+good idea ...; 1; 2010-11-05 11:16:52
+да уж ... сначала подгонял патчи под этот коммит а теперь обратно ...; 0; 2010-11-05 11:30:54
+да причем тут подгон ... идея-то верная а мелочи поправим; 0; 2010-11-05 11:35:23
+я смайлик забыл добавить идея скорее всего верна но что-то я не особо понял что это должно было дать на практике да нам в принципе рса можно и не брать в расчёт этот коммит ревертить этот реверт; 0; 2010-11-05 12:44:57
+reason swing frostmourne problem find solve; 0; 2010-11-05 13:05:30
+betaman2k fuck garbage post relate discuss problem think mix devs contributers; 0; 2010-11-06 05:21:56
+version least make sense redundent apply 0 timer case 0 value corret current timer value bit case wrong effect; 0; 2010-11-06 05:38:16
+vladimir version _also_ hack need special etalon timer separate thread time value _not_ must send chain update call must getted etalon time thread solve difficult; 0; 2010-11-06 05:44:58
+'m interested internal multithreading *nix work rsa give small possible example demonstrate 'll test ubuntu 10.04 give link explanation; 0; 2010-11-06 05:50:26
+teyrnon problem modification reproduce completely clean core problem misunderstanding principle multi-tasking surprising windows-users; -1; 2010-11-06 05:51:14
+'s default case gcc 4.0 remember correctly watch change want use special case need include compiler setting; 0; 2010-11-06 06:37:50
+default case lot exist code expect totally different way work; 0; 2010-11-06 06:41:37
+rsa gcc option use; 0; 2010-11-06 06:38:42
+reproduce default compiler option even -o3; 0; 2010-11-06 07:01:18
+'s wrong vehicles source principle may threatlist examples boss gormok impaler toc professor putricide saurfang icc creatures vehicle see sniff; 0; 2010-10-02 10:56:09
+obvious example flame leviathan ulduar; 0; 2010-10-02 11:00:50
+sure vehicle threat list 's controller; 0; 2010-10-02 12:50:18
+flame leviathan bad example always follow one particular target time regardless threat level; 0; 2010-10-02 13:03:47
+think since long time ... good job; 0; 2010-09-18 14:29:36
+near 50/50 case base fact character already exist table dynamic data 100 relate character state move start look preferred; 0; 2010-09-18 15:10:05
+good; 1; 2010-09-18 21:34:35
+good one make simplier backup; 0; 2010-09-19 05:47:45
++1; 0; 2010-09-19 12:57:51
+work postgresql; 0; 2010-09-20 12:44:23
+i.id null creature instance right; 0; 2010-09-20 13:17:09
+maybe i.id null mean; 0; 2010-09-20 15:34:49
+sure 100 mysql/posgresql kun-fu make change simple sql test confirm working; 0; 2010-09-23 17:06:43
+see currently like spell example; 0; 2010-09-11 16:00:01
+spells aura may apply vehicle ispet may prevent; 0; 2010-09-11 13:31:59
+multiseat mount player even creature http //paste2.org/p/984956; 0; 2010-09-12 00:10:35
+seat warlock demon multiseat mount mount appear aura 32233 source sniff may bug real ...; 0; 2010-09-11 21:49:18
+n't gettotalauramultiplierbymiscmask spell school mask miscvalue example 69291 aoe avoidance 32233 pet aoe avoidance; 0; 2010-09-14 14:39:09
+add update sql; 0; 2010-09-03 07:31:23
+sql update; 0; 2010-09-03 08:55:26
+bonus work even 1 skill point; 0; 2010-09-03 08:30:30
+believe mean people update sql\updates though n't particularly see necessary table; 0; 2010-09-04 01:28:40
+indeed look like typo; 0; 2010-09-05 03:15:49
+post patch file mangos forum ...; 0; 2010-09-05 03:36:32
+nice job thanks; 1; 2010-08-06 00:03:28
+lol 's important; 1; 2010-08-06 00:31:57
+know; 0; 2010-08-06 00:43:50
+may function extract name; 0; 2010-08-06 06:46:44
+yes fix typo already locally prepare next step commit chat command parsing; 0; 2010-08-06 10:09:04
+use std :istringstream parse text; 0; 2010-08-06 11:44:51
+thank yes result use char* handler args fix next commit; 1; 2010-08-08 11:27:26
+already possibility script instanced map reason script assume; 0; 2010-08-01 14:48:07
+think would nice similar script call instance script use ulduar; 0; 2010-08-01 11:23:28
+'m talk implement processeventid instance script ulduar many destructible gameobjects need script and/or set data instance script implementing single processeventid instance script instead assign; 0; 2010-08-01 23:30:40
+already possibility script instanced map reason script assume; 0; 2010-08-01 14:48:07
+think would nice similar script call instance script use ulduar; 0; 2010-08-01 11:23:28
+'m talk implement processeventid instance script ulduar many destructible gameobjects need script and/or set data instance script implementing single processeventid instance script instead assign; 0; 2010-08-01 23:30:40
+work ok windows/vc90 need jalp fix ...; 0; 2010-07-25 09:18:31
+work include `` objectmgr.h '' btw; 0; 2010-07-25 09:21:11
+forgot mention ubuntu 9.10 hope fix; 0; 2010-07-25 09:21:44
+thanks test fix next push; 0; 2010-07-25 09:49:36
+think factionentrycalc instead factionentry; 0; 2010-08-20 10:35:36
+'s hack think ...; 0; 2010-07-17 11:51:26
+typo; 0; 2010-07-17 11:16:30
+description retail player debuff remove expired independent zone leave etc affect restrict zone; 0; 2010-07-17 12:42:00
+work test o.o thanks; 1; 2010-07-17 12:46:22
+understood fix small fix thank; 0; 2010-07-17 13:56:34
+'s hack think parachute spell trigger spell 58601 `` trigger spell '' effect; 0; 2010-07-17 13:23:02
+add aura remove exist special spell ... specially exist remove mount/form dummy spell; 0; 2010-07-17 13:19:19
+thanks; 1; 2010-07-08 08:38:05
+nice catch pasdvn; 1; 2010-07-20 00:57:49
+thanks pasdvn guess http //paste2.org/p/921034 trick also update patch http //getmangos.com/community/showthread.php t=14623 p=119952 viewfull=1 post119952 getmangos.com; 0; 2010-07-20 01:11:16
+; -1; 2010-07-20 01:45:45
+time n't remove anything spell.dbc; 0; 2010-07-01 23:20:47
+gear work; 0; 2010-07-02 03:30:01
+fact big difference 3.3.3 vs. 3.3.5a release prev release half year past mark point development restore functionality prev post-release client switch; 0; 2010-07-02 03:44:41
+; -1; 2010-06-15 08:59:30
+think relate http //pastebin.com/eb6ncacg; 0; 2010-06-15 10:05:15
+update 10065 30 min crash; 0; 2010-06-15 11:33:09
+fixed commit lol; 1; 2010-06-15 11:51:27
+seems n't work blood plague/frost fever; 0; 2010-06-19 10:20:37
+ok fix; 1; 2010-06-15 05:49:21
+compile; 0; 2010-06-15 05:45:12
+typo controlled; 0; 2010-06-13 23:46:55
+fix 10057 thank; 1; 2010-06-14 11:08:55
+previously could replace trade item whatever want swap bag mate notice difference; 0; 2010-06-08 12:02:44
+incanter 's absorption rank 2 3 n't trigger spell define rank 1; 0; 2010-06-06 07:14:59
+change m_target/m_spellproto gettarget /getspellproto old version easy debug ...; 0; 2010-06-05 13:01:02
+revision long enough 10000 -d; 0; 2010-06-05 02:12:58
+congrats; 1; 2010-05-28 09:53:23
+hahaha grats; 1; 2010-05-28 09:58:30
+10 001 revert commit back; 0; 2010-05-28 10:02:39
+спасибо вам владимир; 0; 2010-05-28 10:06:21
+w00t; 1; 2010-05-28 10:45:23
+epic; 0; 2010-05-28 10:55:06
+lol good team; 1; 2010-05-28 11:14:48
+give congratulation; 1; 2010-05-28 11:20:31
+graz good work; 1; 2010-05-28 12:04:30
+10000 revision congratulation thank people help; 1; 2010-05-28 13:02:40
+gz 10000 best commits; 1; 2010-05-28 13:32:19
+gj 10 000 10x; 0; 2010-05-28 19:01:14
+congratz thanks everything; 1; 2010-05-28 20:51:50
+wow rev 9999 surprise rev 10.000; 1; 2010-05-28 08:57:43
+whitespace remove 10000 must something epic; 0; 2010-05-28 08:58:18
+definitely typo-fix; 1; 2010-05-28 09:04:45
+hope 's gon na like rev 9000 http //github.com/mangos/mangos/commit/8e8f7710e8baf29196256c6e0afcce1b7d3f3671 -d; 0; 2010-05-28 09:06:12
+f5 f5 f5 f5 f5 f5 f5 f5; 0; 2010-05-28 09:08:25
+lol; 1; 2010-05-28 09:09:00
+kero99 yep 's; 1; 2010-05-28 09:16:47
+tik tak tik tak 10k cooming soon; 0; 2010-05-28 09:19:09
+hope rev 10000 add support vehicle; 1; 2010-05-28 09:20:03
+http //twitter.com/mangoschangelog ftw; 1; 2010-05-28 09:24:48
+vehicle work custom patch master nice dream; 0; 2010-05-28 09:24:55
+f5 zzzzzzzzz ... f5 zzzzzzzzzzzz ... f5 zzzzzzzzzzzz ... f5 zzzzzzzzzz ...; 0; 2010-05-28 09:27:44
+/kero99 xd; 1; 2010-05-28 09:35:42
+vote multiprocessing; 0; 2010-05-28 09:49:47
+/cast target=vladimirmangos mind vision; 0; 2010-05-28 09:35:21
+lol hop something long like hell; 1; 2010-05-28 09:55:46
+wow rev 9999 surprise rev 10.000; 1; 2010-05-28 08:57:43
+whitespace remove 10000 must something epic; 0; 2010-05-28 08:58:18
+definitely typo-fix; 1; 2010-05-28 09:04:45
+hope 's gon na like rev 9000 http //github.com/mangos/mangos/commit/8e8f7710e8baf29196256c6e0afcce1b7d3f3671 -d; 0; 2010-05-28 09:06:12
+f5 f5 f5 f5 f5 f5 f5 f5; 0; 2010-05-28 09:08:25
+lol; 1; 2010-05-28 09:09:00
+kero99 yep 's; 1; 2010-05-28 09:16:47
+tik tak tik tak 10k cooming soon; 0; 2010-05-28 09:19:09
+hope rev 10000 add support vehicle; 1; 2010-05-28 09:20:03
+http //twitter.com/mangoschangelog ftw; 1; 2010-05-28 09:24:48
+vehicle work custom patch master nice dream; 0; 2010-05-28 09:24:55
+f5 zzzzzzzzz ... f5 zzzzzzzzzzzz ... f5 zzzzzzzzzzzz ... f5 zzzzzzzzzz ...; 0; 2010-05-28 09:27:44
+/kero99 xd; 1; 2010-05-28 09:35:42
+vote multiprocessing; 0; 2010-05-28 09:49:47
+/cast target=vladimirmangos mind vision; 0; 2010-05-28 09:35:21
+lol hop something long like hell; 1; 2010-05-28 09:55:46
+nvm; 0; 2010-05-21 09:38:34
+think use 0 instead null integer value; 0; 2010-05-12 04:08:04
+... nice solution mount; 1; 2010-05-12 04:49:07
+edit laise fast post response ask something similar p; 0; 2010-05-12 05:15:44
+thank much explain laise ... helpfull future; 0; 2010-05-12 05:46:09
+last arg use replace 280 speed player know mount 310 invincible 310 initial speed n't need check; 0; 2010-05-12 05:15:16
+phail copy paste -_-; 0; 2010-05-12 07:41:42
+good commit fly dalaran mount; 1; 2010-05-12 07:58:48
+found bug example mount fly headless horseman 's mount teleport stormwind dismount fly stormwind; 0; 2010-06-02 11:55:30
+.gm _test_this; 0; 2010-06-02 22:25:38
+spell http //www.wowhead.com/spell=18562 much heal example rejuvenation heals 6000 cast swiftmend heals 7900 ... spend talent restoration take talent modify heal use tree form 60; 0; 2010-05-04 12:37:25
+-3 instead -1 18 second regrowth 21 originally 12 rejuvenation 15 originally; 0; 2010-05-04 14:03:04
+regrowth rejuvenation tick every 3 second; 0; 2010-05-04 14:10:35
+please give link/post spell_bonus_data relate dk disease wont ask custom patch cause obvious; 0; 2010-05-07 13:22:33
+target_areaeffect_instant similar; 0; 2010-05-03 06:33:35
+zergtmn +1 need damn target_7; 0; 2010-05-03 12:44:01
+hate vs2010 's slow; -1; 2010-04-30 11:01:00
+/agree pointless cant imagine anyone use anymore ...; 0; 2010-04-30 10:46:47
+/agree completely full retail alot compile isnt go compile due depreciation; 0; 2010-04-30 11:06:02
+sound good ... problem long vc90 stay; 0; 2010-04-30 14:39:59
+lambdas also nice c++0x feature allow us drop functors function class currently use instance grid searcher; 0; 2010-05-01 03:52:20
+hello hunuza please tell kind crash relate; 1; 2010-04-22 10:32:26
+thank; 1; 2010-04-22 11:00:02
+first one relate m_mover second one fix; 0; 2010-04-22 12:38:35
+forget 1 byte terminate 0; 0; 2010-03-22 15:08:47
