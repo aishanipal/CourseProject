@@ -1,0 +1,6 @@
+comment; score; time
+error; -1; 2009-10-29 16:28:30
+！; -1; 2009-10-29 18:54:12
+data old db format quest mail loot quest _don't_ must db 2 quest mailtemplateid already wrong data db avoid error like quest loot old quest_mail_loot_template; 0; 2009-10-29 19:24:15
+haha well n't exactly solution actually since entry share mail loot id 86 lunar festival npcs 98 hermit believe need mail_loot_template cover; 0; 2009-10-30 17:53:00
+yes last solution correct problem indeed non-shared loot old table share mail template id quest; 0; 2009-10-31 00:52:31

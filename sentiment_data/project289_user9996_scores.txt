@@ -1,0 +1,44 @@
+comment; score; time
+cool research thank vladimir; 1; 2011-06-02 13:23:44
+lol commit; 1; 2010-03-13 07:41:44
+эхх хорошего настроения тёзка; 0; 2010-03-13 09:01:17
+володя ну почему эти долбанные машинки vehicle не реализовать на трине уже фиг знает сколько времени работает ... и у меня портировано из их корявого кода давным давно ... с трини нафига mangos у нас самый крутой и лучший ... работает всё никаких глю; 0; 2010-03-13 09:39:56
+forget merge next commit push ...; 0; 2010-03-13 15:03:24
+lol commit; 1; 2010-03-13 07:41:44
+эхх хорошего настроения тёзка; 0; 2010-03-13 09:01:17
+володя ну почему эти долбанные машинки vehicle не реализовать на трине уже фиг знает сколько времени работает ... и у меня портировано из их корявого кода давным давно ... с трини нафига mangos у нас самый крутой и лучший ... работает всё никаких глю; 0; 2010-03-13 09:39:56
+forget merge next commit push ...; 0; 2010-03-13 15:03:24
+владимир тёзка ну очень хорошо в коде и развитии mangos респект и уважуха конечно заслуженно как программисту код чистый и прятный ... но вектор надо-бы сменить на данный момент дореализовать старые вещи которые висят мёртвым грузом ... я понимаю что; 0; 2010-03-13 04:32:12
+yes one specific time dependent player enter _not_ _often_ _that_ _one_ _day_; 0; 2010-02-18 10:00:32
+make raid like icc reset daily like heroic instead 7 day; 1; 2010-02-18 15:40:15
+mean map instance heroic non-raid normal/heroic raid reset time specific map period day; 0; 2010-02-18 10:02:10
+grr ... touch normal store dbc reset time prevent 0 reset time store dbc scale 0 rate config option small value int 7 0.1 ==0 code rate 0.1 make instaed 0 reset time like case use 1; 0; 2010-02-18 16:37:46
+vladimir try say even put mangos.conf make instances reset less day minimum always 1 full day way reset instance less day would avoid problem late thi; 0; 2010-02-18 19:17:07
+period==0 check _before_ rate apply period 0 less day; 0; 2010-02-19 04:31:13
+set rate 1 day less; 0; 2010-02-19 06:57:02
+could add way make raid reset daily without edit dbc making people week reset icc ony silly private test server; 0; 2010-02-19 05:10:54
+... dbc instead db table ...; 0; 2010-02-19 10:54:28
+define `` config_float_rate_instance_reset_time '' fiction -/; 0; 2010-02-19 10:38:11
+'s fine understand commit message read code p; 0; 2010-02-20 16:04:12
+hard way commit ...; 1; 2010-02-14 05:46:39
+vladimir becomes enrage p; -1; 2010-02-14 06:26:45
+rofl hard need; 1; 2010-02-14 06:27:17
+super; 1; 2010-02-14 10:09:02
+eeeeeeeeeeeeerrrrrrrrrrrrrrrr 1; 0; 2010-02-14 10:09:23
+nobody 's perfect; 1; 2010-02-14 16:35:34
+typo hit vladimir 50000000 nerve damage target enrage 5 next commits commit reduce stack 1; 0; 2010-02-14 14:18:31
+lol ^^; 1; 2010-02-14 14:47:56
+hard way commit ...; 1; 2010-02-14 05:46:39
+vladimir becomes enrage p; -1; 2010-02-14 06:26:45
+rofl hard need; 1; 2010-02-14 06:27:17
+super; 1; 2010-02-14 10:09:02
+eeeeeeeeeeeeerrrrrrrrrrrrrrrr 1; 0; 2010-02-14 10:09:23
+nobody 's perfect; 1; 2010-02-14 16:35:34
+typo hit vladimir 50000000 nerve damage target enrage 5 next commits commit reduce stack 1; 0; 2010-02-14 14:18:31
+lol ^^; 1; 2010-02-14 14:47:56
+o_o ё спасибо за юмор; 0; 2010-02-14 10:22:43
+give mango team time know great job dual talent get implement wont see commit message say `` actual dual spec still implement '' instead see something like `` dual talent implemente; 0; 2010-02-10 18:56:12
+fuuu 'm sorry much respecting developer vladimir cool work always shame mangos patch `` dual spec '' exist already long time work perfectly server also n't use `` official '' version; 0; 2010-02-10 22:24:07
+note fully implement yet hope soon; 0; 2010-02-10 13:22:21
+totally agree accord dual spec p; 0; 2010-02-10 23:33:19
++1 cyrex wait see; 0; 2010-02-10 22:35:08

@@ -1,0 +1,229 @@
+comment; score; time
+n't help problem modify bit example one time totem temp enchant mob corps disappears/deleted/despawned one moment whole server find originally source problem 's 10687 revert; 0; 2010-11-10 02:40:18
+revert relate directly problem revert result deep problem added system per-cell update time store design; 0; 2010-11-10 06:35:11
+thanks silverice; 1; 2010-10-27 21:07:48
+thanks; 1; 2010-10-27 22:41:36
+thanks u much; 1; 2010-10-28 05:20:57
+wow 's commit; 1; 2010-10-28 01:14:29
+think trajectory movement problem could handle similar way maybe; 0; 2010-10-28 09:01:49
+insider42 right old problem still us; 0; 2010-10-29 02:53:42
+axxus look like old crash new place ^^; 0; 2010-10-29 00:33:04
+ty; 1; 2010-10-28 01:22:12
+http //pastebin.com/eyhnhhpd; 0; 2010-10-28 19:10:52
+check code see problem instresetevent current code.this local code problem ...; 0; 2010-06-21 22:29:22
+problem; -1; 2010-06-22 02:38:20
+fix 10095 thank; 1; 2010-06-22 02:36:05
+netsky 's custom patch compile error clean mango; 0; 2010-06-22 02:04:40
+least thanks commit; -1; 2010-06-22 03:26:01
+player sometimes n't get teleport death graveyard bg 's; 0; 2010-06-19 04:48:20
+fix http //paste2.org/p/842259; 0; 2010-05-21 03:43:35
+mango core problem use broken custom patch; -1; 2010-05-12 20:04:21
+see hackworld use mtmaps; 0; 2010-05-12 21:51:07
+definitely hsc ... dont even recognize code ... whats think vlad; 0; 2010-05-12 21:04:36
+ну используете мангос то тут причем в нем проблем нет; 0; 2010-05-13 05:32:09
+hva er poenget med å skrive russisk kanskje alle skal begynne å skrive sitt eget morsmål sånn som dette bare å gjøre ting enda mer vanskelig; 0; 2010-05-13 10:50:22
+為什麼都寫在俄羅斯？也許每個人都應該開始寫在他們的母語，只是複雜的一切？; 0; 2010-05-13 10:59:41
+просто следите за актуальностью патчей которые вы ставите на ядро и всё будет оке это явно не проблемы разработчиков мангоса; 0; 2010-05-13 10:29:17
+immer die russe wo gfühl hän sie mieste ihrer eigene sproch statt änglisch schribe ... tztztz; 0; 2010-05-13 16:39:56
+למה על הקומיט שלי אבל =\; 0; 2010-05-13 12:56:01
+insider42 за патчами я слежу все дело оказалось в настройке проекта share game мудил с оптимизаций кудато тыкнул и все нарушил линки на библиотеки вот и вся проблема из за этого тут такой балаган банально попросил привести хотя бы догадки к; 0; 2010-05-14 12:37:52
+hola que tal; 0; 2010-05-13 17:19:16
+think use 0 instead null integer value; 0; 2010-05-12 04:08:04
+... nice solution mount; 1; 2010-05-12 04:49:07
+edit laise fast post response ask something similar p; 0; 2010-05-12 05:15:44
+thank much explain laise ... helpfull future; 0; 2010-05-12 05:46:09
+last arg use replace 280 speed player know mount 310 invincible 310 initial speed n't need check; 0; 2010-05-12 05:15:16
+phail copy paste -_-; 0; 2010-05-12 07:41:42
+good commit fly dalaran mount; 1; 2010-05-12 07:58:48
+found bug example mount fly headless horseman 's mount teleport stormwind dismount fly stormwind; 0; 2010-06-02 11:55:30
+.gm _test_this; 0; 2010-06-02 22:25:38
+renew talent empowered renew also heal twice fix http //github.com/zergtmn/mangos/commit/3837bcdc4f7ae38c47bc2f78ef613ff62d40c02e 's 322 branch need change one string `` triggeredbyaura- geteffindex effect_index_1; 0; 2010-05-11 00:37:52
+combustion wo n't work also need check exist pct modifier auras..also lot spell type proc flag ...; 0; 2010-05-12 08:59:44
+http //www.wowhead.com/spell=1064 break update server 9851 9857; 0; 2010-05-10 08:19:15
+fix 9858 .thanks report; 0; 2010-05-10 09:32:08
+strange happen 1678 spd deal around 1500 damage; 0; 2010-05-08 08:50:19
+4k+ instant damage 2500 spell damage bonus stats ok test; -1; 2010-05-08 09:39:33
+spell http //www.wowhead.com/spell=18562 much heal example rejuvenation heals 6000 cast swiftmend heals 7900 ... spend talent restoration take talent modify heal use tree form 60; 0; 2010-05-04 12:37:25
+-3 instead -1 18 second regrowth 21 originally 12 rejuvenation 15 originally; 0; 2010-05-04 14:03:04
+regrowth rejuvenation tick every 3 second; 0; 2010-05-04 14:10:35
+please give link/post spell_bonus_data relate dk disease wont ask custom patch cause obvious; 0; 2010-05-07 13:22:33
+laise huge update awesome thanks; 1; 2010-04-27 03:41:50
+thanks; 1; 2010-04-27 03:50:46
+awesome; 1; 2010-04-27 04:01:28
+oh god laise 're beast p; 0; 2010-04-27 09:35:00
+except easy code future also fix damage/heal time aura store caster damage apply meaning caster example dy dot still amount damage dependent target side ofc; 0; 2010-04-27 07:20:05
+oh god laise 're beast p; 0; 2010-04-27 09:35:00
+also fix shatter combo; 0; 2010-04-28 06:11:06
+shatter combo fix 9784; 0; 2010-04-28 21:18:24
+already revert revision xd; 1; 2010-04-28 23:41:27
+anyone high conflagrate damage spelleffects.cpp line 512-513 try remove call spelldamagebonusdone maybe also taken; 0; 2010-04-28 21:27:08
+clean core happen; 1; 2010-05-03 00:53:10
+'s bugreport core user n't test already maybe specific condition bug ... try get info user think patch ca n't cause bug affect single spell start aft; 0; 2010-05-03 01:16:46
+100 clean core spell paladin; 0; 2010-05-03 02:33:29
+bug mage talent 12606 spell 43015 receive damage example dk blood plague receive million damage; 0; 2010-05-03 00:29:32
+wrong value come insider addition sorry ^_^; -1; 2010-05-04 14:07:59
+note bug happen rank 7 dampen magic rank 6 dont bug use win server 2008 x64; 0; 2010-05-03 19:17:02
+db value wowka321 didnt manually edit come 1 db provider ytdb 2 core update; 0; 2010-05-03 20:55:20
+thx laise ^^; 1; 2010-05-03 21:50:36
+thx xd; 1; 2010-05-11 12:16:43
+`` return '' cause affected spell calculate spelldamagebonusdone/meeleedamagebonusdone; 0; 2010-05-11 08:15:23
+laise huge update awesome thanks; 1; 2010-04-27 03:41:50
+thanks; 1; 2010-04-27 03:50:46
+awesome; 1; 2010-04-27 04:01:28
+oh god laise 're beast p; 0; 2010-04-27 09:35:00
+except easy code future also fix damage/heal time aura store caster damage apply meaning caster example dy dot still amount damage dependent target side ofc; 0; 2010-04-27 07:20:05
+oh god laise 're beast p; 0; 2010-04-27 09:35:00
+also fix shatter combo; 0; 2010-04-28 06:11:06
+shatter combo fix 9784; 0; 2010-04-28 21:18:24
+already revert revision xd; 1; 2010-04-28 23:41:27
+anyone high conflagrate damage spelleffects.cpp line 512-513 try remove call spelldamagebonusdone maybe also taken; 0; 2010-04-28 21:27:08
+clean core happen; 1; 2010-05-03 00:53:10
+'s bugreport core user n't test already maybe specific condition bug ... try get info user think patch ca n't cause bug affect single spell start aft; 0; 2010-05-03 01:16:46
+100 clean core spell paladin; 0; 2010-05-03 02:33:29
+bug mage talent 12606 spell 43015 receive damage example dk blood plague receive million damage; 0; 2010-05-03 00:29:32
+wrong value come insider addition sorry ^_^; -1; 2010-05-04 14:07:59
+note bug happen rank 7 dampen magic rank 6 dont bug use win server 2008 x64; 0; 2010-05-03 19:17:02
+db value wowka321 didnt manually edit come 1 db provider ytdb 2 core update; 0; 2010-05-03 20:55:20
+thx laise ^^; 1; 2010-05-03 21:50:36
+thx xd; 1; 2010-05-11 12:16:43
+`` return '' cause affected spell calculate spelldamagebonusdone/meeleedamagebonusdone; 0; 2010-05-11 08:15:23
+laise huge update awesome thanks; 1; 2010-04-27 03:41:50
+thanks; 1; 2010-04-27 03:50:46
+awesome; 1; 2010-04-27 04:01:28
+oh god laise 're beast p; 0; 2010-04-27 09:35:00
+except easy code future also fix damage/heal time aura store caster damage apply meaning caster example dy dot still amount damage dependent target side ofc; 0; 2010-04-27 07:20:05
+oh god laise 're beast p; 0; 2010-04-27 09:35:00
+also fix shatter combo; 0; 2010-04-28 06:11:06
+shatter combo fix 9784; 0; 2010-04-28 21:18:24
+already revert revision xd; 1; 2010-04-28 23:41:27
+anyone high conflagrate damage spelleffects.cpp line 512-513 try remove call spelldamagebonusdone maybe also taken; 0; 2010-04-28 21:27:08
+clean core happen; 1; 2010-05-03 00:53:10
+'s bugreport core user n't test already maybe specific condition bug ... try get info user think patch ca n't cause bug affect single spell start aft; 0; 2010-05-03 01:16:46
+100 clean core spell paladin; 0; 2010-05-03 02:33:29
+bug mage talent 12606 spell 43015 receive damage example dk blood plague receive million damage; 0; 2010-05-03 00:29:32
+wrong value come insider addition sorry ^_^; -1; 2010-05-04 14:07:59
+note bug happen rank 7 dampen magic rank 6 dont bug use win server 2008 x64; 0; 2010-05-03 19:17:02
+db value wowka321 didnt manually edit come 1 db provider ytdb 2 core update; 0; 2010-05-03 20:55:20
+thx laise ^^; 1; 2010-05-03 21:50:36
+thx xd; 1; 2010-05-11 12:16:43
+`` return '' cause affected spell calculate spelldamagebonusdone/meeleedamagebonusdone; 0; 2010-05-11 08:15:23
+thanks; 1; 2010-04-23 12:31:24
+spell like http //www.wowhead.com/spell=29722 http //www.wowhead.com/spell=47541 http //www.wowhead.com/spell=24275 etc crazy damage amount sometimes commit; 0; 2010-04-24 09:25:20
+laise find already source problem possible soon tm fixed.. bet fix way find; 0; 2010-04-24 14:20:56
+игроки стали жаловаться что http //ru.wowhead.com/spell=33076 наносит урон вместо лечения причем это происходит не всегда а при каких-то особых условиях также говорят что иногда появляются невероятные цифры урона у некоторых спеллов как у спеллов мобов; 0; 2010-04-24 07:47:33
+post english next time ...; 0; 2010-04-24 12:01:26
+win/mangosd100413.vsp; 0; 2010-04-13 03:38:05
+use return bool value2 == player- hasspell value1 simplify condition_spell check also allow non-zero value value2; 0; 2010-04-09 22:10:01
+mean something like http //paste2.org/p/766286; 0; 2010-04-10 00:49:54
+зачем; 0; 2010-04-10 00:58:07
+someone provide proper sql gossip work; 0; 2010-04-10 11:11:55
+strongly dependent use db project discuss use db project forum; 0; 2010-04-10 11:38:22
+good; 1; 2010-03-27 16:39:19
+wowka 's update really work previous update mango freeze mysql execution wowka 's execute second title exists note 30000 character; 0; 2010-03-29 12:06:34
+insider right mine also stop sql wowka321 work; 0; 2010-03-30 14:20:01
+something wrong sql character knowntitles 0 0 0 0 0 0 title; 0; 2010-03-28 05:57:21
+think maybe code frost warding http //www.wowhead.com/ spell=11189 move well; 0; 2010-03-09 02:39:46
+'s glyph feature heal apply absorb work patch; 0; 2010-03-09 03:05:32
+crash relate commit; -1; 2010-03-08 18:11:02
+least; 0; 2010-03-08 18:52:57
+confirmed annoy crash may happen 3 time per minute; 0; 2010-03-09 01:49:26
+dump http //paste2.org/p/708597; -1; 2010-03-09 01:50:43
+crash look relate either 9550 9551..; 0; 2010-03-09 01:52:20
+fixed already; 0; 2010-03-09 07:08:10
+dont think; 0; 2010-03-09 12:59:02
+crash relate commit; -1; 2010-03-08 18:11:02
+least; 0; 2010-03-08 18:52:57
+confirmed annoy crash may happen 3 time per minute; 0; 2010-03-09 01:49:26
+dump http //paste2.org/p/708597; -1; 2010-03-09 01:50:43
+crash look relate either 9550 9551..; 0; 2010-03-09 01:52:20
+fixed already; 0; 2010-03-09 07:08:10
+dont think; 0; 2010-03-09 12:59:02
+unstable ... http //paste2.org/p/708597 uptime 10 second 5 minute; 0; 2010-03-09 06:17:03
+update server; 0; 2010-03-10 08:29:48
+also possible corrupt object file linked.. full clean build ...; 0; 2010-03-09 14:31:51
+unstable ... http //paste2.org/p/708597 uptime 10 second 5 minute; 0; 2010-03-09 06:17:03
+update server; 0; 2010-03-10 08:29:48
+also possible corrupt object file linked.. full clean build ...; 0; 2010-03-09 14:31:51
+есть ли шанс после последних изменений в объектах сделать ловушки невидимыми для противника; 0; 2010-03-05 00:58:21
+http //www.wowhead.com/ spell=5215 apply player debuff wrong; 0; 2010-01-02 06:21:45
+http //www.wowhead.com/ spell=1784 also bug; 0; 2010-01-02 06:23:05
+possible fix work http //paste2.org/p/590202; 0; 2010-01-02 07:47:10
+http //www.wowhead.com/ spell=5215 apply player debuff wrong; 0; 2010-01-02 06:21:45
+http //www.wowhead.com/ spell=1784 also bug; 0; 2010-01-02 06:23:05
+possible fix work http //paste2.org/p/590202; 0; 2010-01-02 07:47:10
+http //www.wowhead.com/ spell=5215 apply player debuff wrong; 0; 2010-01-02 06:21:45
+http //www.wowhead.com/ spell=1784 also bug; 0; 2010-01-02 06:23:05
+possible fix work http //paste2.org/p/590202; 0; 2010-01-02 07:47:10
+brokes spell http //www.wowhead.com/ spell=50842 try use hostile target example enemy player mob get error bad target result spell_failed_bad_targets; 0; 2009-12-31 08:09:56
+yes also fix cast dmg spell friend; 1; 2009-12-31 09:43:23
+becuase forgeo remove self2 remove self target mode explicit possitive target; 0; 2010-01-01 10:54:03
+problem must fix 9098; 0; 2010-01-01 11:28:39
+add ofcourse set mangosd property; 0; 2009-12-31 03:33:30
+donate want; 1; 2009-12-31 04:25:26
+commit relate totally discussion answer post case; 0; 2010-01-01 09:30:00
+n't know repeat maybe know base affected code pet load ...; 0; 2010-01-01 10:57:20
+sure relate change; 1; 2010-01-01 10:56:20
+n't know reproduce player produce crash player produce crash 2 time ca n't remember action crash relate http //github.com/insider42/mangos/commit/b11ae0a487381ac668967bff1813a571574ed2; 0; 2010-01-01 11:23:19
+think commit incorrect boss script check instance difficulty use proper spell regular example 28796 heroic 54098 know use previous version long time ... also check lutik 's scr; 0; 2009-12-29 03:30:18
+different spell use heroic v regular affected target depend 10 v 25 man mode source well know wiki; 0; 2009-12-29 05:03:36
+talk 25man version use different spell 10 man commit incorrect example script n't support heroic version anyway make 10man version spell cast number affected target wr; 0; 2009-12-29 05:09:28
+`` heroic '' mean 25man 's habit; 0; 2009-12-29 05:10:35
+know 25 spell version beacuse generci remark like case helful; 0; 2009-12-29 05:31:40
+ok start see point right check strictly need however n't make wrong enter 25-man boss cast 28796 error code simply expect bos use different; 0; 2009-12-29 06:17:05
+'s useless call getmap result; 0; 2009-12-29 06:25:38
+wrong commit; -1; 2009-12-29 09:50:00
+think commit incorrect boss script check instance difficulty use proper spell regular example 28796 heroic 54098 know use previous version long time ... also check lutik 's scr; 0; 2009-12-29 03:30:18
+different spell use heroic v regular affected target depend 10 v 25 man mode source well know wiki; 0; 2009-12-29 05:03:36
+talk 25man version use different spell 10 man commit incorrect example script n't support heroic version anyway make 10man version spell cast number affected target wr; 0; 2009-12-29 05:09:28
+`` heroic '' mean 25man 's habit; 0; 2009-12-29 05:10:35
+know 25 spell version beacuse generci remark like case helful; 0; 2009-12-29 05:31:40
+ok start see point right check strictly need however n't make wrong enter 25-man boss cast 28796 error code simply expect bos use different; 0; 2009-12-29 06:17:05
+'s useless call getmap result; 0; 2009-12-29 06:25:38
+wrong commit; -1; 2009-12-29 09:50:00
+think commit incorrect boss script check instance difficulty use proper spell regular example 28796 heroic 54098 know use previous version long time ... also check lutik 's scr; 0; 2009-12-29 03:30:18
+different spell use heroic v regular affected target depend 10 v 25 man mode source well know wiki; 0; 2009-12-29 05:03:36
+talk 25man version use different spell 10 man commit incorrect example script n't support heroic version anyway make 10man version spell cast number affected target wr; 0; 2009-12-29 05:09:28
+`` heroic '' mean 25man 's habit; 0; 2009-12-29 05:10:35
+know 25 spell version beacuse generci remark like case helful; 0; 2009-12-29 05:31:40
+ok start see point right check strictly need however n't make wrong enter 25-man boss cast 28796 error code simply expect bos use different; 0; 2009-12-29 06:17:05
+'s useless call getmap result; 0; 2009-12-29 06:25:38
+wrong commit; -1; 2009-12-29 09:50:00
+think commit incorrect boss script check instance difficulty use proper spell regular example 28796 heroic 54098 know use previous version long time ... also check lutik 's scr; 0; 2009-12-29 03:30:18
+different spell use heroic v regular affected target depend 10 v 25 man mode source well know wiki; 0; 2009-12-29 05:03:36
+talk 25man version use different spell 10 man commit incorrect example script n't support heroic version anyway make 10man version spell cast number affected target wr; 0; 2009-12-29 05:09:28
+`` heroic '' mean 25man 's habit; 0; 2009-12-29 05:10:35
+know 25 spell version beacuse generci remark like case helful; 0; 2009-12-29 05:31:40
+ok start see point right check strictly need however n't make wrong enter 25-man boss cast 28796 error code simply expect bos use different; 0; 2009-12-29 06:17:05
+'s useless call getmap result; 0; 2009-12-29 06:25:38
+wrong commit; -1; 2009-12-29 09:50:00
+thanks; 1; 2009-12-28 09:13:57
+thanks review anyone idea fix correct way; 0; 2009-12-29 06:49:51
+typo report test permanent unsummoned temporary unsummoned ofc maybe checkd hunter case; 0; 2009-12-29 06:19:01
+suggest alternative wrong existed way case; 0; 2009-12-29 06:20:12
+see http //www.youtube.com/watch v=xnljflkj56c translated=1 1:37 minute movie official server 3.1 patch; 0; 2009-12-29 12:17:27
+ti bg maybe unsummoned bg; 0; 2009-12-29 13:47:19
+add thank; 1; 2009-12-30 12:05:28
+thanks; 1; 2009-12-28 09:13:57
+thanks review anyone idea fix correct way; 0; 2009-12-29 06:49:51
+typo report test permanent unsummoned temporary unsummoned ofc maybe checkd hunter case; 0; 2009-12-29 06:19:01
+suggest alternative wrong existed way case; 0; 2009-12-29 06:20:12
+see http //www.youtube.com/watch v=xnljflkj56c translated=1 1:37 minute movie official server 3.1 patch; 0; 2009-12-29 12:17:27
+ti bg maybe unsummoned bg; 0; 2009-12-29 13:47:19
+add thank; 1; 2009-12-30 12:05:28
+thanks; 1; 2009-12-28 09:13:57
+thanks review anyone idea fix correct way; 0; 2009-12-29 06:49:51
+typo report test permanent unsummoned temporary unsummoned ofc maybe checkd hunter case; 0; 2009-12-29 06:19:01
+suggest alternative wrong existed way case; 0; 2009-12-29 06:20:12
+see http //www.youtube.com/watch v=xnljflkj56c translated=1 1:37 minute movie official server 3.1 patch; 0; 2009-12-29 12:17:27
+ti bg maybe unsummoned bg; 0; 2009-12-29 13:47:19
+add thank; 1; 2009-12-30 12:05:28
+// judgement command proc always crits stunned target part remove accord 3.2.2 patch change; 0; 2009-12-25 11:11:57
+9069 remove thank; 1; 2009-12-25 12:27:39
+anyway dummy aura patch http //getmangos.com/community/showthread.php t=11366; 0; 2009-12-07 03:46:57
+bug still exist 57345 proc 66922 without item; 0; 2009-12-25 07:24:42
+6 sec cooldown add 9070; 0; 2009-12-25 12:33:11
+ok test new character reply bug persists; 0; 2009-12-25 12:53:52
+bug still exist 57345 proc 66922 without item; 0; 2009-12-25 07:24:42
+6 sec cooldown add 9070; 0; 2009-12-25 12:33:11
+ok test new character reply bug persists; 0; 2009-12-25 12:53:52
+think commit totally incorrect glyph heal player immediately pw shield apply work official server; 0; 2010-01-28 02:02:12

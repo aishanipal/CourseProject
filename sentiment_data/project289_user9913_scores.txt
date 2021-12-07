@@ -1,0 +1,258 @@
+comment; score; time
+use commit; 1; 2012-08-03 12:01:53
+see reason take code fork especially good code; 0; 2012-08-03 14:12:34
+sorry reaction ok; 1; 2012-08-03 18:03:12
+stfc buddy; 0; 2012-07-22 02:09:06
+thanks merge pain; -1; 2012-07-19 14:30:20
+merge pain please provide patch open source community would keep big merge complication ...; 0; 2012-07-19 15:07:51
+mine p; 0; 2012-07-19 15:43:07
+time; 0; 2012-07-19 16:07:01
+tom_rus style xd; 1; 2012-07-19 20:17:13
+zakamurite 've stop merges time ago advise ...; 0; 2012-07-19 21:14:05
+keep hostility towards mangos; -1; 2012-07-20 04:12:01
+githubs eats comment; 0; 2012-07-19 23:12:02
+please offer tool witch change style option make project; 0; 2012-07-20 04:23:16
+reamer imo 's use perl regexpes ...; 0; 2012-07-20 04:24:25
+question hostility towards anyone; -1; 2012-07-20 04:25:55
+yes sorry schmoo ask author n't pay much attention patch think something else; 0; 2012-07-20 01:18:36
+actually write; 0; 2012-07-19 16:10:03
+team value faction template already forget id maybe seelct team_invalid really strange faction id like pig modelt id model case case bug reson value send client good catch bug case prevent client c; 0; 2012-07-18 03:04:22
+well work commit basis; 1; 2012-07-18 06:16:17
+schmoozerd author idea; 0; 2012-07-18 06:02:38
+ah mean removegraveyard xfurry 's; 0; 2012-07-18 06:35:04
+quick rebase random author mean even author hehe; 0; 2012-07-18 06:59:21
+http //github.com/xfurry/mangos/commit/b3da109c5ca45c8ef146c409720f0bd6e053d520 p; 0; 2012-07-18 06:55:33
+note http //getmangos.com/community login see old post; 0; 2012-07-18 11:04:20
+'m author function link copy paste one old patch post old mango forums.and since forum dead ca n't check 's real author one; 0; 2012-07-18 09:59:42
+well case actually schmoozerd author code/idea different base patch; 0; 2012-07-19 00:54:29
+team value faction template already forget id maybe seelct team_invalid really strange faction id like pig modelt id model case case bug reson value send client good catch bug case prevent client c; 0; 2012-07-18 03:04:22
+well work commit basis; 1; 2012-07-18 06:16:17
+schmoozerd author idea; 0; 2012-07-18 06:02:38
+ah mean removegraveyard xfurry 's; 0; 2012-07-18 06:35:04
+quick rebase random author mean even author hehe; 0; 2012-07-18 06:59:21
+http //github.com/xfurry/mangos/commit/b3da109c5ca45c8ef146c409720f0bd6e053d520 p; 0; 2012-07-18 06:55:33
+note http //getmangos.com/community login see old post; 0; 2012-07-18 11:04:20
+'m author function link copy paste one old patch post old mango forums.and since forum dead ca n't check 's real author one; 0; 2012-07-18 09:59:42
+well case actually schmoozerd author code/idea different base patch; 0; 2012-07-19 00:54:29
+team value faction template already forget id maybe seelct team_invalid really strange faction id like pig modelt id model case case bug reson value send client good catch bug case prevent client c; 0; 2012-07-18 03:04:22
+well work commit basis; 1; 2012-07-18 06:16:17
+schmoozerd author idea; 0; 2012-07-18 06:02:38
+ah mean removegraveyard xfurry 's; 0; 2012-07-18 06:35:04
+quick rebase random author mean even author hehe; 0; 2012-07-18 06:59:21
+http //github.com/xfurry/mangos/commit/b3da109c5ca45c8ef146c409720f0bd6e053d520 p; 0; 2012-07-18 06:55:33
+note http //getmangos.com/community login see old post; 0; 2012-07-18 11:04:20
+'m author function link copy paste one old patch post old mango forums.and since forum dead ca n't check 's real author one; 0; 2012-07-18 09:59:42
+well case actually schmoozerd author code/idea different base patch; 0; 2012-07-19 00:54:29
+team value faction template already forget id maybe seelct team_invalid really strange faction id like pig modelt id model case case bug reson value send client good catch bug case prevent client c; 0; 2012-07-18 03:04:22
+well work commit basis; 1; 2012-07-18 06:16:17
+schmoozerd author idea; 0; 2012-07-18 06:02:38
+ah mean removegraveyard xfurry 's; 0; 2012-07-18 06:35:04
+quick rebase random author mean even author hehe; 0; 2012-07-18 06:59:21
+http //github.com/xfurry/mangos/commit/b3da109c5ca45c8ef146c409720f0bd6e053d520 p; 0; 2012-07-18 06:55:33
+note http //getmangos.com/community login see old post; 0; 2012-07-18 11:04:20
+'m author function link copy paste one old patch post old mango forums.and since forum dead ca n't check 's real author one; 0; 2012-07-18 09:59:42
+well case actually schmoozerd author code/idea different base patch; 0; 2012-07-19 00:54:29
+team value faction template already forget id maybe seelct team_invalid really strange faction id like pig modelt id model case case bug reson value send client good catch bug case prevent client c; 0; 2012-07-18 03:04:22
+well work commit basis; 1; 2012-07-18 06:16:17
+schmoozerd author idea; 0; 2012-07-18 06:02:38
+ah mean removegraveyard xfurry 's; 0; 2012-07-18 06:35:04
+quick rebase random author mean even author hehe; 0; 2012-07-18 06:59:21
+http //github.com/xfurry/mangos/commit/b3da109c5ca45c8ef146c409720f0bd6e053d520 p; 0; 2012-07-18 06:55:33
+note http //getmangos.com/community login see old post; 0; 2012-07-18 11:04:20
+'m author function link copy paste one old patch post old mango forums.and since forum dead ca n't check 's real author one; 0; 2012-07-18 09:59:42
+well case actually schmoozerd author code/idea different base patch; 0; 2012-07-19 00:54:29
+actually think would nice maybe visualize also gm on/off aura patch welcome; 0; 2012-07-15 07:54:41
+forgot update config version; 0; 2012-08-16 05:30:52
+think config version updated format-changes think; 0; 2012-08-16 05:49:08
+mostly old option default change different version option rename server configuration hidden change state; 0; 2012-08-16 10:53:02
+bad idea rename every single container typedef store guids use predefined typenames across project typenames must clarify kind data suppose store object type `` bgobjects '' `` guardianpetlist ''; 0; 2012-07-11 12:28:26
+hooray ambal 's return nice see man; 1; 2012-07-11 12:41:31
+good idd; 1; 2012-07-11 12:47:15
+passing; 0; 2012-07-11 13:06:05
+disagree ambal well ... guidset suppose objectguids matter player guids creature guids type objectguid also dont use seperate typedefs string playername creatu; 0; 2012-07-12 00:56:23
+supporting name variable one give reader strong hint suppose store type guess depend `` school '' debate choose either camel casing hungarian notat; 0; 2012-07-11 22:29:58
+wrong place check skip check areaid creature pet also may wrong zone buff; 0; 2012-07-03 10:08:58
+n't understand see http //github.com/mangosr2/mangos/commit/7d2fb98deda53695056c5861105c9acfb4c68c50; 0; 2012-07-03 10:49:47
+yes bad check; -1; 2012-07-03 12:58:22
+idea thats actually correct ... rsa commit beeen gender well move area check first place; 0; 2012-07-03 13:00:22
+need control creature yes case player 's pet owner expect check apply allow maybe somewhere miss get spell mod source player access; 0; 2012-07-04 03:03:56
+http //www.proz.com/kudoz/english/art_literary/199056-farther_vs_furhter_farthest_vs_furthest.html; 0; 2012-06-25 06:48:35
+hmm fix 13000 guess; 0; 2012-06-25 06:56:22
+look forward p; 0; 2012-06-25 08:56:04
+http //www.proz.com/kudoz/english/art_literary/199056-farther_vs_furhter_farthest_vs_furthest.html; 0; 2012-06-25 06:48:35
+hmm fix 13000 guess; 0; 2012-06-25 06:56:22
+look forward p; 0; 2012-06-25 08:56:04
+spell_aura_hover still need; 0; 2012-06-25 06:46:33
+; -1; 2012-06-12 20:54:08
+; -1; 2012-06-13 03:07:35
+pitiful scrap old patch spell_dbc despite three year thinking nothing sensible fail ...; 0; 2012-06-13 13:16:43
+implementation also small rework part spell_dbc `` light version '' without real functionality need repair broken absent spell like 58642 46924 example say `` stupid ugly ''; 0; 2012-06-20 21:08:05
+right nonetheless would prefer four line original one; 0; 2012-06-20 14:12:29
+come friendly pet make present owner sometimes; 0; 2012-04-26 11:29:21
+someone kill typo makes really uncomfortable look; -1; 2012-04-26 11:27:16
+anyone heart pheonix work correctly spell expect dead pet 'kindof relate ... way ... somewhat ...; 0; 2012-04-27 09:42:46
+afaik comment simply incorrect never sound arena start begin; 0; 2012-04-24 14:04:20
+know sure combination; 1; 2012-04-22 04:40:16
+nice idea; 1; 2012-04-21 04:40:56
+nice good job; 1; 2012-04-15 17:24:01
+python envelope 619 link forum check result 1365 record; 0; 2012-04-16 02:44:24
+free time try accommodate request correct permutation сonditions place; 0; 2012-04-16 03:13:14
+think maybe table _loot_template primary key specie entry item condition_id need greatly alter code; 0; 2012-04-16 03:20:44
+'ve get think immediately remind fish fish catch summer winter time day though likely reference play; 0; 2012-04-16 03:32:25
+good work thx; 1; 2012-04-16 10:03:54
+nice; 1; 2012-04-17 04:49:07
+indentation would nice else block; 0; 2012-04-22 02:32:49
+; -1; 2012-04-22 02:33:34
+nice good job; 1; 2012-04-15 17:24:01
+python envelope 619 link forum check result 1365 record; 0; 2012-04-16 02:44:24
+free time try accommodate request correct permutation сonditions place; 0; 2012-04-16 03:13:14
+think maybe table _loot_template primary key specie entry item condition_id need greatly alter code; 0; 2012-04-16 03:20:44
+'ve get think immediately remind fish fish catch summer winter time day though likely reference play; 0; 2012-04-16 03:32:25
+good work thx; 1; 2012-04-16 10:03:54
+nice; 1; 2012-04-17 04:49:07
+indentation would nice else block; 0; 2012-04-22 02:32:49
+; -1; 2012-04-22 02:33:34
+could use `` wotlk '' comment; 0; 2012-04-21 16:00:02
+note think tc add something similar time ago add base outdoor pvp research write although could use code really worth effort ...; 0; 2012-04-12 13:08:00
+well provide additional parameter required animation id call animid likely invention one person; 0; 2012-04-12 14:21:11
+real usage 're say need outdoor pvp pvp objective something; 0; 2012-04-12 14:33:13
+point access hashmapholder directly findplayer wrapper check isinworld false teleport cause well know bug party member appear offline process; 0; 2012-04-02 09:34:09
+week ago schmoozerd add arg findplayer prevent check isinworld false end objectaccessor :findplayer ... *false*; 0; 2012-04-02 10:19:05
+must miss commit; 1; 2012-04-02 14:49:58
+mean 1f96ccdfe24ffedd9eb303f73f5985a3a127e203 cyberium saw try backport schmooz patch cyberiums miss mango one; 0; 2012-04-02 10:54:40
+keep numerical order; 0; 2012-04-02 05:36:20
+n't notice non-order look; 0; 2012-04-02 05:39:05
+didnt check every case; 0; 2012-04-02 06:09:11
+commented line also ^^; 0; 2012-04-03 01:01:09
+need assert return case ...; 0; 2012-03-29 23:51:38
+; -1; 2012-03-30 01:03:51
+nighoo probably proper fix assert help track cause though really great user crash; 0; 2012-03-30 02:36:54
+happen lot since check hostility attacker get hit campfire something assertion shutdown mango; 0; 2012-03-30 02:48:34
+problem may appear 2 case break script/ai great hack effectenvironmentaldmg need remove hack error code insert `` gags '' like ...; 0; 2012-03-30 05:02:51
+could remove bracket p; 0; 2012-02-15 01:46:39
+probably hex mask ... 7 4 fly 2 whatever 1 whatever; 0; 2012-02-15 11:27:29
+agree hehe; 1; 2012-02-15 12:13:26
+lastmap always =0 value assignment; 0; 2012-02-07 04:16:44
+use if-context store different value different var use compiler merge use space code correctness good local if-context varibles ...; 0; 2012-02-07 11:52:50
+oh missread agree 2 line declaration pointer type good protection code typo; 0; 2012-02-07 11:56:48
+new getplayer function probably also use group online offline status commit fix player display offline teleport directly use hashmap old getplayer return pl; 0; 2012-02-07 12:17:28
+yea thats commit ment ofc might place well; 0; 2012-02-08 02:08:48
+lastmap always =0 value assignment; 0; 2012-02-07 04:16:44
+use if-context store different value different var use compiler merge use space code correctness good local if-context varibles ...; 0; 2012-02-07 11:52:50
+oh missread agree 2 line declaration pointer type good protection code typo; 0; 2012-02-07 11:56:48
+new getplayer function probably also use group online offline status commit fix player display offline teleport directly use hashmap old getplayer return pl; 0; 2012-02-07 12:17:28
+yea thats commit ment ofc might place well; 0; 2012-02-08 02:08:48
+great ^_^; 1; 2012-02-06 22:50:44
+great work; 1; 2012-02-07 01:19:20
+wtf happen; -1; 2012-02-07 00:51:46
+wow ... mangos rullz 's great day community; 1; 2012-02-07 01:21:08
+nice; 1; 2012-02-07 01:46:39
+не прошло и пару лет грац; 0; 2012-02-07 01:30:44
+congratulations; 1; 2012-02-07 05:56:49
+woot happen o.o; 1; 2012-02-07 09:52:48
+congratulation; 1; 2012-02-07 07:36:10
+cool; 1; 2012-02-07 10:05:05
+nice; 1; 2012-02-08 10:05:43
+pathfinding wow awesome; 1; 2012-02-23 22:33:57
+trail error downside make backports subprojects real hard example almost impossible backport lot stuff tc never know backport wrong commit simply experimental stuff trust; 0; 2012-01-31 05:10:55
+possible player* target else crush pet ...; 0; 2012-01-31 05:35:26
+also try hardly less far obtain though course easy write ...; 0; 2012-01-31 05:46:13
+http //github.com/mangosr2/mangos/commit/31cfffe67ddf39657acba9c6023b29c78e8afad6; 0; 2012-01-31 06:04:49
+yes sure thank copy paste go instead unit; 1; 2012-01-31 06:28:18
+good see master repo much time; 0; 2012-01-17 04:55:33
+nice; 1; 2012-01-17 03:24:33
+use m_cooldowntime instead m_grouploottimer suggest opvp; 0; 2012-01-20 16:50:04
+mangos_mangos_string care; 1; 2011-12-12 08:15:24
+miss unittarget check; 0; 2011-11-22 02:25:56
+finally; 0; 2011-10-16 04:53:33
+nice hopefully follow worldstatemgr; 1; 2011-10-16 05:59:30
+wohoo; 0; 2011-10-16 08:20:32
+ok thank patch next commit; 1; 2011-10-16 10:37:13
+general ++slave_itr; 0; 2012-07-22 13:12:33
+good question; 1; 2012-07-22 13:16:54
+work gcc slave_itr slaveguidlist.erase slave_itr work wonderful; 0; 2012-07-23 01:59:36
+_any_; 0; 2012-07-23 03:23:32
+rsa thread-unsafe variant std :list thread-safe container; 0; 2012-07-23 03:16:43
+rsa suggest one n't dickass; 0; 2012-07-23 03:47:00
+insignificant worm either suggest classic genre sprinkle ash bald head crawl back cemetery ...; 0; 2012-07-23 04:00:44
+rsa case shut bother us worm den thanks url anyway; 0; 2012-07-23 04:04:10
+got ta love good cat fight; 1; 2012-07-23 05:38:28
+lordjz set twit need worry confusion may occur excess voltage; 0; 2012-07-23 05:02:49
+solutiuon slave_itr slaveguidlist.erase slave_itr though guess place need refactoring; 0; 2012-07-23 06:03:05
+far s/ \w\d_ \.erase\ \w\d_ \+\+\ /\2 \1.erase \2 rest manually /\.erase\ .+\+\+/; 0; 2012-07-23 06:09:33
+erase itr++ create iterator copy possible avoid returnning iterator version sure important find disadvantage google; 0; 2012-07-26 12:25:50
+finally; 0; 2011-10-16 04:53:33
+nice hopefully follow worldstatemgr; 1; 2011-10-16 05:59:30
+wohoo; 0; 2011-10-16 08:20:32
+ok thank patch next commit; 1; 2011-10-16 10:37:13
+general ++slave_itr; 0; 2012-07-22 13:12:33
+good question; 1; 2012-07-22 13:16:54
+work gcc slave_itr slaveguidlist.erase slave_itr work wonderful; 0; 2012-07-23 01:59:36
+_any_; 0; 2012-07-23 03:23:32
+rsa thread-unsafe variant std :list thread-safe container; 0; 2012-07-23 03:16:43
+rsa suggest one n't dickass; 0; 2012-07-23 03:47:00
+insignificant worm either suggest classic genre sprinkle ash bald head crawl back cemetery ...; 0; 2012-07-23 04:00:44
+rsa case shut bother us worm den thanks url anyway; 0; 2012-07-23 04:04:10
+got ta love good cat fight; 1; 2012-07-23 05:38:28
+lordjz set twit need worry confusion may occur excess voltage; 0; 2012-07-23 05:02:49
+solutiuon slave_itr slaveguidlist.erase slave_itr though guess place need refactoring; 0; 2012-07-23 06:03:05
+far s/ \w\d_ \.erase\ \w\d_ \+\+\ /\2 \1.erase \2 rest manually /\.erase\ .+\+\+/; 0; 2012-07-23 06:09:33
+erase itr++ create iterator copy possible avoid returnning iterator version sure important find disadvantage google; 0; 2012-07-26 12:25:50
+officially post forum guess would new record `` thanked bys '' post well ... thank vlad; 0; 2011-09-20 08:13:37
+anyone tell n't see commits vlad recently; 0; 2011-09-20 02:08:51
+thank vlad 're great dev 'll miss commits; 1; 2011-10-10 06:43:50
+thank vlad contribution mangos tc remember admire much; 0; 2011-10-10 10:26:30
+arg use hashed player pointer function ca n't logical arg; 0; 2011-09-09 03:03:04
+removefromupdatequeueof forplayer could actually removefromupdatequeueof true already check true; 0; 2011-09-08 14:24:00
+oh right somehow assume bool indeed much use c x; 0; 2011-09-09 03:09:50
+arg use hashed player pointer function ca n't logical arg; 0; 2011-09-09 03:03:04
+removefromupdatequeueof forplayer could actually removefromupdatequeueof true already check true; 0; 2011-09-08 14:24:00
+oh right somehow assume bool indeed much use c x; 0; 2011-09-09 03:09:50
+remove const ... void set getrawvalue; 0; 2012-04-22 01:18:00
+pass uint64 reference ineffective; 0; 2012-04-22 04:40:08
+sure partly quote client; 0; 2011-05-30 16:29:56
+alright please add miss r write `` share loot ... ''; 1; 2011-05-31 00:30:10
+yeah `` redunction '' overpowered nerf totally need; 0; 2011-05-25 02:27:51
+hope next change fix bug aura 269 affect resilience; 0; 2011-05-26 02:50:48
+whole reduction_affected_damage need time ago replace simple get*damagereduction damage stand melee/ranged/whatever.. see difference; 0; 2011-05-26 12:05:37
+could also write ... roll 73 ... prevent calculate random number line one might enough; 0; 2011-05-09 09:57:04
+use 2 random roll seq code also problematic real `` randomness '' rolled value fix add 11480 thank; 0; 2011-05-13 04:12:44
+; -1; 2011-04-25 08:22:20
+possible resolve conflict old patch version best way code style big problem right attempt apply code style opposition direction case; 0; 2011-04-25 08:56:43
+hm case x consistent client file point code n't remember exactly x terrain calculation swap if/why liquid need place ca n't tell memory either comment would; 0; 2011-04-25 08:59:14
+true lynx3d swap x vmaps long ago map probably client generate file may still reverse; 0; 2011-04-26 02:01:49
+neo well problem vmaps need regenerate vmaps maybe uh; 0; 2011-04-26 04:44:42
+/sign; 0; 2011-02-14 04:21:11
+cmake windows make work easy obvious drawback cmake way generate .vsproj file aka miss folder filter etc get everyone excite; 0; 2011-02-14 04:29:08
+awesome hope also consider use cmake windows really make work developer much easy; 0; 2011-02-14 04:21:14
+well though care file included/renamed cmake file 2 different kind vsproj file 2008 2010 folder visual studio minor drawback p; 0; 2011-02-14 07:50:40
+stfx .vsproj existance windows out-of-discussion especially much ppl use platform host server free choose whatever like vs cmake build binary; 0; 2011-02-14 08:43:59
+ah another commit fix comment; 0; 2011-02-14 09:01:20
+support precompiled header linux; 0; 2011-02-14 09:46:28
+reject fix p fact good fix cmake build process part avoid need file exclude ...; 0; 2011-02-14 14:25:12
+ariath ask rsa particular issue; 0; 2011-02-16 06:04:56
+maybe provide modified version clean suggest; 0; 2011-02-17 14:34:20
+see something strange yesterday try compile last rsa commit also add cmake support although manage build solution file vs 2008 start compile get error vs n't recognize argument na; 0; 2011-02-16 04:45:57
+fixed 11184 thank; 1; 2011-02-17 19:30:47
+/sign; 0; 2011-02-14 04:21:11
+cmake windows make work easy obvious drawback cmake way generate .vsproj file aka miss folder filter etc get everyone excite; 0; 2011-02-14 04:29:08
+awesome hope also consider use cmake windows really make work developer much easy; 0; 2011-02-14 04:21:14
+well though care file included/renamed cmake file 2 different kind vsproj file 2008 2010 folder visual studio minor drawback p; 0; 2011-02-14 07:50:40
+stfx .vsproj existance windows out-of-discussion especially much ppl use platform host server free choose whatever like vs cmake build binary; 0; 2011-02-14 08:43:59
+ah another commit fix comment; 0; 2011-02-14 09:01:20
+support precompiled header linux; 0; 2011-02-14 09:46:28
+reject fix p fact good fix cmake build process part avoid need file exclude ...; 0; 2011-02-14 14:25:12
+ariath ask rsa particular issue; 0; 2011-02-16 06:04:56
+maybe provide modified version clean suggest; 0; 2011-02-17 14:34:20
+see something strange yesterday try compile last rsa commit also add cmake support although manage build solution file vs 2008 start compile get error vs n't recognize argument na; 0; 2011-02-16 04:45:57
+fixed 11184 thank; 1; 2011-02-17 19:30:47
+add time_to_restore check without work gameobjects custom animation though still need way time script problem cannon fire deadmines http //old.wowhead.com/ob; 0; 2011-09-27 04:51:57
+63c3ce3ac69dffb49720a5eb9439cf7c2f949469 custom sql warning become obsolute rather delete probably unused mangos_strings; 0; 2012-08-05 01:04:15
+... also look **at** guidreservesize ...; 0; 2012-08-05 01:21:55
+even use anymore; 0; 2012-08-05 01:20:59
+63c3ce3ac69dffb49720a5eb9439cf7c2f949469 custom sql warning become obsolute rather delete probably unused mangos_strings; 0; 2012-08-05 01:04:15
+... also look **at** guidreservesize ...; 0; 2012-08-05 01:21:55
+even use anymore; 0; 2012-08-05 01:20:59
+63c3ce3ac69dffb49720a5eb9439cf7c2f949469 custom sql warning become obsolute rather delete probably unused mangos_strings; 0; 2012-08-05 01:04:15
+... also look **at** guidreservesize ...; 0; 2012-08-05 01:21:55
+even use anymore; 0; 2012-08-05 01:20:59

@@ -1,0 +1,33 @@
+comment; score; time
+kind problem take say `` many broken spell '' relate table scar; 0; 2010-04-15 22:13:04
+client switch 3.3.2; 0; 2010-04-15 22:31:45
+client switch character_talent table implementation first login update server run query delete exist talent spell character_spell character use spell condition create secounds delay xxk chara; 0; 2010-04-15 22:31:03
+thank usefull maintain tool; 0; 2010-04-13 02:09:43
+lol nice finding realy usefull especially define spell_attr_ex3_unk7 spell_attr_ex2_unk17; 0; 2010-04-06 03:36:33
+add spell_bonus_data; 0; 2010-03-06 09:03:21
+afaik spell damageclass spell_damage_class_none affect spell_bonus_data; 0; 2010-03-06 10:11:39
+n't think least suggest; 0; 2010-02-26 08:04:03
+procevent_procex proc_ex_normal_hit procextra active typo; 0; 2010-02-25 17:35:46
+fix already next commit; 0; 2010-02-26 08:58:30
+onyxia lair spell trigger 20times remember; 0; 2010-02-15 13:09:49
+max chain spell around 4 5 like chain lighting another spell like bos spell might involve spell cast chain variable; 0; 2010-02-15 12:26:54
+aaaaa okkk see thanks vlad; 0; 2010-02-16 13:54:45
++1 tgm; 0; 2010-02-11 13:28:40
+look like intstead simply update player file direct value value return function store formula affect one player field; 0; 2010-02-11 14:18:32
+ok thanks; 1; 2010-02-11 15:08:42
+vim n't able edit commit message vim officially add death-list telling thanks tom vladimir help base research updated formula; 0; 2010-02-06 18:49:20
+major thing make order p give feedback work next 2 day p; 0; 2010-02-07 03:39:05
+availeble documentation new gossip system; 0; 2009-12-06 04:20:43
+'s small documentation nofantasy; 0; 2009-12-06 09:08:03
+thanks; 1; 2009-12-06 12:15:51
+grr mean handlegossipselectoptionopcode; 0; 2009-12-10 06:24:32
+`` result gossip go possible '' clear sorry gossip go possible show text main window gossip _selections_ yet implement need implementation handlegossiphelloo; 0; 2009-12-10 06:22:41
+last many thanks author people make work; 0; 2009-12-06 03:06:54
+check pointer caster successfully create; 1; 2009-11-29 09:26:56
+never mind warning big deal; 0; 2009-11-29 22:54:35
+8894 check add 's apply part apply call case normal player caster base early code check near impossible find caster agree special case maybe happens good avoid cra; 0; 2009-11-30 01:28:03
+thank; 1; 2009-10-14 04:00:36
+yes last thx; 1; 2009-10-13 22:18:26
+wow great patch thanks guy; 1; 2009-10-14 10:39:25
+thanks lot creature speak player look much good speaking air; 0; 2009-10-11 02:46:34
+fix isnt prupourse u said..; 0; 2009-10-11 07:12:15

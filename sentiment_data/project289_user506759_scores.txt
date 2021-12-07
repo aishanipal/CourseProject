@@ -1,0 +1,7 @@
+comment; score; time
+cross-team item convertion safely easy parse wowhead item page blizzard provide convertion table bad fail get table also parse armory 's complicated wowhead; 0; 2010-11-04 15:54:42
+next step core code possible implement limited conversion mail send another team case possible account retail; 0; 2010-11-04 16:27:35
+send heirloom cross-team mail n't know heirloom item convert faction-transfer; 0; 2010-11-04 16:42:33
+guess mean faction `` team '' example faction change; 0; 2010-11-04 19:18:16
+full id list http //gist.github.com/665520; 0; 2010-11-06 10:28:08
+thanx shadez; 0; 2010-11-14 02:43:25

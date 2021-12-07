@@ -1,0 +1,29 @@
+comment; score; time
+lol 'm even sorry bad english p see sneak real english word next time; 0; 2009-08-14 10:45:07
+veichles spell vehicle; 0; 2009-08-14 05:11:29
+oops typo alter table db_version change column required_7393_01_mangos_game_event required_7399_01_mangos_mangos_string bit; 0; 2009-03-07 04:10:10
+sql miss change db_version; 0; 2009-03-06 05:54:54
+hey tiply since last commit fixxes battlegroudnqueue player cant get battleground already start ...; 0; 2009-03-06 06:26:25
+alter table db_version change column required_7382_01_mangos_creature_template required_7388_01_mangos_mangos_string bit; 0; 2009-03-06 08:15:17
+late change bgs add 0.12; 0; 2009-02-09 08:16:31
+good stuff; 1; 2009-02-09 10:45:25
+hard cod name database someone use name characters/mangos dont forget change; 0; 2009-01-28 16:51:24
+yea im sure wasnt way remind; 0; 2009-01-29 05:40:08
+hard cod name database someone use name characters/mangos dont forget change; 0; 2009-01-28 16:51:24
+yea im sure wasnt way remind; 0; 2009-01-29 05:40:08
+fix add 0.12 branch thanks; 0; 2009-01-23 05:01:52
+fixed 7152 thanks annotation; 0; 2009-01-23 03:41:50
+0.12 griffonheart; 0; 2009-01-23 06:49:36
+ups 8 achievementmgr.cpp; 0; 2009-01-23 06:53:42
+yea right ment fix write accident sorry p; 0; 2009-01-23 08:00:58
+fix add 0.12 branch thanks; 0; 2009-01-23 05:01:52
+fixed 7152 thanks annotation; 0; 2009-01-23 03:41:50
+0.12 griffonheart; 0; 2009-01-23 06:49:36
+ups 8 achievementmgr.cpp; 0; 2009-01-23 06:53:42
+yea right ment fix write accident sorry p; 0; 2009-01-23 08:00:58
+get add 0.12 branch; 0; 2009-01-23 05:40:15
+done http //github.com/mangos/mangos/commit/fa35f59a7bf2fc6f5902ec1a9f87340863493ca1; 0; 2009-01-23 07:00:46
+thank u; 1; 2009-01-23 07:58:44
+get add 0.12 branch; 0; 2009-01-23 05:40:15
+done http //github.com/mangos/mangos/commit/fa35f59a7bf2fc6f5902ec1a9f87340863493ca1; 0; 2009-01-23 07:00:46
+thank u; 1; 2009-01-23 07:58:44

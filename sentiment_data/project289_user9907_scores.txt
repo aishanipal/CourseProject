@@ -1,0 +1,98 @@
+comment; score; time
+need default case^^; 0; 2012-07-20 12:50:52
+nice; 1; 2012-07-20 12:52:15
+need default case^^; 0; 2012-07-20 12:50:52
+nice; 1; 2012-07-20 12:52:15
+thanks merge pain; -1; 2012-07-19 14:30:20
+merge pain please provide patch open source community would keep big merge complication ...; 0; 2012-07-19 15:07:51
+mine p; 0; 2012-07-19 15:43:07
+time; 0; 2012-07-19 16:07:01
+tom_rus style xd; 1; 2012-07-19 20:17:13
+zakamurite 've stop merges time ago advise ...; 0; 2012-07-19 21:14:05
+keep hostility towards mangos; -1; 2012-07-20 04:12:01
+githubs eats comment; 0; 2012-07-19 23:12:02
+please offer tool witch change style option make project; 0; 2012-07-20 04:23:16
+reamer imo 's use perl regexpes ...; 0; 2012-07-20 04:24:25
+question hostility towards anyone; -1; 2012-07-20 04:25:55
+else-case; 0; 2012-07-15 07:34:16
+handle real group pet summon need huge hack code variant ...; 0; 2012-07-15 08:24:05
+return value boolean null; 0; 2012-02-17 02:01:16
+remove pitem check; 0; 2012-02-17 02:01:55
+already check; 0; 2012-02-17 02:11:54
+git parser lose context fact chagnes queryresult* database :pquery const char *format ...; 0; 2012-02-17 02:15:17
+thx answer hate small diffs xd; 1; 2012-02-17 02:16:49
+thx; 1; 2012-02-17 02:18:10
+eartly code already expect pitem null; 0; 2012-02-17 02:19:20
+return value boolean null; 0; 2012-02-17 02:01:16
+remove pitem check; 0; 2012-02-17 02:01:55
+already check; 0; 2012-02-17 02:11:54
+git parser lose context fact chagnes queryresult* database :pquery const char *format ...; 0; 2012-02-17 02:15:17
+thx answer hate small diffs xd; 1; 2012-02-17 02:16:49
+thx; 1; 2012-02-17 02:18:10
+eartly code already expect pitem null; 0; 2012-02-17 02:19:20
+return value boolean null; 0; 2012-02-17 02:01:16
+remove pitem check; 0; 2012-02-17 02:01:55
+already check; 0; 2012-02-17 02:11:54
+git parser lose context fact chagnes queryresult* database :pquery const char *format ...; 0; 2012-02-17 02:15:17
+thx answer hate small diffs xd; 1; 2012-02-17 02:16:49
+thx; 1; 2012-02-17 02:18:10
+eartly code already expect pitem null; 0; 2012-02-17 02:19:20
+return value boolean null; 0; 2012-02-17 02:01:16
+remove pitem check; 0; 2012-02-17 02:01:55
+already check; 0; 2012-02-17 02:11:54
+git parser lose context fact chagnes queryresult* database :pquery const char *format ...; 0; 2012-02-17 02:15:17
+thx answer hate small diffs xd; 1; 2012-02-17 02:16:49
+thx; 1; 2012-02-17 02:18:10
+eartly code already expect pitem null; 0; 2012-02-17 02:19:20
+timer realy important without lot boss n't work bosses throw air; 0; 2012-02-07 01:21:19
+great ^_^; 1; 2012-02-06 22:50:44
+great work; 1; 2012-02-07 01:19:20
+wtf happen; -1; 2012-02-07 00:51:46
+wow ... mangos rullz 's great day community; 1; 2012-02-07 01:21:08
+nice; 1; 2012-02-07 01:46:39
+не прошло и пару лет грац; 0; 2012-02-07 01:30:44
+congratulations; 1; 2012-02-07 05:56:49
+woot happen o.o; 1; 2012-02-07 09:52:48
+congratulation; 1; 2012-02-07 07:36:10
+cool; 1; 2012-02-07 10:05:05
+nice; 1; 2012-02-08 10:05:43
+pathfinding wow awesome; 1; 2012-02-23 22:33:57
+good see master repo much time; 0; 2012-01-17 04:55:33
+nice; 1; 2012-01-17 03:24:33
+use m_cooldowntime instead m_grouploottimer suggest opvp; 0; 2012-01-20 16:50:04
+finally; 0; 2011-10-16 04:53:33
+nice hopefully follow worldstatemgr; 1; 2011-10-16 05:59:30
+wohoo; 0; 2011-10-16 08:20:32
+ok thank patch next commit; 1; 2011-10-16 10:37:13
+general ++slave_itr; 0; 2012-07-22 13:12:33
+good question; 1; 2012-07-22 13:16:54
+work gcc slave_itr slaveguidlist.erase slave_itr work wonderful; 0; 2012-07-23 01:59:36
+_any_; 0; 2012-07-23 03:23:32
+rsa thread-unsafe variant std :list thread-safe container; 0; 2012-07-23 03:16:43
+rsa suggest one n't dickass; 0; 2012-07-23 03:47:00
+insignificant worm either suggest classic genre sprinkle ash bald head crawl back cemetery ...; 0; 2012-07-23 04:00:44
+rsa case shut bother us worm den thanks url anyway; 0; 2012-07-23 04:04:10
+got ta love good cat fight; 1; 2012-07-23 05:38:28
+lordjz set twit need worry confusion may occur excess voltage; 0; 2012-07-23 05:02:49
+solutiuon slave_itr slaveguidlist.erase slave_itr though guess place need refactoring; 0; 2012-07-23 06:03:05
+far s/ \w\d_ \.erase\ \w\d_ \+\+\ /\2 \1.erase \2 rest manually /\.erase\ .+\+\+/; 0; 2012-07-23 06:09:33
+erase itr++ create iterator copy possible avoid returnning iterator version sure important find disadvantage google; 0; 2012-07-26 12:25:50
+finally; 0; 2011-10-16 04:53:33
+nice hopefully follow worldstatemgr; 1; 2011-10-16 05:59:30
+wohoo; 0; 2011-10-16 08:20:32
+ok thank patch next commit; 1; 2011-10-16 10:37:13
+general ++slave_itr; 0; 2012-07-22 13:12:33
+good question; 1; 2012-07-22 13:16:54
+work gcc slave_itr slaveguidlist.erase slave_itr work wonderful; 0; 2012-07-23 01:59:36
+_any_; 0; 2012-07-23 03:23:32
+rsa thread-unsafe variant std :list thread-safe container; 0; 2012-07-23 03:16:43
+rsa suggest one n't dickass; 0; 2012-07-23 03:47:00
+insignificant worm either suggest classic genre sprinkle ash bald head crawl back cemetery ...; 0; 2012-07-23 04:00:44
+rsa case shut bother us worm den thanks url anyway; 0; 2012-07-23 04:04:10
+got ta love good cat fight; 1; 2012-07-23 05:38:28
+lordjz set twit need worry confusion may occur excess voltage; 0; 2012-07-23 05:02:49
+solutiuon slave_itr slaveguidlist.erase slave_itr though guess place need refactoring; 0; 2012-07-23 06:03:05
+far s/ \w\d_ \.erase\ \w\d_ \+\+\ /\2 \1.erase \2 rest manually /\.erase\ .+\+\+/; 0; 2012-07-23 06:09:33
+erase itr++ create iterator copy possible avoid returnning iterator version sure important find disadvantage google; 0; 2012-07-26 12:25:50
+difference; 0; 2011-04-02 00:00:34
+reamer difference group check use symbols take close look; 0; 2011-04-02 00:54:39

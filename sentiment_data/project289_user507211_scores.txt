@@ -1,0 +1,6 @@
+comment; score; time
+think delay expect part `` patch cause crash '' test also patch apply backported patch need resolve step step; 0; 2009-02-26 00:42:43
+chance branch 0.12; 0; 2009-02-25 21:24:44
+fix dispel magic mass dispell; 0; 2009-01-28 22:34:23
+possibile fix work also 0.12 branch; 0; 2009-01-23 21:34:39
+devs mostly 0.12 client spell related patch safe backporting case ...; 0; 2009-01-24 17:56:12

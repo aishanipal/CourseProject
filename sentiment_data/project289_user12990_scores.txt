@@ -1,0 +1,47 @@
+comment; score; time
+ok fault agree; 1; 2011-06-18 06:03:37
+fixed 11643; 0; 2011-06-18 06:11:22
+cool thx; 1; 2011-06-18 06:12:50
+isaffectedonspell broken; -1; 2011-06-12 00:44:49
+aura isaffectedonspell spellmodifer :isaffectedonspell; 0; 2011-06-12 09:41:54
+must fix 11627 thank point; 0; 2011-06-12 10:09:50
+ok find wrong code spellmodifier :isaffectedonspell fix test ...; 0; 2011-06-12 09:48:25
+'m good source inspiration seem ^^; 1; 2011-06-12 12:22:13
+forget specify additional apparently typo gemguids 0; 0; 2011-05-14 02:55:57
+break geming; 0; 2011-05-13 10:33:54
+suggested fix add 11481 thank; 0; 2011-05-13 15:29:40
+wow; 1; 2010-11-15 08:50:13
+o_o; -1; 2010-11-15 09:03:37
+'m nerdsgam right o_o; 0; 2010-11-15 09:14:07
+instances/bg first tick value send creature update may high convert negative example shaman totems; 0; 2010-11-04 01:31:59
+yes instance bg totem work; 0; 2010-11-05 01:08:43
+thanks u much; 1; 2010-10-09 11:47:09
+relate locales_gameobject locales_pagetext table affect u use english russian default language; 0; 2010-10-09 12:12:40
+cool finally crash eses locale fix; 0; 2010-10-09 12:16:05
+english russian special p; 1; 2010-10-09 22:40:20
+thanks lot ^^; 1; 2010-10-09 14:10:44
+one miss case gossip locales http //pastebin.com/izfbznzp crashdump clean source know problem; 0; 2010-10-10 07:35:10
+maybe need move gossip locales ...; 0; 2010-10-10 08:24:15
+revert commit fix http //gist.github.com/619376 crash strange; -1; 2010-10-10 10:17:07
+may version gcc relate also crush commit ...; 0; 2010-10-10 10:42:49
+thank test; 1; 2010-10-10 12:10:31
+; -1; 2010-02-27 14:12:11
+make break fix ... prepare another version currently; 0; 2010-02-27 15:30:49
+cool thx; 1; 2010-02-11 09:26:13
+big fix change fix; 0; 2010-01-31 16:34:44
+sorry double post part whole commit since commit number guess first part several part whole commit number; 0; 2010-01-31 16:36:44
+'s tom_rus commit style; 0; 2010-01-31 21:50:17
+thank; 1; 2010-01-31 22:05:59
+thanks happy new year; 1; 2009-12-31 12:29:09
+need add raidorpartyhealthprioritytargets; 0; 2010-01-01 03:20:51
+hm maybe ... see comment select target well know wiki head site; 0; 2010-01-01 10:59:10
+ok thank; 1; 2010-01-02 07:02:57
+9102 re-implemented; 0; 2010-01-02 09:20:45
+think commit incorrect boss script check instance difficulty use proper spell regular example 28796 heroic 54098 know use previous version long time ... also check lutik 's scr; 0; 2009-12-29 03:30:18
+different spell use heroic v regular affected target depend 10 v 25 man mode source well know wiki; 0; 2009-12-29 05:03:36
+talk 25man version use different spell 10 man commit incorrect example script n't support heroic version anyway make 10man version spell cast number affected target wr; 0; 2009-12-29 05:09:28
+`` heroic '' mean 25man 's habit; 0; 2009-12-29 05:10:35
+know 25 spell version beacuse generci remark like case helful; 0; 2009-12-29 05:31:40
+ok start see point right check strictly need however n't make wrong enter 25-man boss cast 28796 error code simply expect bos use different; 0; 2009-12-29 06:17:05
+'s useless call getmap result; 0; 2009-12-29 06:25:38
+wrong commit; -1; 2009-12-29 09:50:00

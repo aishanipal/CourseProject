@@ -1,0 +1,140 @@
+comment; score; time
+fix anything; 0; 2010-06-21 18:26:22
+good sort overview future change maybe could spawn separate thread scheduler handle critical part code access would create headache also would increase performance; 0; 2010-06-21 20:19:11
+yes one reason mostly attempt prepare base make instance save persistent storage map move example respawn timer objmgr late add pool spawn map local data; 0; 2010-06-21 21:53:00
+thx; 1; 2010-02-22 12:07:27
+thanks =d; 1; 2010-02-22 12:16:04
+thanks need lot crash fix; 0; 2010-02-22 12:28:58
+see crash script code hell relate core go fix script; 0; 2010-02-22 13:43:40
+really fix still crash; 0; 2010-02-22 13:16:43
+ok always wrong read post anyway care crash without useful info ...; -1; 2010-02-22 13:51:27
+yes problem present mangos _without_ sd2 server crash load creature long movement list one-two may anyone present db; 0; 2010-02-22 13:58:05
+see like crash possible broken db ... need real data catch script data create porblems must easy provide way reporduce ...; 0; 2010-02-22 14:02:26
+'m manually re-apply movement list creature 94985 ytdb 5-6 crash load creature nothing criminal list ...; 0; 2010-02-22 14:08:26
+data data crash backtrace help ... know crash help crash source ...; -1; 2010-02-22 14:48:27
+fix.. crash ...; -1; 2010-02-22 14:12:21
+great lift 1000needles barrens give dc; 0; 2010-02-22 14:52:09
+crash taxi write taxi path crash ppl write something crash useless info possible need real specific data repeating; 0; 2010-02-22 14:50:17
+crash ...; -1; 2010-02-22 16:14:08
+sorry previous post -.- try put post code; 0; 2010-02-22 17:32:17
+hmm forum ... ah yes polite spam comment commits ...; 0; 2010-02-23 05:27:20
+hard way commit ...; 1; 2010-02-14 05:46:39
+vladimir becomes enrage p; -1; 2010-02-14 06:26:45
+rofl hard need; 1; 2010-02-14 06:27:17
+super; 1; 2010-02-14 10:09:02
+eeeeeeeeeeeeerrrrrrrrrrrrrrrr 1; 0; 2010-02-14 10:09:23
+nobody 's perfect; 1; 2010-02-14 16:35:34
+typo hit vladimir 50000000 nerve damage target enrage 5 next commits commit reduce stack 1; 0; 2010-02-14 14:18:31
+lol ^^; 1; 2010-02-14 14:47:56
+give mango team time know great job dual talent get implement wont see commit message say `` actual dual spec still implement '' instead see something like `` dual talent implemente; 0; 2010-02-10 18:56:12
+fuuu 'm sorry much respecting developer vladimir cool work always shame mangos patch `` dual spec '' exist already long time work perfectly server also n't use `` official '' version; 0; 2010-02-10 22:24:07
+note fully implement yet hope soon; 0; 2010-02-10 13:22:21
+totally agree accord dual spec p; 0; 2010-02-10 23:33:19
++1 cyrex wait see; 0; 2010-02-10 22:35:08
+nice; 1; 2010-02-08 20:16:25
+thx need long time ... get rid junk; 0; 2010-02-08 20:19:51
+think dependent use break shell something like tested happense normal shell use like sh; 0; 2010-01-27 00:09:27
+wo n't work properly without m4_patterns_allow definition ...; 0; 2010-02-06 00:22:34
+anyways error reporting necessarily need revert add m4_patterns_allow exception; 0; 2010-02-06 00:26:02
+ax check openssl; 0; 2010-02-16 15:43:27
+think dependent use break shell something like tested happense normal shell use like sh; 0; 2010-01-27 00:09:27
+wo n't work properly without m4_patterns_allow definition ...; 0; 2010-02-06 00:22:34
+anyways error reporting necessarily need revert add m4_patterns_allow exception; 0; 2010-02-06 00:26:02
+ax check openssl; 0; 2010-02-16 15:43:27
+brokes spell http //www.wowhead.com/ spell=50842 try use hostile target example enemy player mob get error bad target result spell_failed_bad_targets; 0; 2009-12-31 08:09:56
+yes also fix cast dmg spell friend; 1; 2009-12-31 09:43:23
+becuase forgeo remove self2 remove self target mode explicit possitive target; 0; 2010-01-01 10:54:03
+problem must fix 9098; 0; 2010-01-01 11:28:39
+must fix second similar case 9044; 0; 2009-12-21 06:57:11
+spell like mind flay shadowstep wo n't work hostile target; 0; 2009-12-20 15:35:38
+first wprl second confirm look; 0; 2009-12-21 06:14:55
+procdamageandspellfor need special case handle weapons maelstorm proc e.g need completely remove cast one boost spell; 0; 2009-12-10 05:50:50
+right fix 8966; 0; 2009-12-10 16:14:51
+relate gameobject template already present udb forum; 0; 2009-11-26 01:12:53
+hack revert; 0; 2009-11-26 02:35:54
+summon like summon_type_wild2 need aura stack add time heal spell effect heal effect call stack count casted heal effekt interactor; 0; 2009-11-26 08:45:41
+typo 's ca n't wild summon; 0; 2009-11-26 13:59:55
+relate gameobject template already present udb forum; 0; 2009-11-26 01:12:53
+hack revert; 0; 2009-11-26 02:35:54
+summon like summon_type_wild2 need aura stack add time heal spell effect heal effect call stack count casted heal effekt interactor; 0; 2009-11-26 08:45:41
+typo 's ca n't wild summon; 0; 2009-11-26 13:59:55
+sure wo n't harm stability due getmap call; 0; 2009-11-07 12:35:30
+think lib update need finally rewrite getmap concern method update; 0; 2009-11-07 12:41:00
+sure wo n't harm stability due getmap call; 0; 2009-11-07 12:35:30
+think lib update need finally rewrite getmap concern method update; 0; 2009-11-07 12:41:00
+jaddie 's open source fix instead complain; 0; 2009-11-05 22:24:44
+totally agree; 1; 2009-11-06 09:08:20
+tell thanks devs work free.. ^_^; 0; 2009-11-07 07:27:28
+agree 2 thats good developer work; 1; 2009-11-07 03:14:24
+agree everything else disagree statement regard c `` drag drop '' sure ui designer ... wcell n't ui fact wcell extremely well-designed also disagree c/c++ c c ric; 0; 2009-11-08 18:35:48
+n't get wrong guy use c tool development quick hobby project would n't even think use game development standpoint; 0; 2009-11-09 13:53:34
+move method use item pointer simply include item.h mail.h restore build completely; 0; 2009-11-02 09:13:50
+break full funcionallity sd2 script; 0; 2009-11-04 20:21:19
+ok forget comment; 1; 2009-11-05 04:41:22
+break full funcionallity sd2 script; 0; 2009-11-04 20:21:19
+ok forget comment; 1; 2009-11-05 04:41:22
+experience trouble allocater even though use intel chipset send gdb; 0; 2009-10-26 14:55:54
+3 hope one back-ported mangos-0.12 o_o; 0; 2009-10-25 23:14:02
+n't sorry thanks make us; 0; 2009-10-24 17:43:34
+thank old vlad devs appreciate work dedication sorry us time annoy p; 0; 2009-10-24 18:05:16
+critical issue still present; 0; 2009-10-24 18:51:31
+thx; 1; 2009-10-24 08:49:35
+hmm maybe check creature first make one safe; 0; 2009-10-24 08:29:04
+netsky 'this never 0x0 would; 0; 2009-10-24 09:00:38
+mean; 0; 2009-10-24 08:47:42
+ok 's true look whole method; 1; 2009-10-24 09:18:53
+hmm maybe check creature first make one safe; 0; 2009-10-24 08:29:04
+netsky 'this never 0x0 would; 0; 2009-10-24 09:00:38
+mean; 0; 2009-10-24 08:47:42
+ok 's true look whole method; 1; 2009-10-24 09:18:53
+thx lot problem seem go; 0; 2009-10-24 04:18:39
+thx would enough include corpse.h wrong; 0; 2009-10-22 05:04:44
+right fix way leastuntil point finish current objectaccessor.h cleanuop include cleanup final state; 0; 2009-10-23 04:41:37
+balrok friend need little attention crash ...; 0; 2009-10-20 16:02:23
+send gdb stack; 0; 2009-10-20 18:59:39
+ok balrok go test tell; 0; 2009-10-21 08:02:21
+entry spirit healer seem wrong sql; 0; 2009-10-20 16:53:11
+ok sry fault ... spirit guide still visible anybody; 0; 2009-10-20 16:57:28
+entry spirit healer seem wrong sql; 0; 2009-10-20 16:53:11
+ok sry fault ... spirit guide still visible anybody; 0; 2009-10-20 16:57:28
+sam problem debian compilation; 0; 2009-10-06 09:11:14
+even though include map; 0; 2009-10-06 09:00:55
+yes; 1; 2009-07-24 10:06:16
+thanks; 1; 2009-07-24 10:41:29
+fix overpowered creatures current udb time test thx report; 0; 2009-07-24 09:43:18
+thank point; 1; 2009-07-28 22:53:08
+tom fix http //github.com/mangos/mangos/commit/c6d97c6ec37fe4978cbd521620cc6e8cd926682a; 0; 2009-07-29 04:38:09
+onlinetime spammed anytime worldsession opcodes handle ... like suppose work intend; 0; 2009-07-28 16:34:40
+problem ... buf change completely revert ask; 0; 2009-05-31 07:48:19
+lol запароль всем обновку; 0; 2009-05-26 07:41:12
+comment english; 0; 2009-05-26 09:29:37
+remove subgroup; 0; 2009-05-03 20:49:23
+think change uint int bad pls review; 0; 2009-05-01 08:54:19
+/sleep crash server wrong; -1; 2009-03-17 14:58:27
+crash often; -1; 2009-03-17 14:17:46
+cause emote opcodes suggest; 0; 2009-03-17 15:13:37
+sorry get wrong ... iteration applied areaauras ... must relate aurahandling change afterall; 0; 2009-03-04 23:23:25
+ok maybe ill find reason apply effect two time ... ill report ... btw realize paladin glyph holy light attach; 0; 2009-03-05 04:09:33
+table create phase/quest dependent/area-dependent spell expect n't must use spell important dummy aura; 0; 2009-03-05 04:02:10
+... create only..; 1; 2009-03-05 04:02:30
+seem work properly; 0; 2009-03-05 07:49:06
+sorry get wrong ... iteration applied areaauras ... must relate aurahandling change afterall; 0; 2009-03-04 23:23:25
+ok maybe ill find reason apply effect two time ... ill report ... btw realize paladin glyph holy light attach; 0; 2009-03-05 04:09:33
+table create phase/quest dependent/area-dependent spell expect n't must use spell important dummy aura; 0; 2009-03-05 04:02:10
+... create only..; 1; 2009-03-05 04:02:30
+seem work properly; 0; 2009-03-05 07:49:06
+sorry get wrong ... iteration applied areaauras ... must relate aurahandling change afterall; 0; 2009-03-04 23:23:25
+ok maybe ill find reason apply effect two time ... ill report ... btw realize paladin glyph holy light attach; 0; 2009-03-05 04:09:33
+table create phase/quest dependent/area-dependent spell expect n't must use spell important dummy aura; 0; 2009-03-05 04:02:10
+... create only..; 1; 2009-03-05 04:02:30
+seem work properly; 0; 2009-03-05 07:49:06
+understand ... commit change functionality anything except fix possible crash case faction_template.faction == 0; 0; 2009-03-05 04:04:16
+required hack code many place lie faction client patch exist forum affect performence normal mode nice official source; 0; 2009-03-04 12:46:44
+due patch netherwing quest chain etc ... unfortunately auras get yet apply automatically ... good work afterall; 0; 2009-03-04 23:42:40
+ah yes possible fix case faction=0 compare woth empty faction field yes also fix case; 0; 2009-03-05 18:12:14
+realize patch attack netherwing fraction even get rep neutral fix; 0; 2009-03-05 04:14:21
+understand ... commit change functionality anything except fix possible crash case faction_template.faction == 0; 0; 2009-03-05 04:04:16
+required hack code many place lie faction client patch exist forum affect performence normal mode nice official source; 0; 2009-03-04 12:46:44
+due patch netherwing quest chain etc ... unfortunately auras get yet apply automatically ... good work afterall; 0; 2009-03-04 23:42:40
+ah yes possible fix case faction=0 compare woth empty faction field yes also fix case; 0; 2009-03-05 18:12:14
+realize patch attack netherwing fraction even get rep neutral fix; 0; 2009-03-05 04:14:21

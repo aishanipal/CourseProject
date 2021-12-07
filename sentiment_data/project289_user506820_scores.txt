@@ -1,0 +1,20 @@
+comment; score; time
+suspect creature_movement_template table must populate data udb right; 0; 2010-09-15 05:44:07
+silverice back; 0; 2010-07-26 18:39:19
+graz silverice ^^; 0; 2010-07-26 22:03:24
+'m wonder difference vector good list n't think 're wrong want able understand future; 0; 2010-07-26 22:06:15
+think silverice already provide answer `` vector container provide less time access contain element ''; 0; 2010-07-26 22:56:08
+btw use typedef collection thus 'll able change container type one place; 0; 2010-07-27 00:59:52
+sure type change good container use 1 full loop element std :list std :vector expect big difference ok maybe small vector prio 2 push_back _at_ ai create vector think lot slow; 0; 2010-07-27 01:18:59
+vector case vector reserve size use memory need reserve small reallocate memory block data move old new ... bad case; 0; 2010-07-27 02:11:50
+vector good push_back reserve _exactly_ require data amount -pre-counting need push; 0; 2010-07-27 02:13:38
+difference const const; 0; 2010-03-07 04:07:22
+also need make const player :hastitle 2 overload; 0; 2010-03-07 04:07:25
+difference gameplay code safety; 0; 2010-03-07 06:51:28
+good code readability crucial know anything c/c++ even know compute sum two number programming language want provide good patch go ahead post forum otherwise enjoy mag; 0; 2010-02-20 13:49:18
+ha-ha f ... g brain xd; 1; 2010-02-20 17:10:01
+lighten sarcastic; -1; 2010-02-20 15:44:52
+sure 's even worth reply go piss tgm make code change tomorrow 'm certain community whole happy spell implement tad easy read code oh; 0; 2010-02-20 18:21:04
+past day great project perspective changed movement code huge performance boost overall overhead cause mob erratic facing movement go problem cause character pets behave; 0; 2010-02-21 00:50:30
+thanks linux; 1; 2010-01-03 11:15:56
+list.h need util.h math.h util.cpp compile fine without windwos; 0; 2010-01-05 10:24:56

@@ -1,0 +1,64 @@
+comment; score; time
+think use 0 instead null integer value; 0; 2010-05-12 04:08:04
+... nice solution mount; 1; 2010-05-12 04:49:07
+edit laise fast post response ask something similar p; 0; 2010-05-12 05:15:44
+thank much explain laise ... helpfull future; 0; 2010-05-12 05:46:09
+last arg use replace 280 speed player know mount 310 invincible 310 initial speed n't need check; 0; 2010-05-12 05:15:16
+phail copy paste -_-; 0; 2010-05-12 07:41:42
+good commit fly dalaran mount; 1; 2010-05-12 07:58:48
+found bug example mount fly headless horseman 's mount teleport stormwind dismount fly stormwind; 0; 2010-06-02 11:55:30
+.gm _test_this; 0; 2010-06-02 22:25:38
+; -1; 2010-05-08 00:08:02
+default set 1; 0; 2010-05-07 20:09:11
+yes 'm little confuse commit exactly clean; 1; 2010-05-08 07:48:19
+revils correct; 0; 2010-05-09 01:15:37
+ok thanks; 1; 2010-05-09 03:48:12
+; -1; 2010-05-08 00:08:02
+default set 1; 0; 2010-05-07 20:09:11
+yes 'm little confuse commit exactly clean; 1; 2010-05-08 07:48:19
+revils correct; 0; 2010-05-09 01:15:37
+ok thanks; 1; 2010-05-09 03:48:12
+'s work fine; 0; 2010-05-06 05:00:04
+test ... bug find commit thanks; 1; 2010-05-06 23:02:42
+good take quite time hunt issue significant amount beer keg creativity increase level make possible actually track get thing control see recent commit 984; 0; 2010-05-07 04:31:48
+hello hunuza please tell kind crash relate; 1; 2010-04-22 10:32:26
+thank; 1; 2010-04-22 11:00:02
+first one relate m_mover second one fix; 0; 2010-04-22 12:38:35
+pff get ta dream somebody bitch slap silly; 1; 2010-04-02 13:06:10
+really good job thanks; 1; 2010-04-02 13:38:54
+/me slap cyrex; 0; 2010-04-02 13:15:44
+thanks nice work; 1; 2010-04-02 13:26:05
+impossable one look code ...; 0; 2010-04-02 15:31:16
+thx good work; 1; 2010-04-02 23:32:54
+excellent work often commits instead cut away never stop anyone field database ...; 0; 2010-04-03 10:44:11
+ppl understanding code development think feature add commits exist without many preparation commits without const code cleanup improve code _without_ visible user changes.. devs think man; 0; 2010-04-03 11:34:29
+something new good never abandon backwards compatibility relation hack unused core code field database prevent develop core however removal field bury lot well-done work web p; 0; 2010-04-03 13:40:14
+think remove data blob pain long time storing data way well design inefficient also make harder get certain data web portal mention also update code web portal; 0; 2010-04-03 15:01:19
+think start think thing like backward compatibility reach 1.0 ...; 0; 2010-04-03 15:58:14
+1 question remove data; 0; 2010-04-09 07:13:16
+corpse data see player case already add character_stats table specially armopry like publishing; 0; 2010-04-09 13:49:27
+see store redundant data need save; 0; 2010-04-09 10:06:30
+also remove title bye bye title epic fail; 0; 2010-03-27 13:36:09
+help lot web management page; 0; 2010-03-27 15:44:55
+wow cant believe already everything columns/tables good work; 1; 2010-03-28 02:19:28
+yessssssssssssssss good work performance db kill item_instance blob ... db fly ^^ good work devel; 0; 2010-03-28 05:20:53
+actually read commit would see character data backed-up nothing actually lose unless choose drop back-ups make back-ups use late commit make title work; 0; 2010-03-27 21:22:02
+item_instance use character_inventory also table like mail_items ca n't merge one ...; 0; 2010-03-29 01:05:51
+nanouniko know think long time ago merge table one could help manage item cause share similar information; 0; 2010-03-28 16:36:30
+hunuza thanks tip; 1; 2010-03-29 15:04:17
+like know arcemu; 1; 2010-03-29 23:28:32
+n't know arcemu probably different database design ...; 0; 2010-03-30 01:38:51
+wow guy congrats ... pretty big milestone imo; 1; 2010-03-29 20:51:49
+also remove title bye bye title epic fail; 0; 2010-03-27 13:36:09
+help lot web management page; 0; 2010-03-27 15:44:55
+wow cant believe already everything columns/tables good work; 1; 2010-03-28 02:19:28
+yessssssssssssssss good work performance db kill item_instance blob ... db fly ^^ good work devel; 0; 2010-03-28 05:20:53
+actually read commit would see character data backed-up nothing actually lose unless choose drop back-ups make back-ups use late commit make title work; 0; 2010-03-27 21:22:02
+item_instance use character_inventory also table like mail_items ca n't merge one ...; 0; 2010-03-29 01:05:51
+nanouniko know think long time ago merge table one could help manage item cause share similar information; 0; 2010-03-28 16:36:30
+hunuza thanks tip; 1; 2010-03-29 15:04:17
+like know arcemu; 1; 2010-03-29 23:28:32
+n't know arcemu probably different database design ...; 0; 2010-03-30 01:38:51
+wow guy congrats ... pretty big milestone imo; 1; 2010-03-29 20:51:49
++typedef std :map uint16 /*pair16 spec slot */ actionbutton glyphlist use anywhere; 0; 2010-02-14 04:59:22
+'s complete commit somehow stupid use git git_id xd; 0; 2010-02-14 05:09:16

@@ -1,0 +1,12 @@
+comment; score; time
+torture almost dead pet code require complete rewrite pile patch patch; 0; 2010-11-18 14:09:19
+indeed rsa since many pets/guardians wotlk like shaman dk druid etc old code support properly stats etc; 0; 2010-11-18 14:14:50
+suitable place discuss problem especially since make long ago decide; 0; 2010-11-18 14:30:46
+stats relate defender mode pet type support think understand development sollution specific problem step step take look ofc generic picture ofc attempt fix see wrong one step relate normal de; 0; 2010-11-18 14:38:36
+forget field unit_field_critter player field use mango instead put hack m_minipetguid; 0; 2010-11-19 00:14:30
+use field 3 month objectguid way player structure unit creature also may critter need publish clean pacth; 0; 2010-11-19 05:11:53
+effect type find one sent sniff creature fill field unit_field_critter seller parrot booty bay may not-dbc spell; 0; 2010-11-19 06:09:25
+fix global cd issue macro cant cast 2 spell time even gcd; 0; 2010-09-24 02:12:51
+must; 0; 2010-09-24 02:15:27
+cool; 1; 2010-09-24 00:28:52
+thanks; 1; 2010-07-09 16:48:04

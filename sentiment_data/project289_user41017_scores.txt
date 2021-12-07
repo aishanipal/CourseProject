@@ -1,0 +1,7 @@
+comment; score; time
+hop see get add since read forum topic good see make cut; 0; 2010-02-27 04:16:51
+nice.. ra remove stay; 0; 2010-02-27 05:10:58
+since ra part mangos still use old socket library either rewrite use ace drop personally advocate rewrite option ra still nice-to-have feature; 0; 2010-02-27 06:46:31
+fragfrog nope 'm currently compile 0.12 branch trace bug; 0; 2010-02-28 12:54:46
+lot software write use ra connection minimanager umanager game name drop soon otherwise many management tool stop work properly mention; 0; 2010-02-27 06:50:48
+chance see comment forum using 0.12 branch version change soap result always empty reason would quite like thought; 0; 2010-02-28 12:37:22

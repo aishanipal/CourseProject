@@ -1,0 +1,146 @@
+comment; score; time
+lol; 1; 2013-05-24 12:25:11
+yyyyyyyyyyyyyyyyyyyyyyyyyyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaayyyyyyyyyyyyyyyyyyyyyyyyyyyyy; 0; 2013-05-24 10:32:41
+; -1; 2013-05-24 12:27:29
+bad idea; -1; 2013-05-24 13:54:48
+c; -1; 2013-05-24 14:12:19
+http //www.getmangos.co.uk http //www.getmangos.com join shortly; 0; 2013-05-24 14:05:56
+clarify person responsible find http //mangosbackupforum.com/; 0; 2013-05-25 07:43:41
+temporary solution whole gameevent system need code cleanup anyway ...; 0; 2013-01-10 13:48:54
+strange game event n't load db 'continue afterwards need set 0; 0; 2013-01-11 05:29:14
+failzord suggest revert repo dec 31 2012 readd commits proper c carriage return avoid broken git history modified file; 0; 2013-01-10 21:22:13
+мда ... нет слов это теперь девелоперы такие пошли п-ц котенку ...; 0; 2013-01-04 08:10:48
+crlf -_\\\\; 0; 2013-01-03 10:45:52
+yup developer abandon even n't know c++ good good feature; -1; 2013-01-04 17:31:44
+least 're good obfuscate commit change; 1; 2013-01-04 21:52:09
+include unistd.h comment dont compile ubuntu; 0; 2013-01-05 05:46:19
+line break build linux ... use linux mint 14 cinnamon; 0; 2013-01-05 08:37:48
+indeed; 0; 2013-01-06 16:13:35
+мда ... нет слов это теперь девелоперы такие пошли п-ц котенку ...; 0; 2013-01-04 08:10:48
+crlf -_\\\\; 0; 2013-01-03 10:45:52
+yup developer abandon even n't know c++ good good feature; -1; 2013-01-04 17:31:44
+least 're good obfuscate commit change; 1; 2013-01-04 21:52:09
+include unistd.h comment dont compile ubuntu; 0; 2013-01-05 05:46:19
+line break build linux ... use linux mint 14 cinnamon; 0; 2013-01-05 08:37:48
+indeed; 0; 2013-01-06 16:13:35
+need check non-players; 0; 2012-12-27 15:13:06
+nice value; 1; 2012-12-27 15:13:12
+wrong need store mount capability basepoints correct aura display least remove spell; 0; 2012-12-27 15:13:59
+rip client; 0; 2012-12-29 16:01:10
++1; 0; 2012-12-27 15:40:01
+need check non-players; 0; 2012-12-27 15:13:06
+nice value; 1; 2012-12-27 15:13:12
+wrong need store mount capability basepoints correct aura display least remove spell; 0; 2012-12-27 15:13:59
+rip client; 0; 2012-12-29 16:01:10
++1; 0; 2012-12-27 15:40:01
+need check non-players; 0; 2012-12-27 15:13:06
+nice value; 1; 2012-12-27 15:13:12
+wrong need store mount capability basepoints correct aura display least remove spell; 0; 2012-12-27 15:13:59
+rip client; 0; 2012-12-29 16:01:10
++1; 0; 2012-12-27 15:40:01
+look spell must say mostly wonder whether wise use spell-range area-filling ...; 0; 2012-11-07 11:19:57
+exactly 50k radius; 0; 2012-11-06 15:50:25
+zakamurite contact way speak ...; 0; 2012-11-08 14:19:22
+x-savior skype yakikhadafi e-mail; 0; 2012-11-08 23:36:48
+email list git seem find account getmangos.com forum pm; 0; 2012-11-09 08:35:29
+zakamurite send e-mail; 0; 2012-11-12 10:23:44
+zakamurite please check email ... send message; 0; 2012-11-13 18:57:35
+look spell must say mostly wonder whether wise use spell-range area-filling ...; 0; 2012-11-07 11:19:57
+exactly 50k radius; 0; 2012-11-06 15:50:25
+zakamurite contact way speak ...; 0; 2012-11-08 14:19:22
+x-savior skype yakikhadafi e-mail; 0; 2012-11-08 23:36:48
+email list git seem find account getmangos.com forum pm; 0; 2012-11-09 08:35:29
+zakamurite send e-mail; 0; 2012-11-12 10:23:44
+zakamurite please check email ... send message; 0; 2012-11-13 18:57:35
+send mail work; 0; 2012-11-21 09:44:29
+need re-implement cmsg_item_query_single/smsg_item_query_single_response see trinity 's cmsg_request_hotfix/smsg_db_reply; 0; 2012-11-22 10:08:16
+actually highguid_guild 0x1ff 7 highguid_player realm sniff realm identifier; 0; 2012-10-03 08:34:25
+seem 0x1ff would sufficient least; 0; 2012-10-07 22:28:43
+; -1; 2012-10-02 21:55:26
+404 find; 0; 2012-10-02 12:48:45
+want pony avatar; 0; 2012-10-03 08:42:47
+; -1; 2012-10-02 21:55:26
+404 find; 0; 2012-10-02 12:48:45
+want pony avatar; 0; 2012-10-03 08:42:47
+4.3.4; 0; 2012-09-28 14:42:20
+'re welcome test work fine; 1; 2012-09-27 14:06:09
+yes work; 1; 2012-09-27 14:36:05
+leave queue queue needconfirmation; 0; 2012-10-09 16:10:27
+yes; 1; 2012-10-09 22:08:20
+'s heeelll ... come mango irc please question; 0; 2012-10-09 22:38:36
+'re welcome test work fine; 1; 2012-09-27 14:06:09
+yes work; 1; 2012-09-27 14:36:05
+leave queue queue needconfirmation; 0; 2012-10-09 16:10:27
+yes; 1; 2012-10-09 22:08:20
+'s heeelll ... come mango irc please question; 0; 2012-10-09 22:38:36
+thx subv idea get ap scale client; 0; 2012-09-26 02:01:37
+currency value quest_template must define _without_ precision; 0; 2012-09-18 11:59:51
+wtf; -1; 2012-09-15 12:08:56
+epic; 0; 2012-09-15 12:46:52
+rofl; 1; 2012-09-15 15:09:32
+от спасибо хорошо; 0; 2012-09-14 10:56:48
+проверю скорее всего с загрузкой накосячил; 0; 2012-09-15 02:15:05
+portraitturnintext_loc8 portraitturnintext_loc8; 0; 2012-09-15 02:44:11
+correct elemental shaman example use spirit base regen combat personally one retail; 0; 2012-09-09 11:47:08
+spirit regen toolip show every spec wowpedia say non-healers n't receive spirit bonus regen need check sniff; 0; 2012-09-10 01:45:21
+fun fact value actually store spellentry structure maxaffectedtargets field weird hack; 0; 2012-09-08 16:11:18
+n't look spelltargetrestrictions xd; -1; 2012-09-09 06:44:27
+say weird blizz hack; 0; 2012-09-09 07:06:44
+thx sar777; 1; 2012-09-03 05:09:37
+thanks; 1; 2012-09-03 05:07:05
+xd; 1; 2012-07-22 10:24:18
+`` must call unit :attackstop '' n't good put private method attackstop _removeattacker unit 's method; 0; 2012-07-23 00:29:37
+'s call 'this attackstop maybe; 0; 2012-07-23 01:51:03
+thanks merge pain; -1; 2012-07-19 14:30:20
+merge pain please provide patch open source community would keep big merge complication ...; 0; 2012-07-19 15:07:51
+mine p; 0; 2012-07-19 15:43:07
+time; 0; 2012-07-19 16:07:01
+tom_rus style xd; 1; 2012-07-19 20:17:13
+zakamurite 've stop merges time ago advise ...; 0; 2012-07-19 21:14:05
+keep hostility towards mangos; -1; 2012-07-20 04:12:01
+githubs eats comment; 0; 2012-07-19 23:12:02
+please offer tool witch change style option make project; 0; 2012-07-20 04:23:16
+reamer imo 's use perl regexpes ...; 0; 2012-07-20 04:24:25
+question hostility towards anyone; -1; 2012-07-20 04:25:55
+thanks merge pain; -1; 2012-07-19 14:30:20
+merge pain please provide patch open source community would keep big merge complication ...; 0; 2012-07-19 15:07:51
+mine p; 0; 2012-07-19 15:43:07
+time; 0; 2012-07-19 16:07:01
+tom_rus style xd; 1; 2012-07-19 20:17:13
+zakamurite 've stop merges time ago advise ...; 0; 2012-07-19 21:14:05
+keep hostility towards mangos; -1; 2012-07-20 04:12:01
+githubs eats comment; 0; 2012-07-19 23:12:02
+please offer tool witch change style option make project; 0; 2012-07-20 04:23:16
+reamer imo 's use perl regexpes ...; 0; 2012-07-20 04:24:25
+question hostility towards anyone; -1; 2012-07-20 04:25:55
+thanks merge pain; -1; 2012-07-19 14:30:20
+merge pain please provide patch open source community would keep big merge complication ...; 0; 2012-07-19 15:07:51
+mine p; 0; 2012-07-19 15:43:07
+time; 0; 2012-07-19 16:07:01
+tom_rus style xd; 1; 2012-07-19 20:17:13
+zakamurite 've stop merges time ago advise ...; 0; 2012-07-19 21:14:05
+keep hostility towards mangos; -1; 2012-07-20 04:12:01
+githubs eats comment; 0; 2012-07-19 23:12:02
+please offer tool witch change style option make project; 0; 2012-07-20 04:23:16
+reamer imo 's use perl regexpes ...; 0; 2012-07-20 04:24:25
+question hostility towards anyone; -1; 2012-07-20 04:25:55
+awesome ...; 1; 2011-07-08 08:03:11
+mamma mia ... gigantic work..; 0; 2011-07-08 08:49:21
+'s da man silverice; 0; 2011-07-08 08:56:03
+oooo ... god great job; 1; 2011-07-08 09:03:38
+amazing thank; 1; 2011-07-08 09:07:16
+nice great job; 1; 2011-09-02 05:57:05
+last ^^; 0; 2011-06-28 09:00:47
+good work thanks; 1; 2011-06-28 09:29:25
+nice remember uber-hacky change fix damage missile spell lol thats clean fix; 1; 2011-06-28 12:19:02
+yeah `` redunction '' overpowered nerf totally need; 0; 2011-05-25 02:27:51
+hope next change fix bug aura 269 affect resilience; 0; 2011-05-26 02:50:48
+whole reduction_affected_damage need time ago replace simple get*damagereduction damage stand melee/ranged/whatever.. see difference; 0; 2011-05-26 12:05:37
+think change nothing problem place; 0; 2011-04-14 21:12:50
+thanks; 1; 2011-04-15 07:59:20
+love man; 1; 2011-04-17 01:31:07
+m_staticgamebjectguids miss; -1; 2011-04-04 21:51:52
+o.o need exist; 0; 2011-04-05 01:03:03
+ah bout typo fixed zergtmn 11315 thank catch; 0; 2011-04-05 01:05:59
+static guids also need use waypoint spawning; 0; 2011-04-06 04:07:31
+good point; 1; 2011-04-06 11:38:20

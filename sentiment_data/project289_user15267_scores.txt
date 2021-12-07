@@ -1,0 +1,4 @@
+comment; score; time
+'s work fine; 0; 2010-05-06 05:00:04
+test ... bug find commit thanks; 1; 2010-05-06 23:02:42
+good take quite time hunt issue significant amount beer keg creativity increase level make possible actually track get thing control see recent commit 984; 0; 2010-05-07 04:31:48

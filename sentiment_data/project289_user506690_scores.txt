@@ -1,0 +1,53 @@
+comment; score; time
+technically could call map 's `` oncreaturecreate '' grab npc however accessible spot; 0; 2011-05-22 04:04:26
+get everything weapon mh/oh intend behaviour; 0; 2011-05-08 10:22:47
+yes weapon clone spell ref dummy effect spell 43365 following spell cast example; 0; 2011-05-08 10:52:13
+confirm use spell_aura_mirror_image player i.g http //www.wowhead.com/item=58489; 0; 2011-05-08 10:59:43
+maybe something relate 4x would helpful ...; 0; 2011-05-08 11:23:31
+thanks; 1; 2011-05-08 11:00:16
+good use spell aura_247 replace old version patch completely stop work symptom old version development invisible mob example also p; 0; 2011-05-08 11:24:37
+since mangos dev push anything actually happy ... stop whining; 0; 2011-05-08 11:34:16
+'s actually 4.x spell ca n't find example wotlk spell; 0; 2011-05-08 12:09:05
+anyway spell devs n't use player-targets n't mean restriction might limitation 3.3.5 client code remove 4x; 0; 2011-05-08 12:14:57
+agree 's real reason check 's useless least add comment code maybe others test stuff see client accept even though none current spell expect clone another player; 0; 2011-05-08 13:58:30
+mean apply clone player clone player; 0; 2011-05-08 14:18:09
+yeah ... target aura player ...; 0; 2011-05-08 14:28:21
+get everything weapon mh/oh intend behaviour; 0; 2011-05-08 10:22:47
+yes weapon clone spell ref dummy effect spell 43365 following spell cast example; 0; 2011-05-08 10:52:13
+confirm use spell_aura_mirror_image player i.g http //www.wowhead.com/item=58489; 0; 2011-05-08 10:59:43
+maybe something relate 4x would helpful ...; 0; 2011-05-08 11:23:31
+thanks; 1; 2011-05-08 11:00:16
+good use spell aura_247 replace old version patch completely stop work symptom old version development invisible mob example also p; 0; 2011-05-08 11:24:37
+since mangos dev push anything actually happy ... stop whining; 0; 2011-05-08 11:34:16
+'s actually 4.x spell ca n't find example wotlk spell; 0; 2011-05-08 12:09:05
+anyway spell devs n't use player-targets n't mean restriction might limitation 3.3.5 client code remove 4x; 0; 2011-05-08 12:14:57
+agree 's real reason check 's useless least add comment code maybe others test stuff see client accept even though none current spell expect clone another player; 0; 2011-05-08 13:58:30
+mean apply clone player clone player; 0; 2011-05-08 14:18:09
+yeah ... target aura player ...; 0; 2011-05-08 14:28:21
+oh come n't tell 've miss part patch apply; 0; 2011-02-23 09:21:56
+engrish old problem; -1; 2011-02-23 17:39:07
+lol; 1; 2011-02-23 17:53:16
+`` isainotifyscheduled '' shedule schedule 's couple miss; 0; 2011-02-21 19:39:56
+finally; 0; 2011-02-21 17:44:38
+`` schedule '' small typo; 0; 2011-02-21 18:17:27
+thank; 1; 2011-02-21 18:55:25
+`` m_ainotifyscheduled '' another one; 0; 2011-02-21 19:41:11
+cheers awesome work; 1; 2011-02-22 03:48:39
+yeahhhhhhhhhhhhhhh thanks guy; 1; 2011-02-22 11:30:33
+lover limit got good laugh one; 1; 2011-03-12 17:48:52
+finally; 0; 2011-02-21 17:44:38
+`` schedule '' small typo; 0; 2011-02-21 18:17:27
+thank; 1; 2011-02-21 18:55:25
+`` m_ainotifyscheduled '' another one; 0; 2011-02-21 19:41:11
+cheers awesome work; 1; 2011-02-22 03:48:39
+yeahhhhhhhhhhhhhhh thanks guy; 1; 2011-02-22 11:30:33
+lover limit got good laugh one; 1; 2011-03-12 17:48:52
+target mode use mostly siege damage spell like 56350 61766 correct limit spell_script_target; 0; 2010-12-11 06:22:15
+`` '' relate certain spell effect n't mean allow spell handle gameobject; 0; 2010-12-11 06:32:22
+count gameobject type 33 spell effect 87 give need add 1,575 record spell_script_target sure 's good idea; 0; 2010-12-11 07:54:38
+actually think way around give spell doesnt spell_script_target use go around otherwise exclusive search spell_script_target maybe; 0; 2010-12-11 12:18:45
+mean generic spell mean hit gameobject predefined one spell_script_target; 0; 2010-12-13 05:15:44
+commit note shouldnt 262; 0; 2010-11-20 15:59:07
+ofc secretary monkey random typing keyboard always type proper text commit note ^^; 0; 2010-11-20 16:25:41
+great commit vladimir great job ... usual; 1; 2010-11-20 20:11:35
+typo comment `` lool '' ^^; 0; 2010-11-20 20:12:53

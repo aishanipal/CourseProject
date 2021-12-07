@@ -1,0 +1,2 @@
+comment; score; time
+thanks 's awesome; 1; 2009-08-06 10:54:11

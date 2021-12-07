@@ -1,0 +1,9 @@
+comment; score; time
+thanks bug old vmap system disable complete functionality able use server long time never able isolate problem; 0; 2010-03-10 06:28:51
+unable compile since commit ‘ default_world_object_size ’ declare scope ...; 0; 2010-03-10 07:47:18
+os run sylvian; 0; 2010-03-10 09:40:11
+nice finding indeed; 1; 2010-03-10 07:38:20
+hunuza 3; 0; 2010-03-10 12:20:59
+without update sql file; 0; 2009-08-02 05:43:15
+file use server work internal information storage help detect change client switch expect spell property; 0; 2009-08-02 11:20:34
+try re-importing mangos_spell_check.sql; 0; 2009-08-02 08:06:24

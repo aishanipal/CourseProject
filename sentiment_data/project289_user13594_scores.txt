@@ -1,0 +1,106 @@
+comment; score; time
+great work ...; 1; 2011-01-19 13:44:15
+thank boyz next target prepared statement; 1; 2011-01-19 14:02:29
+indeed great work always nice see optimization mango; 1; 2011-01-19 13:54:40
+jethro84530 issue fix 11049 thank report; 0; 2011-01-19 14:51:40
+epic commit; 1; 2011-01-19 17:53:29
+hi ambal know late player start report pet loss problem stable since test patch; 0; 2011-01-19 18:43:00
+note since pool character selects; 0; 2011-01-19 18:43:23
+jethro84530 warning worry 'll fix get back pc; 0; 2011-01-20 03:12:35
+boyz update 11061 new rev issue cause disabled 'autocommit mysql mode fix; 0; 2011-01-21 16:15:11
+ok thanks; 1; 2010-11-27 22:58:05
+commit note shouldnt 262; 0; 2010-11-20 15:59:07
+ofc secretary monkey random typing keyboard always type proper text commit note ^^; 0; 2010-11-20 16:25:41
+great commit vladimir great job ... usual; 1; 2010-11-20 20:11:35
+typo comment `` lool '' ^^; 0; 2010-11-20 20:12:53
+commit note shouldnt 262; 0; 2010-11-20 15:59:07
+ofc secretary monkey random typing keyboard always type proper text commit note ^^; 0; 2010-11-20 16:25:41
+great commit vladimir great job ... usual; 1; 2010-11-20 20:11:35
+typo comment `` lool '' ^^; 0; 2010-11-20 20:12:53
+well let hope skill indeed sharp remember mango community qa dev team quality project highly dependent participation patch testing miss chance report issue patch; 0; 2010-11-16 12:30:02
+ambal о_о return; 0; 2010-11-16 12:54:05
+cooollll thank ambal; 1; 2010-11-16 15:51:30
+great job ambal; 1; 2010-11-16 12:54:32
+look interesting post information commit actually; 1; 2010-11-17 04:54:43
+woooow nice work thanks; 1; 2010-11-16 19:13:44
+xeross http //getmangos.com/community/viewtopic.php id=15615; 0; 2010-11-17 05:42:02
+use vc90 primary ide give error check apply patch threadingmodel.h cause error try pass 'const object 'non-const constructor w/o call const_cast; 0; 2010-11-18 01:15:20
+oh sorry mistake; -1; 2010-11-18 01:36:24
+mosst go part except receive work; 0; 2010-10-03 10:36:39
+в чём заключаеться сложность взять и совмесными силами зделать наконец-то рабочий рандом героик или возможность раздачи лута после ро или так и дальше будем править пробелы в логах и ошибки в коментариях; 0; 2010-10-03 09:59:49
+сделаю всё что будет в моих силах вплоть до тестирования и сбора информации увы моих знаний для правки сложных функций не хватит.. но я думаю для вас это не проблема.. не хочу сьезжать на тринити но то что у них это давным давно работает хоть хаково; 0; 2010-10-03 10:39:22
+concept look like total abomination n't exist here..; 0; 2010-10-03 10:43:13
+n't speak russian guess 's another complain mangos make useless commits trinity good haha; 0; 2010-10-05 07:20:22
+mosst +1 я тож собераюсь делать новый серв на trinity оставить старый как второй серв а новый всё с нуля и он будет в realmd мангоса..; 0; 2010-10-05 02:56:50
+nice n't know say argument tutorial; 1; 2010-10-01 07:07:19
+take shape; 0; 2010-09-27 02:54:49
+vehicle commit 's nice ^^; 1; 2010-09-27 04:40:03
+lol; 1; 2010-09-16 12:15:36
+... player world right m. vladimir; 0; 2010-09-16 13:05:47
+ok thanks ^^; 1; 2010-09-17 00:05:39
+lol; 1; 2010-09-16 12:15:36
+... player world right m. vladimir; 0; 2010-09-16 13:05:47
+ok thanks ^^; 1; 2010-09-17 00:05:39
+nice; 1; 2010-09-10 00:10:58
+english; 0; 2010-09-02 00:09:08
+way provide amount value fact added event `` event_t_buffed '' data; 0; 2010-09-02 09:05:27
+nice work thanks; 1; 2010-08-16 07:55:45
+`` 3 minute '' comment useful p; 0; 2010-08-13 04:27:56
+every commit useful even `` remove tab whitespaces ... .etc ... ''; 0; 2010-08-13 04:50:56
+commit dedicate feel commits like always useless around; 1; 2010-08-13 06:59:06
+nice job thanks; 1; 2010-08-06 00:03:28
+lol 's important; 1; 2010-08-06 00:31:57
+know; 0; 2010-08-06 00:43:50
+may function extract name; 0; 2010-08-06 06:46:44
+yes fix typo already locally prepare next step commit chat command parsing; 0; 2010-08-06 10:09:04
+use std :istringstream parse text; 0; 2010-08-06 11:44:51
+thank yes result use char* handler args fix next commit; 1; 2010-08-08 11:27:26
+nice job thanks; 1; 2010-08-06 00:03:28
+lol 's important; 1; 2010-08-06 00:31:57
+know; 0; 2010-08-06 00:43:50
+may function extract name; 0; 2010-08-06 06:46:44
+yes fix typo already locally prepare next step commit chat command parsing; 0; 2010-08-06 10:09:04
+use std :istringstream parse text; 0; 2010-08-06 11:44:51
+thank yes result use char* handler args fix next commit; 1; 2010-08-08 11:27:26
+happy day system administrator; 1; 2010-07-30 09:35:41
+lol nice job; 1; 2010-07-30 23:14:07
+love commit message ^^; 1; 2010-07-30 10:19:33
+nice thanks; 1; 2010-07-30 08:02:10
+late crash problem crash load spell_bonus_data yes fix; -1; 2010-07-27 00:25:21
+typo aliance; 0; 2010-07-24 04:08:00
+include `` unit.h '' `` src/game/auctionhousemgr.h ''; 0; 2010-07-24 06:00:18
+thanks; 1; 2010-07-24 06:11:56
+thank patch find apply ^^; 0; 2010-07-24 13:12:06
+nice work; 1; 2010-07-21 23:54:03
+awesome; 1; 2010-07-22 01:59:15
+disable `` need '' option item need; 0; 2010-07-17 13:18:02
+'s hack think ...; 0; 2010-07-17 11:51:26
+typo; 0; 2010-07-17 11:16:30
+description retail player debuff remove expired independent zone leave etc affect restrict zone; 0; 2010-07-17 12:42:00
+work test o.o thanks; 1; 2010-07-17 12:46:22
+understood fix small fix thank; 0; 2010-07-17 13:56:34
+'s hack think parachute spell trigger spell 58601 `` trigger spell '' effect; 0; 2010-07-17 13:23:02
+add aura remove exist special spell ... specially exist remove mount/form dummy spell; 0; 2010-07-17 13:19:19
+amend forgot push; 0; 2010-07-09 09:09:10
+always test commit ^^; 0; 2010-07-09 07:01:49
+epic commit; 1; 2010-07-08 14:44:05
+hoooooly crap; -1; 2010-07-08 15:37:38
+congratulations; 1; 2010-07-08 14:45:24
+/cast instant orgasm rank25; 0; 2010-07-08 15:01:40
+nice one great work lynx3d; 1; 2010-07-08 16:07:55
+awesome commit realy scared information extract dbc/maps/vmaps wekk; 1; 2010-07-09 00:09:42
+nice gratz dev; 1; 2010-07-09 00:25:34
+congratulation; 1; 2010-07-09 00:34:41
+epic commit indeed vmap need revamp huge step forward many thanks devs involve one; 0; 2010-07-09 09:53:15
+helpful thanks especially creature gameobjects; 1; 2010-06-20 02:12:45
+n't typo typelist_3 typelist_4 define one line line 62; 0; 2010-06-14 07:11:54
+gz; 0; 2010-06-14 00:08:00
+nice p; 1; 2010-06-14 00:01:25
+cool ^^; 1; 2010-06-13 23:51:37
+'s correct typelist_x macro help `` assemble '' list type contain x amount type object ... make sense; 0; 2010-06-14 07:50:29
+ah sorry n't read correctly ... thought 'd define typelist_* thing; 0; 2010-06-14 08:22:40
+'s camera system; 0; 2010-06-14 12:55:21
+fixed 10072 thank; 1; 2010-06-16 19:01:08
+nice; 1; 2010-06-04 14:37:06
+sharable quest still problems.is quest share new group member example example collect self objective item need go quest acceptor; 0; 2010-06-05 12:29:17
+nice thx author; 1; 2010-05-20 11:51:11

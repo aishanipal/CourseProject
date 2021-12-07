@@ -1,0 +1,13 @@
+comment; score; time
+typo aliance; 0; 2010-07-24 04:08:00
+include `` unit.h '' `` src/game/auctionhousemgr.h ''; 0; 2010-07-24 06:00:18
+thanks; 1; 2010-07-24 06:11:56
+thank patch find apply ^^; 0; 2010-07-24 13:12:06
+thanks; 1; 2010-04-24 21:56:42
+thanks; 1; 2010-04-25 00:03:41
+restore build http //paste2.org/p/769947; 0; 2010-04-12 07:30:15
+ok ty work fine; 1; 2010-04-12 07:38:49
+9749 fix like crash; -1; 2010-04-15 21:11:24
+come two day uptime crash; 0; 2010-04-17 05:58:51
+early talk uptime less day seem heal; 0; 2010-04-16 11:06:32
+ok thank confirm help; 1; 2010-04-17 07:22:27

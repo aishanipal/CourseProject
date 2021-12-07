@@ -1,0 +1,5 @@
+comment; score; time
+pool sql report global mangos.sql sql script; 0; 2009-02-18 14:19:55
+also sql change modify dbversion table; 0; 2009-02-18 14:21:14
+pool sql report global mangos.sql sql script; 0; 2009-02-18 14:19:55
+also sql change modify dbversion table; 0; 2009-02-18 14:21:14

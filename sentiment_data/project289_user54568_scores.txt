@@ -1,0 +1,3 @@
+comment; score; time
+need month ago ... end find something else 2000+ line long work xd; 0; 2009-10-04 09:27:02
+use convertor http //subversion.assembla.com/svn/charconvertor/sql 20converters/313-32x.sql work fine updatefields change query use different query; 0; 2009-10-04 03:57:53

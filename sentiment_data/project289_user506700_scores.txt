@@ -1,0 +1,17 @@
+comment; score; time
+finally; 0; 2011-03-21 03:21:18
+; -1; 2011-03-24 02:20:22
+use .gm -command intention behind add allow gm see gossip option regardless condition set make bit easy develop gossip; 0; 2011-03-24 02:22:20
+change seem break quest gossip innkeeper logic u add disable see quest least one quest condition fulfil quest gossip npc; 0; 2011-03-23 12:03:11
+copy/paste typo fortunately impact; 0; 2010-12-13 06:46:14
+awesome thank reduce npc_trainer table size least 50; 1; 2010-12-13 06:59:07
+fill way npc_trainer/npc_vendor u provide trainer_id/vendor_id creature_template; 0; 2010-12-13 09:19:55
+fixed 10869 thank; 1; 2010-12-13 09:44:09
+copy/paste typo fortunately impact; 0; 2010-12-13 06:46:14
+awesome thank reduce npc_trainer table size least 50; 1; 2010-12-13 06:59:07
+fill way npc_trainer/npc_vendor u provide trainer_id/vendor_id creature_template; 0; 2010-12-13 09:19:55
+fixed 10869 thank; 1; 2010-12-13 09:44:09
+traditionally forgoten ^^ thank point fix complete current commit; 0; 2010-11-05 07:40:11
+sorry bring template table would great trainer well; 1; 2010-11-20 18:18:57
+fixed 10684; 0; 2010-11-05 12:22:42
+trainer version plan start find time implement 10867; 0; 2010-12-13 06:43:59

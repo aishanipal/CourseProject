@@ -1,0 +1,8 @@
+comment; score; time
+'m process push fix n't think window like however ace include param.h platform support already two include actually seem unnecessary point fault copy old; 0; 2012-07-27 14:15:19
+ace port 6.1.2 mangos fails build order use core would update well assume 's dependent deprecated change method different long exist ace-6.x.x also resea; 0; 2012-07-28 06:57:13
+'m process push fix n't think window like however ace include param.h platform support already two include actually seem unnecessary point fault copy old; 0; 2012-07-27 14:15:19
+ace port 6.1.2 mangos fails build order use core would update well assume 's dependent deprecated change method different long exist ace-6.x.x also resea; 0; 2012-07-28 06:57:13
+delete work; 0; 2010-07-07 12:08:24
+delete work; 0; 2010-07-07 13:18:04
+willemavjc create thread getmangos.com forum collaborate issue find solution another commit post comment say osx freebsd similar however case; 0; 2010-07-07 12:56:42

@@ -1,0 +1,2 @@
+comment; score; time
+talent 64129 trigger spell 17 rank; 0; 2009-09-19 08:27:46

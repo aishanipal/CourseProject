@@ -1,0 +1,83 @@
+comment; score; time
+`` override override '' worthy inclusion annals history; 0; 2012-07-22 07:28:37
+works gcc 4.7.1 archlinux x86_64; 0; 2012-07-28 09:23:56
+build error override patchhandler.h bufferedsocket.h realmd code able clear error build successfully add include `` common.h '' test yet see unpleasant; 0; 2012-07-22 10:06:45
+make somewhere make someone single possible author code still unknown another author.. rsa troll match; 0; 2011-12-12 00:59:43
+original author broodwyrm trinitycore fork apr 2010. similate effect 43972 spell; 0; 2011-12-11 22:28:30
+even completely self-invent wheel square shape purple color make author wheel ps inability find original source boast ...; 0; 2011-12-17 04:09:01
+way effect would say code trivial trivial thing copyright; 0; 2011-12-17 05:55:52
+re-inventing blizzard 's wheel fashion must attribute authorship blizzard commits; 0; 2011-12-17 18:18:56
+shmoo congrats mangos-dev status; 1; 2011-09-03 13:40:52
+nice; 1; 2011-09-03 13:46:45
+schmoozerd finally dev cool cheers; 1; 2011-09-04 00:32:24
+ambal dev; 0; 2011-09-04 00:35:05
+congratulations; 1; 2011-09-04 01:56:53
+thank guy; 1; 2011-09-04 03:28:46
+'s late gz; 0; 2011-09-06 16:24:36
+thank; 1; 2011-07-14 08:06:30
+http //pastebin.com/7dfv60fq; 0; 2011-07-17 15:55:37
+undergarun auction table clean item_instance well delete item_instance owner_id==0 type blind wrong; 0; 2011-07-17 16:10:34
+skirnirmangos auction table 392.837 item owner_id 0; 0; 2011-07-17 23:52:55
+hm 'm 100 sure item auction get row item_instance row somehow exist truncate ahbot table 's delete well truncate ahbot item_instance entry owner_id==0 ahbots id dele; 0; 2011-07-18 01:13:40
+thank; 1; 2011-07-14 08:06:30
+http //pastebin.com/7dfv60fq; 0; 2011-07-17 15:55:37
+undergarun auction table clean item_instance well delete item_instance owner_id==0 type blind wrong; 0; 2011-07-17 16:10:34
+skirnirmangos auction table 392.837 item owner_id 0; 0; 2011-07-17 23:52:55
+hm 'm 100 sure item auction get row item_instance row somehow exist truncate ahbot table 's delete well truncate ahbot item_instance entry owner_id==0 ahbots id dele; 0; 2011-07-18 01:13:40
+die peace ahbot master ...; -1; 2011-07-08 11:42:10
+lol think mango many miss thing let wait; 0; 2011-07-08 11:52:28
+point; 0; 2011-07-08 12:22:15
+mangos nowadays gold era; 0; 2011-07-08 15:30:56
+http //pastebin.com/3karcv7h mtmaps 2 thread; 0; 2011-07-14 04:34:41
+ahbot code fact auction relate code call main update thread relate multi-threading code way version core problem; 0; 2011-07-14 04:48:35
+11739 fix one crash auction code case low chance relate crash case see problematic code moment ...; 0; 2011-07-14 06:09:02
+'m modify auction code still main update thread; 0; 2011-07-14 04:51:00
+ahsorter frequently crush 1 window *nix without utf8 default cp 2 db/server use one default language compiler default language fully solve disable case 5 sorter may approch mtmaps check; 0; 2011-07-14 11:31:39
+case help second comparing item null; 0; 2011-07-15 00:32:08
+may add `` include '' directive config multiply option like rabbit need analogic option scriptdev2.conf ...; 0; 2011-07-23 23:01:34
+script easily get value ​​from config mango produce configs guideline include even curve today; 0; 2011-07-24 01:44:20
+functionality thing buyer.enabled; 0; 2011-09-18 09:43:10
+die peace ahbot master ...; -1; 2011-07-08 11:42:10
+lol think mango many miss thing let wait; 0; 2011-07-08 11:52:28
+point; 0; 2011-07-08 12:22:15
+mangos nowadays gold era; 0; 2011-07-08 15:30:56
+http //pastebin.com/3karcv7h mtmaps 2 thread; 0; 2011-07-14 04:34:41
+ahbot code fact auction relate code call main update thread relate multi-threading code way version core problem; 0; 2011-07-14 04:48:35
+11739 fix one crash auction code case low chance relate crash case see problematic code moment ...; 0; 2011-07-14 06:09:02
+'m modify auction code still main update thread; 0; 2011-07-14 04:51:00
+ahsorter frequently crush 1 window *nix without utf8 default cp 2 db/server use one default language compiler default language fully solve disable case 5 sorter may approch mtmaps check; 0; 2011-07-14 11:31:39
+case help second comparing item null; 0; 2011-07-15 00:32:08
+may add `` include '' directive config multiply option like rabbit need analogic option scriptdev2.conf ...; 0; 2011-07-23 23:01:34
+script easily get value ​​from config mango produce configs guideline include even curve today; 0; 2011-07-24 01:44:20
+functionality thing buyer.enabled; 0; 2011-09-18 09:43:10
+awesome ...; 1; 2011-07-08 08:03:11
+mamma mia ... gigantic work..; 0; 2011-07-08 08:49:21
+'s da man silverice; 0; 2011-07-08 08:56:03
+oooo ... god great job; 1; 2011-07-08 09:03:38
+amazing thank; 1; 2011-07-08 09:07:16
+nice great job; 1; 2011-09-02 05:57:05
+whisper one look like huge step ahbot implementation yay; 1; 2011-06-29 13:50:39
+tomorrow bidder case need testing possible avoid fake player use main stopper review auction bot; 0; 2011-06-29 15:30:17
+one point unlimited `` love '' -scale nice day; 0; 2011-06-29 22:36:53
+base test problem command use must fix 11704; 0; 2011-07-01 19:28:52
+hmm note get crash auction use generate command item good use added command fix problem; 0; 2011-06-30 07:20:53
+thank; 1; 2011-07-01 22:13:22
+whisper one look like huge step ahbot implementation yay; 1; 2011-06-29 13:50:39
+tomorrow bidder case need testing possible avoid fake player use main stopper review auction bot; 0; 2011-06-29 15:30:17
+one point unlimited `` love '' -scale nice day; 0; 2011-06-29 22:36:53
+base test problem command use must fix 11704; 0; 2011-07-01 19:28:52
+hmm note get crash auction use generate command item good use added command fix problem; 0; 2011-06-30 07:20:53
+thank; 1; 2011-07-01 22:13:22
+whisper one look like huge step ahbot implementation yay; 1; 2011-06-29 13:50:39
+tomorrow bidder case need testing possible avoid fake player use main stopper review auction bot; 0; 2011-06-29 15:30:17
+one point unlimited `` love '' -scale nice day; 0; 2011-06-29 22:36:53
+base test problem command use must fix 11704; 0; 2011-07-01 19:28:52
+hmm note get crash auction use generate command item good use added command fix problem; 0; 2011-06-30 07:20:53
+thank; 1; 2011-07-01 22:13:22
+gm appear player instance raid fall instance map back graveyard; 0; 2011-03-13 23:44:23
+hmm stay instance raid 2 player teleport .goname command gm ok ...; 0; 2011-03-14 08:52:42
+vladimir build console right +1 wonder work well land inside instance different instance instance; 0; 2011-03-14 11:45:57
+whitespace; 0; 2011-01-06 09:26:54
+fixed 10976 thank; 1; 2011-01-06 19:16:34
+n't make blush; 0; 2010-08-09 00:36:11
+uh nvm seem cause bug http //getmangos.com/community/showthread.php t=8598; 0; 2009-06-20 13:26:19

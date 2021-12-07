@@ -1,0 +1,148 @@
+comment; score; time
+happy new year guy; 1; 2011-01-01 14:25:24
+happy new year; 1; 2011-01-01 11:34:39
+bonne années happy new year; 0; 2011-01-02 04:12:45
+wohoo nice; 1; 2010-11-21 04:10:38
+ty neo2003; 1; 2010-10-26 00:58:37
+old _buuilt_in_ version compile old freebsd way use builting cae use old ace version port freebsd package; 0; 2010-10-27 06:05:04
+anyway crash still exist http //getmangos.com/community/viewtopic.php id=9445 p=2 last 5 post; 0; 2010-10-27 06:11:35
+comment would helpful ..; 0; 2010-10-24 08:05:37
+... ask; 0; 2010-10-25 06:15:05
+thanks silverice; 1; 2010-10-27 21:07:48
+thanks; 1; 2010-10-27 22:41:36
+thanks u much; 1; 2010-10-28 05:20:57
+wow 's commit; 1; 2010-10-28 01:14:29
+think trajectory movement problem could handle similar way maybe; 0; 2010-10-28 09:01:49
+insider42 right old problem still us; 0; 2010-10-29 02:53:42
+axxus look like old crash new place ^^; 0; 2010-10-29 00:33:04
+ty; 1; 2010-10-28 01:22:12
+http //pastebin.com/eyhnhhpd; 0; 2010-10-28 19:10:52
+take shape; 0; 2010-09-27 02:54:49
+vehicle commit 's nice ^^; 1; 2010-09-27 04:40:03
+damn today dream mango update 6.0.0 version wow add user patch mangos.. dream; 0; 2010-09-26 03:19:21
+lol; 1; 2010-09-26 04:05:36
+`` add user patch mangos '' stop loading ... cleary user patch make sense add ... source long add time need review research relate problem sure suggest patch correct; 0; 2010-09-26 04:12:06
+agreed wise man say; 1; 2010-09-26 07:02:13
+damn today dream mango update 6.0.0 version wow add user patch mangos.. dream; 0; 2010-09-26 03:19:21
+lol; 1; 2010-09-26 04:05:36
+`` add user patch mangos '' stop loading ... cleary user patch make sense add ... source long add time need review research relate problem sure suggest patch correct; 0; 2010-09-26 04:12:06
+agreed wise man say; 1; 2010-09-26 07:02:13
+fix global cd issue macro cant cast 2 spell time even gcd; 0; 2010-09-24 02:12:51
+must; 0; 2010-09-24 02:15:27
+cool; 1; 2010-09-24 00:28:52
+epic keep go good job; 0; 2010-09-13 00:28:02
+must fix 10484 ofr similar future case; 0; 2010-09-14 10:31:47
+ahh also 'm right; 0; 2010-09-03 14:03:14
+2.f mistake 2.0f 2.f cod standard; 0; 2010-09-03 15:49:35
+think `` '' mistake ... would 2f 2.0f haha wrong; 0; 2010-09-03 15:51:52
+interchangeable 's old convention; 0; 2010-09-03 16:22:11
+typo buid grantz dev status p; 0; 2010-07-08 16:04:05
+time n't remove anything spell.dbc; 0; 2010-07-01 23:20:47
+gear work; 0; 2010-07-02 03:30:01
+fact big difference 3.3.3 vs. 3.3.5a release prev release half year past mark point development restore functionality prev post-release client switch; 0; 2010-07-02 03:44:41
+lot work commit good work; 1; 2010-06-11 13:06:49
+sorry wrong right; -1; 2010-06-13 02:45:08
+delete; 0; 2010-06-13 02:38:37
+congrats; 1; 2010-05-28 09:53:23
+hahaha grats; 1; 2010-05-28 09:58:30
+10 001 revert commit back; 0; 2010-05-28 10:02:39
+спасибо вам владимир; 0; 2010-05-28 10:06:21
+w00t; 1; 2010-05-28 10:45:23
+epic; 0; 2010-05-28 10:55:06
+lol good team; 1; 2010-05-28 11:14:48
+give congratulation; 1; 2010-05-28 11:20:31
+graz good work; 1; 2010-05-28 12:04:30
+10000 revision congratulation thank people help; 1; 2010-05-28 13:02:40
+gz 10000 best commits; 1; 2010-05-28 13:32:19
+gj 10 000 10x; 0; 2010-05-28 19:01:14
+congratz thanks everything; 1; 2010-05-28 20:51:50
+1 question remove data; 0; 2010-04-09 07:13:16
+corpse data see player case already add character_stats table specially armopry like publishing; 0; 2010-04-09 13:49:27
+see store redundant data need save; 0; 2010-04-09 10:06:30
+'m get error ar line 460 old_mover_guid undefined something advice; 0; 2010-03-10 11:41:14
+modify source; 0; 2010-03-10 12:15:15
+bit 'm gon na check temp modify mover_guid ... dunno work server uptime 13 h far ...; 0; 2010-03-11 01:32:55
+'m get error ar line 460 old_mover_guid undefined something advice; 0; 2010-03-10 11:41:14
+modify source; 0; 2010-03-10 12:15:15
+bit 'm gon na check temp modify mover_guid ... dunno work server uptime 13 h far ...; 0; 2010-03-11 01:32:55
+*stabs .gitconfig furiously*; 0; 2010-03-02 06:20:04
+funny riboncore commit exactly one -- http //code.google.com/p/trinitycore/source/detail r=2a552f1e989a1cf083af0dc4b239cc3c16bfe701 -- coincidentally happen ...; 0; 2010-03-02 11:39:10
+know ribon derivated trinity trinity derivated mango funny mango get il last; 0; 2010-03-02 11:40:56
+great; 1; 2010-02-20 18:52:40
+achievement_criteria_type_equip_epic_item also use statistic work; 0; 2010-02-20 20:10:22
+achieveme nt_crit eria_typ e_equip _epi c_item; 0; 2010-02-20 20:10:39
+achievement_criteria_require_s_equiped_item_lvl think maybe 's `` superior '' `` epic ''; 0; 2010-02-21 05:59:37
+pvp kill achievement timed achievement must work another need script support; 0; 2010-02-21 13:59:41
+achievement u need kill x mob sec go implement; 0; 2010-02-21 09:02:09
+great; 1; 2010-02-20 18:52:40
+achievement_criteria_type_equip_epic_item also use statistic work; 0; 2010-02-20 20:10:22
+achieveme nt_crit eria_typ e_equip _epi c_item; 0; 2010-02-20 20:10:39
+achievement_criteria_require_s_equiped_item_lvl think maybe 's `` superior '' `` epic ''; 0; 2010-02-21 05:59:37
+pvp kill achievement timed achievement must work another need script support; 0; 2010-02-21 13:59:41
+achievement u need kill x mob sec go implement; 0; 2010-02-21 09:02:09
+great; 1; 2010-02-20 18:52:40
+achievement_criteria_type_equip_epic_item also use statistic work; 0; 2010-02-20 20:10:22
+achieveme nt_crit eria_typ e_equip _epi c_item; 0; 2010-02-20 20:10:39
+achievement_criteria_require_s_equiped_item_lvl think maybe 's `` superior '' `` epic ''; 0; 2010-02-21 05:59:37
+pvp kill achievement timed achievement must work another need script support; 0; 2010-02-21 13:59:41
+achievement u need kill x mob sec go implement; 0; 2010-02-21 09:02:09
+mean 3.3.2 n't; 0; 2010-02-05 12:53:33
+ahahah; 0; 2010-02-05 14:12:27
+3.3.2; 0; 2010-02-06 03:34:53
+need db support vehicle work scriptdev aswell btw nice work; 0; 2010-02-05 16:48:25
+cool; 1; 2010-02-05 16:45:10
+yes 's 3.3.2 3.2.2 's typo error ^^; 0; 2010-02-06 04:20:51
+hadnt realize mango still back 3.3.0a til update ... evo-x-core support 3.3.2 quite ...; 0; 2010-02-06 05:31:35
+; -1; 2010-02-06 06:36:12
+-.- quite ... n't even week since 3.3.2 come wo n't say `` correct word '' really need hear rhythm stfu; 0; 2010-02-06 06:26:13
+evo-x cheap/fake magos copy opinion dunno write 3razar3; 0; 2010-02-06 07:01:09
+lol; 1; 2010-02-06 07:38:16
+damn right keep vladimir good work; 0; 2010-02-06 09:10:36
+still waitting `` 99-90 ''; 0; 2010-02-06 09:11:06
+sound like good plan ... belive term come mind `` put ... '' know rest ...; 0; 2010-02-06 09:37:37
+delete next note relate mangos strictly; 0; 2010-02-06 10:29:57
+mean 3.3.2 n't; 0; 2010-02-05 12:53:33
+ahahah; 0; 2010-02-05 14:12:27
+3.3.2; 0; 2010-02-06 03:34:53
+need db support vehicle work scriptdev aswell btw nice work; 0; 2010-02-05 16:48:25
+cool; 1; 2010-02-05 16:45:10
+yes 's 3.3.2 3.2.2 's typo error ^^; 0; 2010-02-06 04:20:51
+hadnt realize mango still back 3.3.0a til update ... evo-x-core support 3.3.2 quite ...; 0; 2010-02-06 05:31:35
+; -1; 2010-02-06 06:36:12
+-.- quite ... n't even week since 3.3.2 come wo n't say `` correct word '' really need hear rhythm stfu; 0; 2010-02-06 06:26:13
+evo-x cheap/fake magos copy opinion dunno write 3razar3; 0; 2010-02-06 07:01:09
+lol; 1; 2010-02-06 07:38:16
+damn right keep vladimir good work; 0; 2010-02-06 09:10:36
+still waitting `` 99-90 ''; 0; 2010-02-06 09:11:06
+sound like good plan ... belive term come mind `` put ... '' know rest ...; 0; 2010-02-06 09:37:37
+delete next note relate mangos strictly; 0; 2010-02-06 10:29:57
+mean 3.3.2 n't; 0; 2010-02-05 12:53:33
+ahahah; 0; 2010-02-05 14:12:27
+3.3.2; 0; 2010-02-06 03:34:53
+need db support vehicle work scriptdev aswell btw nice work; 0; 2010-02-05 16:48:25
+cool; 1; 2010-02-05 16:45:10
+yes 's 3.3.2 3.2.2 's typo error ^^; 0; 2010-02-06 04:20:51
+hadnt realize mango still back 3.3.0a til update ... evo-x-core support 3.3.2 quite ...; 0; 2010-02-06 05:31:35
+; -1; 2010-02-06 06:36:12
+-.- quite ... n't even week since 3.3.2 come wo n't say `` correct word '' really need hear rhythm stfu; 0; 2010-02-06 06:26:13
+evo-x cheap/fake magos copy opinion dunno write 3razar3; 0; 2010-02-06 07:01:09
+lol; 1; 2010-02-06 07:38:16
+damn right keep vladimir good work; 0; 2010-02-06 09:10:36
+still waitting `` 99-90 ''; 0; 2010-02-06 09:11:06
+sound like good plan ... belive term come mind `` put ... '' know rest ...; 0; 2010-02-06 09:37:37
+delete next note relate mangos strictly; 0; 2010-02-06 10:29:57
+mean 3.3.2 n't; 0; 2010-02-05 12:53:33
+ahahah; 0; 2010-02-05 14:12:27
+3.3.2; 0; 2010-02-06 03:34:53
+need db support vehicle work scriptdev aswell btw nice work; 0; 2010-02-05 16:48:25
+cool; 1; 2010-02-05 16:45:10
+yes 's 3.3.2 3.2.2 's typo error ^^; 0; 2010-02-06 04:20:51
+hadnt realize mango still back 3.3.0a til update ... evo-x-core support 3.3.2 quite ...; 0; 2010-02-06 05:31:35
+; -1; 2010-02-06 06:36:12
+-.- quite ... n't even week since 3.3.2 come wo n't say `` correct word '' really need hear rhythm stfu; 0; 2010-02-06 06:26:13
+evo-x cheap/fake magos copy opinion dunno write 3razar3; 0; 2010-02-06 07:01:09
+lol; 1; 2010-02-06 07:38:16
+damn right keep vladimir good work; 0; 2010-02-06 09:10:36
+still waitting `` 99-90 ''; 0; 2010-02-06 09:11:06
+sound like good plan ... belive term come mind `` put ... '' know rest ...; 0; 2010-02-06 09:37:37
+delete next note relate mangos strictly; 0; 2010-02-06 10:29:57

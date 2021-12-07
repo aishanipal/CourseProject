@@ -1,0 +1,6 @@
+comment; score; time
+const_cast perfectly fit case need remove const modifier spellentry const*; 0; 2011-07-30 05:19:25
+static_cast slowdown cast type use multiple inheritance; 0; 2011-08-26 11:19:41
+hmm good note yes case multiple inheritance require additional code generation compiler cast work simplified comparison dynamic case way require; 0; 2011-08-26 13:01:40
+yes mutiply inheritance case generate real code mostly update 'this pointer register different no-op case const_cast reinterpret_cast note code cleary simple generate dynamic_cast code least; 0; 2011-08-27 12:33:28
+static_cast operator compile-time operation oppose dynamic_cast execution-time operation relies rtti; 0; 2011-08-27 03:51:05

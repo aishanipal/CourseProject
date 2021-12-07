@@ -1,0 +1,118 @@
+comment; score; time
+yaaay; 0; 2012-09-23 14:08:45
+n't think gcc 's gon na like `` override '' ...; 0; 2012-06-24 10:45:50
+method define override class unit result execution unit :getrace dependent compiler ...; 0; 2012-06-24 10:49:26
+somewhere `` define override `` line compiler n't know keyword; 0; 2012-06-24 10:57:09
+'s 'creature- setrace getcreaturemodelrace getnativedisplayid somewhere creature initialization code; 0; 2012-06-24 10:59:36
+oh ok bad and..what keyword; -1; 2012-06-24 11:07:38
+n't think gcc 's gon na like `` override '' ...; 0; 2012-06-24 10:45:50
+method define override class unit result execution unit :getrace dependent compiler ...; 0; 2012-06-24 10:49:26
+somewhere `` define override `` line compiler n't know keyword; 0; 2012-06-24 10:57:09
+'s 'creature- setrace getcreaturemodelrace getnativedisplayid somewhere creature initialization code; 0; 2012-06-24 10:59:36
+oh ok bad and..what keyword; -1; 2012-06-24 11:07:38
+note think tc add something similar time ago add base outdoor pvp research write although could use code really worth effort ...; 0; 2012-04-12 13:08:00
+well provide additional parameter required animation id call animid likely invention one person; 0; 2012-04-12 14:21:11
+real usage 're say need outdoor pvp pvp objective something; 0; 2012-04-12 14:33:13
+need check old value one encounter credit may reach one time; 0; 2011-09-04 06:31:30
+fully functional replace impossible check state encounter dungeon; 0; 2011-09-04 06:51:17
+exactly creature kill single call spell :finish; 0; 2011-09-04 07:36:30
+see may multi-boss last encounter spell may cast unexpected bos respawn; 0; 2011-09-04 07:47:08
+state talk encounter complete reflect m_completedencountersmask far know n't link encounter map need load map id difficulty ofc ca; 0; 2011-09-04 07:47:45
+spell cast expect encounter complete case wrong 've see multi-boss encounter always spell dependency 's update simple kill; 0; 2011-09-04 07:49:07
+well desire leave open use bug error db script hard find everyone forget; -1; 2011-09-04 08:30:28
+dont need complete encounter order receive lfg reward least n't wotlk guess matter anyway thanks patch; 0; 2011-09-04 08:57:31
+'s discussied question ... 50/50 different opinion problem anyway possibility check complete separate encouter must check mask good idea encounter may disable dbc double heroic additional boss; 0; 2011-09-04 09:12:30
+think label wrong manually edit; 0; 2011-09-06 20:18:42
+awesome ...; 1; 2011-07-08 08:03:11
+mamma mia ... gigantic work..; 0; 2011-07-08 08:49:21
+'s da man silverice; 0; 2011-07-08 08:56:03
+oooo ... god great job; 1; 2011-07-08 09:03:38
+amazing thank; 1; 2011-07-08 09:07:16
+nice great job; 1; 2011-09-02 05:57:05
+comment would helpful ..; 0; 2010-10-24 08:05:37
+... ask; 0; 2010-10-25 06:15:05
+opcodes.cpp 0x50f 0x511 worldsession :handle_serverside; 0; 2010-05-01 13:38:34
+unlike comrades.. big issue mangos-dev push commit without make sure compile fuck previous work ... hellscream evo-x might worship u think lazy bastard ... could least comm; 0; 2010-05-01 15:50:25
+dont even try work otehr else issue wouldnt occur ... want naysay tell push broken repos ... repo countless others prior; 0; 2010-05-01 15:52:44
+know absolute fact completely ignore work accredited repos attempt work think individual repository; 0; 2010-05-01 15:51:38
+3razar3 wo n't comment opinion mangos team tell statement even remotely relate commit ...; 0; 2010-05-01 17:26:44
+dont use fork; 0; 2010-05-01 21:04:49
+3razar3 please dont drag ok; 1; 2010-05-02 12:47:29
+n't use fork like mangos devs anyways actually write vladimir say would care word comment seem totally unrelated pointless mention r; 0; 2010-05-02 14:05:30
+yeah okay bad ... disregard last 24hrs comment; -1; 2010-05-02 14:34:51
+laise huge update awesome thanks; 1; 2010-04-27 03:41:50
+thanks; 1; 2010-04-27 03:50:46
+awesome; 1; 2010-04-27 04:01:28
+oh god laise 're beast p; 0; 2010-04-27 09:35:00
+except easy code future also fix damage/heal time aura store caster damage apply meaning caster example dy dot still amount damage dependent target side ofc; 0; 2010-04-27 07:20:05
+oh god laise 're beast p; 0; 2010-04-27 09:35:00
+also fix shatter combo; 0; 2010-04-28 06:11:06
+shatter combo fix 9784; 0; 2010-04-28 21:18:24
+already revert revision xd; 1; 2010-04-28 23:41:27
+anyone high conflagrate damage spelleffects.cpp line 512-513 try remove call spelldamagebonusdone maybe also taken; 0; 2010-04-28 21:27:08
+clean core happen; 1; 2010-05-03 00:53:10
+'s bugreport core user n't test already maybe specific condition bug ... try get info user think patch ca n't cause bug affect single spell start aft; 0; 2010-05-03 01:16:46
+100 clean core spell paladin; 0; 2010-05-03 02:33:29
+bug mage talent 12606 spell 43015 receive damage example dk blood plague receive million damage; 0; 2010-05-03 00:29:32
+wrong value come insider addition sorry ^_^; -1; 2010-05-04 14:07:59
+note bug happen rank 7 dampen magic rank 6 dont bug use win server 2008 x64; 0; 2010-05-03 19:17:02
+db value wowka321 didnt manually edit come 1 db provider ytdb 2 core update; 0; 2010-05-03 20:55:20
+thx laise ^^; 1; 2010-05-03 21:50:36
+thx xd; 1; 2010-05-11 12:16:43
+`` return '' cause affected spell calculate spelldamagebonusdone/meeleedamagebonusdone; 0; 2010-05-11 08:15:23
+thanks; 1; 2010-04-23 12:31:24
+spell like http //www.wowhead.com/spell=29722 http //www.wowhead.com/spell=47541 http //www.wowhead.com/spell=24275 etc crazy damage amount sometimes commit; 0; 2010-04-24 09:25:20
+laise find already source problem possible soon tm fixed.. bet fix way find; 0; 2010-04-24 14:20:56
+something miss null pointer check maybe ...; 0; 2010-04-05 06:14:37
+ca n't null way m_talententry fill; 0; 2010-04-05 12:54:12
+also remove title bye bye title epic fail; 0; 2010-03-27 13:36:09
+help lot web management page; 0; 2010-03-27 15:44:55
+wow cant believe already everything columns/tables good work; 1; 2010-03-28 02:19:28
+yessssssssssssssss good work performance db kill item_instance blob ... db fly ^^ good work devel; 0; 2010-03-28 05:20:53
+actually read commit would see character data backed-up nothing actually lose unless choose drop back-ups make back-ups use late commit make title work; 0; 2010-03-27 21:22:02
+item_instance use character_inventory also table like mail_items ca n't merge one ...; 0; 2010-03-29 01:05:51
+nanouniko know think long time ago merge table one could help manage item cause share similar information; 0; 2010-03-28 16:36:30
+hunuza thanks tip; 1; 2010-03-29 15:04:17
+like know arcemu; 1; 2010-03-29 23:28:32
+n't know arcemu probably different database design ...; 0; 2010-03-30 01:38:51
+wow guy congrats ... pretty big milestone imo; 1; 2010-03-29 20:51:49
+thx; 1; 2010-02-22 12:07:27
+thanks =d; 1; 2010-02-22 12:16:04
+thanks need lot crash fix; 0; 2010-02-22 12:28:58
+see crash script code hell relate core go fix script; 0; 2010-02-22 13:43:40
+really fix still crash; 0; 2010-02-22 13:16:43
+ok always wrong read post anyway care crash without useful info ...; -1; 2010-02-22 13:51:27
+yes problem present mangos _without_ sd2 server crash load creature long movement list one-two may anyone present db; 0; 2010-02-22 13:58:05
+see like crash possible broken db ... need real data catch script data create porblems must easy provide way reporduce ...; 0; 2010-02-22 14:02:26
+'m manually re-apply movement list creature 94985 ytdb 5-6 crash load creature nothing criminal list ...; 0; 2010-02-22 14:08:26
+data data crash backtrace help ... know crash help crash source ...; -1; 2010-02-22 14:48:27
+fix.. crash ...; -1; 2010-02-22 14:12:21
+great lift 1000needles barrens give dc; 0; 2010-02-22 14:52:09
+crash taxi write taxi path crash ppl write something crash useless info possible need real specific data repeating; 0; 2010-02-22 14:50:17
+crash ...; -1; 2010-02-22 16:14:08
+sorry previous post -.- try put post code; 0; 2010-02-22 17:32:17
+hmm forum ... ah yes polite spam comment commits ...; 0; 2010-02-23 05:27:20
+besides also open comment ... dont see difficult test-compiling repo commit it.. think perfectly okay push broken repos remind pull ...; 0; 2010-02-07 13:51:08
+3razar3 shut 's compile error clean mango commit n't care forks/custom patch pull branch without even provide info commit author; 0; 2010-02-07 13:57:47
+3razar3 really gtfo.. tom far one best programmer scene also test build compile fine learn2cleancompile scrub; 0; 2010-02-07 14:08:31
+must issue coding clean revision compile fine; 0; 2010-02-07 14:19:18
+mention early worry ... evo fix flaw late commit ... suppose mango say steal well..; 0; 2010-02-07 14:20:50
+would glad write name use script repo ... http //github.com/beleko/evo-x-core/commit/e87f9ab7b5d1c377f03d61f257675494954db176; 0; 2010-02-08 05:51:14
+ok deeply sorry post delete matter repo angry saw; 0; 2010-02-08 06:20:58
+besides also open comment ... dont see difficult test-compiling repo commit it.. think perfectly okay push broken repos remind pull ...; 0; 2010-02-07 13:51:08
+3razar3 shut 's compile error clean mango commit n't care forks/custom patch pull branch without even provide info commit author; 0; 2010-02-07 13:57:47
+3razar3 really gtfo.. tom far one best programmer scene also test build compile fine learn2cleancompile scrub; 0; 2010-02-07 14:08:31
+must issue coding clean revision compile fine; 0; 2010-02-07 14:19:18
+mention early worry ... evo fix flaw late commit ... suppose mango say steal well..; 0; 2010-02-07 14:20:50
+would glad write name use script repo ... http //github.com/beleko/evo-x-core/commit/e87f9ab7b5d1c377f03d61f257675494954db176; 0; 2010-02-08 05:51:14
+ok deeply sorry post delete matter repo angry saw; 0; 2010-02-08 06:20:58
+great work thx; 1; 2009-10-09 09:31:33
+thanks; 1; 2009-10-09 09:28:51
+bug fix; 0; 2009-10-09 10:01:44
+wonderful; 1; 2009-10-09 14:17:35
+way go; 0; 2009-10-09 11:06:51
+nice work thanx; 1; 2009-10-09 21:00:37
+nice thx xd; 1; 2009-10-09 14:27:34
+anyway add new target support rev; 0; 2009-09-29 07:37:55
+forget add damn =/; -1; 2009-09-27 03:06:49
+isnt new rev; 0; 2009-09-27 02:06:24

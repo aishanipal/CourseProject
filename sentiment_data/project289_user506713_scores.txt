@@ -1,0 +1,122 @@
+comment; score; time
+hm yes indeed matter opinion bad selection word really maybe would need defined style sql update accord; 0; 2011-01-29 03:34:40
+beautification turn uglification nofantasy except u format fix acceptable; 1; 2011-01-29 04:36:07
+well 's pretty safe say different opinion 'll make post forum least see able make unified style sql sql go log file main concern; 0; 2011-01-29 06:11:03
+beautify imho whatever x pretty whatever=x; 1; 2011-01-29 02:47:03
+thank ambal; 1; 2011-01-22 10:54:38
+recent issue disappeared pet inability delete char login freeze etc introduce 11045 fix commit; 0; 2011-01-21 16:11:32
+http //paste.org/pastebin/view/27627; 0; 2011-01-20 16:48:12
+great work ...; 1; 2011-01-19 13:44:15
+thank boyz next target prepared statement; 1; 2011-01-19 14:02:29
+indeed great work always nice see optimization mango; 1; 2011-01-19 13:54:40
+jethro84530 issue fix 11049 thank report; 0; 2011-01-19 14:51:40
+epic commit; 1; 2011-01-19 17:53:29
+hi ambal know late player start report pet loss problem stable since test patch; 0; 2011-01-19 18:43:00
+note since pool character selects; 0; 2011-01-19 18:43:23
+jethro84530 warning worry 'll fix get back pc; 0; 2011-01-20 03:12:35
+boyz update 11061 new rev issue cause disabled 'autocommit mysql mode fix; 0; 2011-01-21 16:15:11
+great work ...; 1; 2011-01-19 13:44:15
+thank boyz next target prepared statement; 1; 2011-01-19 14:02:29
+indeed great work always nice see optimization mango; 1; 2011-01-19 13:54:40
+jethro84530 issue fix 11049 thank report; 0; 2011-01-19 14:51:40
+epic commit; 1; 2011-01-19 17:53:29
+hi ambal know late player start report pet loss problem stable since test patch; 0; 2011-01-19 18:43:00
+note since pool character selects; 0; 2011-01-19 18:43:23
+jethro84530 warning worry 'll fix get back pc; 0; 2011-01-20 03:12:35
+boyz update 11061 new rev issue cause disabled 'autocommit mysql mode fix; 0; 2011-01-21 16:15:11
+scripting library need adjust accordingly nofantasy `` happy '' patch thats sure; 0; 2010-12-29 10:07:53
+jajajajajajajajaja xd `` happy sure ''; 1; 2010-12-29 10:39:41
+read commit note 'll need updated sd2 fix come soon; 0; 2010-12-29 13:04:59
+without corrects scriptmgr call sd2 library load; 0; 2010-12-29 13:17:33
+compile fix 10938; 0; 2010-12-29 13:31:08
+thank much; 1; 2010-12-27 17:00:32
+guys 'll find issue current commit report asap 'll able fix quickly; 0; 2010-12-27 17:05:47
+lynx3d issue fix 10931 thank report; 0; 2010-12-28 14:39:42
+thanks silverice; 1; 2010-10-27 21:07:48
+thanks; 1; 2010-10-27 22:41:36
+thanks u much; 1; 2010-10-28 05:20:57
+wow 's commit; 1; 2010-10-28 01:14:29
+think trajectory movement problem could handle similar way maybe; 0; 2010-10-28 09:01:49
+insider42 right old problem still us; 0; 2010-10-29 02:53:42
+axxus look like old crash new place ^^; 0; 2010-10-29 00:33:04
+ty; 1; 2010-10-28 01:22:12
+http //pastebin.com/eyhnhhpd; 0; 2010-10-28 19:10:52
+thanks u much; 1; 2010-10-09 11:47:09
+relate locales_gameobject locales_pagetext table affect u use english russian default language; 0; 2010-10-09 12:12:40
+cool finally crash eses locale fix; 0; 2010-10-09 12:16:05
+english russian special p; 1; 2010-10-09 22:40:20
+thanks lot ^^; 1; 2010-10-09 14:10:44
+one miss case gossip locales http //pastebin.com/izfbznzp crashdump clean source know problem; 0; 2010-10-10 07:35:10
+maybe need move gossip locales ...; 0; 2010-10-10 08:24:15
+revert commit fix http //gist.github.com/619376 crash strange; -1; 2010-10-10 10:17:07
+may version gcc relate also crush commit ...; 0; 2010-10-10 10:42:49
+thank test; 1; 2010-10-10 12:10:31
+thanks u much; 1; 2010-10-09 11:47:09
+relate locales_gameobject locales_pagetext table affect u use english russian default language; 0; 2010-10-09 12:12:40
+cool finally crash eses locale fix; 0; 2010-10-09 12:16:05
+english russian special p; 1; 2010-10-09 22:40:20
+thanks lot ^^; 1; 2010-10-09 14:10:44
+one miss case gossip locales http //pastebin.com/izfbznzp crashdump clean source know problem; 0; 2010-10-10 07:35:10
+maybe need move gossip locales ...; 0; 2010-10-10 08:24:15
+revert commit fix http //gist.github.com/619376 crash strange; -1; 2010-10-10 10:17:07
+may version gcc relate also crush commit ...; 0; 2010-10-10 10:42:49
+thank test; 1; 2010-10-10 12:10:31
+thanks u much; 1; 2010-10-09 11:47:09
+relate locales_gameobject locales_pagetext table affect u use english russian default language; 0; 2010-10-09 12:12:40
+cool finally crash eses locale fix; 0; 2010-10-09 12:16:05
+english russian special p; 1; 2010-10-09 22:40:20
+thanks lot ^^; 1; 2010-10-09 14:10:44
+one miss case gossip locales http //pastebin.com/izfbznzp crashdump clean source know problem; 0; 2010-10-10 07:35:10
+maybe need move gossip locales ...; 0; 2010-10-10 08:24:15
+revert commit fix http //gist.github.com/619376 crash strange; -1; 2010-10-10 10:17:07
+may version gcc relate also crush commit ...; 0; 2010-10-10 10:42:49
+thank test; 1; 2010-10-10 12:10:31
+thanks silverice; 1; 2010-10-27 21:07:48
+thanks; 1; 2010-10-27 22:41:36
+thanks u much; 1; 2010-10-28 05:20:57
+wow 's commit; 1; 2010-10-28 01:14:29
+think trajectory movement problem could handle similar way maybe; 0; 2010-10-28 09:01:49
+insider42 right old problem still us; 0; 2010-10-29 02:53:42
+axxus look like old crash new place ^^; 0; 2010-10-29 00:33:04
+ty; 1; 2010-10-28 01:22:12
+http //pastebin.com/eyhnhhpd; 0; 2010-10-28 19:10:52
+yeah crash even localhost use eyes beast http //www.wowhead.com/spell=1002; 0; 2010-07-24 16:35:47
+discuss; 0; 2010-07-25 00:15:26
+'ve see copy x3 time still clean src; 0; 2010-07-25 09:01:39
+axxus understand 's entirely possible aura system already finish stable 's one patch incompatible even likely people extra patch gettin; 0; 2010-07-25 12:17:56
+understand use clean source player order offer crashdumps ... difficult repeat crash test enviroment revert 10155 try backport new collision vmaps system n; 0; 2010-07-25 11:54:08
+; -1; 2010-06-15 08:59:30
+think relate http //pastebin.com/eb6ncacg; 0; 2010-06-15 10:05:15
+update 10065 30 min crash; 0; 2010-06-15 11:33:09
+fixed commit lol; 1; 2010-06-15 11:51:27
+wow rev 9999 surprise rev 10.000; 1; 2010-05-28 08:57:43
+whitespace remove 10000 must something epic; 0; 2010-05-28 08:58:18
+definitely typo-fix; 1; 2010-05-28 09:04:45
+hope 's gon na like rev 9000 http //github.com/mangos/mangos/commit/8e8f7710e8baf29196256c6e0afcce1b7d3f3671 -d; 0; 2010-05-28 09:06:12
+f5 f5 f5 f5 f5 f5 f5 f5; 0; 2010-05-28 09:08:25
+lol; 1; 2010-05-28 09:09:00
+kero99 yep 's; 1; 2010-05-28 09:16:47
+tik tak tik tak 10k cooming soon; 0; 2010-05-28 09:19:09
+hope rev 10000 add support vehicle; 1; 2010-05-28 09:20:03
+http //twitter.com/mangoschangelog ftw; 1; 2010-05-28 09:24:48
+vehicle work custom patch master nice dream; 0; 2010-05-28 09:24:55
+f5 zzzzzzzzz ... f5 zzzzzzzzzzzz ... f5 zzzzzzzzzzzz ... f5 zzzzzzzzzz ...; 0; 2010-05-28 09:27:44
+/kero99 xd; 1; 2010-05-28 09:35:42
+vote multiprocessing; 0; 2010-05-28 09:49:47
+/cast target=vladimirmangos mind vision; 0; 2010-05-28 09:35:21
+lol hop something long like hell; 1; 2010-05-28 09:55:46
+mango core problem use broken custom patch; -1; 2010-05-12 20:04:21
+see hackworld use mtmaps; 0; 2010-05-12 21:51:07
+definitely hsc ... dont even recognize code ... whats think vlad; 0; 2010-05-12 21:04:36
+ну используете мангос то тут причем в нем проблем нет; 0; 2010-05-13 05:32:09
+hva er poenget med å skrive russisk kanskje alle skal begynne å skrive sitt eget morsmål sånn som dette bare å gjøre ting enda mer vanskelig; 0; 2010-05-13 10:50:22
+為什麼都寫在俄羅斯？也許每個人都應該開始寫在他們的母語，只是複雜的一切？; 0; 2010-05-13 10:59:41
+просто следите за актуальностью патчей которые вы ставите на ядро и всё будет оке это явно не проблемы разработчиков мангоса; 0; 2010-05-13 10:29:17
+immer die russe wo gfühl hän sie mieste ihrer eigene sproch statt änglisch schribe ... tztztz; 0; 2010-05-13 16:39:56
+למה על הקומיט שלי אבל =\; 0; 2010-05-13 12:56:01
+insider42 за патчами я слежу все дело оказалось в настройке проекта share game мудил с оптимизаций кудато тыкнул и все нарушил линки на библиотеки вот и вся проблема из за этого тут такой балаган банально попросил привести хотя бы догадки к; 0; 2010-05-14 12:37:52
+hola que tal; 0; 2010-05-13 17:19:16
+good see use dbc 's case; 0; 2010-04-24 11:08:52
+example rsa 's script develop boss_spell_table useless compatible; 0; 2010-04-24 12:10:35
+thanks vladimir keep good work; 1; 2010-04-24 12:20:18
+thanks vladimir laise; 1; 2010-04-24 12:40:10

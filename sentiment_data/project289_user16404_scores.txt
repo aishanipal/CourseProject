@@ -1,0 +1,39 @@
+comment; score; time
+project link without special step ...; 0; 2012-07-18 23:03:41
+; -1; 2012-07-19 01:21:01
+ah thank check sd2 late today; 0; 2012-07-19 01:21:32
+fix sd2 2644 thank point; 0; 2012-07-19 04:47:31
+talk mark function export probably; 0; 2012-07-19 04:28:17
+n't think gcc 's gon na like `` override '' ...; 0; 2012-06-24 10:45:50
+method define override class unit result execution unit :getrace dependent compiler ...; 0; 2012-06-24 10:49:26
+somewhere `` define override `` line compiler n't know keyword; 0; 2012-06-24 10:57:09
+'s 'creature- setrace getcreaturemodelrace getnativedisplayid somewhere creature initialization code; 0; 2012-06-24 10:59:36
+oh ok bad and..what keyword; -1; 2012-06-24 11:07:38
+alarm webprogrammer intrusion detect; 0; 2012-02-08 15:28:56
+say; 0; 2012-02-08 15:43:57
+умерли; 0; 2011-08-22 01:18:39
+отпуск; 0; 2011-08-23 23:05:43
+все что хотели сделали.=; 0; 2011-08-24 02:12:59
+все эти замалчивания и перемещения репозиториев наводят на нехорошие мысли; 0; 2011-08-24 15:47:11
+use google translate; 0; 2011-08-28 12:17:40
+get everything weapon mh/oh intend behaviour; 0; 2011-05-08 10:22:47
+yes weapon clone spell ref dummy effect spell 43365 following spell cast example; 0; 2011-05-08 10:52:13
+confirm use spell_aura_mirror_image player i.g http //www.wowhead.com/item=58489; 0; 2011-05-08 10:59:43
+maybe something relate 4x would helpful ...; 0; 2011-05-08 11:23:31
+thanks; 1; 2011-05-08 11:00:16
+good use spell aura_247 replace old version patch completely stop work symptom old version development invisible mob example also p; 0; 2011-05-08 11:24:37
+since mangos dev push anything actually happy ... stop whining; 0; 2011-05-08 11:34:16
+'s actually 4.x spell ca n't find example wotlk spell; 0; 2011-05-08 12:09:05
+anyway spell devs n't use player-targets n't mean restriction might limitation 3.3.5 client code remove 4x; 0; 2011-05-08 12:14:57
+agree 's real reason check 's useless least add comment code maybe others test stuff see client accept even though none current spell expect clone another player; 0; 2011-05-08 13:58:30
+mean apply clone player clone player; 0; 2011-05-08 14:18:09
+yeah ... target aura player ...; 0; 2011-05-08 14:28:21
+try find msvcr100.dll compile vc90; 0; 2011-04-20 04:03:36
+install visual c++ 2010 redist; 0; 2011-04-20 04:11:53
+ok thx; 1; 2011-04-20 04:15:13
+need upgrade openssl lib linux; 0; 2011-05-12 11:41:55
+try find msvcr100.dll compile vc90; 0; 2011-04-20 04:03:36
+install visual c++ 2010 redist; 0; 2011-04-20 04:11:53
+ok thx; 1; 2011-04-20 04:15:13
+need upgrade openssl lib linux; 0; 2011-05-12 11:41:55
+spell occupy whole core..; 0; 2011-02-22 13:45:48

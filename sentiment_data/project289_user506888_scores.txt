@@ -1,0 +1,4 @@
+comment; score; time
+8 commits ...; 1; 2010-05-27 22:57:24
+yeah imagine rev 10k would 1 letter typo p; 0; 2010-05-28 02:27:54
+bug release 10000 bug year 2000 p; 0; 2010-05-28 02:37:33

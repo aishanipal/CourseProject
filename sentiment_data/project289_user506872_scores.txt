@@ -1,0 +1,6 @@
+comment; score; time
+check code see problem instresetevent current code.this local code problem ...; 0; 2010-06-21 22:29:22
+problem; -1; 2010-06-22 02:38:20
+fix 10095 thank; 1; 2010-06-22 02:36:05
+netsky 's custom patch compile error clean mango; 0; 2010-06-22 02:04:40
+least thanks commit; -1; 2010-06-22 03:26:01

@@ -1,0 +1,8 @@
+comment; score; time
+shmoo congrats mangos-dev status; 1; 2011-09-03 13:40:52
+nice; 1; 2011-09-03 13:46:45
+schmoozerd finally dev cool cheers; 1; 2011-09-04 00:32:24
+ambal dev; 0; 2011-09-04 00:35:05
+congratulations; 1; 2011-09-04 01:56:53
+thank guy; 1; 2011-09-04 03:28:46
+'s late gz; 0; 2011-09-06 16:24:36

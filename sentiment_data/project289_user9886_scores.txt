@@ -1,0 +1,25 @@
+comment; score; time
+lol; 1; 2013-05-24 12:25:11
+yyyyyyyyyyyyyyyyyyyyyyyyyyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaayyyyyyyyyyyyyyyyyyyyyyyyyyyyy; 0; 2013-05-24 10:32:41
+; -1; 2013-05-24 12:27:29
+bad idea; -1; 2013-05-24 13:54:48
+c; -1; 2013-05-24 14:12:19
+http //www.getmangos.co.uk http //www.getmangos.com join shortly; 0; 2013-05-24 14:05:56
+clarify person responsible find http //mangosbackupforum.com/; 0; 2013-05-25 07:43:41
+temporary solution whole gameevent system need code cleanup anyway ...; 0; 2013-01-10 13:48:54
+strange game event n't load db 'continue afterwards need set 0; 0; 2013-01-11 05:29:14
+failzord suggest revert repo dec 31 2012 readd commits proper c carriage return avoid broken git history modified file; 0; 2013-01-10 21:22:13
+probably hex mask ... 7 4 fly 2 whatever 1 whatever; 0; 2012-02-15 11:27:29
+agree hehe; 1; 2012-02-15 12:13:26
+great ^_^; 1; 2012-02-06 22:50:44
+great work; 1; 2012-02-07 01:19:20
+wtf happen; -1; 2012-02-07 00:51:46
+wow ... mangos rullz 's great day community; 1; 2012-02-07 01:21:08
+nice; 1; 2012-02-07 01:46:39
+не прошло и пару лет грац; 0; 2012-02-07 01:30:44
+congratulations; 1; 2012-02-07 05:56:49
+woot happen o.o; 1; 2012-02-07 09:52:48
+congratulation; 1; 2012-02-07 07:36:10
+cool; 1; 2012-02-07 10:05:05
+nice; 1; 2012-02-08 10:05:43
+pathfinding wow awesome; 1; 2012-02-23 22:33:57

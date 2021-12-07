@@ -1,0 +1,13 @@
+comment; score; time
+gameobjects link gameobject like pink visual aura dk portal ebon hold fix link go spawn gameobject type handle state change original gameobject; 0; 2010-02-07 02:11:40
+good thx; 1; 2010-02-07 07:24:49
+thanks lot creature speak player look much good speaking air; 0; 2009-10-11 02:46:34
+fix isnt prupourse u said..; 0; 2009-10-11 07:12:15
+xor b b number result 0 else different zero use compare isalive isdeathonlyspell; 0; 2009-09-29 08:01:35
+use; 0; 2009-09-29 19:42:33
+good question problem 2 true value 1 2; 1; 2009-09-30 04:19:35
+fix new revision; 0; 2009-09-30 07:11:36
+lol maaan; 1; 2009-09-04 08:54:57
+divide show code explicitly 2 uint16 field ofc open secret 0xffff uint16 -1; 0; 2009-09-04 13:24:25
+ok ...; 1; 2009-09-04 17:08:50
+'s bug like stance trigger aura; 0; 2009-08-15 03:37:18

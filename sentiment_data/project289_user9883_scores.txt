@@ -1,0 +1,247 @@
+comment; score; time
+lol; 1; 2013-05-24 12:25:11
+yyyyyyyyyyyyyyyyyyyyyyyyyyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaayyyyyyyyyyyyyyyyyyyyyyyyyyyyy; 0; 2013-05-24 10:32:41
+; -1; 2013-05-24 12:27:29
+bad idea; -1; 2013-05-24 13:54:48
+c; -1; 2013-05-24 14:12:19
+http //www.getmangos.co.uk http //www.getmangos.com join shortly; 0; 2013-05-24 14:05:56
+clarify person responsible find http //mangosbackupforum.com/; 0; 2013-05-25 07:43:41
+look spell must say mostly wonder whether wise use spell-range area-filling ...; 0; 2012-11-07 11:19:57
+exactly 50k radius; 0; 2012-11-06 15:50:25
+zakamurite contact way speak ...; 0; 2012-11-08 14:19:22
+x-savior skype yakikhadafi e-mail; 0; 2012-11-08 23:36:48
+email list git seem find account getmangos.com forum pm; 0; 2012-11-09 08:35:29
+zakamurite send e-mail; 0; 2012-11-12 10:23:44
+zakamurite please check email ... send message; 0; 2012-11-13 18:57:35
+godspeed schmoo; 0; 2012-08-24 09:16:32
+decide continue work http //github.com/cmangos; 0; 2012-08-26 04:44:45
+'s move code one place another error possible; 0; 2012-08-21 22:12:43
+receive guid use must may equal current charmguid different reaction also event must result opcode ...; 0; 2012-08-21 22:22:00
+aleays free keep notion; 1; 2012-08-22 08:28:13
+original method create placeholder move wrong bug code one place another please forgive stupidity think joking; 1; 2012-08-22 07:46:59
+rsa good style work git repo good commit part file move new file good code move without change possible also let add project file update independent code change also good clear change vie; 0; 2012-08-22 10:40:35
+владимир не берите на душу мне уже довольно давно надоело воевать с мельницами поэтому я больше прикалываюсь сейчас так вообще вся энергия ушла в -tree возможно это и хорошо хотя и втыкивание патчей с трехлетней историей тоже наверное плюс ... хз ...; 0; 2012-08-23 00:22:05
+создание плейсхолдера часто техническая операция переноса того что туда должно уйти причем тут ошибки главное некий критерий сортировки что к нему относиться и все исправление ошибок для других коммитов не вижу повода для приколов он например нуже; 0; 2012-08-23 02:25:23
+вот и надо было бы добавить чистый плейсхолдер без кода и без ошибок именно как плейсхолдер для дальнейшей работы не было бы повода прикалываться насчет добавления реализаций я не вижу что можно добавить рабочего из бранча kid10 там все настолько за; 0; 2012-08-23 02:39:42
+schmoozerd something tell leave project pity hardly somewhere find another leader ... 'm long time take seriously perhaps good behavior something offend apologize good luck; 0; 2012-08-23 09:14:49
+confirm rude n't think responsability; 0; 2012-08-23 09:26:32
+expect answer rudeness agree reflection real character 'm pretty much mangos member quite unintelligent profession bargain quiet place work past; 0; 2012-08-23 09:50:23
+schmoozerd may know n't mind course kinda sad see leave; 0; 2012-08-23 13:21:27
+nice catch; 1; 2012-08-02 02:19:53
+thanks merge pain; -1; 2012-07-19 14:30:20
+merge pain please provide patch open source community would keep big merge complication ...; 0; 2012-07-19 15:07:51
+mine p; 0; 2012-07-19 15:43:07
+time; 0; 2012-07-19 16:07:01
+tom_rus style xd; 1; 2012-07-19 20:17:13
+zakamurite 've stop merges time ago advise ...; 0; 2012-07-19 21:14:05
+keep hostility towards mangos; -1; 2012-07-20 04:12:01
+githubs eats comment; 0; 2012-07-19 23:12:02
+please offer tool witch change style option make project; 0; 2012-07-20 04:23:16
+reamer imo 's use perl regexpes ...; 0; 2012-07-20 04:24:25
+question hostility towards anyone; -1; 2012-07-20 04:25:55
+project link without special step ...; 0; 2012-07-18 23:03:41
+; -1; 2012-07-19 01:21:01
+ah thank check sd2 late today; 0; 2012-07-19 01:21:32
+fix sd2 2644 thank point; 0; 2012-07-19 04:47:31
+talk mark function export probably; 0; 2012-07-19 04:28:17
+project link without special step ...; 0; 2012-07-18 23:03:41
+; -1; 2012-07-19 01:21:01
+ah thank check sd2 late today; 0; 2012-07-19 01:21:32
+fix sd2 2644 thank point; 0; 2012-07-19 04:47:31
+talk mark function export probably; 0; 2012-07-19 04:28:17
+project link without special step ...; 0; 2012-07-18 23:03:41
+; -1; 2012-07-19 01:21:01
+ah thank check sd2 late today; 0; 2012-07-19 01:21:32
+fix sd2 2644 thank point; 0; 2012-07-19 04:47:31
+talk mark function export probably; 0; 2012-07-19 04:28:17
+team value faction template already forget id maybe seelct team_invalid really strange faction id like pig modelt id model case case bug reson value send client good catch bug case prevent client c; 0; 2012-07-18 03:04:22
+well work commit basis; 1; 2012-07-18 06:16:17
+schmoozerd author idea; 0; 2012-07-18 06:02:38
+ah mean removegraveyard xfurry 's; 0; 2012-07-18 06:35:04
+quick rebase random author mean even author hehe; 0; 2012-07-18 06:59:21
+http //github.com/xfurry/mangos/commit/b3da109c5ca45c8ef146c409720f0bd6e053d520 p; 0; 2012-07-18 06:55:33
+note http //getmangos.com/community login see old post; 0; 2012-07-18 11:04:20
+'m author function link copy paste one old patch post old mango forums.and since forum dead ca n't check 's real author one; 0; 2012-07-18 09:59:42
+well case actually schmoozerd author code/idea different base patch; 0; 2012-07-19 00:54:29
+team value faction template already forget id maybe seelct team_invalid really strange faction id like pig modelt id model case case bug reson value send client good catch bug case prevent client c; 0; 2012-07-18 03:04:22
+well work commit basis; 1; 2012-07-18 06:16:17
+schmoozerd author idea; 0; 2012-07-18 06:02:38
+ah mean removegraveyard xfurry 's; 0; 2012-07-18 06:35:04
+quick rebase random author mean even author hehe; 0; 2012-07-18 06:59:21
+http //github.com/xfurry/mangos/commit/b3da109c5ca45c8ef146c409720f0bd6e053d520 p; 0; 2012-07-18 06:55:33
+note http //getmangos.com/community login see old post; 0; 2012-07-18 11:04:20
+'m author function link copy paste one old patch post old mango forums.and since forum dead ca n't check 's real author one; 0; 2012-07-18 09:59:42
+well case actually schmoozerd author code/idea different base patch; 0; 2012-07-19 00:54:29
+actually think would nice maybe visualize also gm on/off aura patch welcome; 0; 2012-07-15 07:54:41
+forgot update config version; 0; 2012-08-16 05:30:52
+think config version updated format-changes think; 0; 2012-08-16 05:49:08
+mostly old option default change different version option rename server configuration hidden change state; 0; 2012-08-16 10:53:02
+actually think would nice maybe visualize also gm on/off aura patch welcome; 0; 2012-07-15 07:54:41
+forgot update config version; 0; 2012-08-16 05:30:52
+think config version updated format-changes think; 0; 2012-08-16 05:49:08
+mostly old option default change different version option rename server configuration hidden change state; 0; 2012-08-16 10:53:02
+wrong place check skip check areaid creature pet also may wrong zone buff; 0; 2012-07-03 10:08:58
+n't understand see http //github.com/mangosr2/mangos/commit/7d2fb98deda53695056c5861105c9acfb4c68c50; 0; 2012-07-03 10:49:47
+yes bad check; -1; 2012-07-03 12:58:22
+idea thats actually correct ... rsa commit beeen gender well move area check first place; 0; 2012-07-03 13:00:22
+need control creature yes case player 's pet owner expect check apply allow maybe somewhere miss get spell mod source player access; 0; 2012-07-04 03:03:56
+http //www.proz.com/kudoz/english/art_literary/199056-farther_vs_furhter_farthest_vs_furthest.html; 0; 2012-06-25 06:48:35
+hmm fix 13000 guess; 0; 2012-06-25 06:56:22
+look forward p; 0; 2012-06-25 08:56:04
+n't think gcc 's gon na like `` override '' ...; 0; 2012-06-24 10:45:50
+method define override class unit result execution unit :getrace dependent compiler ...; 0; 2012-06-24 10:49:26
+somewhere `` define override `` line compiler n't know keyword; 0; 2012-06-24 10:57:09
+'s 'creature- setrace getcreaturemodelrace getnativedisplayid somewhere creature initialization code; 0; 2012-06-24 10:59:36
+oh ok bad and..what keyword; -1; 2012-06-24 11:07:38
+wrong realization aka hack see spells 48586-48589; 0; 2012-06-13 13:28:18
+see fix likely figure correctly xfurry; 0; 2012-06-13 15:31:57
+xfurry applaude; 0; 2012-06-14 01:54:26
+possible soon require forum back first; 0; 2012-06-12 08:07:42
+yes hope soon thx response sorry offtopic xd; 1; 2012-06-12 08:30:10
+make e. g. mind sear broken; 0; 2012-05-14 03:33:40
+spell-id; 0; 2012-05-14 06:31:43
+53022; 0; 2012-05-14 07:28:04
+... flag mean 's question; 0; 2012-05-14 23:28:24
+thank; 1; 2012-06-18 07:42:53
+need forward declaration struct spellentry even compile without pch; 0; 2012-05-09 01:32:47
+thx guy must fix; 0; 2012-05-09 04:35:39
+suggest nearly 1,5 2 year ago answer dogmatic `` '' glad see thing change; 0; 2012-05-09 13:47:20
+come friendly pet make present owner sometimes; 0; 2012-04-26 11:29:21
+someone kill typo makes really uncomfortable look; -1; 2012-04-26 11:27:16
+anyone heart pheonix work correctly spell expect dead pet 'kindof relate ... way ... somewhat ...; 0; 2012-04-27 09:42:46
+good job lately guys see lot sweet change lately oh yeah anyone information /community/ get back; 0; 2012-04-23 04:18:34
+somebody suggest evening; 0; 2012-04-23 04:20:28
+note think tc add something similar time ago add base outdoor pvp research write although could use code really worth effort ...; 0; 2012-04-12 13:08:00
+well provide additional parameter required animation id call animid likely invention one person; 0; 2012-04-12 14:21:11
+real usage 're say need outdoor pvp pvp objective something; 0; 2012-04-12 14:33:13
+keep numerical order; 0; 2012-04-02 05:36:20
+n't notice non-order look; 0; 2012-04-02 05:39:05
+didnt check every case; 0; 2012-04-02 06:09:11
+commented line also ^^; 0; 2012-04-03 01:01:09
+alarm webprogrammer intrusion detect; 0; 2012-02-08 15:28:56
+say; 0; 2012-02-08 15:43:57
+ah yes sorry bother; -1; 2012-02-07 14:04:54
+np; 1; 2012-02-07 14:16:45
+`` procedure entry point blah blah blah '' error server start win32 building vc90 project; 0; 2012-02-07 12:29:57
+entry inhabit air flag set database wont fall ground ...; 0; 2012-02-08 03:10:04
+good thought; 1; 2012-02-08 03:12:29
+doubt skip second switch replace n't count; 0; 2012-01-31 12:24:38
+trail error downside make backports subprojects real hard example almost impossible backport lot stuff tc never know backport wrong commit simply experimental stuff trust; 0; 2012-01-31 05:10:55
+possible player* target else crush pet ...; 0; 2012-01-31 05:35:26
+also try hardly less far obtain though course easy write ...; 0; 2012-01-31 05:46:13
+http //github.com/mangosr2/mangos/commit/31cfffe67ddf39657acba9c6023b29c78e8afad6; 0; 2012-01-31 06:04:49
+yes sure thank copy paste go instead unit; 1; 2012-01-31 06:28:18
+fix 11856 thank much; 0; 2011-12-02 04:23:09
+miss; -1; 2011-12-01 19:24:02
+free opinion; 1; 2011-11-16 07:37:05
+strange surprised opinion remove usual ...; 0; 2011-11-16 07:48:14
+need spell :m_spellinfo select per difficulty spell constructor always spell cast; 0; 2011-11-07 15:30:18
+mango creature create yet add world one last thing; 0; 2011-11-07 16:04:18
+vladimirmangos say map pointer set load creature_addon need select difficulty isinworld check need spell ctor; 0; 2011-11-08 01:40:58
+possible ca n't cast spell player world case cleary need pas getmap value arg code base current creature map pointer value simplify change drop new arg loadcreatureaddon; 0; 2011-11-08 07:55:53
+finally; 0; 2011-10-16 04:53:33
+nice hopefully follow worldstatemgr; 1; 2011-10-16 05:59:30
+wohoo; 0; 2011-10-16 08:20:32
+ok thank patch next commit; 1; 2011-10-16 10:37:13
+general ++slave_itr; 0; 2012-07-22 13:12:33
+good question; 1; 2012-07-22 13:16:54
+work gcc slave_itr slaveguidlist.erase slave_itr work wonderful; 0; 2012-07-23 01:59:36
+_any_; 0; 2012-07-23 03:23:32
+rsa thread-unsafe variant std :list thread-safe container; 0; 2012-07-23 03:16:43
+rsa suggest one n't dickass; 0; 2012-07-23 03:47:00
+insignificant worm either suggest classic genre sprinkle ash bald head crawl back cemetery ...; 0; 2012-07-23 04:00:44
+rsa case shut bother us worm den thanks url anyway; 0; 2012-07-23 04:04:10
+got ta love good cat fight; 1; 2012-07-23 05:38:28
+lordjz set twit need worry confusion may occur excess voltage; 0; 2012-07-23 05:02:49
+solutiuon slave_itr slaveguidlist.erase slave_itr though guess place need refactoring; 0; 2012-07-23 06:03:05
+far s/ \w\d_ \.erase\ \w\d_ \+\+\ /\2 \1.erase \2 rest manually /\.erase\ .+\+\+/; 0; 2012-07-23 06:09:33
+erase itr++ create iterator copy possible avoid returnning iterator version sure important find disadvantage google; 0; 2012-07-26 12:25:50
+ah thanks; 1; 2011-10-10 01:51:26
+triggered spell cooldown 6 second guess wo n't work ...; 0; 2011-09-27 11:35:02
+im 100 sure blizz never plain cast spell multiple time achieve max stackamount aura creation; 0; 2011-09-27 08:49:27
+sence dispute someone read line sniff; 0; 2011-09-27 23:00:48
+shauren sure guy source check instead write memory; 0; 2011-09-28 04:09:51
+zergtmn say trigger spell cd wo n't work must set stack amount aura creation; 0; 2011-09-28 05:41:40
+ok forget getspellentrybydifficulty; 1; 2011-09-27 04:56:24
+laise would cool drop irc; 0; 2011-09-27 05:33:12
+sniff try add thing make ​​me year ago full accordance provide sniff want get please refer romanrom2 yuriy problem mango; 0; 2011-09-27 03:34:51
+thank contribute fix 11811; 0; 2011-09-27 06:10:06
+spellauraholder constructor switch-case spell need custom stack amount apply 4 max stack amount maybe add case; 0; 2011-09-27 05:13:21
+guy post sniff question review preferably annotate 's always bit easy argue solid data ...; 0; 2011-09-28 02:23:57
+ok forget getspellentrybydifficulty; 1; 2011-09-27 04:56:24
+laise would cool drop irc; 0; 2011-09-27 05:33:12
+sniff try add thing make ​​me year ago full accordance provide sniff want get please refer romanrom2 yuriy problem mango; 0; 2011-09-27 03:34:51
+thank contribute fix 11811; 0; 2011-09-27 06:10:06
+spellauraholder constructor switch-case spell need custom stack amount apply 4 max stack amount maybe add case; 0; 2011-09-27 05:13:21
+guy post sniff question review preferably annotate 's always bit easy argue solid data ...; 0; 2011-09-28 02:23:57
+length point == 1; 0; 2011-09-25 14:49:24
+fixed 11808 nice catch actually; 0; 2011-09-25 16:43:54
+length point == 1; 0; 2011-09-25 14:49:24
+fixed 11808 nice catch actually; 0; 2011-09-25 16:43:54
+shmoo congrats mangos-dev status; 1; 2011-09-03 13:40:52
+nice; 1; 2011-09-03 13:46:45
+schmoozerd finally dev cool cheers; 1; 2011-09-04 00:32:24
+ambal dev; 0; 2011-09-04 00:35:05
+congratulations; 1; 2011-09-04 01:56:53
+thank guy; 1; 2011-09-04 03:28:46
+'s late gz; 0; 2011-09-06 16:24:36
+ah way easy mind thank; 1; 2011-07-13 04:23:21
+uhm 's cool way show commection info console hide logfile sometimes set multiple server get unexpected result connect db use multiple configuration file differ db connec; 0; 2011-07-13 06:24:20
+great job need 'm look forward see great imporvements backported one branch; 0; 2011-07-12 22:43:09
+maybe use generic tokenizer system could also use ie password hiding server.log; 0; 2011-07-09 05:21:55
+guess scmoo 's talk e. g. .password foo bar bar command password appear server.log right; 0; 2011-07-12 06:27:59
+password part db connections/chat comands must fix 11736; 0; 2011-07-12 18:47:58
+understand; 0; 2011-07-09 09:09:03
+guess main idea likely spell need additional individual check; 0; 2011-08-29 01:13:00
+complier generate code compiler smart optimization diff use single case switch schmoozerd form select expect case add late; 0; 2011-08-29 02:07:59
+declare virtual function; 0; 2011-05-12 10:27:18
+; -1; 2011-05-12 10:44:32
+allow override scripts.. current method force store guid 's uint64; 0; 2011-05-12 14:07:05
+guid _is_ uint64; 0; 2011-05-13 00:04:35
+overwrite overwritten; 0; 2011-04-13 09:45:09
+oh damn another commit fix engrish; 0; 2011-04-13 10:06:29
+overwritten proper one; 0; 2011-04-13 12:09:44
+try .gobject near might see belong pool use pool command list vein pool see spawn; 0; 2011-02-18 05:29:36
+hmm possible see case pool propertly spawn continent dependent order continet persistent state create look sollution; 0; 2011-02-18 15:22:26
+test 11188; 0; 2011-02-18 17:48:29
+see gos bgs time; 0; 2011-02-18 02:56:34
+hamdler handler; 0; 2011-01-15 11:46:26
+maybe nice full code style folow space _after_ close bracet make git unhappy; 0; 2011-01-15 14:50:17
+trail blank closing bracet ..; 0; 2011-01-15 11:47:14
+fixed 11029 thank; 1; 2011-01-17 09:08:36
+new text add 11029 thank; 0; 2011-01-17 09:08:59
+hamdler handler; 0; 2011-01-15 11:46:26
+maybe nice full code style folow space _after_ close bracet make git unhappy; 0; 2011-01-15 14:50:17
+trail blank closing bracet ..; 0; 2011-01-15 11:47:14
+fixed 11029 thank; 1; 2011-01-17 09:08:36
+new text add 11029 thank; 0; 2011-01-17 09:08:59
+yes thank; 1; 2011-01-08 04:43:10
+completely remove progress bar make startup much fast; 0; 2011-01-07 14:10:05
+ok wrong nonsafe remark mysql look like safe less know posgre expect also safe base lock internal engine object query exist; 0; 2011-01-07 15:02:35
+think mangos startup-time 1 progress bar really must; 0; 2011-01-07 15:42:23
+vladimir may get useful 're writting lot code/doing lot database modification row need test fix progressively may reboot lot time row idiot error due speed/; 0; 2011-01-07 16:01:23
+debug mode build slowdown bar inlined code use iteration involve startup load; 0; 2011-01-07 16:29:47
+fallenangelx bar help; 1; 2011-01-07 16:36:13
+show big loading table like creature/go load go infinity loop reason example; 0; 2011-01-07 17:16:20
+boyz mangos startup time important host server vital developer since sometimes need restart server several time row debug code startup time 50 30 second matter thank c; 0; 2011-01-10 02:24:15
+case miss additional indent; 0; 2011-01-01 17:49:41
+thank report must fix 10670 vc++ hard write real c++ compatible code; 0; 2010-11-01 00:45:25
+would n't use `` else '' good since 're work booleans 2 value; 0; 2010-11-01 02:12:40
+important thing criterias need save even counter == 0; 0; 2010-11-01 04:33:08
+thanks silverice; 1; 2010-10-27 21:07:48
+thanks; 1; 2010-10-27 22:41:36
+thanks u much; 1; 2010-10-28 05:20:57
+wow 's commit; 1; 2010-10-28 01:14:29
+think trajectory movement problem could handle similar way maybe; 0; 2010-10-28 09:01:49
+insider42 right old problem still us; 0; 2010-10-29 02:53:42
+axxus look like old crash new place ^^; 0; 2010-10-29 00:33:04
+ty; 1; 2010-10-28 01:22:12
+http //pastebin.com/eyhnhhpd; 0; 2010-10-28 19:10:52
+tiny typo `` clode '' `` close ''; 0; 2010-10-17 09:48:17
+wow big thanks finally remove whole bunch hack script ...; 0; 2010-08-21 00:29:41
+sometimes wonder head write thanks ask simply redundant use this-; 0; 2010-08-21 07:39:21
+likely lazyness use intellisense `` this- ''; 0; 2010-08-21 07:29:21
+sizeof uint64; 0; 2012-08-03 13:56:57
+true support macro mango come c++11 think reasonable use; 0; 2012-08-03 17:16:22
+countof standard; 0; 2012-08-03 14:05:01
+oh n't aware thanks correct; 0; 2012-08-04 00:58:28

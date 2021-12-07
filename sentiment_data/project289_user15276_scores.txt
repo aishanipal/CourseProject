@@ -1,0 +1,56 @@
+comment; score; time
+cmangos nothing mangos please correct error; -1; 2013-05-04 11:32:14
+expect; 0; 2013-05-04 11:53:54
+ahaha +1; 0; 2013-05-04 11:49:07
+expect one day commit access repo next little **** steal ... github need get a**** permanently ban; 0; 2013-05-04 13:07:52
+far know salja administrator theluda ... expect drama; 0; 2013-05-04 13:26:27
+cmangos nothing mangos please correct error; -1; 2013-05-04 11:32:14
+expect; 0; 2013-05-04 11:53:54
+ahaha +1; 0; 2013-05-04 11:49:07
+expect one day commit access repo next little **** steal ... github need get a**** permanently ban; 0; 2013-05-04 13:07:52
+far know salja administrator theluda ... expect drama; 0; 2013-05-04 13:26:27
+; -1; 2012-10-02 21:55:26
+404 find; 0; 2012-10-02 12:48:45
+want pony avatar; 0; 2012-10-03 08:42:47
+big thanks help; 1; 2012-08-26 06:47:32
+would focus 4.x.x 1.12.1 2.4.3 3.3.5 n't even finish yet mop come soon unfortunely start beginning stop rush expansion point view didi n't mean offence anyone e; 0; 2012-08-26 07:21:45
+mangos provide basic support every expansion feature look around patch different fork patch complete game content; 0; 2012-08-26 07:50:15
+nice hear good job; 1; 2012-08-26 07:49:02
+good work thx; 1; 2012-08-26 09:37:30
+'m sell; 0; 2012-08-26 11:09:10
+dbauz comment n't stand anyway keep clear n't type stuff reason; 0; 2012-08-26 12:44:23
+'s move code one place another error possible; 0; 2012-08-21 22:12:43
+receive guid use must may equal current charmguid different reaction also event must result opcode ...; 0; 2012-08-21 22:22:00
+aleays free keep notion; 1; 2012-08-22 08:28:13
+original method create placeholder move wrong bug code one place another please forgive stupidity think joking; 1; 2012-08-22 07:46:59
+rsa good style work git repo good commit part file move new file good code move without change possible also let add project file update independent code change also good clear change vie; 0; 2012-08-22 10:40:35
+владимир не берите на душу мне уже довольно давно надоело воевать с мельницами поэтому я больше прикалываюсь сейчас так вообще вся энергия ушла в -tree возможно это и хорошо хотя и втыкивание патчей с трехлетней историей тоже наверное плюс ... хз ...; 0; 2012-08-23 00:22:05
+создание плейсхолдера часто техническая операция переноса того что туда должно уйти причем тут ошибки главное некий критерий сортировки что к нему относиться и все исправление ошибок для других коммитов не вижу повода для приколов он например нуже; 0; 2012-08-23 02:25:23
+вот и надо было бы добавить чистый плейсхолдер без кода и без ошибок именно как плейсхолдер для дальнейшей работы не было бы повода прикалываться насчет добавления реализаций я не вижу что можно добавить рабочего из бранча kid10 там все настолько за; 0; 2012-08-23 02:39:42
+schmoozerd something tell leave project pity hardly somewhere find another leader ... 'm long time take seriously perhaps good behavior something offend apologize good luck; 0; 2012-08-23 09:14:49
+confirm rude n't think responsability; 0; 2012-08-23 09:26:32
+expect answer rudeness agree reflection real character 'm pretty much mangos member quite unintelligent profession bargain quiet place work past; 0; 2012-08-23 09:50:23
+schmoozerd may know n't mind course kinda sad see leave; 0; 2012-08-23 13:21:27
+spellwork version mangos; 0; 2012-07-21 10:32:00
+http //bitbucket.org/sidsukana/qsw/downloads; 0; 2012-07-21 14:20:36
+already use interrup flag incorrect; 0; 2012-07-21 15:10:42
+spellwork version mangos; 0; 2012-07-21 10:32:00
+http //bitbucket.org/sidsukana/qsw/downloads; 0; 2012-07-21 14:20:36
+already use interrup flag incorrect; 0; 2012-07-21 15:10:42
+bad idea rename every single container typedef store guids use predefined typenames across project typenames must clarify kind data suppose store object type `` bgobjects '' `` guardianpetlist ''; 0; 2012-07-11 12:28:26
+hooray ambal 's return nice see man; 1; 2012-07-11 12:41:31
+good idd; 1; 2012-07-11 12:47:15
+passing; 0; 2012-07-11 13:06:05
+disagree ambal well ... guidset suppose objectguids matter player guids creature guids type objectguid also dont use seperate typedefs string playername creatu; 0; 2012-07-12 00:56:23
+supporting name variable one give reader strong hint suppose store type guess depend `` school '' debate choose either camel casing hungarian notat; 0; 2012-07-11 22:29:58
+schmoozerd 'm sorry write ca n't send private message wonder sd2 n't impletemented directly mangos like trinitycore infact would save much time compile instead 2 repo one; 0; 2012-06-23 04:07:23
+thanks understand; 1; 2012-06-23 05:05:08
+schmoozerd 'm sorry write ca n't send private message wonder sd2 n't impletemented directly mangos like trinitycore infact would save much time compile instead 2 repo one; 0; 2012-06-23 04:07:23
+thanks understand; 1; 2012-06-23 05:05:08
+shmoo congrats mangos-dev status; 1; 2011-09-03 13:40:52
+nice; 1; 2011-09-03 13:46:45
+schmoozerd finally dev cool cheers; 1; 2011-09-04 00:32:24
+ambal dev; 0; 2011-09-04 00:35:05
+congratulations; 1; 2011-09-04 01:56:53
+thank guy; 1; 2011-09-04 03:28:46
+'s late gz; 0; 2011-09-06 16:24:36

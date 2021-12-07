@@ -1,0 +1,8 @@
+comment; score; time
+wow great work; 1; 2011-02-07 22:58:20
+look intresting now.. hmm get nice script idea use; 0; 2011-02-08 01:04:31
+true want make sd2 handle spawned trigger ye would messy actually never get even start; 0; 2011-02-08 01:14:23
+yes outdoorpvp may easely rewrite code core sd2 need work; 0; 2011-02-08 01:10:28
+dreamily still move bg code sd2 ... current core ideology clearly place; 0; 2011-02-08 01:27:12
+great idea could use script arenas/bgs/opvp/wg instead hack core; 0; 2011-02-08 02:17:47
+nice commit help encounter event; 1; 2011-02-08 05:49:18

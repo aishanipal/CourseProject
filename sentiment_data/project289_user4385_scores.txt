@@ -1,0 +1,3 @@
+comment; score; time
+far know finite always return false argument nan; 0; 2011-04-06 00:16:48
+yep bad dontomika =/; -1; 2011-04-06 00:33:09

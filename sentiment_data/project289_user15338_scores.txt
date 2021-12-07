@@ -1,0 +1,57 @@
+comment; score; time
+add update sql; 0; 2010-09-03 07:31:23
+sql update; 0; 2010-09-03 08:55:26
+bonus work even 1 skill point; 0; 2010-09-03 08:30:30
+believe mean people update sql\updates though n't particularly see necessary table; 0; 2010-09-04 01:28:40
+indeed look like typo; 0; 2010-09-05 03:15:49
+post patch file mangos forum ...; 0; 2010-09-05 03:36:32
+assistent unintentional typo 'd think assistant; 0; 2010-05-25 17:06:20
+fixed 9976 thank; 1; 2010-05-26 08:22:34
+x-53 touring rocket new raf reward use mechanic mount 's two-seater though n't know 'll deal probably able use second seat treat vehicle; 0; 2010-05-15 06:49:20
+think bug weapon skill beacause restart server even save char weapon skill go 1 mangosd.conf maxskill option n't work; 0; 2010-05-14 11:31:58
+report getmangos forums please nothing particular commit; 0; 2010-05-14 11:36:45
+afaik fix long time ago ... olynn say post forum back yet; 0; 2010-05-14 11:41:22
+say notice revision back n't take much notice ayways yeah report forums please; 0; 2010-05-14 11:45:30
+think bug weapon skill beacause restart server even save char weapon skill go 1 mangosd.conf maxskill option n't work; 0; 2010-05-14 11:31:58
+report getmangos forums please nothing particular commit; 0; 2010-05-14 11:36:45
+afaik fix long time ago ... olynn say post forum back yet; 0; 2010-05-14 11:41:22
+say notice revision back n't take much notice ayways yeah report forums please; 0; 2010-05-14 11:45:30
+thank nf lot easy complex chat event quest like; 1; 2010-05-13 13:22:46
+nice work mate know fair quest hold conversation npc/player and/or several npcs see lot easy guy; 0; 2010-05-13 07:45:06
+think use 0 instead null integer value; 0; 2010-05-12 04:08:04
+... nice solution mount; 1; 2010-05-12 04:49:07
+edit laise fast post response ask something similar p; 0; 2010-05-12 05:15:44
+thank much explain laise ... helpfull future; 0; 2010-05-12 05:46:09
+last arg use replace 280 speed player know mount 310 invincible 310 initial speed n't need check; 0; 2010-05-12 05:15:16
+phail copy paste -_-; 0; 2010-05-12 07:41:42
+good commit fly dalaran mount; 1; 2010-05-12 07:58:48
+found bug example mount fly headless horseman 's mount teleport stormwind dismount fly stormwind; 0; 2010-06-02 11:55:30
+.gm _test_this; 0; 2010-06-02 22:25:38
+n't weekly wekly line 913 unimportant typo felt point; 0; 2010-04-28 16:44:13
+fixed 9801 thank; 1; 2010-04-29 00:46:52
+know would good see ip ingame associate account see account player 1 account; 0; 2010-04-25 20:32:43
+store last used ip account login mean search account ip; 0; 2010-04-25 21:33:56
+nice thanks vladimir; 1; 2010-04-26 19:51:13
+something like '.lookup player ip ip limit account would nice yes; 0; 2010-04-26 01:46:16
+would definitely interesting useful command; 1; 2010-04-26 08:41:25
+9886 implement .lookup account command; 0; 2010-05-13 00:45:04
+yea; 0; 2010-04-22 03:13:23
+okay thanks; 1; 2010-04-22 03:24:11
+use bigint 8 byte instead int 4 byte go live 300 billion year; 0; 2010-04-20 11:37:06
+n't use simple atoi check 's char number return null 's; 0; 2010-04-20 11:40:31
+compile error; -1; 2010-04-20 16:07:24
+yeah know 's bind want fix find late 'm find p; 0; 2010-04-21 08:05:02
+typo 1 character; 0; 2010-04-21 06:55:45
+indeed vlad even comment correct important code basically translation go others understand methodology process etc least 's 'm tell c++ book 'm try l; 0; 2010-04-21 09:24:50
+use bigint 8 byte instead int 4 byte go live 300 billion year; 0; 2010-04-20 11:37:06
+n't use simple atoi check 's char number return null 's; 0; 2010-04-20 11:40:31
+compile error; -1; 2010-04-20 16:07:24
+yeah know 's bind want fix find late 'm find p; 0; 2010-04-21 08:05:02
+typo 1 character; 0; 2010-04-21 06:55:45
+indeed vlad even comment correct important code basically translation go others understand methodology process etc least 's 'm tell c++ book 'm try l; 0; 2010-04-21 09:24:50
+use bigint 8 byte instead int 4 byte go live 300 billion year; 0; 2010-04-20 11:37:06
+n't use simple atoi check 's char number return null 's; 0; 2010-04-20 11:40:31
+compile error; -1; 2010-04-20 16:07:24
+yeah know 's bind want fix find late 'm find p; 0; 2010-04-21 08:05:02
+typo 1 character; 0; 2010-04-21 06:55:45
+indeed vlad even comment correct important code basically translation go others understand methodology process etc least 's 'm tell c++ book 'm try l; 0; 2010-04-21 09:24:50

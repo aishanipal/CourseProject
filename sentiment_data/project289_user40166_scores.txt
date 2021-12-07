@@ -1,0 +1,212 @@
+comment; score; time
+know would good see ip ingame associate account see account player 1 account; 0; 2010-04-25 20:32:43
+store last used ip account login mean search account ip; 0; 2010-04-25 21:33:56
+nice thanks vladimir; 1; 2010-04-26 19:51:13
+something like '.lookup player ip ip limit account would nice yes; 0; 2010-04-26 01:46:16
+would definitely interesting useful command; 1; 2010-04-26 08:41:25
+9886 implement .lookup account command; 0; 2010-05-13 00:45:04
+know would good see ip ingame associate account see account player 1 account; 0; 2010-04-25 20:32:43
+store last used ip account login mean search account ip; 0; 2010-04-25 21:33:56
+nice thanks vladimir; 1; 2010-04-26 19:51:13
+something like '.lookup player ip ip limit account would nice yes; 0; 2010-04-26 01:46:16
+would definitely interesting useful command; 1; 2010-04-26 08:41:25
+9886 implement .lookup account command; 0; 2010-05-13 00:45:04
+hello hunuza please tell kind crash relate; 1; 2010-04-22 10:32:26
+thank; 1; 2010-04-22 11:00:02
+first one relate m_mover second one fix; 0; 2010-04-22 12:38:35
+kind problem take say `` many broken spell '' relate table scar; 0; 2010-04-15 22:13:04
+client switch 3.3.2; 0; 2010-04-15 22:31:45
+client switch character_talent table implementation first login update server run query delete exist talent spell character_spell character use spell condition create secounds delay xxk chara; 0; 2010-04-15 22:31:03
+simple player see another player game; 0; 2010-04-10 18:56:27
+vladimir dont mind kind problem talk affect player; 0; 2010-04-10 18:52:10
+see post vladimir reset 'all talent important expect make patch soon think great job vlad thanks; 0; 2010-04-09 14:53:39
+excellent news; 1; 2010-04-09 12:18:13
+ask order include affect gcc learn purpose; 0; 2010-04-09 07:27:21
+achievementmgr.h use enum gender define shareddefines.h shareddefines.h include achievementmgr.h necessary include .cpp file include shareddefines.h achievementmgr.h gcc require hav; 0; 2010-04-09 07:33:55
+like case good explicit include achievementmgr.h; 1; 2010-04-09 10:41:03
+well slap silly call sussy great work; 1; 2010-04-06 18:52:14
+wow great work implement =d congratz; 1; 2010-04-06 18:40:50
+oh thank 9689; 1; 2010-04-07 06:15:06
+amazing amaze thank much; 1; 2010-04-06 09:14:30
+see lol commit content ...; 1; 2010-04-02 17:51:49
+well think usefull noob user; 0; 2010-04-02 17:25:52
+n't use mangos mangos years back; 0; 2010-04-02 19:59:43
+apple orange way back change fruit; 0; 2010-04-02 20:55:38
+pff get ta dream somebody bitch slap silly; 1; 2010-04-02 13:06:10
+really good job thanks; 1; 2010-04-02 13:38:54
+/me slap cyrex; 0; 2010-04-02 13:15:44
+thanks nice work; 1; 2010-04-02 13:26:05
+impossable one look code ...; 0; 2010-04-02 15:31:16
+thx good work; 1; 2010-04-02 23:32:54
+excellent work often commits instead cut away never stop anyone field database ...; 0; 2010-04-03 10:44:11
+ppl understanding code development think feature add commits exist without many preparation commits without const code cleanup improve code _without_ visible user changes.. devs think man; 0; 2010-04-03 11:34:29
+something new good never abandon backwards compatibility relation hack unused core code field database prevent develop core however removal field bury lot well-done work web p; 0; 2010-04-03 13:40:14
+think remove data blob pain long time storing data way well design inefficient also make harder get certain data web portal mention also update code web portal; 0; 2010-04-03 15:01:19
+think start think thing like backward compatibility reach 1.0 ...; 0; 2010-04-03 15:58:14
+also remove title bye bye title epic fail; 0; 2010-03-27 13:36:09
+help lot web management page; 0; 2010-03-27 15:44:55
+wow cant believe already everything columns/tables good work; 1; 2010-03-28 02:19:28
+yessssssssssssssss good work performance db kill item_instance blob ... db fly ^^ good work devel; 0; 2010-03-28 05:20:53
+actually read commit would see character data backed-up nothing actually lose unless choose drop back-ups make back-ups use late commit make title work; 0; 2010-03-27 21:22:02
+item_instance use character_inventory also table like mail_items ca n't merge one ...; 0; 2010-03-29 01:05:51
+nanouniko know think long time ago merge table one could help manage item cause share similar information; 0; 2010-03-28 16:36:30
+hunuza thanks tip; 1; 2010-03-29 15:04:17
+like know arcemu; 1; 2010-03-29 23:28:32
+n't know arcemu probably different database design ...; 0; 2010-03-30 01:38:51
+wow guy congrats ... pretty big milestone imo; 1; 2010-03-29 20:51:49
+also remove title bye bye title epic fail; 0; 2010-03-27 13:36:09
+help lot web management page; 0; 2010-03-27 15:44:55
+wow cant believe already everything columns/tables good work; 1; 2010-03-28 02:19:28
+yessssssssssssssss good work performance db kill item_instance blob ... db fly ^^ good work devel; 0; 2010-03-28 05:20:53
+actually read commit would see character data backed-up nothing actually lose unless choose drop back-ups make back-ups use late commit make title work; 0; 2010-03-27 21:22:02
+item_instance use character_inventory also table like mail_items ca n't merge one ...; 0; 2010-03-29 01:05:51
+nanouniko know think long time ago merge table one could help manage item cause share similar information; 0; 2010-03-28 16:36:30
+hunuza thanks tip; 1; 2010-03-29 15:04:17
+like know arcemu; 1; 2010-03-29 23:28:32
+n't know arcemu probably different database design ...; 0; 2010-03-30 01:38:51
+wow guy congrats ... pretty big milestone imo; 1; 2010-03-29 20:51:49
+also remove title bye bye title epic fail; 0; 2010-03-27 13:36:09
+help lot web management page; 0; 2010-03-27 15:44:55
+wow cant believe already everything columns/tables good work; 1; 2010-03-28 02:19:28
+yessssssssssssssss good work performance db kill item_instance blob ... db fly ^^ good work devel; 0; 2010-03-28 05:20:53
+actually read commit would see character data backed-up nothing actually lose unless choose drop back-ups make back-ups use late commit make title work; 0; 2010-03-27 21:22:02
+item_instance use character_inventory also table like mail_items ca n't merge one ...; 0; 2010-03-29 01:05:51
+nanouniko know think long time ago merge table one could help manage item cause share similar information; 0; 2010-03-28 16:36:30
+hunuza thanks tip; 1; 2010-03-29 15:04:17
+like know arcemu; 1; 2010-03-29 23:28:32
+n't know arcemu probably different database design ...; 0; 2010-03-30 01:38:51
+wow guy congrats ... pretty big milestone imo; 1; 2010-03-29 20:51:49
+like hacker cheater example send modify packet server alter stats boost something; 0; 2010-03-11 15:10:44
+got thank xtzgzorex; 1; 2010-03-11 17:43:52
+say ca n't generically detect _values_ packet wrong change check packet short disconnect player yes 's sort anti-cheating mechanism albeit effective one world; 0; 2010-03-11 15:35:17
+wpe change packet fool client think different spell example could take mana roll wpe get packet use spell change say wsg victory spell time click mana roll add 3 w; 0; 2010-03-11 20:20:53
+pretty sure value change spell id another spell id; 1; 2010-03-12 01:58:41
+mean elaborate alter packet length packet value; 0; 2010-03-11 21:27:01
+detect kick packet change say wpe try change one spell another item; 0; 2010-03-11 19:14:41
+clarify check exist already long time mangos unconditionally ignore like packet make player kick like packet also big warning mango still always correctly read packet add read; 0; 2010-03-12 06:09:39
+like hacker cheater example send modify packet server alter stats boost something; 0; 2010-03-11 15:10:44
+got thank xtzgzorex; 1; 2010-03-11 17:43:52
+say ca n't generically detect _values_ packet wrong change check packet short disconnect player yes 's sort anti-cheating mechanism albeit effective one world; 0; 2010-03-11 15:35:17
+wpe change packet fool client think different spell example could take mana roll wpe get packet use spell change say wsg victory spell time click mana roll add 3 w; 0; 2010-03-11 20:20:53
+pretty sure value change spell id another spell id; 1; 2010-03-12 01:58:41
+mean elaborate alter packet length packet value; 0; 2010-03-11 21:27:01
+detect kick packet change say wpe try change one spell another item; 0; 2010-03-11 19:14:41
+clarify check exist already long time mangos unconditionally ignore like packet make player kick like packet also big warning mango still always correctly read packet add read; 0; 2010-03-12 06:09:39
+yes one specific time dependent player enter _not_ _often_ _that_ _one_ _day_; 0; 2010-02-18 10:00:32
+make raid like icc reset daily like heroic instead 7 day; 1; 2010-02-18 15:40:15
+mean map instance heroic non-raid normal/heroic raid reset time specific map period day; 0; 2010-02-18 10:02:10
+grr ... touch normal store dbc reset time prevent 0 reset time store dbc scale 0 rate config option small value int 7 0.1 ==0 code rate 0.1 make instaed 0 reset time like case use 1; 0; 2010-02-18 16:37:46
+vladimir try say even put mangos.conf make instances reset less day minimum always 1 full day way reset instance less day would avoid problem late thi; 0; 2010-02-18 19:17:07
+period==0 check _before_ rate apply period 0 less day; 0; 2010-02-19 04:31:13
+set rate 1 day less; 0; 2010-02-19 06:57:02
+could add way make raid reset daily without edit dbc making people week reset icc ony silly private test server; 0; 2010-02-19 05:10:54
+... dbc instead db table ...; 0; 2010-02-19 10:54:28
+define `` config_float_rate_instance_reset_time '' fiction -/; 0; 2010-02-19 10:38:11
+'s fine understand commit message read code p; 0; 2010-02-20 16:04:12
+onyxia lair spell trigger 20times remember; 0; 2010-02-15 13:09:49
+max chain spell around 4 5 like chain lighting another spell like bos spell might involve spell cast chain variable; 0; 2010-02-15 12:26:54
+aaaaa okkk see thanks vlad; 0; 2010-02-16 13:54:45
+onyxia lair spell trigger 20times remember; 0; 2010-02-15 13:09:49
+max chain spell around 4 5 like chain lighting another spell like bos spell might involve spell cast chain variable; 0; 2010-02-15 12:26:54
+aaaaa okkk see thanks vlad; 0; 2010-02-16 13:54:45
+give mango team time know great job dual talent get implement wont see commit message say `` actual dual spec still implement '' instead see something like `` dual talent implemente; 0; 2010-02-10 18:56:12
+fuuu 'm sorry much respecting developer vladimir cool work always shame mangos patch `` dual spec '' exist already long time work perfectly server also n't use `` official '' version; 0; 2010-02-10 22:24:07
+note fully implement yet hope soon; 0; 2010-02-10 13:22:21
+totally agree accord dual spec p; 0; 2010-02-10 23:33:19
++1 cyrex wait see; 0; 2010-02-10 22:35:08
+thing great job nf; 1; 2010-02-07 10:37:33
+mean 3.3.2 n't; 0; 2010-02-05 12:53:33
+ahahah; 0; 2010-02-05 14:12:27
+3.3.2; 0; 2010-02-06 03:34:53
+need db support vehicle work scriptdev aswell btw nice work; 0; 2010-02-05 16:48:25
+cool; 1; 2010-02-05 16:45:10
+yes 's 3.3.2 3.2.2 's typo error ^^; 0; 2010-02-06 04:20:51
+hadnt realize mango still back 3.3.0a til update ... evo-x-core support 3.3.2 quite ...; 0; 2010-02-06 05:31:35
+; -1; 2010-02-06 06:36:12
+-.- quite ... n't even week since 3.3.2 come wo n't say `` correct word '' really need hear rhythm stfu; 0; 2010-02-06 06:26:13
+evo-x cheap/fake magos copy opinion dunno write 3razar3; 0; 2010-02-06 07:01:09
+lol; 1; 2010-02-06 07:38:16
+damn right keep vladimir good work; 0; 2010-02-06 09:10:36
+still waitting `` 99-90 ''; 0; 2010-02-06 09:11:06
+sound like good plan ... belive term come mind `` put ... '' know rest ...; 0; 2010-02-06 09:37:37
+delete next note relate mangos strictly; 0; 2010-02-06 10:29:57
+mean 3.3.2 n't; 0; 2010-02-05 12:53:33
+ahahah; 0; 2010-02-05 14:12:27
+3.3.2; 0; 2010-02-06 03:34:53
+need db support vehicle work scriptdev aswell btw nice work; 0; 2010-02-05 16:48:25
+cool; 1; 2010-02-05 16:45:10
+yes 's 3.3.2 3.2.2 's typo error ^^; 0; 2010-02-06 04:20:51
+hadnt realize mango still back 3.3.0a til update ... evo-x-core support 3.3.2 quite ...; 0; 2010-02-06 05:31:35
+; -1; 2010-02-06 06:36:12
+-.- quite ... n't even week since 3.3.2 come wo n't say `` correct word '' really need hear rhythm stfu; 0; 2010-02-06 06:26:13
+evo-x cheap/fake magos copy opinion dunno write 3razar3; 0; 2010-02-06 07:01:09
+lol; 1; 2010-02-06 07:38:16
+damn right keep vladimir good work; 0; 2010-02-06 09:10:36
+still waitting `` 99-90 ''; 0; 2010-02-06 09:11:06
+sound like good plan ... belive term come mind `` put ... '' know rest ...; 0; 2010-02-06 09:37:37
+delete next note relate mangos strictly; 0; 2010-02-06 10:29:57
+mean 3.3.2 n't; 0; 2010-02-05 12:53:33
+ahahah; 0; 2010-02-05 14:12:27
+3.3.2; 0; 2010-02-06 03:34:53
+need db support vehicle work scriptdev aswell btw nice work; 0; 2010-02-05 16:48:25
+cool; 1; 2010-02-05 16:45:10
+yes 's 3.3.2 3.2.2 's typo error ^^; 0; 2010-02-06 04:20:51
+hadnt realize mango still back 3.3.0a til update ... evo-x-core support 3.3.2 quite ...; 0; 2010-02-06 05:31:35
+; -1; 2010-02-06 06:36:12
+-.- quite ... n't even week since 3.3.2 come wo n't say `` correct word '' really need hear rhythm stfu; 0; 2010-02-06 06:26:13
+evo-x cheap/fake magos copy opinion dunno write 3razar3; 0; 2010-02-06 07:01:09
+lol; 1; 2010-02-06 07:38:16
+damn right keep vladimir good work; 0; 2010-02-06 09:10:36
+still waitting `` 99-90 ''; 0; 2010-02-06 09:11:06
+sound like good plan ... belive term come mind `` put ... '' know rest ...; 0; 2010-02-06 09:37:37
+delete next note relate mangos strictly; 0; 2010-02-06 10:29:57
+number crazy; -1; 2010-02-04 13:25:55
+talk crazy shit right; -1; 2010-02-04 14:45:55
+problem except clean horribale hackish way detection ... one good map big differen diff version one time need ...; 0; 2010-02-05 12:19:42
+vladimir hehe phrase `` talk crazy shit right '' funny movie dont remember movie although know good movie; 0; 2010-02-05 12:36:15
+number crazy; -1; 2010-02-04 13:25:55
+talk crazy shit right; -1; 2010-02-04 14:45:55
+problem except clean horribale hackish way detection ... one good map big differen diff version one time need ...; 0; 2010-02-05 12:19:42
+vladimir hehe phrase `` talk crazy shit right '' funny movie dont remember movie although know good movie; 0; 2010-02-05 12:36:15
+big fix change fix; 0; 2010-01-31 16:34:44
+sorry double post part whole commit since commit number guess first part several part whole commit number; 0; 2010-01-31 16:36:44
+'s tom_rus commit style; 0; 2010-01-31 21:50:17
+thank; 1; 2010-01-31 22:05:59
+big fix change fix; 0; 2010-01-31 16:34:44
+sorry double post part whole commit since commit number guess first part several part whole commit number; 0; 2010-01-31 16:36:44
+'s tom_rus commit style; 0; 2010-01-31 21:50:17
+thank; 1; 2010-01-31 22:05:59
+big fix change fix; 0; 2010-01-31 16:34:44
+sorry double post part whole commit since commit number guess first part several part whole commit number; 0; 2010-01-31 16:36:44
+'s tom_rus commit style; 0; 2010-01-31 21:50:17
+thank; 1; 2010-01-31 22:05:59
+one good linux; 1; 2009-11-11 15:15:25
+'s tbbmalloc; 0; 2009-11-11 16:22:54
+cyrex linux tbbmalloc reduce performance 10-30; 0; 2009-11-11 19:14:03
+try compile -- with-std-malloc -- with-std-malloc= '' yes '' still compile tbb cant tell moment works good; 0; 2009-11-11 20:26:03
+added form option useless; 0; 2009-11-12 02:59:21
+correct work option must _all_ cpp affect tbb use include make wrong way; 0; 2009-11-12 03:37:44
+sorry think missundestand way work option possible work correctly right ...; 0; 2009-11-12 05:51:19
+yes vladimir aparently -- with-std-malloc= '' yes '' work compile tbb libraries; 0; 2009-11-12 08:34:30
+`` charge spell effect '' affect two spell effect even though mention relate need adjustment accordingly part code; 0; 2009-08-12 06:48:42
+go fix example try cast spell take x amount time cast target run get behind exactly behind get miss spell target get behind happen lot w; 0; 2009-08-11 01:09:40
+thank nofantasy; 1; 2009-08-12 12:50:51
+`` charge spell effect '' affect two spell effect even though mention relate need adjustment accordingly part code; 0; 2009-08-12 06:48:42
+go fix example try cast spell take x amount time cast target run get behind exactly behind get miss spell target get behind happen lot w; 0; 2009-08-11 01:09:40
+thank nofantasy; 1; 2009-08-12 12:50:51
+thank vladimir; 1; 2009-08-02 19:37:21
+fuck; -1; 2009-07-29 10:18:03
+lol; 1; 2009-07-29 22:22:15
+lol; 1; 2009-07-30 11:09:43
+даунито-хромосомо; 0; 2009-07-30 11:37:26
+lol; 1; 2009-08-03 12:24:28
+thank passdvn; 1; 2009-07-24 13:05:20
+thank; 1; 2009-07-24 14:26:40
+really thank lol; 1; 2009-07-24 15:14:44
+commit result merge different suggest patch change problem proper write credit ...; 0; 2009-07-28 07:11:07
+yes; 1; 2009-07-24 10:06:16
+thanks; 1; 2009-07-24 10:41:29
+fix overpowered creatures current udb time test thx report; 0; 2009-07-24 09:43:18
+correct allow apply sql update specific order let look db last apply sql update; 0; 2009-05-24 12:47:01
+guard sql query; 0; 2009-05-21 11:20:38
+disallow apply different sql update; 0; 2009-05-21 15:02:51

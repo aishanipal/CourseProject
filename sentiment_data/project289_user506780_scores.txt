@@ -1,0 +1,139 @@
+comment; score; time
+mosst go part except receive work; 0; 2010-10-03 10:36:39
+в чём заключаеться сложность взять и совмесными силами зделать наконец-то рабочий рандом героик или возможность раздачи лута после ро или так и дальше будем править пробелы в логах и ошибки в коментариях; 0; 2010-10-03 09:59:49
+сделаю всё что будет в моих силах вплоть до тестирования и сбора информации увы моих знаний для правки сложных функций не хватит.. но я думаю для вас это не проблема.. не хочу сьезжать на тринити но то что у них это давным давно работает хоть хаково; 0; 2010-10-03 10:39:22
+concept look like total abomination n't exist here..; 0; 2010-10-03 10:43:13
+n't speak russian guess 's another complain mangos make useless commits trinity good haha; 0; 2010-10-05 07:20:22
+mosst +1 я тож собераюсь делать новый серв на trinity оставить старый как второй серв а новый всё с нуля и он будет в realmd мангоса..; 0; 2010-10-05 02:56:50
+damn today dream mango update 6.0.0 version wow add user patch mangos.. dream; 0; 2010-09-26 03:19:21
+lol; 1; 2010-09-26 04:05:36
+`` add user patch mangos '' stop loading ... cleary user patch make sense add ... source long add time need review research relate problem sure suggest patch correct; 0; 2010-09-26 04:12:06
+agreed wise man say; 1; 2010-09-26 07:02:13
+0; -1; 2010-06-03 06:30:52
+0; -1; 2010-06-04 07:54:09
+read prev note known compiler remove dead check 0; 0; 2010-06-05 12:27:05
+wow rev 9999 surprise rev 10.000; 1; 2010-05-28 08:57:43
+whitespace remove 10000 must something epic; 0; 2010-05-28 08:58:18
+definitely typo-fix; 1; 2010-05-28 09:04:45
+hope 's gon na like rev 9000 http //github.com/mangos/mangos/commit/8e8f7710e8baf29196256c6e0afcce1b7d3f3671 -d; 0; 2010-05-28 09:06:12
+f5 f5 f5 f5 f5 f5 f5 f5; 0; 2010-05-28 09:08:25
+lol; 1; 2010-05-28 09:09:00
+kero99 yep 's; 1; 2010-05-28 09:16:47
+tik tak tik tak 10k cooming soon; 0; 2010-05-28 09:19:09
+hope rev 10000 add support vehicle; 1; 2010-05-28 09:20:03
+http //twitter.com/mangoschangelog ftw; 1; 2010-05-28 09:24:48
+vehicle work custom patch master nice dream; 0; 2010-05-28 09:24:55
+f5 zzzzzzzzz ... f5 zzzzzzzzzzzz ... f5 zzzzzzzzzzzz ... f5 zzzzzzzzzz ...; 0; 2010-05-28 09:27:44
+/kero99 xd; 1; 2010-05-28 09:35:42
+vote multiprocessing; 0; 2010-05-28 09:49:47
+/cast target=vladimirmangos mind vision; 0; 2010-05-28 09:35:21
+lol hop something long like hell; 1; 2010-05-28 09:55:46
+vmaps memory leak set unload grid 0 1hour mangos-worldd process eats memory; 0; 2010-05-25 04:55:41
+set 1 30min get crash.. way 's get crash ..; 0; 2010-05-25 05:00:09
+mmm ... crash unloadgrid=1; 0; 2010-05-25 06:28:52
+vmaps memory leak set unload grid 0 1hour mangos-worldd process eats memory; 0; 2010-05-25 04:55:41
+set 1 30min get crash.. way 's get crash ..; 0; 2010-05-25 05:00:09
+mmm ... crash unloadgrid=1; 0; 2010-05-25 06:28:52
+c++ allow name function different arg type; 0; 2010-04-07 09:55:27
+c maybe declare two function name; 0; 2010-04-07 08:31:47
+difference const const; 0; 2010-03-07 04:07:22
+also need make const player :hastitle 2 overload; 0; 2010-03-07 04:07:25
+difference gameplay code safety; 0; 2010-03-07 06:51:28
+hope brake php scp; 0; 2010-03-05 03:43:52
+protocol n't change internal handling ra command; 0; 2010-03-05 04:49:34
+hop see get add since read forum topic good see make cut; 0; 2010-02-27 04:16:51
+nice.. ra remove stay; 0; 2010-02-27 05:10:58
+since ra part mangos still use old socket library either rewrite use ace drop personally advocate rewrite option ra still nice-to-have feature; 0; 2010-02-27 06:46:31
+fragfrog nope 'm currently compile 0.12 branch trace bug; 0; 2010-02-28 12:54:46
+lot software write use ra connection minimanager umanager game name drop soon otherwise many management tool stop work properly mention; 0; 2010-02-27 06:50:48
+chance see comment forum using 0.12 branch version change soap result always empty reason would quite like thought; 0; 2010-02-28 12:37:22
+think dependent use break shell something like tested happense normal shell use like sh; 0; 2010-01-27 00:09:27
+wo n't work properly without m4_patterns_allow definition ...; 0; 2010-02-06 00:22:34
+anyways error reporting necessarily need revert add m4_patterns_allow exception; 0; 2010-02-06 00:26:02
+ax check openssl; 0; 2010-02-16 15:43:27
+please explain try export info field data create separate table goal remove field data; 0; 2010-01-24 12:35:10
+sweet; 1; 2009-12-02 13:47:04
+sweet; 1; 2009-11-14 13:47:44
+thx; 1; 2009-10-25 02:42:34
+nope working..; 0; 2009-10-21 10:41:30
+fact multi-threading would fine without make bit fast; 0; 2009-10-19 20:52:56
+one step multithreading; 0; 2009-10-19 18:30:07
+fact muti-threading would work garbage code add lock appropriate places.. like program really muti-threading program structure; 0; 2009-10-20 00:42:44
+cause crash http //getmangos.com/community/showpost.php p=89172 postcount=686; 0; 2009-10-20 11:23:33
+на 8677 перестал работать респаун игроков на тех же бг; 0; 2009-10-19 10:58:49
+add code expect functionality change mostly move code onw class another; 0; 2009-10-19 13:49:08
+bug fix; 0; 2009-08-27 03:35:11
+able join enabled afk battleground since kick toggle could gather mark honor without anything; 0; 2009-08-27 04:54:58
+'s wrong 're go afk 're queue remove queue 're afk ca n't join queue; 0; 2009-08-31 22:42:37
+thanks; 1; 2009-08-27 01:54:09
+3; -1; 2009-09-16 13:49:01
+without update sql file; 0; 2009-08-02 05:43:15
+file use server work internal information storage help detect change client switch expect spell property; 0; 2009-08-02 11:20:34
+try re-importing mangos_spell_check.sql; 0; 2009-08-02 08:06:24
+member mangos team sweet; 0; 2009-07-28 13:51:01
+fix problem player leave arena; -1; 2009-07-28 13:54:31
+balrok already long time team member; 0; 2009-07-28 22:51:02
+finaly start commit something gj; 1; 2009-07-29 15:28:39
+member mangos team sweet; 0; 2009-07-28 13:51:01
+fix problem player leave arena; -1; 2009-07-28 13:54:31
+balrok already long time team member; 0; 2009-07-28 22:51:02
+finaly start commit something gj; 1; 2009-07-29 15:28:39
+correct way; 0; 2009-07-01 14:46:35
+u still use myisam innodb faster. --; 0; 2009-07-01 18:54:02
+innodb hard restore something go wrong disk; -1; 2009-07-01 04:10:54
+action function execute; 0; 2009-06-23 17:13:55
+; -1; 2009-06-24 10:30:04
+yes actually save immediately time gold/money change quite understandable 's crash nothing really lose unless quest whatever; 0; 2009-06-24 18:15:47
+gold save instantly instead normal 900 second save interval logout; 0; 2009-06-24 03:41:38
+prevent cheat gold use know crash bug; -1; 2009-06-26 19:14:41
+lol запароль всем обновку; 0; 2009-05-26 07:41:12
+comment english; 0; 2009-05-26 09:29:37
+correct allow apply sql update specific order let look db last apply sql update; 0; 2009-05-24 12:47:01
+guard sql query; 0; 2009-05-21 11:20:38
+disallow apply different sql update; 0; 2009-05-21 15:02:51
+add cwn anticheat main core 's bug cwn fix; 0; 2009-04-13 00:32:55
+nenravica tebe kak drugie kodjat; 0; 2009-03-02 06:10:44
+warsong would say n't getclosestgraveyard; 0; 2009-03-02 08:28:15
+ok sorry; 1; 2009-03-02 10:11:12
+sweet error fixed..; 1; 2009-02-18 15:48:02
+agreed get error hence `` partially fix '' status assume; 0; 2009-02-18 16:10:19
+re-extract maps/vmaps/dbc; 0; 2009-02-18 11:56:50
+dbc necessary; 0; 2009-02-18 12:13:05
+re-extract maps/vmaps/dbc; 0; 2009-02-18 11:56:50
+dbc necessary; 0; 2009-02-18 12:13:05
+fix crash; -1; 2009-02-18 07:47:25
+late change bgs add 0.12; 0; 2009-02-09 08:16:31
+good stuff; 1; 2009-02-09 10:45:25
+fix memory leak fix server freeze; 0; 2009-01-18 08:35:17
+need apply sql patch udb r366; 0; 2009-01-14 05:00:48
+apply character database n't udpated yet since 366 probably already convert; 0; 2009-01-14 06:38:32
+udb modify character db anyway yiu ca n't apply slq update wrong order result built-in order protection; 0; 2009-01-14 14:22:45
+previous database r364 one skip r365 one apply r366 `` 2008_12_22_19_characters_item_instance.sql '' need skip; 0; 2009-01-14 09:14:55
+need apply sql patch udb r366; 0; 2009-01-14 05:00:48
+apply character database n't udpated yet since 366 probably already convert; 0; 2009-01-14 06:38:32
+udb modify character db anyway yiu ca n't apply slq update wrong order result built-in order protection; 0; 2009-01-14 14:22:45
+previous database r364 one skip r365 one apply r366 `` 2008_12_22_19_characters_item_instance.sql '' need skip; 0; 2009-01-14 09:14:55
+dislord awesome..; 0; 2009-01-10 10:36:33
+; -1; 2009-01-10 11:27:44
+; -1; 2009-01-01 09:10:03
+только русский человек после сумасшедшего праздника может кодит; 0; 2009-01-01 07:05:14
+омг; 0; 2009-01-01 12:38:05
+кодинговая лихорадка в этот день..; 0; 2008-12-30 02:52:51
+; -1; 2008-12-30 05:19:49
+hm spell 51533 fixed..; 0; 2008-12-29 09:00:55
+print version `` exist '' exit; 0; 2008-11-14 02:56:56
+reconnect; 0; 2008-11-01 11:38:30
+connect wrong client build let download correct patch automatically however place patch pack .mpq archive /patches subdirectory enable feature plan write documentation; 0; 2008-10-18 05:21:30
+`` auto patching system ''; 0; 2008-10-18 04:17:45
+fixes freeze use create console lot player database aka query slow; 0; 2008-10-17 10:48:12
+player select char enter game.. logout try `` get realmlist '' popup window `` get realmlist '' stucking.. one know reason way logout totally enter pas work normaly; 0; 2008-10-17 11:03:58
+p.s damn github.com dont like firefox; -1; 2008-10-17 11:06:30
+lot query need fix like one mostly query delete spell item character cause massive lag freeze create patch file fixes want idea yet git win; 0; 2008-10-17 12:44:34
+waza123 realmd issue fix 303 branch http //github.com/mangos/mangos/commit/ac6d01a6; 0; 2008-11-01 06:46:20
+fixes freeze use create console lot player database aka query slow; 0; 2008-10-17 10:48:12
+player select char enter game.. logout try `` get realmlist '' popup window `` get realmlist '' stucking.. one know reason way logout totally enter pas work normaly; 0; 2008-10-17 11:03:58
+p.s damn github.com dont like firefox; -1; 2008-10-17 11:06:30
+lot query need fix like one mostly query delete spell item character cause massive lag freeze create patch file fixes want idea yet git win; 0; 2008-10-17 12:44:34
+waza123 realmd issue fix 303 branch http //github.com/mangos/mangos/commit/ac6d01a6; 0; 2008-11-01 06:46:20
+wtf `` git ''; -1; 2008-10-16 05:09:26
+test; 0; 2008-10-16 08:06:47

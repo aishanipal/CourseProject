@@ -1,0 +1,4 @@
+comment; score; time
+ofc expect wait db project use provide correct data core care structure correctness convert data _only_ possible without big problem; 0; 2010-04-01 01:54:07
+loaded 0 quest poi definition db table quest_poi empty add sql; 0; 2010-04-01 01:04:14
+ok maybe use trick case case need client specific new index field value continue; 0; 2010-04-03 15:46:02

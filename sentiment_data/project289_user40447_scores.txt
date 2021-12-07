@@ -1,0 +1,16 @@
+comment; score; time
+g++ -dhave_config_h -i -i../../../src/game -i../.. -i../../../dep/ace_wrappers -i../../dep/ace_wrappers -i/usr/local/include/mysql -i/usr/include -i../../src/shared -i../../../src/game -i../../../src/game/../../dep/include -i../../../src/game/../framew; 0; 2010-03-08 15:54:55
+crash look relate either 9550 9551..; 0; 2010-03-09 01:14:23
+crash relate commit; -1; 2010-03-08 18:11:02
+least; 0; 2010-03-08 18:52:57
+confirmed annoy crash may happen 3 time per minute; 0; 2010-03-09 01:49:26
+dump http //paste2.org/p/708597; -1; 2010-03-09 01:50:43
+crash look relate either 9550 9551..; 0; 2010-03-09 01:52:20
+fixed already; 0; 2010-03-09 07:08:10
+dont think; 0; 2010-03-09 12:59:02
+ace update late version source rather old 5.7.4 current 5.6.5 bundle; 0; 2009-11-13 02:23:53
+probably update bundled ace version soon keep mind even late version bug make difference; 0; 2009-11-13 06:28:43
+yep upgrade ace late version would cool..; 0; 2009-11-13 05:56:23
+agree anyway current mangos way work mutex need currently; 0; 2009-11-13 11:08:19
+current mango also tbb bundle may mutexes use instead; 0; 2009-11-13 20:55:56
+use tbb mutices switch 100 tbb thread code mixing two thread libs bad idea; 0; 2009-11-15 12:08:51

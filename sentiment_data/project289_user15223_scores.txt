@@ -1,0 +1,11 @@
+comment; score; time
+indeed *bows*; 0; 2009-12-11 01:09:32
+must add 25899 greater blessing sanctuary switch; 1; 2009-06-05 22:43:33
+say tooltip must recover 2 base mana; 0; 2009-06-05 22:39:31
+cleansing totem available 3.0.9 yet; 0; 2009-05-22 06:25:16
+astellar tell find 0x0000000004000000ll; 0; 2009-05-22 07:01:48
+finally; 0; 2009-03-28 10:13:17
+wrong m_caster- getdistance n't distance one object center another object center; 0; 2009-03-28 12:54:11
+wrong; -1; 2009-03-28 12:53:12
+common-2.mpq exist 3.0.x client; 0; 2008-12-10 00:31:51
+thank fxied 6895; 1; 2008-12-10 09:52:30

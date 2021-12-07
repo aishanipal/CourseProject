@@ -1,0 +1,15 @@
+comment; score; time
+bug appear anyway 's special tauren need special handling; 0; 2012-07-14 23:10:53
+fr1nge tauren unique class extra option barbershop; 0; 2012-07-14 23:15:23
+fr1nge also tauren get ability change skin tone patch 3.2.0 initial barbershop release; 0; 2012-07-14 23:18:51
+nvm think druid skin tone change afaik nelfs n't problem taurens; 0; 2012-07-14 23:40:00
+bug appear anyway 's special tauren need special handling; 0; 2012-07-14 23:10:53
+fr1nge tauren unique class extra option barbershop; 0; 2012-07-14 23:15:23
+fr1nge also tauren get ability change skin tone patch 3.2.0 initial barbershop release; 0; 2012-07-14 23:18:51
+nvm think druid skin tone change afaik nelfs n't problem taurens; 0; 2012-07-14 23:40:00
+bad idea rename every single container typedef store guids use predefined typenames across project typenames must clarify kind data suppose store object type `` bgobjects '' `` guardianpetlist ''; 0; 2012-07-11 12:28:26
+hooray ambal 's return nice see man; 1; 2012-07-11 12:41:31
+good idd; 1; 2012-07-11 12:47:15
+passing; 0; 2012-07-11 13:06:05
+disagree ambal well ... guidset suppose objectguids matter player guids creature guids type objectguid also dont use seperate typedefs string playername creatu; 0; 2012-07-12 00:56:23
+supporting name variable one give reader strong hint suppose store type guess depend `` school '' debate choose either camel casing hungarian notat; 0; 2012-07-11 22:29:58

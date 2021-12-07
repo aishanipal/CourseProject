@@ -1,0 +1,6 @@
+comment; score; time
+lightguard congrats dev status first official commit; 1; 2010-02-02 13:36:31
+graz; 0; 2010-02-02 13:44:55
+graz; 0; 2010-02-02 18:57:18
+gratula; 0; 2010-02-03 01:38:25
+gratz lightguard nice job; 1; 2010-02-03 03:13:36

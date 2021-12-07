@@ -1,0 +1,136 @@
+comment; score; time
+; -1; 2010-05-08 00:08:02
+default set 1; 0; 2010-05-07 20:09:11
+yes 'm little confuse commit exactly clean; 1; 2010-05-08 07:48:19
+revils correct; 0; 2010-05-09 01:15:37
+ok thanks; 1; 2010-05-09 03:48:12
+laise huge update awesome thanks; 1; 2010-04-27 03:41:50
+thanks; 1; 2010-04-27 03:50:46
+awesome; 1; 2010-04-27 04:01:28
+oh god laise 're beast p; 0; 2010-04-27 09:35:00
+except easy code future also fix damage/heal time aura store caster damage apply meaning caster example dy dot still amount damage dependent target side ofc; 0; 2010-04-27 07:20:05
+oh god laise 're beast p; 0; 2010-04-27 09:35:00
+also fix shatter combo; 0; 2010-04-28 06:11:06
+shatter combo fix 9784; 0; 2010-04-28 21:18:24
+already revert revision xd; 1; 2010-04-28 23:41:27
+anyone high conflagrate damage spelleffects.cpp line 512-513 try remove call spelldamagebonusdone maybe also taken; 0; 2010-04-28 21:27:08
+clean core happen; 1; 2010-05-03 00:53:10
+'s bugreport core user n't test already maybe specific condition bug ... try get info user think patch ca n't cause bug affect single spell start aft; 0; 2010-05-03 01:16:46
+100 clean core spell paladin; 0; 2010-05-03 02:33:29
+bug mage talent 12606 spell 43015 receive damage example dk blood plague receive million damage; 0; 2010-05-03 00:29:32
+wrong value come insider addition sorry ^_^; -1; 2010-05-04 14:07:59
+note bug happen rank 7 dampen magic rank 6 dont bug use win server 2008 x64; 0; 2010-05-03 19:17:02
+db value wowka321 didnt manually edit come 1 db provider ytdb 2 core update; 0; 2010-05-03 20:55:20
+thx laise ^^; 1; 2010-05-03 21:50:36
+thx xd; 1; 2010-05-11 12:16:43
+`` return '' cause affected spell calculate spelldamagebonusdone/meeleedamagebonusdone; 0; 2010-05-11 08:15:23
+laise huge update awesome thanks; 1; 2010-04-27 03:41:50
+thanks; 1; 2010-04-27 03:50:46
+awesome; 1; 2010-04-27 04:01:28
+oh god laise 're beast p; 0; 2010-04-27 09:35:00
+except easy code future also fix damage/heal time aura store caster damage apply meaning caster example dy dot still amount damage dependent target side ofc; 0; 2010-04-27 07:20:05
+oh god laise 're beast p; 0; 2010-04-27 09:35:00
+also fix shatter combo; 0; 2010-04-28 06:11:06
+shatter combo fix 9784; 0; 2010-04-28 21:18:24
+already revert revision xd; 1; 2010-04-28 23:41:27
+anyone high conflagrate damage spelleffects.cpp line 512-513 try remove call spelldamagebonusdone maybe also taken; 0; 2010-04-28 21:27:08
+clean core happen; 1; 2010-05-03 00:53:10
+'s bugreport core user n't test already maybe specific condition bug ... try get info user think patch ca n't cause bug affect single spell start aft; 0; 2010-05-03 01:16:46
+100 clean core spell paladin; 0; 2010-05-03 02:33:29
+bug mage talent 12606 spell 43015 receive damage example dk blood plague receive million damage; 0; 2010-05-03 00:29:32
+wrong value come insider addition sorry ^_^; -1; 2010-05-04 14:07:59
+note bug happen rank 7 dampen magic rank 6 dont bug use win server 2008 x64; 0; 2010-05-03 19:17:02
+db value wowka321 didnt manually edit come 1 db provider ytdb 2 core update; 0; 2010-05-03 20:55:20
+thx laise ^^; 1; 2010-05-03 21:50:36
+thx xd; 1; 2010-05-11 12:16:43
+`` return '' cause affected spell calculate spelldamagebonusdone/meeleedamagebonusdone; 0; 2010-05-11 08:15:23
+thanks; 1; 2010-04-24 21:56:42
+thanks; 1; 2010-04-25 00:03:41
+use bigint 8 byte instead int 4 byte go live 300 billion year; 0; 2010-04-20 11:37:06
+n't use simple atoi check 's char number return null 's; 0; 2010-04-20 11:40:31
+compile error; -1; 2010-04-20 16:07:24
+yeah know 's bind want fix find late 'm find p; 0; 2010-04-21 08:05:02
+typo 1 character; 0; 2010-04-21 06:55:45
+indeed vlad even comment correct important code basically translation go others understand methodology process etc least 's 'm tell c++ book 'm try l; 0; 2010-04-21 09:24:50
+spell_proc_event delete 53710 53711; 0; 2010-04-12 08:45:06
+rank spell chain need first rank list proper data; 0; 2010-04-12 13:37:37
+ok thanks; 1; 2010-04-12 14:48:42
+spell_proc_event delete 53710 53711; 0; 2010-04-12 08:45:06
+rank spell chain need first rank list proper data; 0; 2010-04-12 13:37:37
+ok thanks; 1; 2010-04-12 14:48:42
+thanks ^^; 1; 2010-02-26 16:23:12
+hard way commit ...; 1; 2010-02-14 05:46:39
+vladimir becomes enrage p; -1; 2010-02-14 06:26:45
+rofl hard need; 1; 2010-02-14 06:27:17
+super; 1; 2010-02-14 10:09:02
+eeeeeeeeeeeeerrrrrrrrrrrrrrrr 1; 0; 2010-02-14 10:09:23
+nobody 's perfect; 1; 2010-02-14 16:35:34
+typo hit vladimir 50000000 nerve damage target enrage 5 next commits commit reduce stack 1; 0; 2010-02-14 14:18:31
+lol ^^; 1; 2010-02-14 14:47:56
+awesome; 1; 2010-02-12 01:19:31
+thanks; 1; 2010-02-12 06:51:32
+ну вот наконец-то какой-то заметный и очень даже шаг к реализации двойной специализации; 0; 2010-02-12 04:19:58
+omg thanks; 1; 2010-02-13 16:21:20
+nice work; 1; 2010-02-12 14:49:05
+great thx; 1; 2010-02-12 12:09:38
++1 tgm; 0; 2010-02-11 13:28:40
+look like intstead simply update player file direct value value return function store formula affect one player field; 0; 2010-02-11 14:18:32
+ok thanks; 1; 2010-02-11 15:08:42
++1 tgm; 0; 2010-02-11 13:28:40
+look like intstead simply update player file direct value value return function store formula affect one player field; 0; 2010-02-11 14:18:32
+ok thanks; 1; 2010-02-11 15:08:42
+give mango team time know great job dual talent get implement wont see commit message say `` actual dual spec still implement '' instead see something like `` dual talent implemente; 0; 2010-02-10 18:56:12
+fuuu 'm sorry much respecting developer vladimir cool work always shame mangos patch `` dual spec '' exist already long time work perfectly server also n't use `` official '' version; 0; 2010-02-10 22:24:07
+note fully implement yet hope soon; 0; 2010-02-10 13:22:21
+totally agree accord dual spec p; 0; 2010-02-10 23:33:19
++1 cyrex wait see; 0; 2010-02-10 22:35:08
+mean 3.3.2 n't; 0; 2010-02-05 12:53:33
+ahahah; 0; 2010-02-05 14:12:27
+3.3.2; 0; 2010-02-06 03:34:53
+need db support vehicle work scriptdev aswell btw nice work; 0; 2010-02-05 16:48:25
+cool; 1; 2010-02-05 16:45:10
+yes 's 3.3.2 3.2.2 's typo error ^^; 0; 2010-02-06 04:20:51
+hadnt realize mango still back 3.3.0a til update ... evo-x-core support 3.3.2 quite ...; 0; 2010-02-06 05:31:35
+; -1; 2010-02-06 06:36:12
+-.- quite ... n't even week since 3.3.2 come wo n't say `` correct word '' really need hear rhythm stfu; 0; 2010-02-06 06:26:13
+evo-x cheap/fake magos copy opinion dunno write 3razar3; 0; 2010-02-06 07:01:09
+lol; 1; 2010-02-06 07:38:16
+damn right keep vladimir good work; 0; 2010-02-06 09:10:36
+still waitting `` 99-90 ''; 0; 2010-02-06 09:11:06
+sound like good plan ... belive term come mind `` put ... '' know rest ...; 0; 2010-02-06 09:37:37
+delete next note relate mangos strictly; 0; 2010-02-06 10:29:57
+original patch check typo comment; 0; 2010-01-14 07:48:38
+'s pincess huhuran princess huhuran ^^; 0; 2010-01-14 06:39:28
+thanks good dardennf ^^; 1; 2010-01-12 11:56:53
+thanks linux; 1; 2010-01-03 11:15:56
+list.h need util.h math.h util.cpp compile fine without windwos; 0; 2010-01-05 10:24:56
+thanks ^^; 1; 2010-01-01 07:37:49
+confirm quest_flags_low_level 0x00080000 ...; 0; 2009-12-30 02:35:12
+one good linux; 1; 2009-11-11 15:15:25
+'s tbbmalloc; 0; 2009-11-11 16:22:54
+cyrex linux tbbmalloc reduce performance 10-30; 0; 2009-11-11 19:14:03
+try compile -- with-std-malloc -- with-std-malloc= '' yes '' still compile tbb cant tell moment works good; 0; 2009-11-11 20:26:03
+added form option useless; 0; 2009-11-12 02:59:21
+correct work option must _all_ cpp affect tbb use include make wrong way; 0; 2009-11-12 03:37:44
+sorry think missundestand way work option possible work correctly right ...; 0; 2009-11-12 05:51:19
+yes vladimir aparently -- with-std-malloc= '' yes '' work compile tbb libraries; 0; 2009-11-12 08:34:30
+error; -1; 2009-10-29 16:28:30
+！; -1; 2009-10-29 18:54:12
+data old db format quest mail loot quest _don't_ must db 2 quest mailtemplateid already wrong data db avoid error like quest loot old quest_mail_loot_template; 0; 2009-10-29 19:24:15
+haha well n't exactly solution actually since entry share mail loot id 86 lunar festival npcs 98 hermit believe need mail_loot_template cover; 0; 2009-10-30 17:53:00
+yes last solution correct problem indeed non-shared loot old table share mail template id quest; 0; 2009-10-31 00:52:31
+n't sorry thanks make us; 0; 2009-10-24 17:43:34
+thank old vlad devs appreciate work dedication sorry us time annoy p; 0; 2009-10-24 18:05:16
+critical issue still present; 0; 2009-10-24 18:51:31
+thanks us use linux ^^; 0; 2009-08-09 06:07:03
+yes; 1; 2009-07-24 10:06:16
+thanks; 1; 2009-07-24 10:41:29
+fix overpowered creatures current udb time test thx report; 0; 2009-07-24 09:43:18
+yes thanks; 1; 2009-07-20 05:19:50
+finally; 0; 2009-07-14 15:19:33
+speedup; 0; 2009-07-14 19:44:14
+euh make dont undertsand ^^; 0; 2009-07-14 18:33:14
+nice one; 1; 2009-07-14 20:01:38
+nice work; 1; 2009-07-15 02:12:24
+post crash log http //getmangos.com/community/index.php; 0; 2009-06-30 06:41:41
+yes thanks; 1; 2009-06-19 01:20:41

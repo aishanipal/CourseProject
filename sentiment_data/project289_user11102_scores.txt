@@ -1,0 +1,16 @@
+comment; score; time
+n't think commit break anything.. next commit 've also fix stuff one.. exactly commit n't use; 0; 2009-11-20 14:17:51
+seem stability issue commit database full compliance also use basic mango script crashes two tester anyone else stability issue investigate issue try revertin; 0; 2009-11-20 10:24:16
+p; -1; 2009-11-05 04:57:34
+look mapdifficulty.dbc; 0; 2009-11-05 04:42:09
+3 spawn mode; 0; 2009-11-05 04:25:17
+please detailed use forum.. 's verry hard get good discussion here.. much people look comment also find hard track discussion; 0; 2009-10-21 13:19:05
+make note trace major crashpoint revision perhaps give close look; 0; 2009-10-21 11:58:47
+thanks balrok; 1; 2009-10-08 06:39:44
+good hear help others; 1; 2009-10-08 07:31:53
+cod style help compiler optimize; 1; 2009-09-30 07:10:28
+fixes something; 0; 2009-09-30 04:06:58
+xor b b number result 0 else different zero use compare isalive isdeathonlyspell; 0; 2009-09-29 08:01:35
+use; 0; 2009-09-29 19:42:33
+good question problem 2 true value 1 2; 1; 2009-09-30 04:19:35
+fix new revision; 0; 2009-09-30 07:11:36

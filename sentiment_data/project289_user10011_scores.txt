@@ -1,0 +1,28 @@
+comment; score; time
+ah yes sorry bother; -1; 2012-02-07 14:04:54
+np; 1; 2012-02-07 14:16:45
+`` procedure entry point blah blah blah '' error server start win32 building vc90 project; 0; 2012-02-07 12:29:57
+ah yes sorry bother; -1; 2012-02-07 14:04:54
+np; 1; 2012-02-07 14:16:45
+`` procedure entry point blah blah blah '' error server start win32 building vc90 project; 0; 2012-02-07 12:29:57
+seem extremely dangerous multitasking environment however practice take look ...; 0; 2011-09-17 01:16:55
+agree spellentry spellentry struct uint32; 0; 2011-09-17 04:00:28
+ca n't would loop checking exist aura must pick target target vector; 0; 2011-09-18 03:57:39
+would extremely awesome add select_flag_not_in_melee_range exclude target give spell aura holder target unit already aura crucial instance encounter; 0; 2011-09-18 03:36:28
+seem extremely dangerous multitasking environment however practice take look ...; 0; 2011-09-17 01:16:55
+agree spellentry spellentry struct uint32; 0; 2011-09-17 04:00:28
+ca n't would loop checking exist aura must pick target target vector; 0; 2011-09-18 03:57:39
+would extremely awesome add select_flag_not_in_melee_range exclude target give spell aura holder target unit already aura crucial instance encounter; 0; 2011-09-18 03:36:28
+seem extremely dangerous multitasking environment however practice take look ...; 0; 2011-09-17 01:16:55
+agree spellentry spellentry struct uint32; 0; 2011-09-17 04:00:28
+ca n't would loop checking exist aura must pick target target vector; 0; 2011-09-18 03:57:39
+would extremely awesome add select_flag_not_in_melee_range exclude target give spell aura holder target unit already aura crucial instance encounter; 0; 2011-09-18 03:36:28
+thank; 1; 2011-07-14 08:06:30
+http //pastebin.com/7dfv60fq; 0; 2011-07-17 15:55:37
+undergarun auction table clean item_instance well delete item_instance owner_id==0 type blind wrong; 0; 2011-07-17 16:10:34
+skirnirmangos auction table 392.837 item owner_id 0; 0; 2011-07-17 23:52:55
+hm 'm 100 sure item auction get row item_instance row somehow exist truncate ahbot table 's delete well truncate ahbot item_instance entry owner_id==0 ahbots id dele; 0; 2011-07-18 01:13:40
+lol commit msg x; 1; 2011-07-07 05:30:15
+cool arcane missiles spell work great ^^; 1; 2011-05-20 13:34:13
+hostile version look like work problem missile fix; -1; 2011-05-22 14:45:16
+fix anything penance spell; 0; 2011-05-22 13:18:54

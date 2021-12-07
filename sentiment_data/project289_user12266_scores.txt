@@ -1,0 +1,13 @@
+comment; score; time
+different ifdef case must work appropriate platform; 0; 2011-05-17 13:57:44
+update window service dont work; 0; 2011-05-17 13:39:38
+dont know error code 1053 revert commit everyting ok; 1; 2011-05-17 14:27:39
+must fix 11502 thank report; 0; 2011-05-17 16:58:34
+config file use default place command-line option ...; 0; 2011-05-17 21:22:55
+possible finally fix 11507; 0; 2011-05-18 08:45:30
+different ifdef case must work appropriate platform; 0; 2011-05-17 13:57:44
+update window service dont work; 0; 2011-05-17 13:39:38
+dont know error code 1053 revert commit everyting ok; 1; 2011-05-17 14:27:39
+must fix 11502 thank report; 0; 2011-05-17 16:58:34
+config file use default place command-line option ...; 0; 2011-05-17 21:22:55
+possible finally fix 11507; 0; 2011-05-18 08:45:30

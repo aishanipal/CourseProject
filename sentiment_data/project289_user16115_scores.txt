@@ -1,0 +1,6 @@
+comment; score; time
+xd; 1; 2012-07-22 10:24:18
+`` must call unit :attackstop '' n't good put private method attackstop _removeattacker unit 's method; 0; 2012-07-23 00:29:37
+'s call 'this attackstop maybe; 0; 2012-07-23 01:51:03
+fix 11856 thank much; 0; 2011-12-02 04:23:09
+miss; -1; 2011-12-01 19:24:02

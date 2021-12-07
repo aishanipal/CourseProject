@@ -1,0 +1,3 @@
+comment; score; time
+strange git silencely touch manually line ... restore soon; 0; 2010-05-21 00:27:13
+revert 9943; 0; 2010-05-20 22:53:24

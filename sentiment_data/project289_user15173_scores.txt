@@ -1,0 +1,14 @@
+comment; score; time
+nice; 1; 2009-12-16 22:25:30
+remember update 3.3.0 branch support 3.3.0; 0; 2009-12-16 20:46:08
+330 branch realmd 330 mangosd also realmlist; 0; 2009-12-17 04:14:57
+client ignore `` offline '' state realmlist set config; 0; 2009-12-17 04:19:18
+oh see check mangosd sorry; 0; 2009-12-17 04:20:31
+mean ignore case info dependent mangosd mangosd accept client build accept connection; 0; 2009-12-17 04:21:51
+great work thx; 1; 2009-10-09 09:31:33
+thanks; 1; 2009-10-09 09:28:51
+bug fix; 0; 2009-10-09 10:01:44
+wonderful; 1; 2009-10-09 14:17:35
+way go; 0; 2009-10-09 11:06:51
+nice work thanx; 1; 2009-10-09 21:00:37
+nice thx xd; 1; 2009-10-09 14:27:34

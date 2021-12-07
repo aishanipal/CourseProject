@@ -1,0 +1,13 @@
+comment; score; time
+ace update late version source rather old 5.7.4 current 5.6.5 bundle; 0; 2009-11-13 02:23:53
+probably update bundled ace version soon keep mind even late version bug make difference; 0; 2009-11-13 06:28:43
+yep upgrade ace late version would cool..; 0; 2009-11-13 05:56:23
+agree anyway current mangos way work mutex need currently; 0; 2009-11-13 11:08:19
+current mango also tbb bundle may mutexes use instead; 0; 2009-11-13 20:55:56
+use tbb mutices switch 100 tbb thread code mixing two thread libs bad idea; 0; 2009-11-15 12:08:51
+ace update late version source rather old 5.7.4 current 5.6.5 bundle; 0; 2009-11-13 02:23:53
+probably update bundled ace version soon keep mind even late version bug make difference; 0; 2009-11-13 06:28:43
+yep upgrade ace late version would cool..; 0; 2009-11-13 05:56:23
+agree anyway current mangos way work mutex need currently; 0; 2009-11-13 11:08:19
+current mango also tbb bundle may mutexes use instead; 0; 2009-11-13 20:55:56
+use tbb mutices switch 100 tbb thread code mixing two thread libs bad idea; 0; 2009-11-15 12:08:51

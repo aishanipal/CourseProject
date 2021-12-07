@@ -1,0 +1,203 @@
+comment; score; time
+part commit text get lose apparently `` note code simplify function notify possibly order packet correct ''; 0; 2011-05-29 05:13:27
+getting info look like 's always 0 group 1 group need figure packet actually use no-group case; 0; 2011-05-29 03:52:15
+get everything weapon mh/oh intend behaviour; 0; 2011-05-08 10:22:47
+yes weapon clone spell ref dummy effect spell 43365 following spell cast example; 0; 2011-05-08 10:52:13
+confirm use spell_aura_mirror_image player i.g http //www.wowhead.com/item=58489; 0; 2011-05-08 10:59:43
+maybe something relate 4x would helpful ...; 0; 2011-05-08 11:23:31
+thanks; 1; 2011-05-08 11:00:16
+good use spell aura_247 replace old version patch completely stop work symptom old version development invisible mob example also p; 0; 2011-05-08 11:24:37
+since mangos dev push anything actually happy ... stop whining; 0; 2011-05-08 11:34:16
+'s actually 4.x spell ca n't find example wotlk spell; 0; 2011-05-08 12:09:05
+anyway spell devs n't use player-targets n't mean restriction might limitation 3.3.5 client code remove 4x; 0; 2011-05-08 12:14:57
+agree 's real reason check 's useless least add comment code maybe others test stuff see client accept even though none current spell expect clone another player; 0; 2011-05-08 13:58:30
+mean apply clone player clone player; 0; 2011-05-08 14:18:09
+yeah ... target aura player ...; 0; 2011-05-08 14:28:21
+get everything weapon mh/oh intend behaviour; 0; 2011-05-08 10:22:47
+yes weapon clone spell ref dummy effect spell 43365 following spell cast example; 0; 2011-05-08 10:52:13
+confirm use spell_aura_mirror_image player i.g http //www.wowhead.com/item=58489; 0; 2011-05-08 10:59:43
+maybe something relate 4x would helpful ...; 0; 2011-05-08 11:23:31
+thanks; 1; 2011-05-08 11:00:16
+good use spell aura_247 replace old version patch completely stop work symptom old version development invisible mob example also p; 0; 2011-05-08 11:24:37
+since mangos dev push anything actually happy ... stop whining; 0; 2011-05-08 11:34:16
+'s actually 4.x spell ca n't find example wotlk spell; 0; 2011-05-08 12:09:05
+anyway spell devs n't use player-targets n't mean restriction might limitation 3.3.5 client code remove 4x; 0; 2011-05-08 12:14:57
+agree 's real reason check 's useless least add comment code maybe others test stuff see client accept even though none current spell expect clone another player; 0; 2011-05-08 13:58:30
+mean apply clone player clone player; 0; 2011-05-08 14:18:09
+yeah ... target aura player ...; 0; 2011-05-08 14:28:21
+get everything weapon mh/oh intend behaviour; 0; 2011-05-08 10:22:47
+yes weapon clone spell ref dummy effect spell 43365 following spell cast example; 0; 2011-05-08 10:52:13
+confirm use spell_aura_mirror_image player i.g http //www.wowhead.com/item=58489; 0; 2011-05-08 10:59:43
+maybe something relate 4x would helpful ...; 0; 2011-05-08 11:23:31
+thanks; 1; 2011-05-08 11:00:16
+good use spell aura_247 replace old version patch completely stop work symptom old version development invisible mob example also p; 0; 2011-05-08 11:24:37
+since mangos dev push anything actually happy ... stop whining; 0; 2011-05-08 11:34:16
+'s actually 4.x spell ca n't find example wotlk spell; 0; 2011-05-08 12:09:05
+anyway spell devs n't use player-targets n't mean restriction might limitation 3.3.5 client code remove 4x; 0; 2011-05-08 12:14:57
+agree 's real reason check 's useless least add comment code maybe others test stuff see client accept even though none current spell expect clone another player; 0; 2011-05-08 13:58:30
+mean apply clone player clone player; 0; 2011-05-08 14:18:09
+yeah ... target aura player ...; 0; 2011-05-08 14:28:21
+get everything weapon mh/oh intend behaviour; 0; 2011-05-08 10:22:47
+yes weapon clone spell ref dummy effect spell 43365 following spell cast example; 0; 2011-05-08 10:52:13
+confirm use spell_aura_mirror_image player i.g http //www.wowhead.com/item=58489; 0; 2011-05-08 10:59:43
+maybe something relate 4x would helpful ...; 0; 2011-05-08 11:23:31
+thanks; 1; 2011-05-08 11:00:16
+good use spell aura_247 replace old version patch completely stop work symptom old version development invisible mob example also p; 0; 2011-05-08 11:24:37
+since mangos dev push anything actually happy ... stop whining; 0; 2011-05-08 11:34:16
+'s actually 4.x spell ca n't find example wotlk spell; 0; 2011-05-08 12:09:05
+anyway spell devs n't use player-targets n't mean restriction might limitation 3.3.5 client code remove 4x; 0; 2011-05-08 12:14:57
+agree 's real reason check 's useless least add comment code maybe others test stuff see client accept even though none current spell expect clone another player; 0; 2011-05-08 13:58:30
+mean apply clone player clone player; 0; 2011-05-08 14:18:09
+yeah ... target aura player ...; 0; 2011-05-08 14:28:21
+get everything weapon mh/oh intend behaviour; 0; 2011-05-08 10:22:47
+yes weapon clone spell ref dummy effect spell 43365 following spell cast example; 0; 2011-05-08 10:52:13
+confirm use spell_aura_mirror_image player i.g http //www.wowhead.com/item=58489; 0; 2011-05-08 10:59:43
+maybe something relate 4x would helpful ...; 0; 2011-05-08 11:23:31
+thanks; 1; 2011-05-08 11:00:16
+good use spell aura_247 replace old version patch completely stop work symptom old version development invisible mob example also p; 0; 2011-05-08 11:24:37
+since mangos dev push anything actually happy ... stop whining; 0; 2011-05-08 11:34:16
+'s actually 4.x spell ca n't find example wotlk spell; 0; 2011-05-08 12:09:05
+anyway spell devs n't use player-targets n't mean restriction might limitation 3.3.5 client code remove 4x; 0; 2011-05-08 12:14:57
+agree 's real reason check 's useless least add comment code maybe others test stuff see client accept even though none current spell expect clone another player; 0; 2011-05-08 13:58:30
+mean apply clone player clone player; 0; 2011-05-08 14:18:09
+yeah ... target aura player ...; 0; 2011-05-08 14:28:21
+tom refuse use git_id unknown least resons ...; 0; 2011-04-24 00:48:56
+project use revision number release user know easy mangos need one main reason mangos team agree use revision number like personally think nobody make sure 's use; 0; 2011-04-24 01:21:19
+hey definition lazy still use git_id; 0; 2011-04-24 03:11:48
+part clearly wrong blame temporarily insanity reverting shortly put change belong; -1; 2011-03-26 00:58:34
+finally; 0; 2011-03-21 03:21:18
+; -1; 2011-03-24 02:20:22
+use .gm -command intention behind add allow gm see gossip option regardless condition set make bit easy develop gossip; 0; 2011-03-24 02:22:20
+change seem break quest gossip innkeeper logic u add disable see quest least one quest condition fulfil quest gossip npc; 0; 2011-03-23 12:03:11
+harvest blight specimen check incorrect spell award credit entire raid spell target area target one member aura yes effect 's basepoints; 0; 2011-03-10 09:32:57
+thanks clearly much haste comment crap someone hopefully provide proper patch; 1; 2011-03-10 12:04:07
+also commit note stronger/more proper startup check add may give error even spell n't give error; 0; 2011-03-04 17:17:28
+indeed totally miss 47117,47149,47316,47405 spell maybe one use check thing like area `` summon '' ok instead current switch areaid least make sure add comment code; 0; 2011-03-04 00:22:23
+hm yes indeed matter opinion bad selection word really maybe would need defined style sql update accord; 0; 2011-01-29 03:34:40
+beautification turn uglification nofantasy except u format fix acceptable; 1; 2011-01-29 04:36:07
+well 's pretty safe say different opinion 'll make post forum least see able make unified style sql sql go log file main concern; 0; 2011-01-29 06:11:03
+beautify imho whatever x pretty whatever=x; 1; 2011-01-29 02:47:03
+maybe fix copyright notice back 2011 ...; 0; 2011-01-02 04:22:22
+yeah 's vladimirs fault ... forget recompile local copy git_id ...; 0; 2011-01-02 09:24:37
+; -1; 2011-01-02 09:27:06
+target mode use mostly siege damage spell like 56350 61766 correct limit spell_script_target; 0; 2010-12-11 06:22:15
+`` '' relate certain spell effect n't mean allow spell handle gameobject; 0; 2010-12-11 06:32:22
+count gameobject type 33 spell effect 87 give need add 1,575 record spell_script_target sure 's good idea; 0; 2010-12-11 07:54:38
+actually think way around give spell doesnt spell_script_target use go around otherwise exclusive search spell_script_target maybe; 0; 2010-12-11 12:18:45
+mean generic spell mean hit gameobject predefined one spell_script_target; 0; 2010-12-13 05:15:44
+_target- isalive check _target- istargetableforattack remove prev.check; 0; 2010-11-17 10:54:11
+indeed thanks notice; 1; 2010-11-17 11:07:50
+lol n't know `` monthly '' exist; 0; 2010-10-29 21:17:34
+specialflag 5 since 1 also require ...; 0; 2010-10-30 03:19:44
+|5 yes least time hope improve code future n't add repeatable flag daily/weekly/monthly quest; 0; 2010-10-31 04:52:52
+urand 0 2 good; 1; 2010-10-17 14:18:49
+lol haz fish; 1; 2010-10-17 06:18:06
+lol `` 0 idle 1 random 2 waypoint '' commit note course; 0; 2010-09-15 02:53:49
+command use ingame; 0; 2010-09-14 05:36:12
+yet plan; 0; 2010-09-14 06:00:14
+.wp load guid; 0; 2010-09-14 07:52:45
+silly mistake version course correct; 0; 2010-08-24 15:23:06
+yes good example creature/spell source death still need know player die player die fall damage; -1; 2010-08-21 07:27:05
+wow big thanks finally remove whole bunch hack script ...; 0; 2010-08-21 00:29:41
+sometimes wonder head write thanks ask simply redundant use this-; 0; 2010-08-21 07:39:21
+likely lazyness use intellisense `` this- ''; 0; 2010-08-21 07:29:21
+`` 3 minute '' comment useful p; 0; 2010-08-13 04:27:56
+every commit useful even `` remove tab whitespaces ... .etc ... ''; 0; 2010-08-13 04:50:56
+commit dedicate feel commits like always useless around; 1; 2010-08-13 06:59:06
+totally sorry author schmoozerd wires brain keyboard fail push without amend author; 0; 2010-08-08 13:49:25
+; -1; 2010-08-08 13:51:51
+already possibility script instanced map reason script assume; 0; 2010-08-01 14:48:07
+think would nice similar script call instance script use ulduar; 0; 2010-08-01 11:23:28
+'m talk implement processeventid instance script ulduar many destructible gameobjects need script and/or set data instance script implementing single processeventid instance script instead assign; 0; 2010-08-01 23:30:40
+work ok windows/vc90 need jalp fix ...; 0; 2010-07-25 09:18:31
+work include `` objectmgr.h '' btw; 0; 2010-07-25 09:21:11
+forgot mention ubuntu 9.10 hope fix; 0; 2010-07-25 09:21:44
+thanks test fix next push; 0; 2010-07-25 09:49:36
+think factionentrycalc instead factionentry; 0; 2010-08-20 10:35:36
+work ok windows/vc90 need jalp fix ...; 0; 2010-07-25 09:18:31
+work include `` objectmgr.h '' btw; 0; 2010-07-25 09:21:11
+forgot mention ubuntu 9.10 hope fix; 0; 2010-07-25 09:21:44
+thanks test fix next push; 0; 2010-07-25 09:49:36
+think factionentrycalc instead factionentry; 0; 2010-08-20 10:35:36
+work ok windows/vc90 need jalp fix ...; 0; 2010-07-25 09:18:31
+work include `` objectmgr.h '' btw; 0; 2010-07-25 09:21:11
+forgot mention ubuntu 9.10 hope fix; 0; 2010-07-25 09:21:44
+thanks test fix next push; 0; 2010-07-25 09:49:36
+think factionentrycalc instead factionentry; 0; 2010-08-20 10:35:36
+cool description hardly explain anything; 0; 2010-07-23 13:57:18
+data like example 576 4.0 1.0 4.0; 0; 2010-07-23 10:32:56
+mango core problem use broken custom patch; -1; 2010-05-12 20:04:21
+see hackworld use mtmaps; 0; 2010-05-12 21:51:07
+definitely hsc ... dont even recognize code ... whats think vlad; 0; 2010-05-12 21:04:36
+ну используете мангос то тут причем в нем проблем нет; 0; 2010-05-13 05:32:09
+hva er poenget med å skrive russisk kanskje alle skal begynne å skrive sitt eget morsmål sånn som dette bare å gjøre ting enda mer vanskelig; 0; 2010-05-13 10:50:22
+為什麼都寫在俄羅斯？也許每個人都應該開始寫在他們的母語，只是複雜的一切？; 0; 2010-05-13 10:59:41
+просто следите за актуальностью патчей которые вы ставите на ядро и всё будет оке это явно не проблемы разработчиков мангоса; 0; 2010-05-13 10:29:17
+immer die russe wo gfühl hän sie mieste ihrer eigene sproch statt änglisch schribe ... tztztz; 0; 2010-05-13 16:39:56
+למה על הקומיט שלי אבל =\; 0; 2010-05-13 12:56:01
+insider42 за патчами я слежу все дело оказалось в настройке проекта share game мудил с оптимизаций кудато тыкнул и все нарушил линки на библиотеки вот и вся проблема из за этого тут такой балаган банально попросил привести хотя бы догадки к; 0; 2010-05-14 12:37:52
+hola que tal; 0; 2010-05-13 17:19:16
+lol 's nothing big plan improve script_command_ bit making useful event like creature `` talk '' quest end example instead source talk target switch find near buddy ta; 0; 2010-05-13 02:26:19
+darn nofantasy make curious ... p; 0; 2010-05-12 08:14:02
+w00t project need moar scriptz; 0; 2010-05-12 03:10:24
+could update http //udbwiki.webhop.net/index.php/main_page 'll greatful; 0; 2010-05-16 03:44:21
+'s work fine; 0; 2010-05-06 05:00:04
+test ... bug find commit thanks; 1; 2010-05-06 23:02:42
+good take quite time hunt issue significant amount beer keg creativity increase level make possible actually track get thing control see recent commit 984; 0; 2010-05-07 04:31:48
+oh cwap solly fix asap; 0; 2010-05-01 15:41:13
+n't fully correct update come default value set fact different value instance include world map id 's; 0; 2010-04-16 01:06:17
+hey nofantasy.. already instance section make timer lock stop infinite; 0; 2010-04-16 06:30:53
+also maxlevel arena 70 80 arena minlevel arena 32 least 1 show startup error console; 0; 2010-04-14 06:38:48
+error start http //github.com/mangos/mangos/commit/e420ce88b2b8ff1a653735675520095edf294fbd miss sql update try figure default value intention might miss something please p; 0; 2010-04-15 04:21:37
+also necessary review crash becouse patch addes crash; 0; 2010-03-26 16:35:28
+thanks let us know tgm appreciate well aware among late 200 commits claim junk useless code several key feature see vital progression hope lose th; 0; 2010-03-26 19:20:37
+make mangos.sql apply anymore since data add line 1168 require additional value; 0; 2010-03-15 08:59:07
+hm.. really 1.0f default data basemovespeed table least; 0; 2010-03-15 09:36:34
+lordjz/silverice float value _rate_ value speed value function name already clear `` setspeedrate '' speed rate flight 1.0 near creature see us mean rate*basemovespeed mo; 0; 2010-03-15 14:56:45
+seem break compilation scriptdev2 boss_ionar.cpp:191 error const struct creatureinfo member name 'speed; 0; 2010-03-15 14:19:07
+offy creature stand one point 'stare unit player example however target neither aggro implement; 0; 2010-03-01 08:17:53
+m_creature- setfacingtoobject whatever_object_you_want_to_face; 0; 2010-03-01 11:36:50
+n't add emote `` '' anyway answer spellid 44456 obtain within calculatesimplevalue function; 0; 2010-02-25 01:48:37
+haa get would never find //helpers part def alone honestly ok thanks guy ofc hard feeling nofantasy; 0; 2010-02-25 07:42:17
+good code readability crucial know anything c/c++ even know compute sum two number programming language want provide good patch go ahead post forum otherwise enjoy mag; 0; 2010-02-20 13:49:18
+ha-ha f ... g brain xd; 1; 2010-02-20 17:10:01
+lighten sarcastic; -1; 2010-02-20 15:44:52
+sure 's even worth reply go piss tgm make code change tomorrow 'm certain community whole happy spell implement tad easy read code oh; 0; 2010-02-20 18:21:04
+past day great project perspective changed movement code huge performance boost overall overhead cause mob erratic facing movement go problem cause character pets behave; 0; 2010-02-21 00:50:30
+vim n't able edit commit message vim officially add death-list telling thanks tom vladimir help base research updated formula; 0; 2010-02-06 18:49:20
+major thing make order p give feedback work next 2 day p; 0; 2010-02-07 03:39:05
+see drop rewmoneymaxlevel use dbc instead addition mangos code course; 0; 2010-02-05 09:10:39
+data rewmoneymaxlevel still expect client also use value money receive max level; 0; 2010-02-06 08:59:47
+... 's 2010 already darn tool ...; 0; 2010-01-07 17:40:48
+yes 2x expect 4 time 8 total think way achieve may exist; 0; 2010-01-02 07:07:04
+think commit incorrect boss script check instance difficulty use proper spell regular example 28796 heroic 54098 know use previous version long time ... also check lutik 's scr; 0; 2009-12-29 03:30:18
+different spell use heroic v regular affected target depend 10 v 25 man mode source well know wiki; 0; 2009-12-29 05:03:36
+talk 25man version use different spell 10 man commit incorrect example script n't support heroic version anyway make 10man version spell cast number affected target wr; 0; 2009-12-29 05:09:28
+`` heroic '' mean 25man 's habit; 0; 2009-12-29 05:10:35
+know 25 spell version beacuse generci remark like case helful; 0; 2009-12-29 05:31:40
+ok start see point right check strictly need however n't make wrong enter 25-man boss cast 28796 error code simply expect bos use different; 0; 2009-12-29 06:17:05
+'s useless call getmap result; 0; 2009-12-29 06:25:38
+wrong commit; -1; 2009-12-29 09:50:00
+think commit incorrect boss script check instance difficulty use proper spell regular example 28796 heroic 54098 know use previous version long time ... also check lutik 's scr; 0; 2009-12-29 03:30:18
+different spell use heroic v regular affected target depend 10 v 25 man mode source well know wiki; 0; 2009-12-29 05:03:36
+talk 25man version use different spell 10 man commit incorrect example script n't support heroic version anyway make 10man version spell cast number affected target wr; 0; 2009-12-29 05:09:28
+`` heroic '' mean 25man 's habit; 0; 2009-12-29 05:10:35
+know 25 spell version beacuse generci remark like case helful; 0; 2009-12-29 05:31:40
+ok start see point right check strictly need however n't make wrong enter 25-man boss cast 28796 error code simply expect bos use different; 0; 2009-12-29 06:17:05
+'s useless call getmap result; 0; 2009-12-29 06:25:38
+wrong commit; -1; 2009-12-29 09:50:00
+grr mean handlegossipselectoptionopcode; 0; 2009-12-10 06:24:32
+`` result gossip go possible '' clear sorry gossip go possible show text main window gossip _selections_ yet implement need implementation handlegossiphelloo; 0; 2009-12-10 06:22:41
+last many thanks author people make work; 0; 2009-12-06 03:06:54
+grr mean handlegossipselectoptionopcode; 0; 2009-12-10 06:24:32
+`` result gossip go possible '' clear sorry gossip go possible show text main window gossip _selections_ yet implement need implementation handlegossiphelloo; 0; 2009-12-10 06:22:41
+last many thanks author people make work; 0; 2009-12-06 03:06:54
+strange question test yes course yes point see code current movement creature move stand still reason apply flag either creature move _af; 0; 2009-11-28 03:54:20
+may yes however mainly correct creature `` jump '' air random movement gen. isinflight true player taxi flight remember database need inhabittype|4 creature able; 0; 2009-10-15 04:22:09
+mean creatures suppose fly wo n't fall anymore; 0; 2009-10-14 18:50:04
+lol 'm even sorry bad english p see sneak real english word next time; 0; 2009-08-14 10:45:07
+veichles spell vehicle; 0; 2009-08-14 05:11:29
+`` charge spell effect '' affect two spell effect even though mention relate need adjustment accordingly part code; 0; 2009-08-12 06:48:42
+go fix example try cast spell take x amount time cast target run get behind exactly behind get miss spell target get behind happen lot w; 0; 2009-08-11 01:09:40
+thank nofantasy; 1; 2009-08-12 12:50:51
+added/adjusted comment 8371; 0; 2009-08-14 02:54:18

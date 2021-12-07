@@ -1,0 +1,4 @@
+comment; score; time
+; -1; 2010-03-03 10:18:22
+; -1; 2010-03-03 10:19:48
+fix steady shot bug auto shot; 0; 2010-03-02 14:23:46

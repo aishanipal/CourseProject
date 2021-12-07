@@ -1,0 +1,3 @@
+comment; score; time
+... ... pure win; 1; 2009-01-28 05:43:41
+corruption gain 0,2 spell power per tick 120 18sec 6 tick 0,3; 0; 2009-01-28 12:32:12

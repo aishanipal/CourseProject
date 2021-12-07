@@ -1,0 +1,129 @@
+comment; score; time
+looks like 've mess revision number; 1; 2010-07-13 11:04:37
+revision number overrate; 0; 2010-07-13 11:09:53
+guess mean grant xd; 1; 2010-07-13 12:32:12
+grunt client 's name login protocol mangos rely look connection.log file log directory client; 0; 2010-07-13 13:10:20
+feel free suggest good place put; 1; 2010-06-24 11:54:11
+n't typo typelist_3 typelist_4 define one line line 62; 0; 2010-06-14 07:11:54
+gz; 0; 2010-06-14 00:08:00
+nice p; 1; 2010-06-14 00:01:25
+cool ^^; 1; 2010-06-13 23:51:37
+'s correct typelist_x macro help `` assemble '' list type contain x amount type object ... make sense; 0; 2010-06-14 07:50:29
+ah sorry n't read correctly ... thought 'd define typelist_* thing; 0; 2010-06-14 08:22:40
+'s camera system; 0; 2010-06-14 12:55:21
+fixed 10072 thank; 1; 2010-06-16 19:01:08
+0; -1; 2010-06-03 06:30:52
+0; -1; 2010-06-04 07:54:09
+read prev note known compiler remove dead check 0; 0; 2010-06-05 12:27:05
+opcodes.cpp 0x50f 0x511 worldsession :handle_serverside; 0; 2010-05-01 13:38:34
+unlike comrades.. big issue mangos-dev push commit without make sure compile fuck previous work ... hellscream evo-x might worship u think lazy bastard ... could least comm; 0; 2010-05-01 15:50:25
+dont even try work otehr else issue wouldnt occur ... want naysay tell push broken repos ... repo countless others prior; 0; 2010-05-01 15:52:44
+know absolute fact completely ignore work accredited repos attempt work think individual repository; 0; 2010-05-01 15:51:38
+3razar3 wo n't comment opinion mangos team tell statement even remotely relate commit ...; 0; 2010-05-01 17:26:44
+dont use fork; 0; 2010-05-01 21:04:49
+3razar3 please dont drag ok; 1; 2010-05-02 12:47:29
+n't use fork like mangos devs anyways actually write vladimir say would care word comment seem totally unrelated pointless mention r; 0; 2010-05-02 14:05:30
+yeah okay bad ... disregard last 24hrs comment; -1; 2010-05-02 14:34:51
+hate vs2010 's slow; -1; 2010-04-30 11:01:00
+/agree pointless cant imagine anyone use anymore ...; 0; 2010-04-30 10:46:47
+/agree completely full retail alot compile isnt go compile due depreciation; 0; 2010-04-30 11:06:02
+sound good ... problem long vc90 stay; 0; 2010-04-30 14:39:59
+lambdas also nice c++0x feature allow us drop functors function class currently use instance grid searcher; 0; 2010-05-01 03:52:20
+please know hell 're talk claim something bad design; -1; 2010-04-16 09:22:06
+yes dbc; 1; 2010-04-16 04:46:02
+finally thank; 1; 2010-04-15 03:37:01
+know blizzard 's battlegroup clustering 100 server-side; 0; 2010-04-15 23:39:39
+currently blizz use redirect battlenet world warcraft channel upon login; 0; 2010-04-15 22:12:39
+`` think '' use load/send character battleground instance group different realm think main part code use connect battle group course delima set use; 0; 2010-04-15 06:04:33
+try understand code ca n't figure exactly probably something redirect connection someone enlighten; 0; 2010-04-15 05:07:12
+well thats good thing us right except fact mangos build way cluster; 0; 2010-04-15 23:43:21
+'re connect proxy; 0; 2010-04-16 02:38:23
+oh true see would much less work; 0; 2010-04-16 13:15:54
+also currently use account.v/s field leave fact whole auth system exploitable right; 0; 2010-08-15 16:58:16
+lol ca n't fail provide pointer field ...; 0; 2010-08-15 16:52:35
+mean function fails _is_ fail really returning salt sessionkey; 0; 2010-08-15 16:56:45
+function fail; -1; 2010-08-15 15:45:37
+finally thank; 1; 2010-04-15 03:37:01
+know blizzard 's battlegroup clustering 100 server-side; 0; 2010-04-15 23:39:39
+currently blizz use redirect battlenet world warcraft channel upon login; 0; 2010-04-15 22:12:39
+`` think '' use load/send character battleground instance group different realm think main part code use connect battle group course delima set use; 0; 2010-04-15 06:04:33
+try understand code ca n't figure exactly probably something redirect connection someone enlighten; 0; 2010-04-15 05:07:12
+well thats good thing us right except fact mangos build way cluster; 0; 2010-04-15 23:43:21
+'re connect proxy; 0; 2010-04-16 02:38:23
+oh true see would much less work; 0; 2010-04-16 13:15:54
+also currently use account.v/s field leave fact whole auth system exploitable right; 0; 2010-08-15 16:58:16
+lol ca n't fail provide pointer field ...; 0; 2010-08-15 16:52:35
+mean function fails _is_ fail really returning salt sessionkey; 0; 2010-08-15 16:56:45
+function fail; -1; 2010-08-15 15:45:37
+like hacker cheater example send modify packet server alter stats boost something; 0; 2010-03-11 15:10:44
+got thank xtzgzorex; 1; 2010-03-11 17:43:52
+say ca n't generically detect _values_ packet wrong change check packet short disconnect player yes 's sort anti-cheating mechanism albeit effective one world; 0; 2010-03-11 15:35:17
+wpe change packet fool client think different spell example could take mana roll wpe get packet use spell change say wsg victory spell time click mana roll add 3 w; 0; 2010-03-11 20:20:53
+pretty sure value change spell id another spell id; 1; 2010-03-12 01:58:41
+mean elaborate alter packet length packet value; 0; 2010-03-11 21:27:01
+detect kick packet change say wpe try change one spell another item; 0; 2010-03-11 19:14:41
+clarify check exist already long time mangos unconditionally ignore like packet make player kick like packet also big warning mango still always correctly read packet add read; 0; 2010-03-12 06:09:39
+like hacker cheater example send modify packet server alter stats boost something; 0; 2010-03-11 15:10:44
+got thank xtzgzorex; 1; 2010-03-11 17:43:52
+say ca n't generically detect _values_ packet wrong change check packet short disconnect player yes 's sort anti-cheating mechanism albeit effective one world; 0; 2010-03-11 15:35:17
+wpe change packet fool client think different spell example could take mana roll wpe get packet use spell change say wsg victory spell time click mana roll add 3 w; 0; 2010-03-11 20:20:53
+pretty sure value change spell id another spell id; 1; 2010-03-12 01:58:41
+mean elaborate alter packet length packet value; 0; 2010-03-11 21:27:01
+detect kick packet change say wpe try change one spell another item; 0; 2010-03-11 19:14:41
+clarify check exist already long time mangos unconditionally ignore like packet make player kick like packet also big warning mango still always correctly read packet add read; 0; 2010-03-12 06:09:39
+; -1; 2010-03-10 02:39:50
+*stabs .gitconfig furiously*; 0; 2010-03-02 06:20:04
+funny riboncore commit exactly one -- http //code.google.com/p/trinitycore/source/detail r=2a552f1e989a1cf083af0dc4b239cc3c16bfe701 -- coincidentally happen ...; 0; 2010-03-02 11:39:10
+know ribon derivated trinity trinity derivated mango funny mango get il last; 0; 2010-03-02 11:40:56
+*stabs .gitconfig furiously*; 0; 2010-03-02 06:20:04
+funny riboncore commit exactly one -- http //code.google.com/p/trinitycore/source/detail r=2a552f1e989a1cf083af0dc4b239cc3c16bfe701 -- coincidentally happen ...; 0; 2010-03-02 11:39:10
+know ribon derivated trinity trinity derivated mango funny mango get il last; 0; 2010-03-02 11:40:56
+rev 4 hour uptime counting hopefully frequent crash linux get fix; 0; 2010-01-30 11:45:16
+go; 0; 2010-01-30 16:49:50
+speedup early check exist packet send client cheating tool; 0; 2009-11-20 23:39:03
+ah copy-paste mistake thanks; 1; 2009-11-21 22:24:26
+ace update late version source rather old 5.7.4 current 5.6.5 bundle; 0; 2009-11-13 02:23:53
+probably update bundled ace version soon keep mind even late version bug make difference; 0; 2009-11-13 06:28:43
+yep upgrade ace late version would cool..; 0; 2009-11-13 05:56:23
+agree anyway current mangos way work mutex need currently; 0; 2009-11-13 11:08:19
+current mango also tbb bundle may mutexes use instead; 0; 2009-11-13 20:55:56
+use tbb mutices switch 100 tbb thread code mixing two thread libs bad idea; 0; 2009-11-15 12:08:51
+ace update late version source rather old 5.7.4 current 5.6.5 bundle; 0; 2009-11-13 02:23:53
+probably update bundled ace version soon keep mind even late version bug make difference; 0; 2009-11-13 06:28:43
+yep upgrade ace late version would cool..; 0; 2009-11-13 05:56:23
+agree anyway current mangos way work mutex need currently; 0; 2009-11-13 11:08:19
+current mango also tbb bundle may mutexes use instead; 0; 2009-11-13 20:55:56
+use tbb mutices switch 100 tbb thread code mixing two thread libs bad idea; 0; 2009-11-15 12:08:51
+jaddie 's open source fix instead complain; 0; 2009-11-05 22:24:44
+totally agree; 1; 2009-11-06 09:08:20
+tell thanks devs work free.. ^_^; 0; 2009-11-07 07:27:28
+agree 2 thats good developer work; 1; 2009-11-07 03:14:24
+agree everything else disagree statement regard c `` drag drop '' sure ui designer ... wcell n't ui fact wcell extremely well-designed also disagree c/c++ c c ric; 0; 2009-11-08 18:35:48
+n't get wrong guy use c tool development quick hobby project would n't even think use game development standpoint; 0; 2009-11-09 13:53:34
+hmm maybe check creature first make one safe; 0; 2009-10-24 08:29:04
+netsky 'this never 0x0 would; 0; 2009-10-24 09:00:38
+mean; 0; 2009-10-24 08:47:42
+ok 's true look whole method; 1; 2009-10-24 09:18:53
+fact multi-threading would fine without make bit fast; 0; 2009-10-19 20:52:56
+one step multithreading; 0; 2009-10-19 18:30:07
+fact muti-threading would work garbage code add lock appropriate places.. like program really muti-threading program structure; 0; 2009-10-20 00:42:44
+cause crash http //getmangos.com/community/showpost.php p=89172 postcount=686; 0; 2009-10-20 11:23:33
+commit fix; 1; 2009-10-16 12:01:58
+use pointer player object instead copy afaik; 0; 2009-10-16 13:05:59
+xeross patch fix saveallplayers functionality 'd acquire wrong mutex stupid typo =/ negative effect noticeable mtmaps patch present; 0; 2009-10-16 14:57:29
+fact important fix many custom patch copy use typo lock use wo n't work intend i.e mangchat; 0; 2009-10-18 07:30:19
+oh keep mind hashmapholder store _actual objects_ pointer; 0; 2009-10-18 07:30:58
+hashmapholder store pointer type specify template; 0; 2009-10-22 00:06:23
+commit fix; 1; 2009-10-16 12:01:58
+use pointer player object instead copy afaik; 0; 2009-10-16 13:05:59
+xeross patch fix saveallplayers functionality 'd acquire wrong mutex stupid typo =/ negative effect noticeable mtmaps patch present; 0; 2009-10-16 14:57:29
+fact important fix many custom patch copy use typo lock use wo n't work intend i.e mangchat; 0; 2009-10-18 07:30:19
+oh keep mind hashmapholder store _actual objects_ pointer; 0; 2009-10-18 07:30:58
+hashmapholder store pointer type specify template; 0; 2009-10-22 00:06:23
+could stop retard hell ever guarantee would get good server security commit; -1; 2009-07-21 23:56:12
+bliatz make project nothing ah think much; 0; 2009-07-23 20:54:33
+crash return 1 n't resolved new rev; -1; 2009-06-01 06:18:54
+mh strange ca n't post part code honorbale honorable; 0; 2009-04-22 13:33:06
+player_field_lifetime_honorable_kills; 0; 2009-04-22 13:32:24
+ok sorry; 1; 2009-04-22 22:50:51
+typical blizz; 0; 2009-04-23 04:44:48

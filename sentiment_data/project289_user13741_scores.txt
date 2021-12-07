@@ -1,0 +1,6 @@
+comment; score; time
+updade core command dont work like .modify money .learn ... ... gm level 5; 0; 2009-02-01 10:48:55
+fxied 7233 thank report; 0; 2009-02-05 22:01:24
+fixed 7223 http //github.com/mangos/mangos/commit/f6758445f81d88ca976b661f9a4b0baeaf9c9f8f thank; 0; 2009-02-02 14:10:05
+revision dk level 80 take 25 talent point ... bug; 0; 2009-01-24 16:40:04
+talent point dk recieved quest reward; 1; 2009-01-24 17:39:58

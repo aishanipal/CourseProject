@@ -1,0 +1,5 @@
+comment; score; time
+try find msvcr100.dll compile vc90; 0; 2011-04-20 04:03:36
+install visual c++ 2010 redist; 0; 2011-04-20 04:11:53
+ok thx; 1; 2011-04-20 04:15:13
+need upgrade openssl lib linux; 0; 2011-05-12 11:41:55

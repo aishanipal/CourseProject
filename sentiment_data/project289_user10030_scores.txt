@@ -1,0 +1,26 @@
+comment; score; time
+thanks merge pain; -1; 2012-07-19 14:30:20
+merge pain please provide patch open source community would keep big merge complication ...; 0; 2012-07-19 15:07:51
+mine p; 0; 2012-07-19 15:43:07
+time; 0; 2012-07-19 16:07:01
+tom_rus style xd; 1; 2012-07-19 20:17:13
+zakamurite 've stop merges time ago advise ...; 0; 2012-07-19 21:14:05
+keep hostility towards mangos; -1; 2012-07-20 04:12:01
+githubs eats comment; 0; 2012-07-19 23:12:02
+please offer tool witch change style option make project; 0; 2012-07-20 04:23:16
+reamer imo 's use perl regexpes ...; 0; 2012-07-20 04:24:25
+question hostility towards anyone; -1; 2012-07-20 04:25:55
+point access hashmapholder directly findplayer wrapper check isinworld false teleport cause well know bug party member appear offline process; 0; 2012-04-02 09:34:09
+week ago schmoozerd add arg findplayer prevent check isinworld false end objectaccessor :findplayer ... *false*; 0; 2012-04-02 10:19:05
+must miss commit; 1; 2012-04-02 14:49:58
+mean 1f96ccdfe24ffedd9eb303f73f5985a3a127e203 cyberium saw try backport schmooz patch cyberiums miss mango one; 0; 2012-04-02 10:54:40
+need assert return case ...; 0; 2012-03-29 23:51:38
+; -1; 2012-03-30 01:03:51
+nighoo probably proper fix assert help track cause though really great user crash; 0; 2012-03-30 02:36:54
+happen lot since check hostility attacker get hit campfire something assertion shutdown mango; 0; 2012-03-30 02:48:34
+problem may appear 2 case break script/ai great hack effectenvironmentaldmg need remove hack error code insert `` gags '' like ...; 0; 2012-03-30 05:02:51
+need assert return case ...; 0; 2012-03-29 23:51:38
+; -1; 2012-03-30 01:03:51
+nighoo probably proper fix assert help track cause though really great user crash; 0; 2012-03-30 02:36:54
+happen lot since check hostility attacker get hit campfire something assertion shutdown mango; 0; 2012-03-30 02:48:34
+problem may appear 2 case break script/ai great hack effectenvironmentaldmg need remove hack error code insert `` gags '' like ...; 0; 2012-03-30 05:02:51

@@ -1,0 +1,45 @@
+comment; score; time
+kind problem take say `` many broken spell '' relate table scar; 0; 2010-04-15 22:13:04
+client switch 3.3.2; 0; 2010-04-15 22:31:45
+client switch character_talent table implementation first login update server run query delete exist talent spell character_spell character use spell condition create secounds delay xxk chara; 0; 2010-04-15 22:31:03
+ask order include affect gcc learn purpose; 0; 2010-04-09 07:27:21
+achievementmgr.h use enum gender define shareddefines.h shareddefines.h include achievementmgr.h necessary include .cpp file include shareddefines.h achievementmgr.h gcc require hav; 0; 2010-04-09 07:33:55
+like case good explicit include achievementmgr.h; 1; 2010-04-09 10:41:03
+pff get ta dream somebody bitch slap silly; 1; 2010-04-02 13:06:10
+really good job thanks; 1; 2010-04-02 13:38:54
+/me slap cyrex; 0; 2010-04-02 13:15:44
+thanks nice work; 1; 2010-04-02 13:26:05
+impossable one look code ...; 0; 2010-04-02 15:31:16
+thx good work; 1; 2010-04-02 23:32:54
+excellent work often commits instead cut away never stop anyone field database ...; 0; 2010-04-03 10:44:11
+ppl understanding code development think feature add commits exist without many preparation commits without const code cleanup improve code _without_ visible user changes.. devs think man; 0; 2010-04-03 11:34:29
+something new good never abandon backwards compatibility relation hack unused core code field database prevent develop core however removal field bury lot well-done work web p; 0; 2010-04-03 13:40:14
+think remove data blob pain long time storing data way well design inefficient also make harder get certain data web portal mention also update code web portal; 0; 2010-04-03 15:01:19
+think start think thing like backward compatibility reach 1.0 ...; 0; 2010-04-03 15:58:14
+crash relate commit; -1; 2010-03-08 18:11:02
+least; 0; 2010-03-08 18:52:57
+confirmed annoy crash may happen 3 time per minute; 0; 2010-03-09 01:49:26
+dump http //paste2.org/p/708597; -1; 2010-03-09 01:50:43
+crash look relate either 9550 9551..; 0; 2010-03-09 01:52:20
+fixed already; 0; 2010-03-09 07:08:10
+dont think; 0; 2010-03-09 12:59:02
+hmm maybe check creature first make one safe; 0; 2009-10-24 08:29:04
+netsky 'this never 0x0 would; 0; 2009-10-24 09:00:38
+mean; 0; 2009-10-24 08:47:42
+ok 's true look whole method; 1; 2009-10-24 09:18:53
+may correct also decrease little bit chance achieve pool allow object limit condition take first available spawn roll one already spawn; 0; 2009-10-22 05:55:41
+addition spawn 2+ item pool meaning pool object equally chance 0 could imagine pool 5 object a:50 b:25 c:12 d:8 e:0 rest spawns 3 one `` '' spawn meanin; 0; 2009-10-22 08:52:25
+commit fix; 1; 2009-10-16 12:01:58
+use pointer player object instead copy afaik; 0; 2009-10-16 13:05:59
+xeross patch fix saveallplayers functionality 'd acquire wrong mutex stupid typo =/ negative effect noticeable mtmaps patch present; 0; 2009-10-16 14:57:29
+fact important fix many custom patch copy use typo lock use wo n't work intend i.e mangchat; 0; 2009-10-18 07:30:19
+oh keep mind hashmapholder store _actual objects_ pointer; 0; 2009-10-18 07:30:58
+hashmapholder store pointer type specify template; 0; 2009-10-22 00:06:23
+original implememtaion wrong go target spell wrong animation time expect _really_ target go normal way exist special invisible target npc target instead gos focus go wrong go exist; 0; 2009-10-14 15:04:12
+yes possibility use spell focus target target type 40 automaticaly currently must add explicity db; 0; 2009-10-21 23:59:24
+yes correct build say 3506 typo commit message; 0; 2009-01-29 18:12:07
+yes typo sorry; 1; 2009-01-30 06:43:34
+hmm auramap :iterator iter auras.begin next iter auras.end `` next '' variable use; 0; 2009-01-13 12:13:23
+fix 7079; 0; 2009-01-13 13:36:16
+hmm auramap :iterator iter auras.begin next iter auras.end `` next '' variable use; 0; 2009-01-13 12:13:23
+fix 7079; 0; 2009-01-13 13:36:16

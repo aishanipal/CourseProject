@@ -1,0 +1,46 @@
+comment; score; time
+origins updatefields.h automatically generate thus responsible typo; 0; 2010-04-03 04:09:15
+think 's say 's unreadable _difficult perceive_ understand 's space well; 0; 2010-03-15 15:49:07
+standard way determinating euclidean distance use recognize http //en.wikipedia.org/wiki/euclidean_distance; 0; 2010-03-15 15:33:35
+thanks bug old vmap system disable complete functionality able use server long time never able isolate problem; 0; 2010-03-10 06:28:51
+unable compile since commit ‘ default_world_object_size ’ declare scope ...; 0; 2010-03-10 07:47:18
+os run sylvian; 0; 2010-03-10 09:40:11
+nice finding indeed; 1; 2010-03-10 07:38:20
+hunuza 3; 0; 2010-03-10 12:20:59
+hope brake php scp; 0; 2010-03-05 03:43:52
+protocol n't change internal handling ra command; 0; 2010-03-05 04:49:34
+hop see get add since read forum topic good see make cut; 0; 2010-02-27 04:16:51
+nice.. ra remove stay; 0; 2010-02-27 05:10:58
+since ra part mangos still use old socket library either rewrite use ace drop personally advocate rewrite option ra still nice-to-have feature; 0; 2010-02-27 06:46:31
+fragfrog nope 'm currently compile 0.12 branch trace bug; 0; 2010-02-28 12:54:46
+lot software write use ra connection minimanager umanager game name drop soon otherwise many management tool stop work properly mention; 0; 2010-02-27 06:50:48
+chance see comment forum using 0.12 branch version change soap result always empty reason would quite like thought; 0; 2010-02-28 12:37:22
+hop see get add since read forum topic good see make cut; 0; 2010-02-27 04:16:51
+nice.. ra remove stay; 0; 2010-02-27 05:10:58
+since ra part mangos still use old socket library either rewrite use ace drop personally advocate rewrite option ra still nice-to-have feature; 0; 2010-02-27 06:46:31
+fragfrog nope 'm currently compile 0.12 branch trace bug; 0; 2010-02-28 12:54:46
+lot software write use ra connection minimanager umanager game name drop soon otherwise many management tool stop work properly mention; 0; 2010-02-27 06:50:48
+chance see comment forum using 0.12 branch version change soap result always empty reason would quite like thought; 0; 2010-02-28 12:37:22
+hard way commit ...; 1; 2010-02-14 05:46:39
+vladimir becomes enrage p; -1; 2010-02-14 06:26:45
+rofl hard need; 1; 2010-02-14 06:27:17
+super; 1; 2010-02-14 10:09:02
+eeeeeeeeeeeeerrrrrrrrrrrrrrrr 1; 0; 2010-02-14 10:09:23
+nobody 's perfect; 1; 2010-02-14 16:35:34
+typo hit vladimir 50000000 nerve damage target enrage 5 next commits commit reduce stack 1; 0; 2010-02-14 14:18:31
+lol ^^; 1; 2010-02-14 14:47:56
+bug fix; 0; 2009-08-27 03:35:11
+able join enabled afk battleground since kick toggle could gather mark honor without anything; 0; 2009-08-27 04:54:58
+'s wrong 're go afk 're queue remove queue 're afk ca n't join queue; 0; 2009-08-31 22:42:37
+fix add 0.12 branch thanks; 0; 2009-01-23 05:01:52
+fixed 7152 thanks annotation; 0; 2009-01-23 03:41:50
+0.12 griffonheart; 0; 2009-01-23 06:49:36
+ups 8 achievementmgr.cpp; 0; 2009-01-23 06:53:42
+yea right ment fix write accident sorry p; 0; 2009-01-23 08:00:58
+connect wrong client build let download correct patch automatically however place patch pack .mpq archive /patches subdirectory enable feature plan write documentation; 0; 2008-10-18 05:21:30
+`` auto patching system ''; 0; 2008-10-18 04:17:45
+fixes freeze use create console lot player database aka query slow; 0; 2008-10-17 10:48:12
+player select char enter game.. logout try `` get realmlist '' popup window `` get realmlist '' stucking.. one know reason way logout totally enter pas work normaly; 0; 2008-10-17 11:03:58
+p.s damn github.com dont like firefox; -1; 2008-10-17 11:06:30
+lot query need fix like one mostly query delete spell item character cause massive lag freeze create patch file fixes want idea yet git win; 0; 2008-10-17 12:44:34
+waza123 realmd issue fix 303 branch http //github.com/mangos/mangos/commit/ac6d01a6; 0; 2008-11-01 06:46:20

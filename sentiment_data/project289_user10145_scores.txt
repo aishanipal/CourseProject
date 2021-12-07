@@ -1,0 +1,56 @@
+comment; score; time
+interest hack bilzzard 's side; 0; 2011-06-10 09:57:33
+unsigned int 32bits mysql use 10 digit display default 11 `` int 11 unsigned '' table use space remember want 11 digit; 0; 2011-06-11 09:24:40
+know mysql different slq engine store numeric value normal digital form store memory width specifier affect value print query result ...; 0; 2011-06-11 11:11:17
+; -1; 2011-04-25 08:22:20
+possible resolve conflict old patch version best way code style big problem right attempt apply code style opposition direction case; 0; 2011-04-25 08:56:43
+hm case x consistent client file point code n't remember exactly x terrain calculation swap if/why liquid need place ca n't tell memory either comment would; 0; 2011-04-25 08:59:14
+true lynx3d swap x vmaps long ago map probably client generate file may still reverse; 0; 2011-04-26 02:01:49
+neo well problem vmaps need regenerate vmaps maybe uh; 0; 2011-04-26 04:44:42
+fix currently discard mob handle 'destination movement generator free rollback patch case fix nothing; 0; 2011-03-30 03:15:51
+fix able without deep research 'detectposcollision 0 since vmap code add core year ago; 0; 2011-03-30 07:12:10
+commit change anything configure git client download crlf commit lf format; 0; 2011-03-12 12:33:38
+crlf=auto trouble git n't always convert line ending properly diff index; 0; 2011-03-12 13:34:21
+sorry n't get back lot thing go real life; 0; 2011-03-25 16:11:43
+problem nobody yet commit suicide assume commit work; -1; 2011-03-25 16:38:28
+lol n't make commit engrish fix 's nofantasy job; 0; 2011-01-17 09:55:55
+copy/paste typo fortunately impact; 0; 2010-12-13 06:46:14
+awesome thank reduce npc_trainer table size least 50; 1; 2010-12-13 06:59:07
+fill way npc_trainer/npc_vendor u provide trainer_id/vendor_id creature_template; 0; 2010-12-13 09:19:55
+fixed 10869 thank; 1; 2010-12-13 09:44:09
+thanks fix 10644; 1; 2010-10-25 23:44:52
+readable; 0; 2010-10-25 07:11:37
+windows 's mangosd.exe p; 0; 2010-09-14 07:48:55
+`` part fo '' `` part ''; 0; 2010-09-03 03:26:30
+fixed 10449 thank; 1; 2010-09-06 06:21:02
+team argument outdoor pvp part like nagrand mob model change zone faction; 0; 2010-08-18 11:23:01
+main problem unused arg code long time function think read way support need related use code; 0; 2010-08-18 13:28:30
+go neo one ... mean isnt offy let skinloot without loot first..; 0; 2010-05-19 04:59:39
+note offy even convenient always loot creature even loot window empty skin mine get plant creature 's corp n't like offy behave matter w; 0; 2010-05-19 04:55:46
+items/containers player guid 2nd 3rd digit depend server group server eitrigg eu use 0x0680 mask item 0x4680 player 0x0680 ...; 0; 2010-04-10 06:10:29
+oh see thankyou; 0; 2010-04-10 12:02:39
+make mangos.sql apply anymore since data add line 1168 require additional value; 0; 2010-03-15 08:59:07
+hm.. really 1.0f default data basemovespeed table least; 0; 2010-03-15 09:36:34
+lordjz/silverice float value _rate_ value speed value function name already clear `` setspeedrate '' speed rate flight 1.0 near creature see us mean rate*basemovespeed mo; 0; 2010-03-15 14:56:45
+seem break compilation scriptdev2 boss_ionar.cpp:191 error const struct creatureinfo member name 'speed; 0; 2010-03-15 14:19:07
+thanks bug old vmap system disable complete functionality able use server long time never able isolate problem; 0; 2010-03-10 06:28:51
+unable compile since commit ‘ default_world_object_size ’ declare scope ...; 0; 2010-03-10 07:47:18
+os run sylvian; 0; 2010-03-10 09:40:11
+nice finding indeed; 1; 2010-03-10 07:38:20
+hunuza 3; 0; 2010-03-10 12:20:59
+yes one specific time dependent player enter _not_ _often_ _that_ _one_ _day_; 0; 2010-02-18 10:00:32
+make raid like icc reset daily like heroic instead 7 day; 1; 2010-02-18 15:40:15
+mean map instance heroic non-raid normal/heroic raid reset time specific map period day; 0; 2010-02-18 10:02:10
+grr ... touch normal store dbc reset time prevent 0 reset time store dbc scale 0 rate config option small value int 7 0.1 ==0 code rate 0.1 make instaed 0 reset time like case use 1; 0; 2010-02-18 16:37:46
+vladimir try say even put mangos.conf make instances reset less day minimum always 1 full day way reset instance less day would avoid problem late thi; 0; 2010-02-18 19:17:07
+period==0 check _before_ rate apply period 0 less day; 0; 2010-02-19 04:31:13
+set rate 1 day less; 0; 2010-02-19 06:57:02
+could add way make raid reset daily without edit dbc making people week reset icc ony silly private test server; 0; 2010-02-19 05:10:54
+... dbc instead db table ...; 0; 2010-02-19 10:54:28
+define `` config_float_rate_instance_reset_time '' fiction -/; 0; 2010-02-19 10:38:11
+'s fine understand commit message read code p; 0; 2010-02-20 16:04:12
+maybe add /mp tbb tbbmaloc project command line also change /w3 /w4 project general tab w32 x64; 0; 2009-10-26 04:49:03
+may correct also decrease little bit chance achieve pool allow object limit condition take first available spawn roll one already spawn; 0; 2009-10-22 05:55:41
+addition spawn 2+ item pool meaning pool object equally chance 0 could imagine pool 5 object a:50 b:25 c:12 d:8 e:0 rest spawns 3 one `` '' spawn meanin; 0; 2009-10-22 08:52:25
+vladimir checks/alters code let enhance since able make working patch neither able push properly git without forget half btw compilation problem fix; 0; 2009-02-19 06:47:18
+must note problem probelms time hard avoid case multi-platform support implement nice feature case; 0; 2009-02-19 12:21:42

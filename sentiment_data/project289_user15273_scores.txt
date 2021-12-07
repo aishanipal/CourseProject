@@ -1,0 +1,52 @@
+comment; score; time
+от спасибо хорошо; 0; 2012-09-14 10:56:48
+проверю скорее всего с загрузкой накосячил; 0; 2012-09-15 02:15:05
+portraitturnintext_loc8 portraitturnintext_loc8; 0; 2012-09-15 02:44:11
+engrish; 0; 2012-07-17 02:18:29
+вот не знал что-то как-то; 0; 2012-07-17 03:18:44
+sorry 's bad ... 's term meant cheeky stab sometimes slightly unreadable grammar spell write non-english primary speak language contributor ... sometimes fat finger plain bad; 0; 2012-07-17 03:23:33
+kirix engrish — это « язык » написанных по-английски с ошибками слов фраз и предложений существует наряду с chingrish но если chingrish относится только к китайскому то engrish — также к японскому корейскому вьетнамскому появился термин вследствие а; 0; 2012-07-17 02:21:30
+engrish; 0; 2012-07-17 02:18:29
+вот не знал что-то как-то; 0; 2012-07-17 03:18:44
+sorry 's bad ... 's term meant cheeky stab sometimes slightly unreadable grammar spell write non-english primary speak language contributor ... sometimes fat finger plain bad; 0; 2012-07-17 03:23:33
+kirix engrish — это « язык » написанных по-английски с ошибками слов фраз и предложений существует наряду с chingrish но если chingrish относится только к китайскому то engrish — также к японскому корейскому вьетнамскому появился термин вследствие а; 0; 2012-07-17 02:21:30
+прикольный коммит поизучаю инглишь; 0; 2011-03-12 00:09:39
+good idea ...; 1; 2010-11-05 11:16:52
+да уж ... сначала подгонял патчи под этот коммит а теперь обратно ...; 0; 2010-11-05 11:30:54
+да причем тут подгон ... идея-то верная а мелочи поправим; 0; 2010-11-05 11:35:23
+я смайлик забыл добавить идея скорее всего верна но что-то я не особо понял что это должно было дать на практике да нам в принципе рса можно и не брать в расчёт этот коммит ревертить этот реверт; 0; 2010-11-05 12:44:57
+reason swing frostmourne problem find solve; 0; 2010-11-05 13:05:30
+betaman2k fuck garbage post relate discuss problem think mix devs contributers; 0; 2010-11-06 05:21:56
+version least make sense redundent apply 0 timer case 0 value corret current timer value bit case wrong effect; 0; 2010-11-06 05:38:16
+vladimir version _also_ hack need special etalon timer separate thread time value _not_ must send chain update call must getted etalon time thread solve difficult; 0; 2010-11-06 05:44:58
+'m interested internal multithreading *nix work rsa give small possible example demonstrate 'll test ubuntu 10.04 give link explanation; 0; 2010-11-06 05:50:26
+teyrnon problem modification reproduce completely clean core problem misunderstanding principle multi-tasking surprising windows-users; -1; 2010-11-06 05:51:14
+'s default case gcc 4.0 remember correctly watch change want use special case need include compiler setting; 0; 2010-11-06 06:37:50
+default case lot exist code expect totally different way work; 0; 2010-11-06 06:41:37
+rsa gcc option use; 0; 2010-11-06 06:38:42
+reproduce default compiler option even -o3; 0; 2010-11-06 07:01:18
+good idea ...; 1; 2010-11-05 11:16:52
+да уж ... сначала подгонял патчи под этот коммит а теперь обратно ...; 0; 2010-11-05 11:30:54
+да причем тут подгон ... идея-то верная а мелочи поправим; 0; 2010-11-05 11:35:23
+я смайлик забыл добавить идея скорее всего верна но что-то я не особо понял что это должно было дать на практике да нам в принципе рса можно и не брать в расчёт этот коммит ревертить этот реверт; 0; 2010-11-05 12:44:57
+reason swing frostmourne problem find solve; 0; 2010-11-05 13:05:30
+betaman2k fuck garbage post relate discuss problem think mix devs contributers; 0; 2010-11-06 05:21:56
+version least make sense redundent apply 0 timer case 0 value corret current timer value bit case wrong effect; 0; 2010-11-06 05:38:16
+vladimir version _also_ hack need special etalon timer separate thread time value _not_ must send chain update call must getted etalon time thread solve difficult; 0; 2010-11-06 05:44:58
+'m interested internal multithreading *nix work rsa give small possible example demonstrate 'll test ubuntu 10.04 give link explanation; 0; 2010-11-06 05:50:26
+teyrnon problem modification reproduce completely clean core problem misunderstanding principle multi-tasking surprising windows-users; -1; 2010-11-06 05:51:14
+'s default case gcc 4.0 remember correctly watch change want use special case need include compiler setting; 0; 2010-11-06 06:37:50
+default case lot exist code expect totally different way work; 0; 2010-11-06 06:41:37
+rsa gcc option use; 0; 2010-11-06 06:38:42
+reproduce default compiler option even -o3; 0; 2010-11-06 07:01:18
+ну уж точно не я автор но всё равно огромное спасибо что откликнулись на проблему; 0; 2010-09-05 03:47:22
+awesome; 1; 2010-02-12 01:19:31
+thanks; 1; 2010-02-12 06:51:32
+ну вот наконец-то какой-то заметный и очень даже шаг к реализации двойной специализации; 0; 2010-02-12 04:19:58
+omg thanks; 1; 2010-02-13 16:21:20
+nice work; 1; 2010-02-12 14:49:05
+great thx; 1; 2010-02-12 12:09:38
+must fix 9233; 0; 2010-01-21 14:36:11
+cyclic dependence header showup; 0; 2010-01-21 14:17:28
+подтверждаю неудачный коммит вышел никогда у меня не было столько крашей ...; 0; 2010-01-27 16:29:00
+пара с этим что-то делать эти креши это не нормально либо доработать либо удалить этот патч; 0; 2010-01-27 12:07:53

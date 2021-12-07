@@ -1,0 +1,35 @@
+comment; score; time
+great dmr duration calculation fix talent work 10+sec spell fear etc nice work; 1; 2011-03-30 22:30:25
+'s clean core problem wish merge first learn; 1; 2011-03-31 05:40:22
+hum excuse understand sentence; 1; 2011-03-31 06:02:47
+forget `` '' doubt log give problem several line 'll see resolve 'll let know go well file 's strange anyway; 0; 2011-03-31 07:28:32
+missed `` '' could give error lot line; 0; 2011-03-31 09:48:57
+yet 'm go code 2 time nothing report side raise good compilation see hand file rest goo good; 0; 2011-03-31 13:11:00
+omg `` doubt ... '' kind error point miss `` '' one void miss one; 0; 2011-03-31 10:16:56
+ask google p; 0; 2011-03-01 04:47:02
+problem blueboy arrive first node player dismount; 0; 2011-02-01 06:16:42
+thanks point source problem must fix 11100; 0; 2011-02-02 07:34:20
+thanks u much; 1; 2010-10-09 11:47:09
+relate locales_gameobject locales_pagetext table affect u use english russian default language; 0; 2010-10-09 12:12:40
+cool finally crash eses locale fix; 0; 2010-10-09 12:16:05
+english russian special p; 1; 2010-10-09 22:40:20
+thanks lot ^^; 1; 2010-10-09 14:10:44
+one miss case gossip locales http //pastebin.com/izfbznzp crashdump clean source know problem; 0; 2010-10-10 07:35:10
+maybe need move gossip locales ...; 0; 2010-10-10 08:24:15
+revert commit fix http //gist.github.com/619376 crash strange; -1; 2010-10-10 10:17:07
+may version gcc relate also crush commit ...; 0; 2010-10-10 10:42:49
+thank test; 1; 2010-10-10 12:10:31
+good; 1; 2010-09-02 11:28:26
+yep confirm fall underground enter evade mode; 0; 2010-09-05 04:32:12
+problem partially solve getheight still continue return wrong value go type 33 lk platform toc creature suumoned go 's fall underground ... disabling vmaps solve problem add problem; 0; 2010-09-09 21:11:11
+bug result fail get height bad local result global good work; 0; 2010-09-10 08:14:29
+however 10380 work fine; 0; 2010-09-10 06:26:16
+vmaps memory leak set unload grid 0 1hour mangos-worldd process eats memory; 0; 2010-05-25 04:55:41
+set 1 30min get crash.. way 's get crash ..; 0; 2010-05-25 05:00:09
+mmm ... crash unloadgrid=1; 0; 2010-05-25 06:28:52
+awesome; 1; 2010-02-12 01:19:31
+thanks; 1; 2010-02-12 06:51:32
+ну вот наконец-то какой-то заметный и очень даже шаг к реализации двойной специализации; 0; 2010-02-12 04:19:58
+omg thanks; 1; 2010-02-13 16:21:20
+nice work; 1; 2010-02-12 14:49:05
+great thx; 1; 2010-02-12 12:09:38

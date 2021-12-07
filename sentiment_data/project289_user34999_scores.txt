@@ -1,0 +1,9 @@
+comment; score; time
+report http //gist.github.com/904015; 0; 2011-04-05 10:13:38
+thanks; 1; 2011-04-02 10:35:00
+know 's probably cheat tp2plane 's reason crush commit see crush type; 0; 2011-04-05 12:59:01
+well good reason crash x nan might use calculate gridmap object give coordinate =/ guess get result anyway strange agree; 0; 2011-04-05 13:53:31
+function isnextzcoordok old insider42 patch contain 4 call getheight recheck next coordinate prevent fall map different case modify stuff believe call getheight unsafe; 0; 2011-04-05 21:14:17
+rsa pass nan value input parameter definitely cause issue geometry function expect valid randommovementgenerator creature :_setrandomlocation last function call stack trigger call; 0; 2011-04-05 23:45:49
+thanks actually 's require; 0; 2011-04-06 02:25:01
+'ve add check nan value isvalidmapcoord function since checking finite enough; 0; 2011-04-05 23:47:51

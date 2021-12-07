@@ -1,0 +1,5 @@
+comment; score; time
+; -1; 2009-12-20 12:27:42
+clean compile window vs2008 compiled fine; 1; 2009-12-20 12:31:32
+mrhooha maybe linux; 0; 2009-12-20 12:46:08
+xeross yes debian; 1; 2009-12-20 13:12:17

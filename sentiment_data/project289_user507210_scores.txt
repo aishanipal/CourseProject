@@ -1,0 +1,4 @@
+comment; score; time
+fix issue quest bc give 1/10 xp; 0; 2009-02-27 05:05:03
+'s big performance drain mmorpg size load want feature n't mind overhead go ahead revert commit; 0; 2008-12-14 16:25:10
+; -1; 2008-12-14 11:59:32

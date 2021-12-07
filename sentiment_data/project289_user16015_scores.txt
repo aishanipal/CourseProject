@@ -1,0 +1,6 @@
+comment; score; time
+yes congratulation; 1; 2009-10-06 01:53:27
+gz; 0; 2009-10-06 01:57:35
+way 2 go congratz 2; 0; 2009-10-06 02:02:17
+; -1; 2009-10-06 01:46:13
+great job; 1; 2009-10-06 14:11:59

@@ -1,0 +1,9 @@
+comment; score; time
+'m common comunicatin external apps mean last availeble multiple sql query queuing multiple request hadled time via one connection; 0; 2010-01-29 12:00:52
+look code seem wonderful indeed; 0; 2010-01-29 14:30:48
+maybe glyph next could close dual spec one step closer; 0; 2009-11-25 12:22:19
+talent point possible extract; 0; 2009-11-26 08:08:17
+need extract recalculate load talent point data db use server character load need extract drop data field drop really req data store field; 0; 2009-11-26 13:56:16
+guess character_skills table add playerdump character delete handler; 0; 2009-11-29 09:16:06
+yes good remark point look tomorrow fix someone; 0; 2009-11-29 09:34:12
+fixed 8896; 0; 2009-11-30 05:10:06

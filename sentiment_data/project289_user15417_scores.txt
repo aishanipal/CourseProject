@@ -1,0 +1,29 @@
+comment; score; time
+thanks bug old vmap system disable complete functionality able use server long time never able isolate problem; 0; 2010-03-10 06:28:51
+unable compile since commit ‘ default_world_object_size ’ declare scope ...; 0; 2010-03-10 07:47:18
+os run sylvian; 0; 2010-03-10 09:40:11
+nice finding indeed; 1; 2010-03-10 07:38:20
+hunuza 3; 0; 2010-03-10 12:20:59
+thx; 1; 2010-02-22 12:07:27
+thanks =d; 1; 2010-02-22 12:16:04
+thanks need lot crash fix; 0; 2010-02-22 12:28:58
+see crash script code hell relate core go fix script; 0; 2010-02-22 13:43:40
+really fix still crash; 0; 2010-02-22 13:16:43
+ok always wrong read post anyway care crash without useful info ...; -1; 2010-02-22 13:51:27
+yes problem present mangos _without_ sd2 server crash load creature long movement list one-two may anyone present db; 0; 2010-02-22 13:58:05
+see like crash possible broken db ... need real data catch script data create porblems must easy provide way reporduce ...; 0; 2010-02-22 14:02:26
+'m manually re-apply movement list creature 94985 ytdb 5-6 crash load creature nothing criminal list ...; 0; 2010-02-22 14:08:26
+data data crash backtrace help ... know crash help crash source ...; -1; 2010-02-22 14:48:27
+fix.. crash ...; -1; 2010-02-22 14:12:21
+great lift 1000needles barrens give dc; 0; 2010-02-22 14:52:09
+crash taxi write taxi path crash ppl write something crash useless info possible need real specific data repeating; 0; 2010-02-22 14:50:17
+crash ...; -1; 2010-02-22 16:14:08
+sorry previous post -.- try put post code; 0; 2010-02-22 17:32:17
+hmm forum ... ah yes polite spam comment commits ...; 0; 2010-02-23 05:27:20
+thanks 2 tom_rus vladimirmangos keep great work; 1; 2009-10-06 02:08:41
+thanks upgrade; 1; 2009-10-06 02:43:40
+congrats big thank countless hour guy invest project; 0; 2009-10-06 10:57:41
+3; -1; 2009-10-06 08:30:01
+thank good work; 1; 2009-10-07 06:20:23
+thanks tom_rus good luck 3.3.0; 1; 2009-10-06 09:40:22
+thx lot; 1; 2009-10-07 07:30:02

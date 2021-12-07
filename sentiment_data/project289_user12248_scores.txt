@@ -1,0 +1,6 @@
+comment; score; time
+fixes freeze use create console lot player database aka query slow; 0; 2008-10-17 10:48:12
+player select char enter game.. logout try `` get realmlist '' popup window `` get realmlist '' stucking.. one know reason way logout totally enter pas work normaly; 0; 2008-10-17 11:03:58
+p.s damn github.com dont like firefox; -1; 2008-10-17 11:06:30
+lot query need fix like one mostly query delete spell item character cause massive lag freeze create patch file fixes want idea yet git win; 0; 2008-10-17 12:44:34
+waza123 realmd issue fix 303 branch http //github.com/mangos/mangos/commit/ac6d01a6; 0; 2008-11-01 06:46:20

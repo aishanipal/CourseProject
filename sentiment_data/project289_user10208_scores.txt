@@ -1,0 +1,82 @@
+comment; score; time
+guild identificator n't identifier; 0; 2011-07-06 20:57:53
+n't know; 0; 2011-07-13 08:18:21
+'identifier indeed; 0; 2011-07-13 09:00:08
+3 raid marker; 0; 2011-04-19 04:41:18
+raid marker wotlk; 0; 2011-04-21 14:24:01
+proof please know raid target icon wotlk; 0; 2011-04-22 04:00:39
+hm look back use smoke signal remember icc raid marker guess 4.0.1 cataclysm launch; 0; 2011-04-22 11:18:14
+smoke signal n't 'true raid marker guess yes mention spell implement shattering 4.0.1; 0; 2011-04-22 11:49:44
+3 raid marker; 0; 2011-04-19 04:41:18
+raid marker wotlk; 0; 2011-04-21 14:24:01
+proof please know raid target icon wotlk; 0; 2011-04-22 04:00:39
+hm look back use smoke signal remember icc raid marker guess 4.0.1 cataclysm launch; 0; 2011-04-22 11:18:14
+smoke signal n't 'true raid marker guess yes mention spell implement shattering 4.0.1; 0; 2011-04-22 11:49:44
+lol; 1; 2011-04-14 10:05:31
+blame obama xd; 1; 2011-04-14 14:50:43
+grats 11111 commits; 0; 2011-02-06 17:43:06
+epic commit always magic commit number come; 1; 2011-02-06 23:19:54
+need preserve tradition ^^ note _not_ specially select; 0; 2011-02-07 04:39:27
+really need create drop alter lock tables; 0; 2011-01-16 15:51:48
+need drop right character db truncate; 0; 2011-01-16 17:45:18
+thanks silverice; 1; 2010-10-27 21:07:48
+thanks; 1; 2010-10-27 22:41:36
+thanks u much; 1; 2010-10-28 05:20:57
+wow 's commit; 1; 2010-10-28 01:14:29
+think trajectory movement problem could handle similar way maybe; 0; 2010-10-28 09:01:49
+insider42 right old problem still us; 0; 2010-10-29 02:53:42
+axxus look like old crash new place ^^; 0; 2010-10-29 00:33:04
+ty; 1; 2010-10-28 01:22:12
+http //pastebin.com/eyhnhhpd; 0; 2010-10-28 19:10:52
+thank vladimir make compatibility different branch mango script lot easy; 0; 2010-09-22 14:35:44
+rpoc proc 'd like add excellent developer =d; 1; 2010-09-10 19:57:37
+chnarges charge; 0; 2010-09-10 19:58:12
+report typos fix 10468 thank; 0; 2010-09-11 01:11:35
+rpoc proc 'd like add excellent developer =d; 1; 2010-09-10 19:57:37
+chnarges charge; 0; 2010-09-10 19:58:12
+report typos fix 10468 thank; 0; 2010-09-11 01:11:35
+sorry ... fix http //getmangos.com/community/showthread.php t=13160 p=108380 viewfull=1 post108380; 0; 2010-09-09 11:21:37
+nope affect corpse loot; 0; 2010-09-09 17:11:49
+n't `` 1.x reacts incorrectly 4-byte message use 3 real error ''; 0; 2010-08-16 13:42:08
+importantly 2 instead 3 's comment; 0; 2010-08-16 23:13:51
+yup see mean ... lol n't even notice; 0; 2010-08-17 00:08:34
+think mean 3-bytes sorry; 0; 2010-08-22 21:26:21
+n't `` 1.x reacts incorrectly 4-byte message use 3 real error ''; 0; 2010-08-16 13:42:08
+importantly 2 instead 3 's comment; 0; 2010-08-16 23:13:51
+yup see mean ... lol n't even notice; 0; 2010-08-17 00:08:34
+think mean 3-bytes sorry; 0; 2010-08-22 21:26:21
+silverice back; 0; 2010-07-26 18:39:19
+graz silverice ^^; 0; 2010-07-26 22:03:24
+'m wonder difference vector good list n't think 're wrong want able understand future; 0; 2010-07-26 22:06:15
+think silverice already provide answer `` vector container provide less time access contain element ''; 0; 2010-07-26 22:56:08
+btw use typedef collection thus 'll able change container type one place; 0; 2010-07-27 00:59:52
+sure type change good container use 1 full loop element std :list std :vector expect big difference ok maybe small vector prio 2 push_back _at_ ai create vector think lot slow; 0; 2010-07-27 01:18:59
+vector case vector reserve size use memory need reserve small reallocate memory block data move old new ... bad case; 0; 2010-07-27 02:11:50
+vector good push_back reserve _exactly_ require data amount -pre-counting need push; 0; 2010-07-27 02:13:38
+see line comment objectmgr.cpp box; 0; 2010-07-24 18:35:13
+return false instead false; 0; 2010-07-24 15:49:46
+see line comment objectmgr.cpp box; 0; 2010-07-24 18:35:13
+return false instead false; 0; 2010-07-24 15:49:46
+mean; 0; 2010-07-17 12:51:08
+o_o; -1; 2010-07-17 16:55:38
+thank nf lot easy complex chat event quest like; 1; 2010-05-13 13:22:46
+nice work mate know fair quest hold conversation npc/player and/or several npcs see lot easy guy; 0; 2010-05-13 07:45:06
+wonder vladimir example use would i.e would need hide entry; 0; 2010-04-17 10:16:10
+mostly add sqlstorage case check load find broken data dbcstore api look good function; 0; 2010-04-17 13:20:12
+also remove title bye bye title epic fail; 0; 2010-03-27 13:36:09
+help lot web management page; 0; 2010-03-27 15:44:55
+wow cant believe already everything columns/tables good work; 1; 2010-03-28 02:19:28
+yessssssssssssssss good work performance db kill item_instance blob ... db fly ^^ good work devel; 0; 2010-03-28 05:20:53
+actually read commit would see character data backed-up nothing actually lose unless choose drop back-ups make back-ups use late commit make title work; 0; 2010-03-27 21:22:02
+item_instance use character_inventory also table like mail_items ca n't merge one ...; 0; 2010-03-29 01:05:51
+nanouniko know think long time ago merge table one could help manage item cause share similar information; 0; 2010-03-28 16:36:30
+hunuza thanks tip; 1; 2010-03-29 15:04:17
+like know arcemu; 1; 2010-03-29 23:28:32
+n't know arcemu probably different database design ...; 0; 2010-03-30 01:38:51
+wow guy congrats ... pretty big milestone imo; 1; 2010-03-29 20:51:49
+nice; 1; 2009-12-16 22:25:30
+remember update 3.3.0 branch support 3.3.0; 0; 2009-12-16 20:46:08
+330 branch realmd 330 mangosd also realmlist; 0; 2009-12-17 04:14:57
+client ignore `` offline '' state realmlist set config; 0; 2009-12-17 04:19:18
+oh see check mangosd sorry; 0; 2009-12-17 04:20:31
+mean ignore case info dependent mangosd mangosd accept client build accept connection; 0; 2009-12-17 04:21:51

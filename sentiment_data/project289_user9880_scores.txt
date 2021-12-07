@@ -1,0 +1,44 @@
+comment; score; time
+yes sorry schmoo ask author n't pay much attention patch think something else; 0; 2012-07-20 01:18:36
+actually write; 0; 2012-07-19 16:10:03
+team value faction template already forget id maybe seelct team_invalid really strange faction id like pig modelt id model case case bug reson value send client good catch bug case prevent client c; 0; 2012-07-18 03:04:22
+well work commit basis; 1; 2012-07-18 06:16:17
+schmoozerd author idea; 0; 2012-07-18 06:02:38
+ah mean removegraveyard xfurry 's; 0; 2012-07-18 06:35:04
+quick rebase random author mean even author hehe; 0; 2012-07-18 06:59:21
+http //github.com/xfurry/mangos/commit/b3da109c5ca45c8ef146c409720f0bd6e053d520 p; 0; 2012-07-18 06:55:33
+note http //getmangos.com/community login see old post; 0; 2012-07-18 11:04:20
+'m author function link copy paste one old patch post old mango forums.and since forum dead ca n't check 's real author one; 0; 2012-07-18 09:59:42
+well case actually schmoozerd author code/idea different base patch; 0; 2012-07-19 00:54:29
+keep numerical order; 0; 2012-04-02 05:36:20
+n't notice non-order look; 0; 2012-04-02 05:39:05
+didnt check every case; 0; 2012-04-02 06:09:11
+commented line also ^^; 0; 2012-04-03 01:01:09
+check `` unittarget '' case 45141 45185 unittarget return; 0; 2011-11-10 18:15:07
+fault pay attention case 45141 check script anyway; 0; 2011-11-11 03:30:11
+finally; 0; 2011-10-16 04:53:33
+nice hopefully follow worldstatemgr; 1; 2011-10-16 05:59:30
+wohoo; 0; 2011-10-16 08:20:32
+ok thank patch next commit; 1; 2011-10-16 10:37:13
+general ++slave_itr; 0; 2012-07-22 13:12:33
+good question; 1; 2012-07-22 13:16:54
+work gcc slave_itr slaveguidlist.erase slave_itr work wonderful; 0; 2012-07-23 01:59:36
+_any_; 0; 2012-07-23 03:23:32
+rsa thread-unsafe variant std :list thread-safe container; 0; 2012-07-23 03:16:43
+rsa suggest one n't dickass; 0; 2012-07-23 03:47:00
+insignificant worm either suggest classic genre sprinkle ash bald head crawl back cemetery ...; 0; 2012-07-23 04:00:44
+rsa case shut bother us worm den thanks url anyway; 0; 2012-07-23 04:04:10
+got ta love good cat fight; 1; 2012-07-23 05:38:28
+lordjz set twit need worry confusion may occur excess voltage; 0; 2012-07-23 05:02:49
+solutiuon slave_itr slaveguidlist.erase slave_itr though guess place need refactoring; 0; 2012-07-23 06:03:05
+far s/ \w\d_ \.erase\ \w\d_ \+\+\ /\2 \1.erase \2 rest manually /\.erase\ .+\+\+/; 0; 2012-07-23 06:09:33
+erase itr++ create iterator copy possible avoid returnning iterator version sure important find disadvantage google; 0; 2012-07-26 12:25:50
+well let hope skill indeed sharp remember mango community qa dev team quality project highly dependent participation patch testing miss chance report issue patch; 0; 2010-11-16 12:30:02
+ambal о_о return; 0; 2010-11-16 12:54:05
+cooollll thank ambal; 1; 2010-11-16 15:51:30
+great job ambal; 1; 2010-11-16 12:54:32
+look interesting post information commit actually; 1; 2010-11-17 04:54:43
+woooow nice work thanks; 1; 2010-11-16 19:13:44
+xeross http //getmangos.com/community/viewtopic.php id=15615; 0; 2010-11-17 05:42:02
+use vc90 primary ide give error check apply patch threadingmodel.h cause error try pass 'const object 'non-const constructor w/o call const_cast; 0; 2010-11-18 01:15:20
+oh sorry mistake; -1; 2010-11-18 01:36:24

@@ -1,0 +1,157 @@
+comment; score; time
+redundant allow reset custom core people might want revert; 0; 2012-02-01 04:55:20
+good see master repo much time; 0; 2012-01-17 04:55:33
+nice; 1; 2012-01-17 03:24:33
+use m_cooldowntime instead m_grouploottimer suggest opvp; 0; 2012-01-20 16:50:04
+thx seem much correct version ...; 0; 2011-10-17 22:15:03
+thx change 11832 twohandscore could use empty slot tabard body confuse add another one special replace equipment_slot_end 1 use define seem less correct st; 0; 2011-10-18 00:07:11
+gearscore value match one calculate addon; 0; 2011-10-18 05:18:42
+probably n't call gear score first place since one average ilvl player 's best item; 0; 2011-10-18 06:17:14
+way typo 'cinem u __a__ /u tic 'cinemitic; 0; 2011-10-21 05:16:05
+triggered spell cooldown 6 second guess wo n't work ...; 0; 2011-09-27 11:35:02
+im 100 sure blizz never plain cast spell multiple time achieve max stackamount aura creation; 0; 2011-09-27 08:49:27
+sence dispute someone read line sniff; 0; 2011-09-27 23:00:48
+shauren sure guy source check instead write memory; 0; 2011-09-28 04:09:51
+zergtmn say trigger spell cd wo n't work must set stack amount aura creation; 0; 2011-09-28 05:41:40
+something add framework million year ago.. nobody like framework time; 0; 2011-09-18 09:52:47
+'spell const* spell parameter use anymore; 0; 2011-09-05 16:37:29
+true totem ground must redirect channeled spell ...; 0; 2011-07-03 04:08:10
+grouding totem n't immunity otherwise spell get redirect totem withouth destroy; 0; 2011-07-04 12:00:34
+say thing wrong see spell 51052- 50461 totem cast self channel spell fail ...; 0; 2011-07-27 05:26:22
+commit 've something evil; -1; 2011-06-24 05:38:13
+nice thought fault go crazy; -1; 2011-06-12 12:06:31
+isaffectedonspell broken; -1; 2011-06-12 00:44:49
+aura isaffectedonspell spellmodifer :isaffectedonspell; 0; 2011-06-12 09:41:54
+must fix 11627 thank point; 0; 2011-06-12 10:09:50
+ok find wrong code spellmodifier :isaffectedonspell fix test ...; 0; 2011-06-12 09:48:25
+'m good source inspiration seem ^^; 1; 2011-06-12 12:22:13
+nice one probably fixes totemtimers addon well; 0; 2011-05-21 10:14:46
+totem summon work fine mango; 0; 2011-05-22 11:06:54
+ye summon work fine also totem timer work already well feeling play shamy thx; 1; 2011-05-23 04:25:12
+nice one probably fixes totemtimers addon well; 0; 2011-05-21 10:14:46
+totem summon work fine mango; 0; 2011-05-22 11:06:54
+ye summon work fine also totem timer work already well feeling play shamy thx; 1; 2011-05-23 04:25:12
+construct like `` someguid ... `` 's safe use `` operator void* '' conversion instead; 0; 2011-05-16 00:25:12
+ca n't imagine operator void* replace m_guid never null; 0; 2011-05-16 00:57:00
+find another place use suggest way implement operator use ^^ one time thanks point ^^; 0; 2011-06-11 04:47:29
+hmm intresting point read like way ... case think select way cast raw uint64 also must work ok; 0; 2011-05-16 11:23:34
+ask get answer `` omit purpose avoid bad implicit cast ''; 0; 2011-05-14 21:11:21
+declare virtual function; 0; 2011-05-12 10:27:18
+; -1; 2011-05-12 10:44:32
+allow override scripts.. current method force store guid 's uint64; 0; 2011-05-12 14:07:05
+guid _is_ uint64; 0; 2011-05-13 00:04:35
+declare virtual function; 0; 2011-05-12 10:27:18
+; -1; 2011-05-12 10:44:32
+allow override scripts.. current method force store guid 's uint64; 0; 2011-05-12 14:07:05
+guid _is_ uint64; 0; 2011-05-13 00:04:35
+objectguid constructor explicit; 0; 2011-05-11 10:47:32
+script library conversion complete good add need add objectguid guid assignment explicit cast converted code need current code; 0; 2011-05-11 14:36:22
+'ve think good amount amount dummy effect pile wonder idea improve refactoring custom spell code handle good efficiently i.e something switc; 0; 2011-05-03 13:25:16
+collection isnostackspellduetospell exception; 0; 2011-05-04 10:08:05
+system would sexy sure would could performance hog so-said `` script '' n't compile; 0; 2011-05-04 03:35:40
+yay vehicle implementation; 1; 2011-04-20 10:29:47
+first vehicle commit; 1; 2011-04-20 12:04:19
+е-ма-е ... уж и ждать перестал; 0; 2011-04-20 10:35:21
+first; 0; 2011-04-20 12:09:59
+finally; 0; 2011-04-20 23:04:56
+mount vehicle clean core yet; 0; 2011-05-04 23:45:08
+faq bad method store spell need method like player spells/talents store; 0; 2011-05-05 02:37:55
+vlad good original check n't get release build ppl still get assertion failure mangos_assert usage o.o could use assert whatever macro use; 0; 2011-04-07 13:58:24
+release build define -dndebug skip assert 's; 0; 2011-04-07 14:29:54
+oh see use _wassert call release build anymore; 0; 2011-04-07 14:40:04
+13 spell use aura 243 allow generic use; 0; 2011-04-05 10:36:38
+change like without spell == hack 13 spell dbc sniff much; 0; 2011-04-05 11:13:47
+hmm ... mysterious development easy implement aura_243 take ready implementation; 0; 2011-04-05 08:06:12
+; -1; 2011-03-25 06:08:30
+shouldnt uint32 int32; 0; 2011-03-25 06:00:10
+side note always think aura duration spellauraholder aura class per-effect aura duration dbc spell multiple duration effect trigger different one like 49803; 0; 2011-03-25 12:41:20
+to-do list; 0; 2011-03-25 13:08:46
+people mango repo svn; 0; 2011-02-18 16:00:47
+/sign; 0; 2011-02-14 04:21:11
+cmake windows make work easy obvious drawback cmake way generate .vsproj file aka miss folder filter etc get everyone excite; 0; 2011-02-14 04:29:08
+awesome hope also consider use cmake windows really make work developer much easy; 0; 2011-02-14 04:21:14
+well though care file included/renamed cmake file 2 different kind vsproj file 2008 2010 folder visual studio minor drawback p; 0; 2011-02-14 07:50:40
+stfx .vsproj existance windows out-of-discussion especially much ppl use platform host server free choose whatever like vs cmake build binary; 0; 2011-02-14 08:43:59
+ah another commit fix comment; 0; 2011-02-14 09:01:20
+support precompiled header linux; 0; 2011-02-14 09:46:28
+reject fix p fact good fix cmake build process part avoid need file exclude ...; 0; 2011-02-14 14:25:12
+ariath ask rsa particular issue; 0; 2011-02-16 06:04:56
+maybe provide modified version clean suggest; 0; 2011-02-17 14:34:20
+see something strange yesterday try compile last rsa commit also add cmake support although manage build solution file vs 2008 start compile get error vs n't recognize argument na; 0; 2011-02-16 04:45:57
+fixed 11184 thank; 1; 2011-02-17 19:30:47
+cunning method `` persuasion '' gcc surrender compile fine; 0; 2011-02-10 09:55:34
+whats purpose make virtual pure function provide function body; 0; 2011-02-10 18:18:12
+could usable; 0; 2011-02-06 23:03:23
+allow view target 's chat message; 0; 2011-02-07 09:20:44
+ofc say like `` mind vision '' look around world target eye; 0; 2011-02-07 09:23:32
+ca n't diff map instance copy correct command work; 0; 2011-02-07 19:07:44
+amount data isnostackspellduetospell maybe time put db table; 0; 2011-01-30 17:33:46
+target mode use mostly siege damage spell like 56350 61766 correct limit spell_script_target; 0; 2010-12-11 06:22:15
+`` '' relate certain spell effect n't mean allow spell handle gameobject; 0; 2010-12-11 06:32:22
+count gameobject type 33 spell effect 87 give need add 1,575 record spell_script_target sure 's good idea; 0; 2010-12-11 07:54:38
+actually think way around give spell doesnt spell_script_target use go around otherwise exclusive search spell_script_target maybe; 0; 2010-12-11 12:18:45
+mean generic spell mean hit gameobject predefined one spell_script_target; 0; 2010-12-13 05:15:44
+target mode use mostly siege damage spell like 56350 61766 correct limit spell_script_target; 0; 2010-12-11 06:22:15
+`` '' relate certain spell effect n't mean allow spell handle gameobject; 0; 2010-12-11 06:32:22
+count gameobject type 33 spell effect 87 give need add 1,575 record spell_script_target sure 's good idea; 0; 2010-12-11 07:54:38
+actually think way around give spell doesnt spell_script_target use go around otherwise exclusive search spell_script_target maybe; 0; 2010-12-11 12:18:45
+mean generic spell mean hit gameobject predefined one spell_script_target; 0; 2010-12-13 05:15:44
+check gtoctclasscombatratingscalar.dbc content; 0; 2010-11-20 10:14:32
+thats exactly comment content dbc file; 0; 2010-11-20 10:21:03
+ok without question look like problem report; -1; 2010-11-20 11:02:26
+spell.dbc contain per-effect spell bonus data case dot spell mixed direct dmg/dot spell spell coeff put correct effect index.. think spell bonus table index spellid effindex pair way would b; 0; 2010-11-19 10:39:13
+update prototype change affect script call; 0; 2010-11-06 14:54:38
+`` experiment '' effect work fine thanks atomize time also good difficult solve; 1; 2010-11-07 14:14:50
+fine still sure way safe existed mango design general maybe still misunderstand; 0; 2010-11-07 14:56:00
+talk mtmaps patch 's `` way '' patch take getmangos current design mango really multithread-safe must fight attempt movement; 0; 2010-11-07 23:51:12
+really understand mean previous discussion problem find solution revise completely clean core completely default setting problem relate change decide; 0; 2010-11-08 04:33:21
+question *nix user anyone try reproduce problem 10694; 0; 2010-11-08 04:49:32
+know problem talk clean core _here_; 0; 2010-11-08 05:31:44
+problem like 10677 n't 10693 also clean core test; 0; 2010-11-08 05:21:45
+clean core unlikely someone use real work least 'm still experienced problem nobody check clean; 0; 2010-11-08 05:41:52
+maybe add conversion void*/operator null checking write `` guid '' instead `` guid.isempty ''; 0; 2010-11-01 11:18:20
+uint64 g getobjectguid allow assign g 0 1 surprise main reason restriction type convertions objectguid catch case wrong auto-convertions catch case uint32 assign uint64 guid storage; 0; 2010-11-01 15:55:36
+crushfix without periodic rare crush load db aura castcustomspell proked; 0; 2010-11-02 01:19:17
+maybe see case ofc apply see fix change overlook maybe; 0; 2010-11-02 06:42:37
+see linked patch change different uint64- objectguid switch case use proper uint64 different uint32 case broken part see fix crash make code work different ... normal old uin; 0; 2010-11-02 06:00:35
+operation still dangerous iterate map n't know iterators still valid erase always good start begin; 0; 2010-11-01 10:21:32
+map/set/list container grant element remove container invalidate iterators point remove element itr++ iterator ca n't invalidate == end last expect case; 0; 2010-11-01 15:49:29
+lol n't know `` monthly '' exist; 0; 2010-10-29 21:17:34
+specialflag 5 since 1 also require ...; 0; 2010-10-30 03:19:44
+|5 yes least time hope improve code future n't add repeatable flag daily/weekly/monthly quest; 0; 2010-10-31 04:52:52
+thanks silverice; 1; 2010-10-27 21:07:48
+thanks; 1; 2010-10-27 22:41:36
+thanks u much; 1; 2010-10-28 05:20:57
+wow 's commit; 1; 2010-10-28 01:14:29
+think trajectory movement problem could handle similar way maybe; 0; 2010-10-28 09:01:49
+insider42 right old problem still us; 0; 2010-10-29 02:53:42
+axxus look like old crash new place ^^; 0; 2010-10-29 00:33:04
+ty; 1; 2010-10-28 01:22:12
+http //pastebin.com/eyhnhhpd; 0; 2010-10-28 19:10:52
+fix test five month reduce probability problem eliminate completely; 0; 2010-10-26 10:59:24
+actually works.. solved problem wow use asynchronous protocol stuff easily see equip error n't send item keep `` gray '' indefinitely server response send think pet; 0; 2010-10-26 13:15:51
+urand 0 2 good; 1; 2010-10-17 14:18:49
+lol haz fish; 1; 2010-10-17 06:18:06
+think since long time ... good job; 0; 2010-09-18 14:29:36
+near 50/50 case base fact character already exist table dynamic data 100 relate character state move start look preferred; 0; 2010-09-18 15:10:05
+good; 1; 2010-09-18 21:34:35
+good one make simplier backup; 0; 2010-09-19 05:47:45
++1; 0; 2010-09-19 12:57:51
+work postgresql; 0; 2010-09-20 12:44:23
+i.id null creature instance right; 0; 2010-09-20 13:17:09
+maybe i.id null mean; 0; 2010-09-20 15:34:49
+sure 100 mysql/posgresql kun-fu make change simple sql test confirm working; 0; 2010-09-23 17:06:43
+see currently like spell example; 0; 2010-09-11 16:00:01
+spells aura may apply vehicle ispet may prevent; 0; 2010-09-11 13:31:59
+multiseat mount player even creature http //paste2.org/p/984956; 0; 2010-09-12 00:10:35
+seat warlock demon multiseat mount mount appear aura 32233 source sniff may bug real ...; 0; 2010-09-11 21:49:18
+n't gettotalauramultiplierbymiscmask spell school mask miscvalue example 69291 aoe avoidance 32233 pet aoe avoidance; 0; 2010-09-14 14:39:09
+'re suppose erase const_iterators compiler permissive ignore iso standard; 0; 2010-09-05 10:55:18
+tell ...; 0; 2010-09-06 01:52:53
+nice job thanks; 1; 2010-08-06 00:03:28
+lol 's important; 1; 2010-08-06 00:31:57
+know; 0; 2010-08-06 00:43:50
+may function extract name; 0; 2010-08-06 06:46:44
+yes fix typo already locally prepare next step commit chat command parsing; 0; 2010-08-06 10:09:04
+use std :istringstream parse text; 0; 2010-08-06 11:44:51
+thank yes result use char* handler args fix next commit; 1; 2010-08-08 11:27:26

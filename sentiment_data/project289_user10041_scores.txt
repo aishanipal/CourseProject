@@ -1,0 +1,32 @@
+comment; score; time
+/sign; 0; 2011-02-14 04:21:11
+cmake windows make work easy obvious drawback cmake way generate .vsproj file aka miss folder filter etc get everyone excite; 0; 2011-02-14 04:29:08
+awesome hope also consider use cmake windows really make work developer much easy; 0; 2011-02-14 04:21:14
+well though care file included/renamed cmake file 2 different kind vsproj file 2008 2010 folder visual studio minor drawback p; 0; 2011-02-14 07:50:40
+stfx .vsproj existance windows out-of-discussion especially much ppl use platform host server free choose whatever like vs cmake build binary; 0; 2011-02-14 08:43:59
+ah another commit fix comment; 0; 2011-02-14 09:01:20
+support precompiled header linux; 0; 2011-02-14 09:46:28
+reject fix p fact good fix cmake build process part avoid need file exclude ...; 0; 2011-02-14 14:25:12
+ariath ask rsa particular issue; 0; 2011-02-16 06:04:56
+maybe provide modified version clean suggest; 0; 2011-02-17 14:34:20
+see something strange yesterday try compile last rsa commit also add cmake support although manage build solution file vs 2008 start compile get error vs n't recognize argument na; 0; 2011-02-16 04:45:57
+fixed 11184 thank; 1; 2011-02-17 19:30:47
+thanks; 1; 2010-07-08 08:38:05
+nice catch pasdvn; 1; 2010-07-20 00:57:49
+thanks pasdvn guess http //paste2.org/p/921034 trick also update patch http //getmangos.com/community/showthread.php t=14623 p=119952 viewfull=1 post119952 getmangos.com; 0; 2010-07-20 01:11:16
+; -1; 2010-07-20 01:45:45
+maybe could add `` beast within bestial wrath immunity '' 'hack aura :handlemodmechanicimmunity ... give spell immune_to_movement_impairment_and_loss_control_mask instead provided miscvalue 's clean sollut; 0; 2010-05-22 03:56:03
+use direct heal target like time heal heal effect however aura whose m_amount use calculation method n't run; 0; 2010-05-08 03:37:38
+remove spellhealingbonustaken think keep wrong; 0; 2010-05-06 14:12:11
+thank; 1; 2010-04-21 01:38:07
+blueboy fix add 9772 thank; 0; 2010-04-21 08:26:09
+hmm sure correct; 1; 2010-04-10 07:48:23
+; -1; 2010-03-03 10:18:22
+; -1; 2010-03-03 10:19:48
+fix steady shot bug auto shot; 0; 2010-03-02 14:23:46
+; -1; 2010-03-03 10:18:22
+; -1; 2010-03-03 10:19:48
+fix steady shot bug auto shot; 0; 2010-03-02 14:23:46
+n't think least suggest; 0; 2010-02-26 08:04:03
+procevent_procex proc_ex_normal_hit procextra active typo; 0; 2010-02-25 17:35:46
+fix already next commit; 0; 2010-02-26 08:58:30

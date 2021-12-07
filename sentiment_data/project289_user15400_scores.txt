@@ -1,0 +1,42 @@
+comment; score; time
+nice good job; 1; 2012-04-15 17:24:01
+python envelope 619 link forum check result 1365 record; 0; 2012-04-16 02:44:24
+free time try accommodate request correct permutation сonditions place; 0; 2012-04-16 03:13:14
+think maybe table _loot_template primary key specie entry item condition_id need greatly alter code; 0; 2012-04-16 03:20:44
+'ve get think immediately remind fish fish catch summer winter time day though likely reference play; 0; 2012-04-16 03:32:25
+good work thx; 1; 2012-04-16 10:03:54
+nice; 1; 2012-04-17 04:49:07
+indentation would nice else block; 0; 2012-04-22 02:32:49
+; -1; 2012-04-22 02:33:34
+finally; 0; 2011-10-16 04:53:33
+nice hopefully follow worldstatemgr; 1; 2011-10-16 05:59:30
+wohoo; 0; 2011-10-16 08:20:32
+ok thank patch next commit; 1; 2011-10-16 10:37:13
+general ++slave_itr; 0; 2012-07-22 13:12:33
+good question; 1; 2012-07-22 13:16:54
+work gcc slave_itr slaveguidlist.erase slave_itr work wonderful; 0; 2012-07-23 01:59:36
+_any_; 0; 2012-07-23 03:23:32
+rsa thread-unsafe variant std :list thread-safe container; 0; 2012-07-23 03:16:43
+rsa suggest one n't dickass; 0; 2012-07-23 03:47:00
+insignificant worm either suggest classic genre sprinkle ash bald head crawl back cemetery ...; 0; 2012-07-23 04:00:44
+rsa case shut bother us worm den thanks url anyway; 0; 2012-07-23 04:04:10
+got ta love good cat fight; 1; 2012-07-23 05:38:28
+lordjz set twit need worry confusion may occur excess voltage; 0; 2012-07-23 05:02:49
+solutiuon slave_itr slaveguidlist.erase slave_itr though guess place need refactoring; 0; 2012-07-23 06:03:05
+far s/ \w\d_ \.erase\ \w\d_ \+\+\ /\2 \1.erase \2 rest manually /\.erase\ .+\+\+/; 0; 2012-07-23 06:09:33
+erase itr++ create iterator copy possible avoid returnning iterator version sure important find disadvantage google; 0; 2012-07-26 12:25:50
+good code readability crucial know anything c/c++ even know compute sum two number programming language want provide good patch go ahead post forum otherwise enjoy mag; 0; 2010-02-20 13:49:18
+ha-ha f ... g brain xd; 1; 2010-02-20 17:10:01
+lighten sarcastic; -1; 2010-02-20 15:44:52
+sure 's even worth reply go piss tgm make code change tomorrow 'm certain community whole happy spell implement tad easy read code oh; 0; 2010-02-20 18:21:04
+past day great project perspective changed movement code huge performance boost overall overhead cause mob erratic facing movement go problem cause character pets behave; 0; 2010-02-21 00:50:30
+revert change local copy always update fix; 0; 2010-01-16 05:58:02
+; -1; 2009-12-20 12:27:42
+clean compile window vs2008 compiled fine; 1; 2009-12-20 12:31:32
+mrhooha maybe linux; 0; 2009-12-20 12:46:08
+xeross yes debian; 1; 2009-12-20 13:12:17
+check pointer caster successfully create; 1; 2009-11-29 09:26:56
+never mind warning big deal; 0; 2009-11-29 22:54:35
+8894 check add 's apply part apply call case normal player caster base early code check near impossible find caster agree special case maybe happens good avoid cra; 0; 2009-11-30 01:28:03
+n't think commit break anything.. next commit 've also fix stuff one.. exactly commit n't use; 0; 2009-11-20 14:17:51
+seem stability issue commit database full compliance also use basic mango script crashes two tester anyone else stability issue investigate issue try revertin; 0; 2009-11-20 10:24:16

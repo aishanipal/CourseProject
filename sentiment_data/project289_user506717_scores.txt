@@ -1,0 +1,17 @@
+comment; score; time
+completely remove progress bar make startup much fast; 0; 2011-01-07 14:10:05
+ok wrong nonsafe remark mysql look like safe less know posgre expect also safe base lock internal engine object query exist; 0; 2011-01-07 15:02:35
+think mangos startup-time 1 progress bar really must; 0; 2011-01-07 15:42:23
+vladimir may get useful 're writting lot code/doing lot database modification row need test fix progressively may reboot lot time row idiot error due speed/; 0; 2011-01-07 16:01:23
+debug mode build slowdown bar inlined code use iteration involve startup load; 0; 2011-01-07 16:29:47
+fallenangelx bar help; 1; 2011-01-07 16:36:13
+show big loading table like creature/go load go infinity loop reason example; 0; 2011-01-07 17:16:20
+boyz mangos startup time important host server vital developer since sometimes need restart server several time row debug code startup time 50 30 second matter thank c; 0; 2011-01-10 02:24:15
+completely remove progress bar make startup much fast; 0; 2011-01-07 14:10:05
+ok wrong nonsafe remark mysql look like safe less know posgre expect also safe base lock internal engine object query exist; 0; 2011-01-07 15:02:35
+think mangos startup-time 1 progress bar really must; 0; 2011-01-07 15:42:23
+vladimir may get useful 're writting lot code/doing lot database modification row need test fix progressively may reboot lot time row idiot error due speed/; 0; 2011-01-07 16:01:23
+debug mode build slowdown bar inlined code use iteration involve startup load; 0; 2011-01-07 16:29:47
+fallenangelx bar help; 1; 2011-01-07 16:36:13
+show big loading table like creature/go load go infinity loop reason example; 0; 2011-01-07 17:16:20
+boyz mangos startup time important host server vital developer since sometimes need restart server several time row debug code startup time 50 30 second matter thank c; 0; 2011-01-10 02:24:15

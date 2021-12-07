@@ -1,0 +1,6 @@
+comment; score; time
+ha indeed build problem must m_spellproto- id; 0; 2010-02-06 09:57:00
+anyway thanks point; 1; 2010-02-06 09:57:23
+fixed 9316 thank; 1; 2010-02-06 10:01:26
+spell- id also work yes; 0; 2010-02-06 09:58:13
+n't spell- id maybe 'm wrong n't test possibility; 0; 2010-02-06 09:47:54

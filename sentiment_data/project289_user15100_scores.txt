@@ -1,0 +1,4 @@
+comment; score; time
+awesome thx; 1; 2009-06-23 19:13:12
+separated field stay also data column new column ingame magically join send client; 0; 2009-06-24 09:36:17
+так гаразда удобнее; 0; 2009-06-25 06:15:41

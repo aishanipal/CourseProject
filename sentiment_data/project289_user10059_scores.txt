@@ -1,0 +1,261 @@
+comment; score; time
+thx seem much correct version ...; 0; 2011-10-17 22:15:03
+thx change 11832 twohandscore could use empty slot tabard body confuse add another one special replace equipment_slot_end 1 use define seem less correct st; 0; 2011-10-18 00:07:11
+gearscore value match one calculate addon; 0; 2011-10-18 05:18:42
+probably n't call gear score first place since one average ilvl player 's best item; 0; 2011-10-18 06:17:14
+way typo 'cinem u __a__ /u tic 'cinemitic; 0; 2011-10-21 05:16:05
+thx seem much correct version ...; 0; 2011-10-17 22:15:03
+thx change 11832 twohandscore could use empty slot tabard body confuse add another one special replace equipment_slot_end 1 use define seem less correct st; 0; 2011-10-18 00:07:11
+gearscore value match one calculate addon; 0; 2011-10-18 05:18:42
+probably n't call gear score first place since one average ilvl player 's best item; 0; 2011-10-18 06:17:14
+way typo 'cinem u __a__ /u tic 'cinemitic; 0; 2011-10-21 05:16:05
+ok forget getspellentrybydifficulty; 1; 2011-09-27 04:56:24
+laise would cool drop irc; 0; 2011-09-27 05:33:12
+sniff try add thing make ​​me year ago full accordance provide sniff want get please refer romanrom2 yuriy problem mango; 0; 2011-09-27 03:34:51
+thank contribute fix 11811; 0; 2011-09-27 06:10:06
+spellauraholder constructor switch-case spell need custom stack amount apply 4 max stack amount maybe add case; 0; 2011-09-27 05:13:21
+guy post sniff question review preferably annotate 's always bit easy argue solid data ...; 0; 2011-09-28 02:23:57
+need check old value one encounter credit may reach one time; 0; 2011-09-04 06:31:30
+fully functional replace impossible check state encounter dungeon; 0; 2011-09-04 06:51:17
+exactly creature kill single call spell :finish; 0; 2011-09-04 07:36:30
+see may multi-boss last encounter spell may cast unexpected bos respawn; 0; 2011-09-04 07:47:08
+state talk encounter complete reflect m_completedencountersmask far know n't link encounter map need load map id difficulty ofc ca; 0; 2011-09-04 07:47:45
+spell cast expect encounter complete case wrong 've see multi-boss encounter always spell dependency 's update simple kill; 0; 2011-09-04 07:49:07
+well desire leave open use bug error db script hard find everyone forget; -1; 2011-09-04 08:30:28
+dont need complete encounter order receive lfg reward least n't wotlk guess matter anyway thanks patch; 0; 2011-09-04 08:57:31
+'s discussied question ... 50/50 different opinion problem anyway possibility check complete separate encouter must check mask good idea encounter may disable dbc double heroic additional boss; 0; 2011-09-04 09:12:30
+think label wrong manually edit; 0; 2011-09-06 20:18:42
+need check old value one encounter credit may reach one time; 0; 2011-09-04 06:31:30
+fully functional replace impossible check state encounter dungeon; 0; 2011-09-04 06:51:17
+exactly creature kill single call spell :finish; 0; 2011-09-04 07:36:30
+see may multi-boss last encounter spell may cast unexpected bos respawn; 0; 2011-09-04 07:47:08
+state talk encounter complete reflect m_completedencountersmask far know n't link encounter map need load map id difficulty ofc ca; 0; 2011-09-04 07:47:45
+spell cast expect encounter complete case wrong 've see multi-boss encounter always spell dependency 's update simple kill; 0; 2011-09-04 07:49:07
+well desire leave open use bug error db script hard find everyone forget; -1; 2011-09-04 08:30:28
+dont need complete encounter order receive lfg reward least n't wotlk guess matter anyway thanks patch; 0; 2011-09-04 08:57:31
+'s discussied question ... 50/50 different opinion problem anyway possibility check complete separate encouter must check mask good idea encounter may disable dbc double heroic additional boss; 0; 2011-09-04 09:12:30
+think label wrong manually edit; 0; 2011-09-06 20:18:42
+need check old value one encounter credit may reach one time; 0; 2011-09-04 06:31:30
+fully functional replace impossible check state encounter dungeon; 0; 2011-09-04 06:51:17
+exactly creature kill single call spell :finish; 0; 2011-09-04 07:36:30
+see may multi-boss last encounter spell may cast unexpected bos respawn; 0; 2011-09-04 07:47:08
+state talk encounter complete reflect m_completedencountersmask far know n't link encounter map need load map id difficulty ofc ca; 0; 2011-09-04 07:47:45
+spell cast expect encounter complete case wrong 've see multi-boss encounter always spell dependency 's update simple kill; 0; 2011-09-04 07:49:07
+well desire leave open use bug error db script hard find everyone forget; -1; 2011-09-04 08:30:28
+dont need complete encounter order receive lfg reward least n't wotlk guess matter anyway thanks patch; 0; 2011-09-04 08:57:31
+'s discussied question ... 50/50 different opinion problem anyway possibility check complete separate encouter must check mask good idea encounter may disable dbc double heroic additional boss; 0; 2011-09-04 09:12:30
+think label wrong manually edit; 0; 2011-09-06 20:18:42
+11774 thanks; 1; 2011-08-07 08:33:18
+works like charm thank; 1; 2011-08-07 08:54:47
+thanks fix 11768 forgot reply =\; 0; 2011-08-07 05:19:34
+seems like miss one 'sql/mangos.sql corrent 'm wrong; 0; 2011-09-12 10:10:42
+generally n't solution atm leave spell break spell info override add temp hack; 0; 2011-07-23 00:10:44
+mosst go part except receive work; 0; 2010-10-03 10:36:39
+в чём заключаеться сложность взять и совмесными силами зделать наконец-то рабочий рандом героик или возможность раздачи лута после ро или так и дальше будем править пробелы в логах и ошибки в коментариях; 0; 2010-10-03 09:59:49
+сделаю всё что будет в моих силах вплоть до тестирования и сбора информации увы моих знаний для правки сложных функций не хватит.. но я думаю для вас это не проблема.. не хочу сьезжать на тринити но то что у них это давным давно работает хоть хаково; 0; 2010-10-03 10:39:22
+concept look like total abomination n't exist here..; 0; 2010-10-03 10:43:13
+n't speak russian guess 's another complain mangos make useless commits trinity good haha; 0; 2010-10-05 07:20:22
+mosst +1 я тож собераюсь делать новый серв на trinity оставить старый как второй серв а новый всё с нуля и он будет в realmd мангоса..; 0; 2010-10-05 02:56:50
+mosst go part except receive work; 0; 2010-10-03 10:36:39
+в чём заключаеться сложность взять и совмесными силами зделать наконец-то рабочий рандом героик или возможность раздачи лута после ро или так и дальше будем править пробелы в логах и ошибки в коментариях; 0; 2010-10-03 09:59:49
+сделаю всё что будет в моих силах вплоть до тестирования и сбора информации увы моих знаний для правки сложных функций не хватит.. но я думаю для вас это не проблема.. не хочу сьезжать на тринити но то что у них это давным давно работает хоть хаково; 0; 2010-10-03 10:39:22
+concept look like total abomination n't exist here..; 0; 2010-10-03 10:43:13
+n't speak russian guess 's another complain mangos make useless commits trinity good haha; 0; 2010-10-05 07:20:22
+mosst +1 я тож собераюсь делать новый серв на trinity оставить старый как второй серв а новый всё с нуля и он будет в realmd мангоса..; 0; 2010-10-05 02:56:50
+'s wrong vehicles source principle may threatlist examples boss gormok impaler toc professor putricide saurfang icc creatures vehicle see sniff; 0; 2010-10-02 10:56:09
+obvious example flame leviathan ulduar; 0; 2010-10-02 11:00:50
+sure vehicle threat list 's controller; 0; 2010-10-02 12:50:18
+flame leviathan bad example always follow one particular target time regardless threat level; 0; 2010-10-02 13:03:47
+add update sql; 0; 2010-09-03 07:31:23
+sql update; 0; 2010-09-03 08:55:26
+bonus work even 1 skill point; 0; 2010-09-03 08:30:30
+believe mean people update sql\updates though n't particularly see necessary table; 0; 2010-09-04 01:28:40
+indeed look like typo; 0; 2010-09-05 03:15:49
+post patch file mangos forum ...; 0; 2010-09-05 03:36:32
+good see 're back; 0; 2010-08-27 23:38:53
+yea maybe unnecessary check second spell..; 0; 2010-08-29 22:19:18
+10422 thanks; 1; 2010-08-29 10:04:22
+thanks fix 10416; 1; 2010-08-27 23:32:55
+yeah crash even localhost use eyes beast http //www.wowhead.com/spell=1002; 0; 2010-07-24 16:35:47
+discuss; 0; 2010-07-25 00:15:26
+'ve see copy x3 time still clean src; 0; 2010-07-25 09:01:39
+axxus understand 's entirely possible aura system already finish stable 's one patch incompatible even likely people extra patch gettin; 0; 2010-07-25 12:17:56
+understand use clean source player order offer crashdumps ... difficult repeat crash test enviroment revert 10155 try backport new collision vmaps system n; 0; 2010-07-25 11:54:08
+wrong spell power damage x4 apply spelldamagebonusdone code list increase m_amount go spelldamagebonusdone apply spell power relate bonus; 0; 2010-06-20 20:40:43
+mango core problem use broken custom patch; -1; 2010-05-12 20:04:21
+see hackworld use mtmaps; 0; 2010-05-12 21:51:07
+definitely hsc ... dont even recognize code ... whats think vlad; 0; 2010-05-12 21:04:36
+ну используете мангос то тут причем в нем проблем нет; 0; 2010-05-13 05:32:09
+hva er poenget med å skrive russisk kanskje alle skal begynne å skrive sitt eget morsmål sånn som dette bare å gjøre ting enda mer vanskelig; 0; 2010-05-13 10:50:22
+為什麼都寫在俄羅斯？也許每個人都應該開始寫在他們的母語，只是複雜的一切？; 0; 2010-05-13 10:59:41
+просто следите за актуальностью патчей которые вы ставите на ядро и всё будет оке это явно не проблемы разработчиков мангоса; 0; 2010-05-13 10:29:17
+immer die russe wo gfühl hän sie mieste ihrer eigene sproch statt änglisch schribe ... tztztz; 0; 2010-05-13 16:39:56
+למה על הקומיט שלי אבל =\; 0; 2010-05-13 12:56:01
+insider42 за патчами я слежу все дело оказалось в настройке проекта share game мудил с оптимизаций кудато тыкнул и все нарушил линки на библиотеки вот и вся проблема из за этого тут такой балаган банально попросил привести хотя бы догадки к; 0; 2010-05-14 12:37:52
+hola que tal; 0; 2010-05-13 17:19:16
+think use 0 instead null integer value; 0; 2010-05-12 04:08:04
+... nice solution mount; 1; 2010-05-12 04:49:07
+edit laise fast post response ask something similar p; 0; 2010-05-12 05:15:44
+thank much explain laise ... helpfull future; 0; 2010-05-12 05:46:09
+last arg use replace 280 speed player know mount 310 invincible 310 initial speed n't need check; 0; 2010-05-12 05:15:16
+phail copy paste -_-; 0; 2010-05-12 07:41:42
+good commit fly dalaran mount; 1; 2010-05-12 07:58:48
+found bug example mount fly headless horseman 's mount teleport stormwind dismount fly stormwind; 0; 2010-06-02 11:55:30
+.gm _test_this; 0; 2010-06-02 22:25:38
+think use 0 instead null integer value; 0; 2010-05-12 04:08:04
+... nice solution mount; 1; 2010-05-12 04:49:07
+edit laise fast post response ask something similar p; 0; 2010-05-12 05:15:44
+thank much explain laise ... helpfull future; 0; 2010-05-12 05:46:09
+last arg use replace 280 speed player know mount 310 invincible 310 initial speed n't need check; 0; 2010-05-12 05:15:16
+phail copy paste -_-; 0; 2010-05-12 07:41:42
+good commit fly dalaran mount; 1; 2010-05-12 07:58:48
+found bug example mount fly headless horseman 's mount teleport stormwind dismount fly stormwind; 0; 2010-06-02 11:55:30
+.gm _test_this; 0; 2010-06-02 22:25:38
+renew talent empowered renew also heal twice fix http //github.com/zergtmn/mangos/commit/3837bcdc4f7ae38c47bc2f78ef613ff62d40c02e 's 322 branch need change one string `` triggeredbyaura- geteffindex effect_index_1; 0; 2010-05-11 00:37:52
+combustion wo n't work also need check exist pct modifier auras..also lot spell type proc flag ...; 0; 2010-05-12 08:59:44
+http //www.wowhead.com/spell=1064 break update server 9851 9857; 0; 2010-05-10 08:19:15
+fix 9858 .thanks report; 0; 2010-05-10 09:32:08
+strange happen 1678 spd deal around 1500 damage; 0; 2010-05-08 08:50:19
+4k+ instant damage 2500 spell damage bonus stats ok test; -1; 2010-05-08 09:39:33
+use direct heal target like time heal heal effect however aura whose m_amount use calculation method n't run; 0; 2010-05-08 03:37:38
+remove spellhealingbonustaken think keep wrong; 0; 2010-05-06 14:12:11
+spell http //www.wowhead.com/spell=18562 much heal example rejuvenation heals 6000 cast swiftmend heals 7900 ... spend talent restoration take talent modify heal use tree form 60; 0; 2010-05-04 12:37:25
+-3 instead -1 18 second regrowth 21 originally 12 rejuvenation 15 originally; 0; 2010-05-04 14:03:04
+regrowth rejuvenation tick every 3 second; 0; 2010-05-04 14:10:35
+please give link/post spell_bonus_data relate dk disease wont ask custom patch cause obvious; 0; 2010-05-07 13:22:33
+spell http //www.wowhead.com/spell=18562 much heal example rejuvenation heals 6000 cast swiftmend heals 7900 ... spend talent restoration take talent modify heal use tree form 60; 0; 2010-05-04 12:37:25
+-3 instead -1 18 second regrowth 21 originally 12 rejuvenation 15 originally; 0; 2010-05-04 14:03:04
+regrowth rejuvenation tick every 3 second; 0; 2010-05-04 14:10:35
+please give link/post spell_bonus_data relate dk disease wont ask custom patch cause obvious; 0; 2010-05-07 13:22:33
+laise huge update awesome thanks; 1; 2010-04-27 03:41:50
+thanks; 1; 2010-04-27 03:50:46
+awesome; 1; 2010-04-27 04:01:28
+oh god laise 're beast p; 0; 2010-04-27 09:35:00
+except easy code future also fix damage/heal time aura store caster damage apply meaning caster example dy dot still amount damage dependent target side ofc; 0; 2010-04-27 07:20:05
+oh god laise 're beast p; 0; 2010-04-27 09:35:00
+also fix shatter combo; 0; 2010-04-28 06:11:06
+shatter combo fix 9784; 0; 2010-04-28 21:18:24
+already revert revision xd; 1; 2010-04-28 23:41:27
+anyone high conflagrate damage spelleffects.cpp line 512-513 try remove call spelldamagebonusdone maybe also taken; 0; 2010-04-28 21:27:08
+clean core happen; 1; 2010-05-03 00:53:10
+'s bugreport core user n't test already maybe specific condition bug ... try get info user think patch ca n't cause bug affect single spell start aft; 0; 2010-05-03 01:16:46
+100 clean core spell paladin; 0; 2010-05-03 02:33:29
+bug mage talent 12606 spell 43015 receive damage example dk blood plague receive million damage; 0; 2010-05-03 00:29:32
+wrong value come insider addition sorry ^_^; -1; 2010-05-04 14:07:59
+note bug happen rank 7 dampen magic rank 6 dont bug use win server 2008 x64; 0; 2010-05-03 19:17:02
+db value wowka321 didnt manually edit come 1 db provider ytdb 2 core update; 0; 2010-05-03 20:55:20
+thx laise ^^; 1; 2010-05-03 21:50:36
+thx xd; 1; 2010-05-11 12:16:43
+`` return '' cause affected spell calculate spelldamagebonusdone/meeleedamagebonusdone; 0; 2010-05-11 08:15:23
+laise huge update awesome thanks; 1; 2010-04-27 03:41:50
+thanks; 1; 2010-04-27 03:50:46
+awesome; 1; 2010-04-27 04:01:28
+oh god laise 're beast p; 0; 2010-04-27 09:35:00
+except easy code future also fix damage/heal time aura store caster damage apply meaning caster example dy dot still amount damage dependent target side ofc; 0; 2010-04-27 07:20:05
+oh god laise 're beast p; 0; 2010-04-27 09:35:00
+also fix shatter combo; 0; 2010-04-28 06:11:06
+shatter combo fix 9784; 0; 2010-04-28 21:18:24
+already revert revision xd; 1; 2010-04-28 23:41:27
+anyone high conflagrate damage spelleffects.cpp line 512-513 try remove call spelldamagebonusdone maybe also taken; 0; 2010-04-28 21:27:08
+clean core happen; 1; 2010-05-03 00:53:10
+'s bugreport core user n't test already maybe specific condition bug ... try get info user think patch ca n't cause bug affect single spell start aft; 0; 2010-05-03 01:16:46
+100 clean core spell paladin; 0; 2010-05-03 02:33:29
+bug mage talent 12606 spell 43015 receive damage example dk blood plague receive million damage; 0; 2010-05-03 00:29:32
+wrong value come insider addition sorry ^_^; -1; 2010-05-04 14:07:59
+note bug happen rank 7 dampen magic rank 6 dont bug use win server 2008 x64; 0; 2010-05-03 19:17:02
+db value wowka321 didnt manually edit come 1 db provider ytdb 2 core update; 0; 2010-05-03 20:55:20
+thx laise ^^; 1; 2010-05-03 21:50:36
+thx xd; 1; 2010-05-11 12:16:43
+`` return '' cause affected spell calculate spelldamagebonusdone/meeleedamagebonusdone; 0; 2010-05-11 08:15:23
+laise huge update awesome thanks; 1; 2010-04-27 03:41:50
+thanks; 1; 2010-04-27 03:50:46
+awesome; 1; 2010-04-27 04:01:28
+oh god laise 're beast p; 0; 2010-04-27 09:35:00
+except easy code future also fix damage/heal time aura store caster damage apply meaning caster example dy dot still amount damage dependent target side ofc; 0; 2010-04-27 07:20:05
+oh god laise 're beast p; 0; 2010-04-27 09:35:00
+also fix shatter combo; 0; 2010-04-28 06:11:06
+shatter combo fix 9784; 0; 2010-04-28 21:18:24
+already revert revision xd; 1; 2010-04-28 23:41:27
+anyone high conflagrate damage spelleffects.cpp line 512-513 try remove call spelldamagebonusdone maybe also taken; 0; 2010-04-28 21:27:08
+clean core happen; 1; 2010-05-03 00:53:10
+'s bugreport core user n't test already maybe specific condition bug ... try get info user think patch ca n't cause bug affect single spell start aft; 0; 2010-05-03 01:16:46
+100 clean core spell paladin; 0; 2010-05-03 02:33:29
+bug mage talent 12606 spell 43015 receive damage example dk blood plague receive million damage; 0; 2010-05-03 00:29:32
+wrong value come insider addition sorry ^_^; -1; 2010-05-04 14:07:59
+note bug happen rank 7 dampen magic rank 6 dont bug use win server 2008 x64; 0; 2010-05-03 19:17:02
+db value wowka321 didnt manually edit come 1 db provider ytdb 2 core update; 0; 2010-05-03 20:55:20
+thx laise ^^; 1; 2010-05-03 21:50:36
+thx xd; 1; 2010-05-11 12:16:43
+`` return '' cause affected spell calculate spelldamagebonusdone/meeleedamagebonusdone; 0; 2010-05-11 08:15:23
+laise huge update awesome thanks; 1; 2010-04-27 03:41:50
+thanks; 1; 2010-04-27 03:50:46
+awesome; 1; 2010-04-27 04:01:28
+oh god laise 're beast p; 0; 2010-04-27 09:35:00
+except easy code future also fix damage/heal time aura store caster damage apply meaning caster example dy dot still amount damage dependent target side ofc; 0; 2010-04-27 07:20:05
+oh god laise 're beast p; 0; 2010-04-27 09:35:00
+also fix shatter combo; 0; 2010-04-28 06:11:06
+shatter combo fix 9784; 0; 2010-04-28 21:18:24
+already revert revision xd; 1; 2010-04-28 23:41:27
+anyone high conflagrate damage spelleffects.cpp line 512-513 try remove call spelldamagebonusdone maybe also taken; 0; 2010-04-28 21:27:08
+clean core happen; 1; 2010-05-03 00:53:10
+'s bugreport core user n't test already maybe specific condition bug ... try get info user think patch ca n't cause bug affect single spell start aft; 0; 2010-05-03 01:16:46
+100 clean core spell paladin; 0; 2010-05-03 02:33:29
+bug mage talent 12606 spell 43015 receive damage example dk blood plague receive million damage; 0; 2010-05-03 00:29:32
+wrong value come insider addition sorry ^_^; -1; 2010-05-04 14:07:59
+note bug happen rank 7 dampen magic rank 6 dont bug use win server 2008 x64; 0; 2010-05-03 19:17:02
+db value wowka321 didnt manually edit come 1 db provider ytdb 2 core update; 0; 2010-05-03 20:55:20
+thx laise ^^; 1; 2010-05-03 21:50:36
+thx xd; 1; 2010-05-11 12:16:43
+`` return '' cause affected spell calculate spelldamagebonusdone/meeleedamagebonusdone; 0; 2010-05-11 08:15:23
+laise huge update awesome thanks; 1; 2010-04-27 03:41:50
+thanks; 1; 2010-04-27 03:50:46
+awesome; 1; 2010-04-27 04:01:28
+oh god laise 're beast p; 0; 2010-04-27 09:35:00
+except easy code future also fix damage/heal time aura store caster damage apply meaning caster example dy dot still amount damage dependent target side ofc; 0; 2010-04-27 07:20:05
+oh god laise 're beast p; 0; 2010-04-27 09:35:00
+also fix shatter combo; 0; 2010-04-28 06:11:06
+shatter combo fix 9784; 0; 2010-04-28 21:18:24
+already revert revision xd; 1; 2010-04-28 23:41:27
+anyone high conflagrate damage spelleffects.cpp line 512-513 try remove call spelldamagebonusdone maybe also taken; 0; 2010-04-28 21:27:08
+clean core happen; 1; 2010-05-03 00:53:10
+'s bugreport core user n't test already maybe specific condition bug ... try get info user think patch ca n't cause bug affect single spell start aft; 0; 2010-05-03 01:16:46
+100 clean core spell paladin; 0; 2010-05-03 02:33:29
+bug mage talent 12606 spell 43015 receive damage example dk blood plague receive million damage; 0; 2010-05-03 00:29:32
+wrong value come insider addition sorry ^_^; -1; 2010-05-04 14:07:59
+note bug happen rank 7 dampen magic rank 6 dont bug use win server 2008 x64; 0; 2010-05-03 19:17:02
+db value wowka321 didnt manually edit come 1 db provider ytdb 2 core update; 0; 2010-05-03 20:55:20
+thx laise ^^; 1; 2010-05-03 21:50:36
+thx xd; 1; 2010-05-11 12:16:43
+`` return '' cause affected spell calculate spelldamagebonusdone/meeleedamagebonusdone; 0; 2010-05-11 08:15:23
+laise huge update awesome thanks; 1; 2010-04-27 03:41:50
+thanks; 1; 2010-04-27 03:50:46
+awesome; 1; 2010-04-27 04:01:28
+oh god laise 're beast p; 0; 2010-04-27 09:35:00
+except easy code future also fix damage/heal time aura store caster damage apply meaning caster example dy dot still amount damage dependent target side ofc; 0; 2010-04-27 07:20:05
+oh god laise 're beast p; 0; 2010-04-27 09:35:00
+also fix shatter combo; 0; 2010-04-28 06:11:06
+shatter combo fix 9784; 0; 2010-04-28 21:18:24
+already revert revision xd; 1; 2010-04-28 23:41:27
+anyone high conflagrate damage spelleffects.cpp line 512-513 try remove call spelldamagebonusdone maybe also taken; 0; 2010-04-28 21:27:08
+clean core happen; 1; 2010-05-03 00:53:10
+'s bugreport core user n't test already maybe specific condition bug ... try get info user think patch ca n't cause bug affect single spell start aft; 0; 2010-05-03 01:16:46
+100 clean core spell paladin; 0; 2010-05-03 02:33:29
+bug mage talent 12606 spell 43015 receive damage example dk blood plague receive million damage; 0; 2010-05-03 00:29:32
+wrong value come insider addition sorry ^_^; -1; 2010-05-04 14:07:59
+note bug happen rank 7 dampen magic rank 6 dont bug use win server 2008 x64; 0; 2010-05-03 19:17:02
+db value wowka321 didnt manually edit come 1 db provider ytdb 2 core update; 0; 2010-05-03 20:55:20
+thx laise ^^; 1; 2010-05-03 21:50:36
+thx xd; 1; 2010-05-11 12:16:43
+`` return '' cause affected spell calculate spelldamagebonusdone/meeleedamagebonusdone; 0; 2010-05-11 08:15:23
+yea; 0; 2010-04-22 03:13:23
+okay thanks; 1; 2010-04-22 03:24:11
+like revision number; 1; 2010-04-06 11:21:03
+t_t least chicken; 0; 2010-04-06 11:27:48
+lol make day; 1; 2010-04-06 21:49:47
+thanks 2 tom_rus vladimirmangos keep great work; 1; 2009-10-06 02:08:41
+thanks upgrade; 1; 2009-10-06 02:43:40
+congrats big thank countless hour guy invest project; 0; 2009-10-06 10:57:41
+3; -1; 2009-10-06 08:30:01
+thank good work; 1; 2009-10-07 06:20:23
+thanks tom_rus good luck 3.3.0; 1; 2009-10-06 09:40:22
+thx lot; 1; 2009-10-07 07:30:02

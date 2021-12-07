@@ -1,0 +1,38 @@
+comment; score; time
+congrats; 1; 2010-05-28 09:53:23
+hahaha grats; 1; 2010-05-28 09:58:30
+10 001 revert commit back; 0; 2010-05-28 10:02:39
+спасибо вам владимир; 0; 2010-05-28 10:06:21
+w00t; 1; 2010-05-28 10:45:23
+epic; 0; 2010-05-28 10:55:06
+lol good team; 1; 2010-05-28 11:14:48
+give congratulation; 1; 2010-05-28 11:20:31
+graz good work; 1; 2010-05-28 12:04:30
+10000 revision congratulation thank people help; 1; 2010-05-28 13:02:40
+gz 10000 best commits; 1; 2010-05-28 13:32:19
+gj 10 000 10x; 0; 2010-05-28 19:01:14
+congratz thanks everything; 1; 2010-05-28 20:51:50
+; -1; 2010-05-08 00:08:02
+default set 1; 0; 2010-05-07 20:09:11
+yes 'm little confuse commit exactly clean; 1; 2010-05-08 07:48:19
+revils correct; 0; 2010-05-09 01:15:37
+ok thanks; 1; 2010-05-09 03:48:12
+lightguard congrats dev status first official commit; 1; 2010-02-02 13:36:31
+graz; 0; 2010-02-02 13:44:55
+graz; 0; 2010-02-02 18:57:18
+gratula; 0; 2010-02-03 01:38:25
+gratz lightguard nice job; 1; 2010-02-03 03:13:36
+great work thx; 1; 2009-10-09 09:31:33
+thanks; 1; 2009-10-09 09:28:51
+bug fix; 0; 2009-10-09 10:01:44
+wonderful; 1; 2009-10-09 14:17:35
+way go; 0; 2009-10-09 11:06:51
+nice work thanx; 1; 2009-10-09 21:00:37
+nice thx xd; 1; 2009-10-09 14:27:34
+finally; 0; 2009-07-14 15:19:33
+speedup; 0; 2009-07-14 19:44:14
+euh make dont undertsand ^^; 0; 2009-07-14 18:33:14
+nice one; 1; 2009-07-14 20:01:38
+nice work; 1; 2009-07-15 02:12:24
+revert; 0; 2009-01-19 19:06:45
+revert 3.0.3 switch back 3.0.3 branch unexpectedly; 0; 2009-01-20 17:12:34

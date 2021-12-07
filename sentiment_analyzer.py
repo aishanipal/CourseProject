@@ -2,13 +2,12 @@
 
 import nltk
 import pandas
-from nltk.tokenize import sent_tokenize, word_tokenize
-from nltk.tag import pos_tag_sents, pos_tag
+from nltk.tokenize import word_tokenize
+from nltk.tag import pos_tag
 from nltk.stem.wordnet import WordNetLemmatizer
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 import re, string
 from nltk.corpus import stopwords
-import json
 import operator
 import matplotlib.pyplot as plt
 
@@ -20,8 +19,7 @@ data = data.dropna()
 data = data.astype({'commit_id': 'int'})
 data['time'] = pandas.to_datetime(data['time'])
 project_commit_ids = pandas.read_csv("data/project_id_commit_id.csv", header=0, delimiter=", ", engine='python')
-grouped_project_commit_ids = project_commit_ids.groupby('project_id').agg(pandas.Series.tolist)
-# grouped_project_commit_ids.reset_index()
+# grouped_project_commit_ids = project_commit_ids.groupby('project_id').agg(pandas.Series.tolist)
 # print(grouped_project_commit_ids.columns)
 # for each row in grouped_project_commit_ids: 
     # to get project id - row[0], to get list of commit_id - list(row[1])[0]
@@ -34,23 +32,20 @@ Step 2. Tokenize Data
 """
 
 # punkt - pre-trained model to tokenize our data
-# nltk.download('punkt')
+nltk.download('punkt')
 data['token_comment'] = data['comment'].apply(word_tokenize)
 data = data.dropna()
 token_comments = data.loc[:,'token_comment']
-# print(token_comments)
 
 """
 Step 3. POS Tagging
 """
 
-# nltk.download('wordnet')
-# nltk.download('averaged_perceptron_tagger')
-# data['pos_comment'] = pos_tag_sents(data['token_comment'])
+nltk.download('wordnet')
+nltk.download('averaged_perceptron_tagger')
 data['pos_comment'] = data['token_comment'].apply(pos_tag)
 data = data.dropna()
 pos_comment = data.loc[:,'pos_comment']
-# print(pos_comment)
 
 """
 Step 4. Remove Noise from Data (i.e. stop words)
@@ -84,29 +79,25 @@ def remove_noise(pos_comment):
 data['clean_comment'] = data['pos_comment'].apply(remove_noise)
 data = data.dropna()
 clean_comment = data.loc[:,'clean_comment']
-# print(clean_comment)
 
 """
 Step 5. Classify (using pre-trained models: https://medium.com/@b.terryjack/nlp-pre-trained-sentiment-analysis-1eb52a9d742c)
 
 """
-#nltk.download('vader_lexicon')
+nltk.download('vader_lexicon')
 sid = SentimentIntensityAnalyzer()
 commit_ids = project_commit_ids.loc[project_commit_ids['project_id'] == 289]['commit_id']
 project289 = data.loc[data['commit_id'].isin(commit_ids)]
 gp = project289.groupby('user_id')
-# print(gp.ngroups)
 
 for g in gp.groups:
     f = open("sentiment_data/project289_user" + str(g) + "_scores.txt", "w+", encoding="utf-8")
     f.write("comment; score; time\n")
     user = gp.get_group(g)
     user_commit_ids = user['commit_id']
-    # print(user_commit_ids)
 
     for commit_id in user_commit_ids:
         comments = list(data.loc[data['commit_id'] == commit_id]['clean_comment'])
-        # print(commit_id, comments)
         times = list(data.loc[data['commit_id'] == commit_id]['time'])
         assert len(comments) == len(times)
         for i in range(len(comments)):
@@ -127,7 +118,7 @@ for g in gp.groups:
 
 
 """
-Prep data for baseline
+Run baseline analysis
 
 """
 data.to_csv('sentiment_data/baseline_data.csv')
@@ -159,7 +150,6 @@ for row in morning.iterrows():
         morning_pos += 1
     else:
         morning_neu += 1
-print("morning:", morning_neg, morning_neu, morning_pos)
 
 fig = plt.figure()
 sentiment = ['Negative', 'Neutral', 'Positive']
@@ -185,7 +175,6 @@ for row in afternoon.iterrows():
         afternoon_pos += 1
     else:
         afternoon_neu += 1
-print("afternoon:", afternoon_neg, afternoon_neu, afternoon_pos)
 
 fig = plt.figure()
 sentiment = ['Negative', 'Neutral', 'Positive']
@@ -211,7 +200,6 @@ for row in evening.iterrows():
         evening_pos += 1
     else:
         evening_neu += 1
-print("evening:", evening_neg, evening_neu, evening_pos)
 
 fig = plt.figure()
 sentiment = ['Negative', 'Neutral', 'Positive']
@@ -237,7 +225,6 @@ for row in night.iterrows():
         night_pos += 1
     else:
         night_neu += 1
-print("night:", night_neg, night_neu, night_pos)
 
 fig = plt.figure()
 sentiment = ['Negative', 'Neutral', 'Positive']

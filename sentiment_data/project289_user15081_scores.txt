@@ -1,0 +1,145 @@
+comment; score; time
+go neo one ... mean isnt offy let skinloot without loot first..; 0; 2010-05-19 04:59:39
+note offy even convenient always loot creature even loot window empty skin mine get plant creature 's corp n't like offy behave matter w; 0; 2010-05-19 04:55:46
+missing include `` shareddefines.h ''; 0; 2010-05-18 16:36:43
+confirm; 0; 2010-05-18 07:36:23
+thank repot fixed 9930 different way; 0; 2010-05-18 17:30:39
+mangos still continue believe loot creature finally acknowledge wrong loot gameobjects; 0; 2010-05-16 23:52:10
+lol; 1; 2010-05-16 23:58:25
+see talk impossible long ago make wowka321 work perfectly need one small thing understand completely line mangos simplify source code make work wit; 0; 2010-05-17 02:05:05
+creature/go/item loot relate commit commit target specific problem existed code read commit note +move similar code common function related cleanup correct change affect explicitly code work creat; 0; 2010-05-17 04:37:22
+make hard move worldobject commit adding abstraction function access field make field protect generic sollutions need code cleanup let see generic functionality commit make code; 0; 2010-05-17 05:21:16
+comment refers particular commit politics mangos always good problem solve first globally bring elegance method work loot instead obvious personally hopefully; 0; 2010-05-17 05:07:58
+dont understand uptight vlad rsa make comment without question helpful progressive commit consider commit looting seem tunnel vision though whatever; 0; 2010-05-17 07:58:53
+mangos still continue believe loot creature finally acknowledge wrong loot gameobjects; 0; 2010-05-16 23:52:10
+lol; 1; 2010-05-16 23:58:25
+see talk impossible long ago make wowka321 work perfectly need one small thing understand completely line mangos simplify source code make work wit; 0; 2010-05-17 02:05:05
+creature/go/item loot relate commit commit target specific problem existed code read commit note +move similar code common function related cleanup correct change affect explicitly code work creat; 0; 2010-05-17 04:37:22
+make hard move worldobject commit adding abstraction function access field make field protect generic sollutions need code cleanup let see generic functionality commit make code; 0; 2010-05-17 05:21:16
+comment refers particular commit politics mangos always good problem solve first globally bring elegance method work loot instead obvious personally hopefully; 0; 2010-05-17 05:07:58
+dont understand uptight vlad rsa make comment without question helpful progressive commit consider commit looting seem tunnel vision though whatever; 0; 2010-05-17 07:58:53
+think bug weapon skill beacause restart server even save char weapon skill go 1 mangosd.conf maxskill option n't work; 0; 2010-05-14 11:31:58
+report getmangos forums please nothing particular commit; 0; 2010-05-14 11:36:45
+afaik fix long time ago ... olynn say post forum back yet; 0; 2010-05-14 11:41:22
+say notice revision back n't take much notice ayways yeah report forums please; 0; 2010-05-14 11:45:30
+isknowhowflyin doesnt accept two argument ... commit break build; 0; 2010-05-13 22:41:55
+work fine custom code change possible use code mangos team problem; 0; 2010-05-14 03:04:53
+yeah find co-developer ... bad sorry vlad ... pull mangos repo already work 8hr straight fiing error make loopy ... sorry bout guy; 0; 2010-05-14 05:23:07
+isknowhowflyin doesnt accept two argument ... commit break build; 0; 2010-05-13 22:41:55
+work fine custom code change possible use code mangos team problem; 0; 2010-05-14 03:04:53
+yeah find co-developer ... bad sorry vlad ... pull mangos repo already work 8hr straight fiing error make loopy ... sorry bout guy; 0; 2010-05-14 05:23:07
+mango core problem use broken custom patch; -1; 2010-05-12 20:04:21
+see hackworld use mtmaps; 0; 2010-05-12 21:51:07
+definitely hsc ... dont even recognize code ... whats think vlad; 0; 2010-05-12 21:04:36
+ну используете мангос то тут причем в нем проблем нет; 0; 2010-05-13 05:32:09
+hva er poenget med å skrive russisk kanskje alle skal begynne å skrive sitt eget morsmål sånn som dette bare å gjøre ting enda mer vanskelig; 0; 2010-05-13 10:50:22
+為什麼都寫在俄羅斯？也許每個人都應該開始寫在他們的母語，只是複雜的一切？; 0; 2010-05-13 10:59:41
+просто следите за актуальностью патчей которые вы ставите на ядро и всё будет оке это явно не проблемы разработчиков мангоса; 0; 2010-05-13 10:29:17
+immer die russe wo gfühl hän sie mieste ihrer eigene sproch statt änglisch schribe ... tztztz; 0; 2010-05-13 16:39:56
+למה על הקומיט שלי אבל =\; 0; 2010-05-13 12:56:01
+insider42 за патчами я слежу все дело оказалось в настройке проекта share game мудил с оптимизаций кудато тыкнул и все нарушил линки на библиотеки вот и вся проблема из за этого тут такой балаган банально попросил привести хотя бы догадки к; 0; 2010-05-14 12:37:52
+hola que tal; 0; 2010-05-13 17:19:16
+opcodes.cpp 0x50f 0x511 worldsession :handle_serverside; 0; 2010-05-01 13:38:34
+unlike comrades.. big issue mangos-dev push commit without make sure compile fuck previous work ... hellscream evo-x might worship u think lazy bastard ... could least comm; 0; 2010-05-01 15:50:25
+dont even try work otehr else issue wouldnt occur ... want naysay tell push broken repos ... repo countless others prior; 0; 2010-05-01 15:52:44
+know absolute fact completely ignore work accredited repos attempt work think individual repository; 0; 2010-05-01 15:51:38
+3razar3 wo n't comment opinion mangos team tell statement even remotely relate commit ...; 0; 2010-05-01 17:26:44
+dont use fork; 0; 2010-05-01 21:04:49
+3razar3 please dont drag ok; 1; 2010-05-02 12:47:29
+n't use fork like mangos devs anyways actually write vladimir say would care word comment seem totally unrelated pointless mention r; 0; 2010-05-02 14:05:30
+yeah okay bad ... disregard last 24hrs comment; -1; 2010-05-02 14:34:51
+opcodes.cpp 0x50f 0x511 worldsession :handle_serverside; 0; 2010-05-01 13:38:34
+unlike comrades.. big issue mangos-dev push commit without make sure compile fuck previous work ... hellscream evo-x might worship u think lazy bastard ... could least comm; 0; 2010-05-01 15:50:25
+dont even try work otehr else issue wouldnt occur ... want naysay tell push broken repos ... repo countless others prior; 0; 2010-05-01 15:52:44
+know absolute fact completely ignore work accredited repos attempt work think individual repository; 0; 2010-05-01 15:51:38
+3razar3 wo n't comment opinion mangos team tell statement even remotely relate commit ...; 0; 2010-05-01 17:26:44
+dont use fork; 0; 2010-05-01 21:04:49
+3razar3 please dont drag ok; 1; 2010-05-02 12:47:29
+n't use fork like mangos devs anyways actually write vladimir say would care word comment seem totally unrelated pointless mention r; 0; 2010-05-02 14:05:30
+yeah okay bad ... disregard last 24hrs comment; -1; 2010-05-02 14:34:51
+opcodes.cpp 0x50f 0x511 worldsession :handle_serverside; 0; 2010-05-01 13:38:34
+unlike comrades.. big issue mangos-dev push commit without make sure compile fuck previous work ... hellscream evo-x might worship u think lazy bastard ... could least comm; 0; 2010-05-01 15:50:25
+dont even try work otehr else issue wouldnt occur ... want naysay tell push broken repos ... repo countless others prior; 0; 2010-05-01 15:52:44
+know absolute fact completely ignore work accredited repos attempt work think individual repository; 0; 2010-05-01 15:51:38
+3razar3 wo n't comment opinion mangos team tell statement even remotely relate commit ...; 0; 2010-05-01 17:26:44
+dont use fork; 0; 2010-05-01 21:04:49
+3razar3 please dont drag ok; 1; 2010-05-02 12:47:29
+n't use fork like mangos devs anyways actually write vladimir say would care word comment seem totally unrelated pointless mention r; 0; 2010-05-02 14:05:30
+yeah okay bad ... disregard last 24hrs comment; -1; 2010-05-02 14:34:51
+opcodes.cpp 0x50f 0x511 worldsession :handle_serverside; 0; 2010-05-01 13:38:34
+unlike comrades.. big issue mangos-dev push commit without make sure compile fuck previous work ... hellscream evo-x might worship u think lazy bastard ... could least comm; 0; 2010-05-01 15:50:25
+dont even try work otehr else issue wouldnt occur ... want naysay tell push broken repos ... repo countless others prior; 0; 2010-05-01 15:52:44
+know absolute fact completely ignore work accredited repos attempt work think individual repository; 0; 2010-05-01 15:51:38
+3razar3 wo n't comment opinion mangos team tell statement even remotely relate commit ...; 0; 2010-05-01 17:26:44
+dont use fork; 0; 2010-05-01 21:04:49
+3razar3 please dont drag ok; 1; 2010-05-02 12:47:29
+n't use fork like mangos devs anyways actually write vladimir say would care word comment seem totally unrelated pointless mention r; 0; 2010-05-02 14:05:30
+yeah okay bad ... disregard last 24hrs comment; -1; 2010-05-02 14:34:51
+opcodes.cpp 0x50f 0x511 worldsession :handle_serverside; 0; 2010-05-01 13:38:34
+unlike comrades.. big issue mangos-dev push commit without make sure compile fuck previous work ... hellscream evo-x might worship u think lazy bastard ... could least comm; 0; 2010-05-01 15:50:25
+dont even try work otehr else issue wouldnt occur ... want naysay tell push broken repos ... repo countless others prior; 0; 2010-05-01 15:52:44
+know absolute fact completely ignore work accredited repos attempt work think individual repository; 0; 2010-05-01 15:51:38
+3razar3 wo n't comment opinion mangos team tell statement even remotely relate commit ...; 0; 2010-05-01 17:26:44
+dont use fork; 0; 2010-05-01 21:04:49
+3razar3 please dont drag ok; 1; 2010-05-02 12:47:29
+n't use fork like mangos devs anyways actually write vladimir say would care word comment seem totally unrelated pointless mention r; 0; 2010-05-02 14:05:30
+yeah okay bad ... disregard last 24hrs comment; -1; 2010-05-02 14:34:51
+hate vs2010 's slow; -1; 2010-04-30 11:01:00
+/agree pointless cant imagine anyone use anymore ...; 0; 2010-04-30 10:46:47
+/agree completely full retail alot compile isnt go compile due depreciation; 0; 2010-04-30 11:06:02
+sound good ... problem long vc90 stay; 0; 2010-04-30 14:39:59
+lambdas also nice c++0x feature allow us drop functors function class currently use instance grid searcher; 0; 2010-05-01 03:52:20
+hate vs2010 's slow; -1; 2010-04-30 11:01:00
+/agree pointless cant imagine anyone use anymore ...; 0; 2010-04-30 10:46:47
+/agree completely full retail alot compile isnt go compile due depreciation; 0; 2010-04-30 11:06:02
+sound good ... problem long vc90 stay; 0; 2010-04-30 14:39:59
+lambdas also nice c++0x feature allow us drop functors function class currently use instance grid searcher; 0; 2010-05-01 03:52:20
+hate vs2010 's slow; -1; 2010-04-30 11:01:00
+/agree pointless cant imagine anyone use anymore ...; 0; 2010-04-30 10:46:47
+/agree completely full retail alot compile isnt go compile due depreciation; 0; 2010-04-30 11:06:02
+sound good ... problem long vc90 stay; 0; 2010-04-30 14:39:59
+lambdas also nice c++0x feature allow us drop functors function class currently use instance grid searcher; 0; 2010-05-01 03:52:20
+besides also open comment ... dont see difficult test-compiling repo commit it.. think perfectly okay push broken repos remind pull ...; 0; 2010-02-07 13:51:08
+3razar3 shut 's compile error clean mango commit n't care forks/custom patch pull branch without even provide info commit author; 0; 2010-02-07 13:57:47
+3razar3 really gtfo.. tom far one best programmer scene also test build compile fine learn2cleancompile scrub; 0; 2010-02-07 14:08:31
+must issue coding clean revision compile fine; 0; 2010-02-07 14:19:18
+mention early worry ... evo fix flaw late commit ... suppose mango say steal well..; 0; 2010-02-07 14:20:50
+would glad write name use script repo ... http //github.com/beleko/evo-x-core/commit/e87f9ab7b5d1c377f03d61f257675494954db176; 0; 2010-02-08 05:51:14
+ok deeply sorry post delete matter repo angry saw; 0; 2010-02-08 06:20:58
+besides also open comment ... dont see difficult test-compiling repo commit it.. think perfectly okay push broken repos remind pull ...; 0; 2010-02-07 13:51:08
+3razar3 shut 's compile error clean mango commit n't care forks/custom patch pull branch without even provide info commit author; 0; 2010-02-07 13:57:47
+3razar3 really gtfo.. tom far one best programmer scene also test build compile fine learn2cleancompile scrub; 0; 2010-02-07 14:08:31
+must issue coding clean revision compile fine; 0; 2010-02-07 14:19:18
+mention early worry ... evo fix flaw late commit ... suppose mango say steal well..; 0; 2010-02-07 14:20:50
+would glad write name use script repo ... http //github.com/beleko/evo-x-core/commit/e87f9ab7b5d1c377f03d61f257675494954db176; 0; 2010-02-08 05:51:14
+ok deeply sorry post delete matter repo angry saw; 0; 2010-02-08 06:20:58
+mean 3.3.2 n't; 0; 2010-02-05 12:53:33
+ahahah; 0; 2010-02-05 14:12:27
+3.3.2; 0; 2010-02-06 03:34:53
+need db support vehicle work scriptdev aswell btw nice work; 0; 2010-02-05 16:48:25
+cool; 1; 2010-02-05 16:45:10
+yes 's 3.3.2 3.2.2 's typo error ^^; 0; 2010-02-06 04:20:51
+hadnt realize mango still back 3.3.0a til update ... evo-x-core support 3.3.2 quite ...; 0; 2010-02-06 05:31:35
+; -1; 2010-02-06 06:36:12
+-.- quite ... n't even week since 3.3.2 come wo n't say `` correct word '' really need hear rhythm stfu; 0; 2010-02-06 06:26:13
+evo-x cheap/fake magos copy opinion dunno write 3razar3; 0; 2010-02-06 07:01:09
+lol; 1; 2010-02-06 07:38:16
+damn right keep vladimir good work; 0; 2010-02-06 09:10:36
+still waitting `` 99-90 ''; 0; 2010-02-06 09:11:06
+sound like good plan ... belive term come mind `` put ... '' know rest ...; 0; 2010-02-06 09:37:37
+delete next note relate mangos strictly; 0; 2010-02-06 10:29:57
+mean 3.3.2 n't; 0; 2010-02-05 12:53:33
+ahahah; 0; 2010-02-05 14:12:27
+3.3.2; 0; 2010-02-06 03:34:53
+need db support vehicle work scriptdev aswell btw nice work; 0; 2010-02-05 16:48:25
+cool; 1; 2010-02-05 16:45:10
+yes 's 3.3.2 3.2.2 's typo error ^^; 0; 2010-02-06 04:20:51
+hadnt realize mango still back 3.3.0a til update ... evo-x-core support 3.3.2 quite ...; 0; 2010-02-06 05:31:35
+; -1; 2010-02-06 06:36:12
+-.- quite ... n't even week since 3.3.2 come wo n't say `` correct word '' really need hear rhythm stfu; 0; 2010-02-06 06:26:13
+evo-x cheap/fake magos copy opinion dunno write 3razar3; 0; 2010-02-06 07:01:09
+lol; 1; 2010-02-06 07:38:16
+damn right keep vladimir good work; 0; 2010-02-06 09:10:36
+still waitting `` 99-90 ''; 0; 2010-02-06 09:11:06
+sound like good plan ... belive term come mind `` put ... '' know rest ...; 0; 2010-02-06 09:37:37
+delete next note relate mangos strictly; 0; 2010-02-06 10:29:57

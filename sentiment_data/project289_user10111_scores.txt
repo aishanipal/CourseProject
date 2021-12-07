@@ -1,0 +1,24 @@
+comment; score; time
+use setrotationangles; 0; 2011-05-24 05:43:12
+thank much; 1; 2011-05-24 06:30:13
+confirm gameobjects seem ignore orientation sometimes; 0; 2011-05-25 12:23:17
+use setrotationangles; 0; 2011-05-24 05:43:12
+thank much; 1; 2011-05-24 06:30:13
+confirm gameobjects seem ignore orientation sometimes; 0; 2011-05-25 12:23:17
+ah thanks close look gmdb sorry; 0; 2011-05-27 13:58:53
+epic commit; 1; 2010-07-08 14:44:05
+hoooooly crap; -1; 2010-07-08 15:37:38
+congratulations; 1; 2010-07-08 14:45:24
+/cast instant orgasm rank25; 0; 2010-07-08 15:01:40
+nice one great work lynx3d; 1; 2010-07-08 16:07:55
+awesome commit realy scared information extract dbc/maps/vmaps wekk; 1; 2010-07-09 00:09:42
+nice gratz dev; 1; 2010-07-09 00:25:34
+congratulation; 1; 2010-07-09 00:34:41
+epic commit indeed vmap need revamp huge step forward many thanks devs involve one; 0; 2010-07-09 09:53:15
+omg great; 1; 2010-04-07 17:38:43
+thank much; 1; 2010-04-07 17:46:31
+thaaanks p; 0; 2010-04-07 18:07:52
+nice one thanks; 1; 2010-04-07 18:17:35
+think error output code attach check describe good checked; 0; 2010-04-07 19:02:14
+awesome great job; 1; 2010-04-07 19:44:42
+know git merge work commits mix old master revision see absent rev mostly; 0; 2010-04-09 19:40:06

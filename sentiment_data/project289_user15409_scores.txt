@@ -1,0 +1,10 @@
+comment; score; time
+p; -1; 2010-02-15 12:27:00
+graz; 0; 2009-12-16 05:16:35
+bad; -1; 2009-12-16 06:39:23
+woot 9000 rev; 1; 2009-12-16 05:13:04
+commit revert 9003 result find diff relate problem debug server lag case ...; 0; 2009-12-16 07:06:13
+graz 9000 rev х; 0; 2009-12-16 09:07:10
+could stop retard hell ever guarantee would get good server security commit; -1; 2009-07-21 23:56:12
+bliatz make project nothing ah think much; 0; 2009-07-23 20:54:33
+одни коммиты от русских ребят ... один за другим; 0; 2009-01-08 08:51:23

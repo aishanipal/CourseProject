@@ -1,0 +1,58 @@
+comment; score; time
+nvm; 0; 2010-04-29 11:42:26
+n't fully correct update come default value set fact different value instance include world map id 's; 0; 2010-04-16 01:06:17
+hey nofantasy.. already instance section make timer lock stop infinite; 0; 2010-04-16 06:30:53
+finally thank; 1; 2010-04-15 03:37:01
+know blizzard 's battlegroup clustering 100 server-side; 0; 2010-04-15 23:39:39
+currently blizz use redirect battlenet world warcraft channel upon login; 0; 2010-04-15 22:12:39
+`` think '' use load/send character battleground instance group different realm think main part code use connect battle group course delima set use; 0; 2010-04-15 06:04:33
+try understand code ca n't figure exactly probably something redirect connection someone enlighten; 0; 2010-04-15 05:07:12
+well thats good thing us right except fact mangos build way cluster; 0; 2010-04-15 23:43:21
+'re connect proxy; 0; 2010-04-16 02:38:23
+oh true see would much less work; 0; 2010-04-16 13:15:54
+also currently use account.v/s field leave fact whole auth system exploitable right; 0; 2010-08-15 16:58:16
+lol ca n't fail provide pointer field ...; 0; 2010-08-15 16:52:35
+mean function fails _is_ fail really returning salt sessionkey; 0; 2010-08-15 16:56:45
+function fail; -1; 2010-08-15 15:45:37
+finally thank; 1; 2010-04-15 03:37:01
+know blizzard 's battlegroup clustering 100 server-side; 0; 2010-04-15 23:39:39
+currently blizz use redirect battlenet world warcraft channel upon login; 0; 2010-04-15 22:12:39
+`` think '' use load/send character battleground instance group different realm think main part code use connect battle group course delima set use; 0; 2010-04-15 06:04:33
+try understand code ca n't figure exactly probably something redirect connection someone enlighten; 0; 2010-04-15 05:07:12
+well thats good thing us right except fact mangos build way cluster; 0; 2010-04-15 23:43:21
+'re connect proxy; 0; 2010-04-16 02:38:23
+oh true see would much less work; 0; 2010-04-16 13:15:54
+also currently use account.v/s field leave fact whole auth system exploitable right; 0; 2010-08-15 16:58:16
+lol ca n't fail provide pointer field ...; 0; 2010-08-15 16:52:35
+mean function fails _is_ fail really returning salt sessionkey; 0; 2010-08-15 16:56:45
+function fail; -1; 2010-08-15 15:45:37
+finally thank; 1; 2010-04-15 03:37:01
+know blizzard 's battlegroup clustering 100 server-side; 0; 2010-04-15 23:39:39
+currently blizz use redirect battlenet world warcraft channel upon login; 0; 2010-04-15 22:12:39
+`` think '' use load/send character battleground instance group different realm think main part code use connect battle group course delima set use; 0; 2010-04-15 06:04:33
+try understand code ca n't figure exactly probably something redirect connection someone enlighten; 0; 2010-04-15 05:07:12
+well thats good thing us right except fact mangos build way cluster; 0; 2010-04-15 23:43:21
+'re connect proxy; 0; 2010-04-16 02:38:23
+oh true see would much less work; 0; 2010-04-16 13:15:54
+also currently use account.v/s field leave fact whole auth system exploitable right; 0; 2010-08-15 16:58:16
+lol ca n't fail provide pointer field ...; 0; 2010-08-15 16:52:35
+mean function fails _is_ fail really returning salt sessionkey; 0; 2010-08-15 16:56:45
+function fail; -1; 2010-08-15 15:45:37
+point may ask besides simplifying look like; 0; 2010-04-10 20:37:45
+think code simplification important; 0; 2010-04-10 21:26:24
+nice thanks vladmir; 1; 2010-04-10 13:56:45
+omg great; 1; 2010-04-07 17:38:43
+thank much; 1; 2010-04-07 17:46:31
+thaaanks p; 0; 2010-04-07 18:07:52
+nice one thanks; 1; 2010-04-07 18:17:35
+think error output code attach check describe good checked; 0; 2010-04-07 19:02:14
+awesome great job; 1; 2010-04-07 19:44:42
+know git merge work commits mix old master revision see absent rev mostly; 0; 2010-04-09 19:40:06
+lmao; 1; 2010-04-04 17:43:42
+thank know n't go crazy lol; 1; 2010-03-30 18:35:55
+may still instead break something work fine committers occupy finalizing abandon halfway last 30 commits horror ...; 0; 2010-03-28 07:38:29
+data move around rsa hasnt ... `` '' bad lol; 0; 2010-03-28 08:11:00
+project education wehey purpose devs raise 20 usd donation far l.o.l base 'm happy commits message private server owner earn money mango donate; 0; 2010-03-28 09:19:32
+must fix 9613; 0; 2010-03-24 10:44:13
+confirm break compile; 0; 2010-03-24 05:27:33
+must fix 9624; 0; 2010-03-26 13:19:17

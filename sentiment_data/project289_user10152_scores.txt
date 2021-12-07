@@ -1,0 +1,297 @@
+comment; score; time
+bad idea rename every single container typedef store guids use predefined typenames across project typenames must clarify kind data suppose store object type `` bgobjects '' `` guardianpetlist ''; 0; 2012-07-11 12:28:26
+hooray ambal 's return nice see man; 1; 2012-07-11 12:41:31
+good idd; 1; 2012-07-11 12:47:15
+passing; 0; 2012-07-11 13:06:05
+disagree ambal well ... guidset suppose objectguids matter player guids creature guids type objectguid also dont use seperate typedefs string playername creatu; 0; 2012-07-12 00:56:23
+supporting name variable one give reader strong hint suppose store type guess depend `` school '' debate choose either camel casing hungarian notat; 0; 2012-07-11 22:29:58
+bad idea rename every single container typedef store guids use predefined typenames across project typenames must clarify kind data suppose store object type `` bgobjects '' `` guardianpetlist ''; 0; 2012-07-11 12:28:26
+hooray ambal 's return nice see man; 1; 2012-07-11 12:41:31
+good idd; 1; 2012-07-11 12:47:15
+passing; 0; 2012-07-11 13:06:05
+disagree ambal well ... guidset suppose objectguids matter player guids creature guids type objectguid also dont use seperate typedefs string playername creatu; 0; 2012-07-12 00:56:23
+supporting name variable one give reader strong hint suppose store type guess depend `` school '' debate choose either camel casing hungarian notat; 0; 2012-07-11 22:29:58
+shmoo congrats mangos-dev status; 1; 2011-09-03 13:40:52
+nice; 1; 2011-09-03 13:46:45
+schmoozerd finally dev cool cheers; 1; 2011-09-04 00:32:24
+ambal dev; 0; 2011-09-04 00:35:05
+congratulations; 1; 2011-09-04 01:56:53
+thank guy; 1; 2011-09-04 03:28:46
+'s late gz; 0; 2011-09-06 16:24:36
+const_cast perfectly fit case need remove const modifier spellentry const*; 0; 2011-07-30 05:19:25
+static_cast slowdown cast type use multiple inheritance; 0; 2011-08-26 11:19:41
+hmm good note yes case multiple inheritance require additional code generation compiler cast work simplified comparison dynamic case way require; 0; 2011-08-26 13:01:40
+yes mutiply inheritance case generate real code mostly update 'this pointer register different no-op case const_cast reinterpret_cast note code cleary simple generate dynamic_cast code least; 0; 2011-08-27 12:33:28
+static_cast operator compile-time operation oppose dynamic_cast execution-time operation relies rtti; 0; 2011-08-27 03:51:05
+thanks finally submit silveice; 0; 2011-05-16 01:48:17
+thank neo2003 nice patch; 1; 2011-04-27 06:45:14
+may remove std :list std vector std :queue reliable ...; 0; 2011-04-16 11:44:57
+rsa stl container n't 'higher reliability performance reason stick std :vector since much high cpu cache locality use linked list referencemanager actually kill current core performance; 0; 2011-04-18 02:14:13
+overwrite overwritten; 0; 2011-04-13 09:45:09
+oh damn another commit fix engrish; 0; 2011-04-13 10:06:29
+overwritten proper one; 0; 2011-04-13 12:09:44
+std :numeric_limits float :signaling_nan; 0; 2011-04-13 10:53:17
+...; 0; 2011-04-13 11:35:43
+_rare_ crash; -1; 2011-04-12 22:40:46
+n't good set summon point create; 0; 2011-04-13 09:55:36
+vinolentus start discussion yesterday suppose move code create patch already available anyway protect code incorrect usage forbid access uninitialized data; 0; 2011-04-13 10:03:13
+nice catch; 1; 2011-04-12 06:47:47
+every single item/unit/go world packedguid object ram saving might noticable; 0; 2011-04-12 03:56:23
+vlad good original check n't get release build ppl still get assertion failure mangos_assert usage o.o could use assert whatever macro use; 0; 2011-04-07 13:58:24
+release build define -dndebug skip assert 's; 0; 2011-04-07 14:29:54
+oh see use _wassert call release build anymore; 0; 2011-04-07 14:40:04
+vlad good original check n't get release build ppl still get assertion failure mangos_assert usage o.o could use assert whatever macro use; 0; 2011-04-07 13:58:24
+release build define -dndebug skip assert 's; 0; 2011-04-07 14:29:54
+oh see use _wassert call release build anymore; 0; 2011-04-07 14:40:04
+reason http //gist.github.com/904015 detail comment 11306; 0; 2011-04-06 02:21:28
+cheating stupid gm 's ... additional check bad; -1; 2011-04-06 02:28:39
+vlad thought improve check prevent wrong data assignment welcome problem place check getters definitely yield result chase setter forever since incorrect setter usag; 0; 2011-04-06 03:07:19
+make normal way debug check guard mangos_debug ifdef least add check affect player rsa havy modify source get crash assign wrong value unknown place 's maybe assign long crash mayb; 0; 2011-04-06 11:35:55
+vlad protect mango core bad patch clean core crash check problem someone screw main logic n't care patch work want want; -1; 2011-04-06 14:27:38
+reason http //gist.github.com/904015 detail comment 11306; 0; 2011-04-06 02:21:28
+cheating stupid gm 's ... additional check bad; -1; 2011-04-06 02:28:39
+vlad thought improve check prevent wrong data assignment welcome problem place check getters definitely yield result chase setter forever since incorrect setter usag; 0; 2011-04-06 03:07:19
+make normal way debug check guard mangos_debug ifdef least add check affect player rsa havy modify source get crash assign wrong value unknown place 's maybe assign long crash mayb; 0; 2011-04-06 11:35:55
+vlad protect mango core bad patch clean core crash check problem someone screw main logic n't care patch work want want; -1; 2011-04-06 14:27:38
+reason http //gist.github.com/904015 detail comment 11306; 0; 2011-04-06 02:21:28
+cheating stupid gm 's ... additional check bad; -1; 2011-04-06 02:28:39
+vlad thought improve check prevent wrong data assignment welcome problem place check getters definitely yield result chase setter forever since incorrect setter usag; 0; 2011-04-06 03:07:19
+make normal way debug check guard mangos_debug ifdef least add check affect player rsa havy modify source get crash assign wrong value unknown place 's maybe assign long crash mayb; 0; 2011-04-06 11:35:55
+vlad protect mango core bad patch clean core crash check problem someone screw main logic n't care patch work want want; -1; 2011-04-06 14:27:38
+far know finite always return false argument nan; 0; 2011-04-06 00:16:48
+yep bad dontomika =/; -1; 2011-04-06 00:33:09
+no-no-no need comment fix darkknight900; 0; 2011-04-04 00:11:48
+mango isnt mango without engrish; 0; 2011-04-04 05:46:48
+11337 thank; 1; 2011-04-12 07:04:18
+report http //gist.github.com/904015; 0; 2011-04-05 10:13:38
+thanks; 1; 2011-04-02 10:35:00
+know 's probably cheat tp2plane 's reason crush commit see crush type; 0; 2011-04-05 12:59:01
+well good reason crash x nan might use calculate gridmap object give coordinate =/ guess get result anyway strange agree; 0; 2011-04-05 13:53:31
+function isnextzcoordok old insider42 patch contain 4 call getheight recheck next coordinate prevent fall map different case modify stuff believe call getheight unsafe; 0; 2011-04-05 21:14:17
+rsa pass nan value input parameter definitely cause issue geometry function expect valid randommovementgenerator creature :_setrandomlocation last function call stack trigger call; 0; 2011-04-05 23:45:49
+thanks actually 's require; 0; 2011-04-06 02:25:01
+'ve add check nan value isvalidmapcoord function since checking finite enough; 0; 2011-04-05 23:47:51
+report http //gist.github.com/904015; 0; 2011-04-05 10:13:38
+thanks; 1; 2011-04-02 10:35:00
+know 's probably cheat tp2plane 's reason crush commit see crush type; 0; 2011-04-05 12:59:01
+well good reason crash x nan might use calculate gridmap object give coordinate =/ guess get result anyway strange agree; 0; 2011-04-05 13:53:31
+function isnextzcoordok old insider42 patch contain 4 call getheight recheck next coordinate prevent fall map different case modify stuff believe call getheight unsafe; 0; 2011-04-05 21:14:17
+rsa pass nan value input parameter definitely cause issue geometry function expect valid randommovementgenerator creature :_setrandomlocation last function call stack trigger call; 0; 2011-04-05 23:45:49
+thanks actually 's require; 0; 2011-04-06 02:25:01
+'ve add check nan value isvalidmapcoord function since checking finite enough; 0; 2011-04-05 23:47:51
+chance someone compile mango '-fast-math see bih run fine; 0; 2011-04-02 07:49:27
+report http //gist.github.com/904015; 0; 2011-04-05 10:13:38
+thanks; 1; 2011-04-02 10:35:00
+know 's probably cheat tp2plane 's reason crush commit see crush type; 0; 2011-04-05 12:59:01
+well good reason crash x nan might use calculate gridmap object give coordinate =/ guess get result anyway strange agree; 0; 2011-04-05 13:53:31
+function isnextzcoordok old insider42 patch contain 4 call getheight recheck next coordinate prevent fall map different case modify stuff believe call getheight unsafe; 0; 2011-04-05 21:14:17
+rsa pass nan value input parameter definitely cause issue geometry function expect valid randommovementgenerator creature :_setrandomlocation last function call stack trigger call; 0; 2011-04-05 23:45:49
+thanks actually 's require; 0; 2011-04-06 02:25:01
+'ve add check nan value isvalidmapcoord function since checking finite enough; 0; 2011-04-05 23:47:51
+difference; 0; 2011-04-02 00:00:34
+reamer difference group check use symbols take close look; 0; 2011-04-02 00:54:39
+fix currently discard mob handle 'destination movement generator free rollback patch case fix nothing; 0; 2011-03-30 03:15:51
+fix able without deep research 'detectposcollision 0 since vmap code add core year ago; 0; 2011-03-30 07:12:10
+warning jethro84530 worry 'll fix near commits; -1; 2011-03-25 14:56:09
+thanks; 1; 2011-03-25 19:49:14
+need change signature assignment operator; 0; 2011-03-18 02:24:04
+oh come n't tell 've miss part patch apply; 0; 2011-02-23 09:21:56
+engrish old problem; -1; 2011-02-23 17:39:07
+lol; 1; 2011-02-23 17:53:16
+finally; 0; 2011-02-21 17:44:38
+`` schedule '' small typo; 0; 2011-02-21 18:17:27
+thank; 1; 2011-02-21 18:55:25
+`` m_ainotifyscheduled '' another one; 0; 2011-02-21 19:41:11
+cheers awesome work; 1; 2011-02-22 03:48:39
+yeahhhhhhhhhhhhhhh thanks guy; 1; 2011-02-22 11:30:33
+lover limit got good laugh one; 1; 2011-03-12 17:48:52
+/sign; 0; 2011-02-14 04:21:11
+cmake windows make work easy obvious drawback cmake way generate .vsproj file aka miss folder filter etc get everyone excite; 0; 2011-02-14 04:29:08
+awesome hope also consider use cmake windows really make work developer much easy; 0; 2011-02-14 04:21:14
+well though care file included/renamed cmake file 2 different kind vsproj file 2008 2010 folder visual studio minor drawback p; 0; 2011-02-14 07:50:40
+stfx .vsproj existance windows out-of-discussion especially much ppl use platform host server free choose whatever like vs cmake build binary; 0; 2011-02-14 08:43:59
+ah another commit fix comment; 0; 2011-02-14 09:01:20
+support precompiled header linux; 0; 2011-02-14 09:46:28
+reject fix p fact good fix cmake build process part avoid need file exclude ...; 0; 2011-02-14 14:25:12
+ariath ask rsa particular issue; 0; 2011-02-16 06:04:56
+maybe provide modified version clean suggest; 0; 2011-02-17 14:34:20
+see something strange yesterday try compile last rsa commit also add cmake support although manage build solution file vs 2008 start compile get error vs n't recognize argument na; 0; 2011-02-16 04:45:57
+fixed 11184 thank; 1; 2011-02-17 19:30:47
+/sign; 0; 2011-02-14 04:21:11
+cmake windows make work easy obvious drawback cmake way generate .vsproj file aka miss folder filter etc get everyone excite; 0; 2011-02-14 04:29:08
+awesome hope also consider use cmake windows really make work developer much easy; 0; 2011-02-14 04:21:14
+well though care file included/renamed cmake file 2 different kind vsproj file 2008 2010 folder visual studio minor drawback p; 0; 2011-02-14 07:50:40
+stfx .vsproj existance windows out-of-discussion especially much ppl use platform host server free choose whatever like vs cmake build binary; 0; 2011-02-14 08:43:59
+ah another commit fix comment; 0; 2011-02-14 09:01:20
+support precompiled header linux; 0; 2011-02-14 09:46:28
+reject fix p fact good fix cmake build process part avoid need file exclude ...; 0; 2011-02-14 14:25:12
+ariath ask rsa particular issue; 0; 2011-02-16 06:04:56
+maybe provide modified version clean suggest; 0; 2011-02-17 14:34:20
+see something strange yesterday try compile last rsa commit also add cmake support although manage build solution file vs 2008 start compile get error vs n't recognize argument na; 0; 2011-02-16 04:45:57
+fixed 11184 thank; 1; 2011-02-17 19:30:47
+/sign; 0; 2011-02-14 04:21:11
+cmake windows make work easy obvious drawback cmake way generate .vsproj file aka miss folder filter etc get everyone excite; 0; 2011-02-14 04:29:08
+awesome hope also consider use cmake windows really make work developer much easy; 0; 2011-02-14 04:21:14
+well though care file included/renamed cmake file 2 different kind vsproj file 2008 2010 folder visual studio minor drawback p; 0; 2011-02-14 07:50:40
+stfx .vsproj existance windows out-of-discussion especially much ppl use platform host server free choose whatever like vs cmake build binary; 0; 2011-02-14 08:43:59
+ah another commit fix comment; 0; 2011-02-14 09:01:20
+support precompiled header linux; 0; 2011-02-14 09:46:28
+reject fix p fact good fix cmake build process part avoid need file exclude ...; 0; 2011-02-14 14:25:12
+ariath ask rsa particular issue; 0; 2011-02-16 06:04:56
+maybe provide modified version clean suggest; 0; 2011-02-17 14:34:20
+see something strange yesterday try compile last rsa commit also add cmake support although manage build solution file vs 2008 start compile get error vs n't recognize argument na; 0; 2011-02-16 04:45:57
+fixed 11184 thank; 1; 2011-02-17 19:30:47
+/sign; 0; 2011-02-14 04:21:11
+cmake windows make work easy obvious drawback cmake way generate .vsproj file aka miss folder filter etc get everyone excite; 0; 2011-02-14 04:29:08
+awesome hope also consider use cmake windows really make work developer much easy; 0; 2011-02-14 04:21:14
+well though care file included/renamed cmake file 2 different kind vsproj file 2008 2010 folder visual studio minor drawback p; 0; 2011-02-14 07:50:40
+stfx .vsproj existance windows out-of-discussion especially much ppl use platform host server free choose whatever like vs cmake build binary; 0; 2011-02-14 08:43:59
+ah another commit fix comment; 0; 2011-02-14 09:01:20
+support precompiled header linux; 0; 2011-02-14 09:46:28
+reject fix p fact good fix cmake build process part avoid need file exclude ...; 0; 2011-02-14 14:25:12
+ariath ask rsa particular issue; 0; 2011-02-16 06:04:56
+maybe provide modified version clean suggest; 0; 2011-02-17 14:34:20
+see something strange yesterday try compile last rsa commit also add cmake support although manage build solution file vs 2008 start compile get error vs n't recognize argument na; 0; 2011-02-16 04:45:57
+fixed 11184 thank; 1; 2011-02-17 19:30:47
+typo addcareturetoremovelistinmapsworker -- addcreaturetoremovelistinmapsworker; 0; 2011-02-12 05:51:22
+yes another type require separate commit fix; 0; 2011-02-12 06:35:43
+fixed 11151 thank; 1; 2011-02-12 11:09:55
+ok te suggestion work gcc apply fix soon; 0; 2011-02-11 08:08:22
+must fix 11134; 0; 2011-02-11 08:18:38
+remove redundant 11134 thank; 0; 2011-02-11 08:19:14
+mingw windows good enough test gcc compilation fail; 0; 2011-02-11 10:52:56
+hm yes indeed matter opinion bad selection word really maybe would need defined style sql update accord; 0; 2011-01-29 03:34:40
+beautification turn uglification nofantasy except u format fix acceptable; 1; 2011-01-29 04:36:07
+well 's pretty safe say different opinion 'll make post forum least see able make unified style sql sql go log file main concern; 0; 2011-01-29 06:11:03
+beautify imho whatever x pretty whatever=x; 1; 2011-01-29 02:47:03
+else part; 0; 2011-01-22 06:46:47
+hi vladimir thanks comment 'unknown player status case n't appear player world teleport status; 0; 2011-01-22 01:32:20
+want place mangos_assert crash server find get case; 0; 2011-01-22 08:18:13
+yes definitely add check prevent wrong code use future; 1; 2011-01-24 03:43:57
+fact also think good place assert like case; 0; 2011-01-22 10:50:58
+else part; 0; 2011-01-22 06:46:47
+hi vladimir thanks comment 'unknown player status case n't appear player world teleport status; 0; 2011-01-22 01:32:20
+want place mangos_assert crash server find get case; 0; 2011-01-22 08:18:13
+yes definitely add check prevent wrong code use future; 1; 2011-01-24 03:43:57
+fact also think good place assert like case; 0; 2011-01-22 10:50:58
+else part; 0; 2011-01-22 06:46:47
+hi vladimir thanks comment 'unknown player status case n't appear player world teleport status; 0; 2011-01-22 01:32:20
+want place mangos_assert crash server find get case; 0; 2011-01-22 08:18:13
+yes definitely add check prevent wrong code use future; 1; 2011-01-24 03:43:57
+fact also think good place assert like case; 0; 2011-01-22 10:50:58
+thank ambal; 1; 2011-01-22 10:54:38
+recent issue disappeared pet inability delete char login freeze etc introduce 11045 fix commit; 0; 2011-01-21 16:11:32
+great work ...; 1; 2011-01-19 13:44:15
+thank boyz next target prepared statement; 1; 2011-01-19 14:02:29
+indeed great work always nice see optimization mango; 1; 2011-01-19 13:54:40
+jethro84530 issue fix 11049 thank report; 0; 2011-01-19 14:51:40
+epic commit; 1; 2011-01-19 17:53:29
+hi ambal know late player start report pet loss problem stable since test patch; 0; 2011-01-19 18:43:00
+note since pool character selects; 0; 2011-01-19 18:43:23
+jethro84530 warning worry 'll fix get back pc; 0; 2011-01-20 03:12:35
+boyz update 11061 new rev issue cause disabled 'autocommit mysql mode fix; 0; 2011-01-21 16:15:11
+great work ...; 1; 2011-01-19 13:44:15
+thank boyz next target prepared statement; 1; 2011-01-19 14:02:29
+indeed great work always nice see optimization mango; 1; 2011-01-19 13:54:40
+jethro84530 issue fix 11049 thank report; 0; 2011-01-19 14:51:40
+epic commit; 1; 2011-01-19 17:53:29
+hi ambal know late player start report pet loss problem stable since test patch; 0; 2011-01-19 18:43:00
+note since pool character selects; 0; 2011-01-19 18:43:23
+jethro84530 warning worry 'll fix get back pc; 0; 2011-01-20 03:12:35
+boyz update 11061 new rev issue cause disabled 'autocommit mysql mode fix; 0; 2011-01-21 16:15:11
+great work ...; 1; 2011-01-19 13:44:15
+thank boyz next target prepared statement; 1; 2011-01-19 14:02:29
+indeed great work always nice see optimization mango; 1; 2011-01-19 13:54:40
+jethro84530 issue fix 11049 thank report; 0; 2011-01-19 14:51:40
+epic commit; 1; 2011-01-19 17:53:29
+hi ambal know late player start report pet loss problem stable since test patch; 0; 2011-01-19 18:43:00
+note since pool character selects; 0; 2011-01-19 18:43:23
+jethro84530 warning worry 'll fix get back pc; 0; 2011-01-20 03:12:35
+boyz update 11061 new rev issue cause disabled 'autocommit mysql mode fix; 0; 2011-01-21 16:15:11
+great work ...; 1; 2011-01-19 13:44:15
+thank boyz next target prepared statement; 1; 2011-01-19 14:02:29
+indeed great work always nice see optimization mango; 1; 2011-01-19 13:54:40
+jethro84530 issue fix 11049 thank report; 0; 2011-01-19 14:51:40
+epic commit; 1; 2011-01-19 17:53:29
+hi ambal know late player start report pet loss problem stable since test patch; 0; 2011-01-19 18:43:00
+note since pool character selects; 0; 2011-01-19 18:43:23
+jethro84530 warning worry 'll fix get back pc; 0; 2011-01-20 03:12:35
+boyz update 11061 new rev issue cause disabled 'autocommit mysql mode fix; 0; 2011-01-21 16:15:11
+hm remember somewhere around 6000 join ... think since switch git commits mean 'd less either git atomic commits instead big commits thus r; 0; 2011-01-11 13:51:50
+also cheat 1 commit 2 fix ^^; -1; 2011-01-11 13:56:39
+commit 11000 jeez ... join mango rev 1527 11k nice progress 'd say; 1; 2011-01-11 09:58:43
+completely remove progress bar make startup much fast; 0; 2011-01-07 14:10:05
+ok wrong nonsafe remark mysql look like safe less know posgre expect also safe base lock internal engine object query exist; 0; 2011-01-07 15:02:35
+think mangos startup-time 1 progress bar really must; 0; 2011-01-07 15:42:23
+vladimir may get useful 're writting lot code/doing lot database modification row need test fix progressively may reboot lot time row idiot error due speed/; 0; 2011-01-07 16:01:23
+debug mode build slowdown bar inlined code use iteration involve startup load; 0; 2011-01-07 16:29:47
+fallenangelx bar help; 1; 2011-01-07 16:36:13
+show big loading table like creature/go load go infinity loop reason example; 0; 2011-01-07 17:16:20
+boyz mangos startup time important host server vital developer since sometimes need restart server several time row debug code startup time 50 30 second matter thank c; 0; 2011-01-10 02:24:15
+rsa please provide link patch insider42; 0; 2011-01-04 02:42:32
+ambal maybe one http //github.com/insider42/mangos/commit/876d3a411ec4d91ac001ef520f6f27aee5ff0dbe; 0; 2011-01-04 13:12:56
+scripting library need adjust accordingly nofantasy `` happy '' patch thats sure; 0; 2010-12-29 10:07:53
+jajajajajajajajaja xd `` happy sure ''; 1; 2010-12-29 10:39:41
+read commit note 'll need updated sd2 fix come soon; 0; 2010-12-29 13:04:59
+without corrects scriptmgr call sd2 library load; 0; 2010-12-29 13:17:33
+compile fix 10938; 0; 2010-12-29 13:31:08
+thank much; 1; 2010-12-27 17:00:32
+guys 'll find issue current commit report asap 'll able fix quickly; 0; 2010-12-27 17:05:47
+lynx3d issue fix 10931 thank report; 0; 2010-12-28 14:39:42
+thank much; 1; 2010-12-27 17:00:32
+guys 'll find issue current commit report asap 'll able fix quickly; 0; 2010-12-27 17:05:47
+lynx3d issue fix 10931 thank report; 0; 2010-12-28 14:39:42
+stupid error jeez ... 'm gon na kill right =/; -1; 2010-12-24 06:39:41
+nu ti monstr; 0; 2010-12-21 03:43:12
+welcome team zergtmn congratulations first commit; 1; 2010-12-21 07:09:08
+woot really awesome see; 1; 2010-12-21 07:57:13
+gratz zergtmn good job; 1; 2010-12-21 10:18:31
+zergtmn 0_о грац с принятием в команду работаешь над вехиклами; 0; 2010-12-21 10:29:12
+thanks vladimir nice update n't think; 1; 2010-12-10 00:34:38
+nice awesome work thx kero tester test ofc thx ambal; 1; 2010-12-09 11:44:44
+great work; 1; 2010-12-09 12:14:42
+wow thank great work; 1; 2010-12-09 12:21:12
+fix 10849 thanks report; 0; 2010-12-09 15:58:06
+hmm cmsg_move_hover_ack unsafe ... edit fix reference opcode name; 0; 2011-04-08 08:05:20
+maybe 'd miss make patch; 0; 2011-04-08 12:04:07
+well let hope skill indeed sharp remember mango community qa dev team quality project highly dependent participation patch testing miss chance report issue patch; 0; 2010-11-16 12:30:02
+ambal о_о return; 0; 2010-11-16 12:54:05
+cooollll thank ambal; 1; 2010-11-16 15:51:30
+great job ambal; 1; 2010-11-16 12:54:32
+look interesting post information commit actually; 1; 2010-11-17 04:54:43
+woooow nice work thanks; 1; 2010-11-16 19:13:44
+xeross http //getmangos.com/community/viewtopic.php id=15615; 0; 2010-11-17 05:42:02
+use vc90 primary ide give error check apply patch threadingmodel.h cause error try pass 'const object 'non-const constructor w/o call const_cast; 0; 2010-11-18 01:15:20
+oh sorry mistake; -1; 2010-11-18 01:36:24
+well let hope skill indeed sharp remember mango community qa dev team quality project highly dependent participation patch testing miss chance report issue patch; 0; 2010-11-16 12:30:02
+ambal о_о return; 0; 2010-11-16 12:54:05
+cooollll thank ambal; 1; 2010-11-16 15:51:30
+great job ambal; 1; 2010-11-16 12:54:32
+look interesting post information commit actually; 1; 2010-11-17 04:54:43
+woooow nice work thanks; 1; 2010-11-16 19:13:44
+xeross http //getmangos.com/community/viewtopic.php id=15615; 0; 2010-11-17 05:42:02
+use vc90 primary ide give error check apply patch threadingmodel.h cause error try pass 'const object 'non-const constructor w/o call const_cast; 0; 2010-11-18 01:15:20
+oh sorry mistake; -1; 2010-11-18 01:36:24
+well let hope skill indeed sharp remember mango community qa dev team quality project highly dependent participation patch testing miss chance report issue patch; 0; 2010-11-16 12:30:02
+ambal о_о return; 0; 2010-11-16 12:54:05
+cooollll thank ambal; 1; 2010-11-16 15:51:30
+great job ambal; 1; 2010-11-16 12:54:32
+look interesting post information commit actually; 1; 2010-11-17 04:54:43
+woooow nice work thanks; 1; 2010-11-16 19:13:44
+xeross http //getmangos.com/community/viewtopic.php id=15615; 0; 2010-11-17 05:42:02
+use vc90 primary ide give error check apply patch threadingmodel.h cause error try pass 'const object 'non-const constructor w/o call const_cast; 0; 2010-11-18 01:15:20
+oh sorry mistake; -1; 2010-11-18 01:36:24
+commit fix; 1; 2009-10-16 12:01:58
+use pointer player object instead copy afaik; 0; 2009-10-16 13:05:59
+xeross patch fix saveallplayers functionality 'd acquire wrong mutex stupid typo =/ negative effect noticeable mtmaps patch present; 0; 2009-10-16 14:57:29
+fact important fix many custom patch copy use typo lock use wo n't work intend i.e mangchat; 0; 2009-10-18 07:30:19
+oh keep mind hashmapholder store _actual objects_ pointer; 0; 2009-10-18 07:30:58
+hashmapholder store pointer type specify template; 0; 2009-10-22 00:06:23
+anyway add new target support rev; 0; 2009-09-29 07:37:55
+forget add damn =/; -1; 2009-09-27 03:06:49
+isnt new rev; 0; 2009-09-27 02:06:24
+yes port 0.12 come near day; 0; 2009-09-21 14:26:30
+3; -1; 2009-09-21 17:27:06
+yeah 'm loving finally make see game objects far away like retail; 0; 2009-09-26 18:54:00
+say code maintainability stability redundant ca n't make patch hard understand exist code stability usability performance; 0; 2009-07-17 14:57:05
+exactly changelog; 0; 2009-07-17 09:51:56

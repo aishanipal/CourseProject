@@ -1,0 +1,13 @@
+comment; score; time
+seems problem commit previous one im get float point exception* error `` cleaning instance '' start load get 50; 0; 2010-02-17 18:08:08
+confirm world run fine; 0; 2010-02-17 18:55:12
+ah yeah problem.. float pick decimals.. thanks help vladimir set 0.1 change 1; 0; 2010-02-18 05:08:10
+maybe strange case ... `` float point exception '' something like operation nan possible ... commit ofc relate form load instance affect commit code execute server startup prev commits also modi; 0; 2010-02-18 04:13:02
+hmm also n't must problem possible bug thanks info ...; 0; 2010-02-18 05:31:30
+must fix 9407; 0; 2010-02-18 06:17:20
+seems problem commit previous one im get float point exception* error `` cleaning instance '' start load get 50; 0; 2010-02-17 18:08:08
+confirm world run fine; 0; 2010-02-17 18:55:12
+ah yeah problem.. float pick decimals.. thanks help vladimir set 0.1 change 1; 0; 2010-02-18 05:08:10
+maybe strange case ... `` float point exception '' something like operation nan possible ... commit ofc relate form load instance affect commit code execute server startup prev commits also modi; 0; 2010-02-18 04:13:02
+hmm also n't must problem possible bug thanks info ...; 0; 2010-02-18 05:31:30
+must fix 9407; 0; 2010-02-18 06:17:20

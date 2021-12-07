@@ -1,0 +1,14 @@
+comment; score; time
+congrats; 1; 2010-05-28 09:53:23
+hahaha grats; 1; 2010-05-28 09:58:30
+10 001 revert commit back; 0; 2010-05-28 10:02:39
+спасибо вам владимир; 0; 2010-05-28 10:06:21
+w00t; 1; 2010-05-28 10:45:23
+epic; 0; 2010-05-28 10:55:06
+lol good team; 1; 2010-05-28 11:14:48
+give congratulation; 1; 2010-05-28 11:20:31
+graz good work; 1; 2010-05-28 12:04:30
+10000 revision congratulation thank people help; 1; 2010-05-28 13:02:40
+gz 10000 best commits; 1; 2010-05-28 13:32:19
+gj 10 000 10x; 0; 2010-05-28 19:01:14
+congratz thanks everything; 1; 2010-05-28 20:51:50

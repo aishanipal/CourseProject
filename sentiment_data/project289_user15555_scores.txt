@@ -1,0 +1,15 @@
+comment; score; time
+fix 829374823 day till server reset lol; 0; 2010-09-25 07:06:35
+nice man; 1; 2010-09-04 08:59:34
+found bug pet swim pet stay bottom; 0; 2010-09-06 10:50:50
+yes swim case miss pet code possible; 0; 2010-09-07 04:35:33
+omg great; 1; 2010-04-07 17:38:43
+thank much; 1; 2010-04-07 17:46:31
+thaaanks p; 0; 2010-04-07 18:07:52
+nice one thanks; 1; 2010-04-07 18:17:35
+think error output code attach check describe good checked; 0; 2010-04-07 19:02:14
+awesome great job; 1; 2010-04-07 19:44:42
+know git merge work commits mix old master revision see absent rev mostly; 0; 2010-04-09 19:40:06
+like revision number; 1; 2010-04-06 11:21:03
+t_t least chicken; 0; 2010-04-06 11:27:48
+lol make day; 1; 2010-04-06 21:49:47

@@ -1,0 +1,17 @@
+comment; score; time
+member mangos team sweet; 0; 2009-07-28 13:51:01
+fix problem player leave arena; -1; 2009-07-28 13:54:31
+balrok already long time team member; 0; 2009-07-28 22:51:02
+finaly start commit something gj; 1; 2009-07-29 15:28:39
+finally; 0; 2009-07-14 15:19:33
+speedup; 0; 2009-07-14 19:44:14
+euh make dont undertsand ^^; 0; 2009-07-14 18:33:14
+nice one; 1; 2009-07-14 20:01:38
+nice work; 1; 2009-07-15 02:12:24
+u still use myisam innodb faster. --; 0; 2009-07-01 18:54:02
+innodb hard restore something go wrong disk; -1; 2009-07-01 04:10:54
+awesome thx; 1; 2009-06-23 19:13:12
+separated field stay also data column new column ingame magically join send client; 0; 2009-06-24 09:36:17
+так гаразда удобнее; 0; 2009-06-25 06:15:41
+confirm; 0; 2008-11-25 04:07:25
+; -1; 2008-11-24 19:23:13

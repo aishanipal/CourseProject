@@ -1,0 +1,67 @@
+comment; score; time
+make e. g. mind sear broken; 0; 2012-05-14 03:33:40
+spell-id; 0; 2012-05-14 06:31:43
+53022; 0; 2012-05-14 07:28:04
+... flag mean 's question; 0; 2012-05-14 23:28:24
+thank; 1; 2012-06-18 07:42:53
+make e. g. mind sear broken; 0; 2012-05-14 03:33:40
+spell-id; 0; 2012-05-14 06:31:43
+53022; 0; 2012-05-14 07:28:04
+... flag mean 's question; 0; 2012-05-14 23:28:24
+thank; 1; 2012-06-18 07:42:53
+make e. g. mind sear broken; 0; 2012-05-14 03:33:40
+spell-id; 0; 2012-05-14 06:31:43
+53022; 0; 2012-05-14 07:28:04
+... flag mean 's question; 0; 2012-05-14 23:28:24
+thank; 1; 2012-06-18 07:42:53
+make e. g. mind sear broken; 0; 2012-05-14 03:33:40
+spell-id; 0; 2012-05-14 06:31:43
+53022; 0; 2012-05-14 07:28:04
+... flag mean 's question; 0; 2012-05-14 23:28:24
+thank; 1; 2012-06-18 07:42:53
+thx seem much correct version ...; 0; 2011-10-17 22:15:03
+thx change 11832 twohandscore could use empty slot tabard body confuse add another one special replace equipment_slot_end 1 use define seem less correct st; 0; 2011-10-18 00:07:11
+gearscore value match one calculate addon; 0; 2011-10-18 05:18:42
+probably n't call gear score first place since one average ilvl player 's best item; 0; 2011-10-18 06:17:14
+way typo 'cinem u __a__ /u tic 'cinemitic; 0; 2011-10-21 05:16:05
+ah way easy mind thank; 1; 2011-07-13 04:23:21
+uhm 's cool way show commection info console hide logfile sometimes set multiple server get unexpected result connect db use multiple configuration file differ db connec; 0; 2011-07-13 06:24:20
+great job need 'm look forward see great imporvements backported one branch; 0; 2011-07-12 22:43:09
+maybe use generic tokenizer system could also use ie password hiding server.log; 0; 2011-07-09 05:21:55
+guess scmoo 's talk e. g. .password foo bar bar command password appear server.log right; 0; 2011-07-12 06:27:59
+password part db connections/chat comands must fix 11736; 0; 2011-07-12 18:47:58
+understand; 0; 2011-07-09 09:09:03
+'m sorry makefile add; 0; 2011-07-07 03:13:47
+us outdated git_id version ...; 0; 2011-07-07 03:21:44
+guild identificator n't identifier; 0; 2011-07-06 20:57:53
+n't know; 0; 2011-07-13 08:18:21
+'identifier indeed; 0; 2011-07-13 09:00:08
+lets go bar; 0; 2011-06-03 02:26:39
+exist one reason must die engrish; 0; 2011-06-03 09:29:31
+seriously cant class name progressbar; 0; 2011-06-03 04:02:56
+read mangos/tc code much; 0; 2011-06-06 08:27:10
+lol engrish win replace english virus plug mind; 1; 2011-06-10 00:52:47
+base belong us c; 0; 2011-06-10 01:07:51
+; -1; 2011-06-11 03:47:53
+err ... `` must ... .. '' maybe ^_^; 0; 2011-05-25 00:36:07
+indeed /checkwhowrotethatline; 0; 2011-05-25 20:37:34
+; -1; 2011-04-25 08:22:20
+possible resolve conflict old patch version best way code style big problem right attempt apply code style opposition direction case; 0; 2011-04-25 08:56:43
+hm case x consistent client file point code n't remember exactly x terrain calculation swap if/why liquid need place ca n't tell memory either comment would; 0; 2011-04-25 08:59:14
+true lynx3d swap x vmaps long ago map probably client generate file may still reverse; 0; 2011-04-26 02:01:49
+neo well problem vmaps need regenerate vmaps maybe uh; 0; 2011-04-26 04:44:42
+help case mail send sender delete receiver get mail; 0; 2011-03-15 00:00:57
+mail tempates use mail send server npc/etc name n't must affect player-to-player mail work problem deleted sender existed code must work deleted sender; 0; 2011-03-15 06:51:39
+confirmed 's really old annoy bug usually happen heirloom send back main character delete twink player usually delete twink right logout take item mail; 0; 2011-03-15 09:49:34
+u send mail char delete char sender receiver take item mail receiver get msg `` owner item '' something similar old bug; 0; 2011-03-15 07:30:27
+n't issue git_id increment `` 01 '' number `` 02 '' two table create anyway update still sort alphabetically someone maybe confuse update apply 'm talk wo n't try look; 0; 2011-02-21 06:50:48
+yes exactly mean yes ca n't touch guard names apply late update still '01 instead '02 get error; 0; 2011-02-22 06:39:31
+n't issue git_id increment `` 01 '' number `` 02 '' two table create anyway update still sort alphabetically someone maybe confuse update apply 'm talk wo n't try look; 0; 2011-02-21 06:50:48
+yes exactly mean yes ca n't touch guard names apply late update still '01 instead '02 get error; 0; 2011-02-22 06:39:31
+; -1; 2011-01-09 08:33:00
+fixed 10993 thank; 1; 2011-01-09 15:16:24
+yepp english engrish; 0; 2011-01-04 17:22:14
+hehe; 0; 2011-01-04 20:59:23
+maybe fix copyright notice back 2011 ...; 0; 2011-01-02 04:22:22
+yeah 's vladimirs fault ... forget recompile local copy git_id ...; 0; 2011-01-02 09:24:37
+; -1; 2011-01-02 09:27:06

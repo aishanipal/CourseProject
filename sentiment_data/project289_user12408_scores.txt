@@ -1,0 +1,6 @@
+comment; score; time
+fact break trigger periodic tick note quite bunch adding proc_flag_periodic_heal proc_flag_periodic_damage would allow work db update; 0; 2008-11-10 07:31:03
+back back n't wan na fix ^^; 0; 2008-12-07 07:16:59
+fix broken nightfall talent http //www.wowhead.com/ spell=18095; 0; 2008-11-12 14:40:04
+part patch tc proc_flag_periodic_heal proc_flag_periodic_damage delete add somewhere else otherwise spell break; 0; 2008-12-07 10:08:01
+actually patch first post mangos forum `` reject '' section procflag patch solve good way however much simple procflag remove easily; 0; 2008-12-07 10:10:26

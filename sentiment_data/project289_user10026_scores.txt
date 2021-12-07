@@ -1,0 +1,77 @@
+comment; score; time
+need forward declaration struct spellentry even compile without pch; 0; 2012-05-09 01:32:47
+thx guy must fix; 0; 2012-05-09 04:35:39
+suggest nearly 1,5 2 year ago answer dogmatic `` '' glad see thing change; 0; 2012-05-09 13:47:20
+great ^_^; 1; 2012-02-06 22:50:44
+great work; 1; 2012-02-07 01:19:20
+wtf happen; -1; 2012-02-07 00:51:46
+wow ... mangos rullz 's great day community; 1; 2012-02-07 01:21:08
+nice; 1; 2012-02-07 01:46:39
+не прошло и пару лет грац; 0; 2012-02-07 01:30:44
+congratulations; 1; 2012-02-07 05:56:49
+woot happen o.o; 1; 2012-02-07 09:52:48
+congratulation; 1; 2012-02-07 07:36:10
+cool; 1; 2012-02-07 10:05:05
+nice; 1; 2012-02-08 10:05:43
+pathfinding wow awesome; 1; 2012-02-23 22:33:57
+shmoo congrats mangos-dev status; 1; 2011-09-03 13:40:52
+nice; 1; 2011-09-03 13:46:45
+schmoozerd finally dev cool cheers; 1; 2011-09-04 00:32:24
+ambal dev; 0; 2011-09-04 00:35:05
+congratulations; 1; 2011-09-04 01:56:53
+thank guy; 1; 2011-09-04 03:28:46
+'s late gz; 0; 2011-09-06 16:24:36
+shmoo congrats mangos-dev status; 1; 2011-09-03 13:40:52
+nice; 1; 2011-09-03 13:46:45
+schmoozerd finally dev cool cheers; 1; 2011-09-04 00:32:24
+ambal dev; 0; 2011-09-04 00:35:05
+congratulations; 1; 2011-09-04 01:56:53
+thank guy; 1; 2011-09-04 03:28:46
+'s late gz; 0; 2011-09-06 16:24:36
+commit playerlimit=0 unlimited real player limit 1 2 others wait queue set 1000 everything fine; 0; 2011-07-07 22:08:26
+also test playerlimit=0 4 time login work fine; 0; 2011-07-13 07:36:24
+typo thanks; 1; 2011-06-24 05:18:42
+ай спасибо; 0; 2011-06-24 05:38:57
+core clean source line number crash log hard research problem ...; -1; 2011-06-24 12:43:50
+add 11675 check possible source problem please inform help; 0; 2011-06-25 10:10:59
+sorry forget report 11675 freeze go thanks; 1; 2011-06-29 05:32:39
+thank confirm; 1; 2011-06-29 08:18:10
+_rare_ crash; -1; 2011-04-12 22:40:46
+n't good set summon point create; 0; 2011-04-13 09:55:36
+vinolentus start discussion yesterday suppose move code create patch already available anyway protect code incorrect usage forbid access uninitialized data; 0; 2011-04-13 10:03:13
+commit human 's racial ability http //www.wowhead.com/spell=59752 use cyclone http //www.wowhead.com/spell=33786; 0; 2011-02-20 14:53:28
+grats 11111 commits; 0; 2011-02-06 17:43:06
+epic commit always magic commit number come; 1; 2011-02-06 23:19:54
+need preserve tradition ^^ note _not_ specially select; 0; 2011-02-07 04:39:27
+thanks silverice; 1; 2010-10-27 21:07:48
+thanks; 1; 2010-10-27 22:41:36
+thanks u much; 1; 2010-10-28 05:20:57
+wow 's commit; 1; 2010-10-28 01:14:29
+think trajectory movement problem could handle similar way maybe; 0; 2010-10-28 09:01:49
+insider42 right old problem still us; 0; 2010-10-29 02:53:42
+axxus look like old crash new place ^^; 0; 2010-10-29 00:33:04
+ty; 1; 2010-10-28 01:22:12
+http //pastebin.com/eyhnhhpd; 0; 2010-10-28 19:10:52
+think since long time ... good job; 0; 2010-09-18 14:29:36
+near 50/50 case base fact character already exist table dynamic data 100 relate character state move start look preferred; 0; 2010-09-18 15:10:05
+good; 1; 2010-09-18 21:34:35
+good one make simplier backup; 0; 2010-09-19 05:47:45
++1; 0; 2010-09-19 12:57:51
+work postgresql; 0; 2010-09-20 12:44:23
+i.id null creature instance right; 0; 2010-09-20 13:17:09
+maybe i.id null mean; 0; 2010-09-20 15:34:49
+sure 100 mysql/posgresql kun-fu make change simple sql test confirm working; 0; 2010-09-23 17:06:43
+target_areaeffect_instant similar; 0; 2010-05-03 06:33:35
+zergtmn +1 need damn target_7; 0; 2010-05-03 12:44:01
+lightguard congrats dev status first official commit; 1; 2010-02-02 13:36:31
+graz; 0; 2010-02-02 13:44:55
+graz; 0; 2010-02-02 18:57:18
+gratula; 0; 2010-02-03 01:38:25
+gratz lightguard nice job; 1; 2010-02-03 03:13:36
+one spell must cast mutating injection expire 28206; 0; 2009-12-24 23:42:01
+thanks hope casting 28206 include official repository; 1; 2009-12-25 05:39:27
+9063 second spell add thank info; 0; 2009-12-25 07:26:26
+one spell must cast mutating injection expire 28206; 0; 2009-12-24 23:42:01
+thanks hope casting 28206 include official repository; 1; 2009-12-25 05:39:27
+9063 second spell add thank info; 0; 2009-12-25 07:26:26
+ca n't set instance reset time manually; 0; 2009-11-18 02:32:33

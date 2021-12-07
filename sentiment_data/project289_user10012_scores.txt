@@ -1,0 +1,56 @@
+comment; score; time
+last ^^; 0; 2011-06-28 09:00:47
+good work thanks; 1; 2011-06-28 09:29:25
+nice remember uber-hacky change fix damage missile spell lol thats clean fix; 1; 2011-06-28 12:19:02
+n't positive aura remove mistake removespellscausingaura spell_aura_haste_spells; -1; 2011-06-26 01:32:04
+edited nevermind 've read forum get answer; 0; 2011-05-24 05:44:29
+macro aura cancel; -1; 2011-04-12 06:28:07
+great dmr duration calculation fix talent work 10+sec spell fear etc nice work; 1; 2011-03-30 22:30:25
+'s clean core problem wish merge first learn; 1; 2011-03-31 05:40:22
+hum excuse understand sentence; 1; 2011-03-31 06:02:47
+forget `` '' doubt log give problem several line 'll see resolve 'll let know go well file 's strange anyway; 0; 2011-03-31 07:28:32
+missed `` '' could give error lot line; 0; 2011-03-31 09:48:57
+yet 'm go code 2 time nothing report side raise good compilation see hand file rest goo good; 0; 2011-03-31 13:11:00
+omg `` doubt ... '' kind error point miss `` '' one void miss one; 0; 2011-03-31 10:16:56
+hmm possible right ... remember 100 fix positive miss problem ...; 0; 2011-02-12 15:56:47
+ispositivespell check need mean never miss positive spell; 0; 2011-02-12 15:19:16
+wow great work; 1; 2011-02-07 22:58:20
+look intresting now.. hmm get nice script idea use; 0; 2011-02-08 01:04:31
+true want make sd2 handle spawned trigger ye would messy actually never get even start; 0; 2011-02-08 01:14:23
+yes outdoorpvp may easely rewrite code core sd2 need work; 0; 2011-02-08 01:10:28
+dreamily still move bg code sd2 ... current core ideology clearly place; 0; 2011-02-08 01:27:12
+great idea could use script arenas/bgs/opvp/wg instead hack core; 0; 2011-02-08 02:17:47
+nice commit help encounter event; 1; 2011-02-08 05:49:18
+wow great work; 1; 2011-02-07 22:58:20
+look intresting now.. hmm get nice script idea use; 0; 2011-02-08 01:04:31
+true want make sd2 handle spawned trigger ye would messy actually never get even start; 0; 2011-02-08 01:14:23
+yes outdoorpvp may easely rewrite code core sd2 need work; 0; 2011-02-08 01:10:28
+dreamily still move bg code sd2 ... current core ideology clearly place; 0; 2011-02-08 01:27:12
+great idea could use script arenas/bgs/opvp/wg instead hack core; 0; 2011-02-08 02:17:47
+nice commit help encounter event; 1; 2011-02-08 05:49:18
+great work ...; 1; 2011-01-19 13:44:15
+thank boyz next target prepared statement; 1; 2011-01-19 14:02:29
+indeed great work always nice see optimization mango; 1; 2011-01-19 13:54:40
+jethro84530 issue fix 11049 thank report; 0; 2011-01-19 14:51:40
+epic commit; 1; 2011-01-19 17:53:29
+hi ambal know late player start report pet loss problem stable since test patch; 0; 2011-01-19 18:43:00
+note since pool character selects; 0; 2011-01-19 18:43:23
+jethro84530 warning worry 'll fix get back pc; 0; 2011-01-20 03:12:35
+boyz update 11061 new rev issue cause disabled 'autocommit mysql mode fix; 0; 2011-01-21 16:15:11
+nu ti monstr; 0; 2010-12-21 03:43:12
+welcome team zergtmn congratulations first commit; 1; 2010-12-21 07:09:08
+woot really awesome see; 1; 2010-12-21 07:57:13
+gratz zergtmn good job; 1; 2010-12-21 10:18:31
+zergtmn 0_о грац с принятием в команду работаешь над вехиклами; 0; 2010-12-21 10:29:12
+thanks; 1; 2010-12-13 02:53:52
+nice awesome work thx kero tester test ofc thx ambal; 1; 2010-12-09 11:44:44
+great work; 1; 2010-12-09 12:14:42
+wow thank great work; 1; 2010-12-09 12:21:12
+fix 10849 thanks report; 0; 2010-12-09 15:58:06
+hmm cmsg_move_hover_ack unsafe ... edit fix reference opcode name; 0; 2011-04-08 08:05:20
+maybe 'd miss make patch; 0; 2011-04-08 12:04:07
+fixed 10852 thank; 1; 2010-12-10 16:58:06
+arent mirror image learn spell army dead summons guardian-type stop spawn 1/3 mirror image 1/8 army dead code add commit add m_castitem enables mutlisummon onl; 0; 2010-12-12 03:20:46
+final version fix 10866; 0; 2010-12-12 22:06:29
++typedef std :map uint16 /*pair16 spec slot */ actionbutton glyphlist use anywhere; 0; 2010-02-14 04:59:22
+'s complete commit somehow stupid use git git_id xd; 0; 2010-02-14 05:09:16

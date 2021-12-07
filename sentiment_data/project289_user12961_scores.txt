@@ -1,0 +1,4 @@
+comment; score; time
+sql miss change db_version; 0; 2009-03-06 05:54:54
+hey tiply since last commit fixxes battlegroudnqueue player cant get battleground already start ...; 0; 2009-03-06 06:26:25
+alter table db_version change column required_7382_01_mangos_creature_template required_7388_01_mangos_mangos_string bit; 0; 2009-03-06 08:15:17

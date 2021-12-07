@@ -1,0 +1,3 @@
+comment; score; time
+g++ -dhave_config_h -i -i../../../src/game -i../.. -i../../../dep/ace_wrappers -i../../dep/ace_wrappers -i/usr/local/include/mysql -i/usr/include -i../../src/shared -i../../../src/game -i../../../src/game/../../dep/include -i../../../src/game/../framew; 0; 2010-03-08 15:54:55
+crash look relate either 9550 9551..; 0; 2010-03-09 01:14:23

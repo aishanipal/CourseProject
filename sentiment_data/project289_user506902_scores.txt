@@ -1,0 +1,5 @@
+comment; score; time
+make mangos.sql apply anymore since data add line 1168 require additional value; 0; 2010-03-15 08:59:07
+hm.. really 1.0f default data basemovespeed table least; 0; 2010-03-15 09:36:34
+lordjz/silverice float value _rate_ value speed value function name already clear `` setspeedrate '' speed rate flight 1.0 near creature see us mean rate*basemovespeed mo; 0; 2010-03-15 14:56:45
+seem break compilation scriptdev2 boss_ionar.cpp:191 error const struct creatureinfo member name 'speed; 0; 2010-03-15 14:19:07

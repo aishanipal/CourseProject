@@ -1,0 +1,24 @@
+comment; score; time
+well let hope skill indeed sharp remember mango community qa dev team quality project highly dependent participation patch testing miss chance report issue patch; 0; 2010-11-16 12:30:02
+ambal о_о return; 0; 2010-11-16 12:54:05
+cooollll thank ambal; 1; 2010-11-16 15:51:30
+great job ambal; 1; 2010-11-16 12:54:32
+look interesting post information commit actually; 1; 2010-11-17 04:54:43
+woooow nice work thanks; 1; 2010-11-16 19:13:44
+xeross http //getmangos.com/community/viewtopic.php id=15615; 0; 2010-11-17 05:42:02
+use vc90 primary ide give error check apply patch threadingmodel.h cause error try pass 'const object 'non-const constructor w/o call const_cast; 0; 2010-11-18 01:15:20
+oh sorry mistake; -1; 2010-11-18 01:36:24
+; -1; 2009-12-20 12:27:42
+clean compile window vs2008 compiled fine; 1; 2009-12-20 12:31:32
+mrhooha maybe linux; 0; 2009-12-20 12:46:08
+xeross yes debian; 1; 2009-12-20 13:12:17
+; -1; 2009-12-20 12:27:42
+clean compile window vs2008 compiled fine; 1; 2009-12-20 12:31:32
+mrhooha maybe linux; 0; 2009-12-20 12:46:08
+xeross yes debian; 1; 2009-12-20 13:12:17
+commit fix; 1; 2009-10-16 12:01:58
+use pointer player object instead copy afaik; 0; 2009-10-16 13:05:59
+xeross patch fix saveallplayers functionality 'd acquire wrong mutex stupid typo =/ negative effect noticeable mtmaps patch present; 0; 2009-10-16 14:57:29
+fact important fix many custom patch copy use typo lock use wo n't work intend i.e mangchat; 0; 2009-10-18 07:30:19
+oh keep mind hashmapholder store _actual objects_ pointer; 0; 2009-10-18 07:30:58
+hashmapholder store pointer type specify template; 0; 2009-10-22 00:06:23

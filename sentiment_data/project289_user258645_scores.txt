@@ -1,0 +1,11 @@
+comment; score; time
+think bug weapon skill beacause restart server even save char weapon skill go 1 mangosd.conf maxskill option n't work; 0; 2010-05-14 11:31:58
+report getmangos forums please nothing particular commit; 0; 2010-05-14 11:36:45
+afaik fix long time ago ... olynn say post forum back yet; 0; 2010-05-14 11:41:22
+say notice revision back n't take much notice ayways yeah report forums please; 0; 2010-05-14 11:45:30
+change 8750 sql problem still come error sql mail_loot_template; 0; 2009-10-29 11:39:26
+problem ...; -1; 2009-10-30 03:29:13
+core problem result wrong data db; -1; 2009-10-29 21:15:15
+none 0 normal value quest n't must duplicate mail template id different quest; 0; 2009-10-30 16:37:16
+anyone fix ad.exe map file please; 0; 2008-12-08 23:25:53
+anyone please correct ad.exe mangosd.exe ca n't start 2.138 map file lot map miss anyone else map server ca n't start; 0; 2008-11-23 04:19:25

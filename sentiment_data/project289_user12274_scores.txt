@@ -1,0 +1,25 @@
+comment; score; time
+finally thank; 1; 2010-04-15 03:37:01
+know blizzard 's battlegroup clustering 100 server-side; 0; 2010-04-15 23:39:39
+currently blizz use redirect battlenet world warcraft channel upon login; 0; 2010-04-15 22:12:39
+`` think '' use load/send character battleground instance group different realm think main part code use connect battle group course delima set use; 0; 2010-04-15 06:04:33
+try understand code ca n't figure exactly probably something redirect connection someone enlighten; 0; 2010-04-15 05:07:12
+well thats good thing us right except fact mangos build way cluster; 0; 2010-04-15 23:43:21
+'re connect proxy; 0; 2010-04-16 02:38:23
+oh true see would much less work; 0; 2010-04-16 13:15:54
+also currently use account.v/s field leave fact whole auth system exploitable right; 0; 2010-08-15 16:58:16
+lol ca n't fail provide pointer field ...; 0; 2010-08-15 16:52:35
+mean function fails _is_ fail really returning salt sessionkey; 0; 2010-08-15 16:56:45
+function fail; -1; 2010-08-15 15:45:37
+fix already; 0; 2009-02-15 14:19:50
+hi n't also add handlenoimmediateeffect instead null handle spell_aura_deflect_spells; 0; 2009-02-14 12:11:55
+reverted 7222 http //github.com/mangos/mangos/commit/66698eaab2f2db6276daafcb38fbba414fecd4c4; 0; 2009-02-02 13:45:56
+right also confirmation another source sorry wrong change revert commit; 0; 2009-02-02 12:24:08
+remove stealth animation character wrong last time check 3.0.8 still stealth animation; 0; 2009-02-02 12:12:28
+people report fix change line spell actually handle another way; 0; 2008-12-07 10:11:48
+megamage problem downranking code actualy level 1 spell scale ground afaik downranking code check level cap spell nerfing 's effect; 0; 2008-12-08 13:50:52
+fact break trigger periodic tick note quite bunch adding proc_flag_periodic_heal proc_flag_periodic_damage would allow work db update; 0; 2008-11-10 07:31:03
+back back n't wan na fix ^^; 0; 2008-12-07 07:16:59
+fix broken nightfall talent http //www.wowhead.com/ spell=18095; 0; 2008-11-12 14:40:04
+part patch tc proc_flag_periodic_heal proc_flag_periodic_damage delete add somewhere else otherwise spell break; 0; 2008-12-07 10:08:01
+actually patch first post mangos forum `` reject '' section procflag patch solve good way however much simple procflag remove easily; 0; 2008-12-07 10:10:26

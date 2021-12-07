@@ -1,0 +1,93 @@
+comment; score; time
+great ^_^; 1; 2012-02-06 22:50:44
+great work; 1; 2012-02-07 01:19:20
+wtf happen; -1; 2012-02-07 00:51:46
+wow ... mangos rullz 's great day community; 1; 2012-02-07 01:21:08
+nice; 1; 2012-02-07 01:46:39
+не прошло и пару лет грац; 0; 2012-02-07 01:30:44
+congratulations; 1; 2012-02-07 05:56:49
+woot happen o.o; 1; 2012-02-07 09:52:48
+congratulation; 1; 2012-02-07 07:36:10
+cool; 1; 2012-02-07 10:05:05
+nice; 1; 2012-02-08 10:05:43
+pathfinding wow awesome; 1; 2012-02-23 22:33:57
+thanks always n't understand sense stupid restriction; 1; 2011-11-07 15:54:18
+finally; 0; 2011-10-16 04:53:33
+nice hopefully follow worldstatemgr; 1; 2011-10-16 05:59:30
+wohoo; 0; 2011-10-16 08:20:32
+ok thank patch next commit; 1; 2011-10-16 10:37:13
+general ++slave_itr; 0; 2012-07-22 13:12:33
+good question; 1; 2012-07-22 13:16:54
+work gcc slave_itr slaveguidlist.erase slave_itr work wonderful; 0; 2012-07-23 01:59:36
+_any_; 0; 2012-07-23 03:23:32
+rsa thread-unsafe variant std :list thread-safe container; 0; 2012-07-23 03:16:43
+rsa suggest one n't dickass; 0; 2012-07-23 03:47:00
+insignificant worm either suggest classic genre sprinkle ash bald head crawl back cemetery ...; 0; 2012-07-23 04:00:44
+rsa case shut bother us worm den thanks url anyway; 0; 2012-07-23 04:04:10
+got ta love good cat fight; 1; 2012-07-23 05:38:28
+lordjz set twit need worry confusion may occur excess voltage; 0; 2012-07-23 05:02:49
+solutiuon slave_itr slaveguidlist.erase slave_itr though guess place need refactoring; 0; 2012-07-23 06:03:05
+far s/ \w\d_ \.erase\ \w\d_ \+\+\ /\2 \1.erase \2 rest manually /\.erase\ .+\+\+/; 0; 2012-07-23 06:09:33
+erase itr++ create iterator copy possible avoid returnning iterator version sure important find disadvantage google; 0; 2012-07-26 12:25:50
+forget add creature :forceddespawn crash fix; -1; 2011-08-09 11:21:05
+thank; 1; 2011-07-26 04:29:03
+'s proper way testing require http //gist.github.com/1074905; 0; 2011-07-10 13:21:12
+yay 669; 1; 2011-07-08 15:21:19
+thank; 1; 2011-07-08 18:56:41
+thanks fix 11712; 1; 2011-07-03 23:37:24
+typo thanks; 1; 2011-06-24 05:18:42
+ай спасибо; 0; 2011-06-24 05:38:57
+fix fly creature blinking come 11384; 0; 2011-04-21 05:40:54
+oh come n't tell 've miss part patch apply; 0; 2011-02-23 09:21:56
+engrish old problem; -1; 2011-02-23 17:39:07
+lol; 1; 2011-02-23 17:53:16
+finally; 0; 2011-02-21 17:44:38
+`` schedule '' small typo; 0; 2011-02-21 18:17:27
+thank; 1; 2011-02-21 18:55:25
+`` m_ainotifyscheduled '' another one; 0; 2011-02-21 19:41:11
+cheers awesome work; 1; 2011-02-22 03:48:39
+yeahhhhhhhhhhhhhhh thanks guy; 1; 2011-02-22 11:30:33
+lover limit got good laugh one; 1; 2011-03-12 17:48:52
+correct next patch; 0; 2011-02-12 13:09:09
+update prototype change affect script call; 0; 2010-11-06 14:54:38
+`` experiment '' effect work fine thanks atomize time also good difficult solve; 1; 2010-11-07 14:14:50
+fine still sure way safe existed mango design general maybe still misunderstand; 0; 2010-11-07 14:56:00
+talk mtmaps patch 's `` way '' patch take getmangos current design mango really multithread-safe must fight attempt movement; 0; 2010-11-07 23:51:12
+really understand mean previous discussion problem find solution revise completely clean core completely default setting problem relate change decide; 0; 2010-11-08 04:33:21
+question *nix user anyone try reproduce problem 10694; 0; 2010-11-08 04:49:32
+know problem talk clean core _here_; 0; 2010-11-08 05:31:44
+problem like 10677 n't 10693 also clean core test; 0; 2010-11-08 05:21:45
+clean core unlikely someone use real work least 'm still experienced problem nobody check clean; 0; 2010-11-08 05:41:52
+update prototype change affect script call; 0; 2010-11-06 14:54:38
+`` experiment '' effect work fine thanks atomize time also good difficult solve; 1; 2010-11-07 14:14:50
+fine still sure way safe existed mango design general maybe still misunderstand; 0; 2010-11-07 14:56:00
+talk mtmaps patch 's `` way '' patch take getmangos current design mango really multithread-safe must fight attempt movement; 0; 2010-11-07 23:51:12
+really understand mean previous discussion problem find solution revise completely clean core completely default setting problem relate change decide; 0; 2010-11-08 04:33:21
+question *nix user anyone try reproduce problem 10694; 0; 2010-11-08 04:49:32
+know problem talk clean core _here_; 0; 2010-11-08 05:31:44
+problem like 10677 n't 10693 also clean core test; 0; 2010-11-08 05:21:45
+clean core unlikely someone use real work least 'm still experienced problem nobody check clean; 0; 2010-11-08 05:41:52
+thanks silverice; 1; 2010-10-27 21:07:48
+thanks; 1; 2010-10-27 22:41:36
+thanks u much; 1; 2010-10-28 05:20:57
+wow 's commit; 1; 2010-10-28 01:14:29
+think trajectory movement problem could handle similar way maybe; 0; 2010-10-28 09:01:49
+insider42 right old problem still us; 0; 2010-10-29 02:53:42
+axxus look like old crash new place ^^; 0; 2010-10-29 00:33:04
+ty; 1; 2010-10-28 01:22:12
+http //pastebin.com/eyhnhhpd; 0; 2010-10-28 19:10:52
+restore build http //paste2.org/p/769947; 0; 2010-04-12 07:30:15
+ok ty work fine; 1; 2010-04-12 07:38:49
+9749 fix like crash; -1; 2010-04-15 21:11:24
+come two day uptime crash; 0; 2010-04-17 05:58:51
+early talk uptime less day seem heal; 0; 2010-04-16 11:06:32
+ok thank confirm help; 1; 2010-04-17 07:22:27
+relate commit; 1; 2010-04-11 12:47:30
+make mangos.sql apply anymore since data add line 1168 require additional value; 0; 2010-03-15 08:59:07
+hm.. really 1.0f default data basemovespeed table least; 0; 2010-03-15 09:36:34
+lordjz/silverice float value _rate_ value speed value function name already clear `` setspeedrate '' speed rate flight 1.0 near creature see us mean rate*basemovespeed mo; 0; 2010-03-15 14:56:45
+seem break compilation scriptdev2 boss_ionar.cpp:191 error const struct creatureinfo member name 'speed; 0; 2010-03-15 14:19:07
+fact multi-threading would fine without make bit fast; 0; 2009-10-19 20:52:56
+one step multithreading; 0; 2009-10-19 18:30:07
+fact muti-threading would work garbage code add lock appropriate places.. like program really muti-threading program structure; 0; 2009-10-20 00:42:44
+cause crash http //getmangos.com/community/showpost.php p=89172 postcount=686; 0; 2009-10-20 11:23:33

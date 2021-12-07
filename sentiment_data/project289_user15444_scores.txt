@@ -1,0 +1,16 @@
+comment; score; time
+'re welcome test work fine; 1; 2012-09-27 14:06:09
+yes work; 1; 2012-09-27 14:36:05
+leave queue queue needconfirmation; 0; 2012-10-09 16:10:27
+yes; 1; 2012-10-09 22:08:20
+'s heeelll ... come mango irc please question; 0; 2012-10-09 22:38:36
+'re welcome test work fine; 1; 2012-09-27 14:06:09
+yes work; 1; 2012-09-27 14:36:05
+leave queue queue needconfirmation; 0; 2012-10-09 16:10:27
+yes; 1; 2012-10-09 22:08:20
+'s heeelll ... come mango irc please question; 0; 2012-10-09 22:38:36
+'re welcome test work fine; 1; 2012-09-27 14:06:09
+yes work; 1; 2012-09-27 14:36:05
+leave queue queue needconfirmation; 0; 2012-10-09 16:10:27
+yes; 1; 2012-10-09 22:08:20
+'s heeelll ... come mango irc please question; 0; 2012-10-09 22:38:36

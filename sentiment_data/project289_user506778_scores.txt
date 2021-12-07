@@ -1,0 +1,27 @@
+comment; score; time
+cool thx; 1; 2010-07-12 13:09:19
+fix client crash issue alteract; 0; 2010-07-12 13:52:04
+think remove bug says theres enough players battleground end hr min; 0; 2010-07-12 13:53:40
+oh ok; 1; 2010-07-12 13:55:04
+cool thx; 1; 2010-07-12 13:09:19
+fix client crash issue alteract; 0; 2010-07-12 13:52:04
+think remove bug says theres enough players battleground end hr min; 0; 2010-07-12 13:53:40
+oh ok; 1; 2010-07-12 13:55:04
+ty tom; 1; 2010-06-29 10:18:07
+support enus cause clearly see people connect play server however updated enus client get stick authenticating deleteing wtf/cache im going assume use eu client; 0; 2010-06-29 11:47:19
+confirmed get stick authenticate well realmd.exe n't show attempt either; 0; 2010-06-29 11:48:24
+strange lot people connecting playing almost certain though use eu client us im go update engb 3.3.5 report connect enus; 0; 2010-06-29 11:49:52
+nvm find issue..the patch reset realmlist.wtf; 0; 2010-06-29 11:49:40
+wow 2 1/2 years running private server cant figure thanks darkrulerz; 0; 2010-06-29 11:50:38
+ty tom; 1; 2010-06-29 10:18:07
+support enus cause clearly see people connect play server however updated enus client get stick authenticating deleteing wtf/cache im going assume use eu client; 0; 2010-06-29 11:47:19
+confirmed get stick authenticate well realmd.exe n't show attempt either; 0; 2010-06-29 11:48:24
+strange lot people connecting playing almost certain though use eu client us im go update engb 3.3.5 report connect enus; 0; 2010-06-29 11:49:52
+nvm find issue..the patch reset realmlist.wtf; 0; 2010-06-29 11:49:40
+wow 2 1/2 years running private server cant figure thanks darkrulerz; 0; 2010-06-29 11:50:38
+ty tom; 1; 2010-06-29 10:18:07
+support enus cause clearly see people connect play server however updated enus client get stick authenticating deleteing wtf/cache im going assume use eu client; 0; 2010-06-29 11:47:19
+confirmed get stick authenticate well realmd.exe n't show attempt either; 0; 2010-06-29 11:48:24
+strange lot people connecting playing almost certain though use eu client us im go update engb 3.3.5 report connect enus; 0; 2010-06-29 11:49:52
+nvm find issue..the patch reset realmlist.wtf; 0; 2010-06-29 11:49:40
+wow 2 1/2 years running private server cant figure thanks darkrulerz; 0; 2010-06-29 11:50:38

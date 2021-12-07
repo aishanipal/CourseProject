@@ -1,0 +1,49 @@
+comment; score; time
+nu ti monstr; 0; 2010-12-21 03:43:12
+welcome team zergtmn congratulations first commit; 1; 2010-12-21 07:09:08
+woot really awesome see; 1; 2010-12-21 07:57:13
+gratz zergtmn good job; 1; 2010-12-21 10:18:31
+zergtmn 0_о грац с принятием в команду работаешь над вехиклами; 0; 2010-12-21 10:29:12
+epic commit; 1; 2010-07-08 14:44:05
+hoooooly crap; -1; 2010-07-08 15:37:38
+congratulations; 1; 2010-07-08 14:45:24
+/cast instant orgasm rank25; 0; 2010-07-08 15:01:40
+nice one great work lynx3d; 1; 2010-07-08 16:07:55
+awesome commit realy scared information extract dbc/maps/vmaps wekk; 1; 2010-07-09 00:09:42
+nice gratz dev; 1; 2010-07-09 00:25:34
+congratulation; 1; 2010-07-09 00:34:41
+epic commit indeed vmap need revamp huge step forward many thanks devs involve one; 0; 2010-07-09 09:53:15
+lol 's nothing big plan improve script_command_ bit making useful event like creature `` talk '' quest end example instead source talk target switch find near buddy ta; 0; 2010-05-13 02:26:19
+darn nofantasy make curious ... p; 0; 2010-05-12 08:14:02
+w00t project need moar scriptz; 0; 2010-05-12 03:10:24
+could update http //udbwiki.webhop.net/index.php/main_page 'll greatful; 0; 2010-05-16 03:44:21
+good see use dbc 's case; 0; 2010-04-24 11:08:52
+example rsa 's script develop boss_spell_table useless compatible; 0; 2010-04-24 12:10:35
+thanks vladimir keep good work; 1; 2010-04-24 12:20:18
+thanks vladimir laise; 1; 2010-04-24 12:40:10
+finally thank; 1; 2010-04-15 03:37:01
+know blizzard 's battlegroup clustering 100 server-side; 0; 2010-04-15 23:39:39
+currently blizz use redirect battlenet world warcraft channel upon login; 0; 2010-04-15 22:12:39
+`` think '' use load/send character battleground instance group different realm think main part code use connect battle group course delima set use; 0; 2010-04-15 06:04:33
+try understand code ca n't figure exactly probably something redirect connection someone enlighten; 0; 2010-04-15 05:07:12
+well thats good thing us right except fact mangos build way cluster; 0; 2010-04-15 23:43:21
+'re connect proxy; 0; 2010-04-16 02:38:23
+oh true see would much less work; 0; 2010-04-16 13:15:54
+also currently use account.v/s field leave fact whole auth system exploitable right; 0; 2010-08-15 16:58:16
+lol ca n't fail provide pointer field ...; 0; 2010-08-15 16:52:35
+mean function fails _is_ fail really returning salt sessionkey; 0; 2010-08-15 16:56:45
+function fail; -1; 2010-08-15 15:45:37
+haha make enough good commits already sweat; 1; 2010-04-09 15:04:41
+consider ... hm ... specific humor; 0; 2010-04-10 09:06:05
+omg someone hack dasblub 's account xd; 0; 2010-04-10 02:41:58
+see post vladimir reset 'all talent important expect make patch soon think great job vlad thanks; 0; 2010-04-09 14:53:39
+excellent news; 1; 2010-04-09 12:18:13
+lol see many laise patch review section ...; 0; 2010-04-04 14:22:56
+haha yeah seem stupid get name-bug github ownestly author beaste instead laise check first time well nevertheless laugh ofcourse know laise forum thanks sorry interrupt; 0; 2010-04-05 01:32:25
+laise rename github account time; 0; 2010-04-05 03:47:59
+'s great love hear; 1; 2010-02-03 09:34:48
+lightguard congrats dev status first official commit; 1; 2010-02-02 13:36:31
+graz; 0; 2010-02-02 13:44:55
+graz; 0; 2010-02-02 18:57:18
+gratula; 0; 2010-02-03 01:38:25
+gratz lightguard nice job; 1; 2010-02-03 03:13:36

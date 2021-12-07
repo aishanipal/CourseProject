@@ -1,0 +1,22 @@
+comment; score; time
+mmm n't typo mean schoolmask 127 spell 71404 apparently proc physical damage; 0; 2010-11-28 09:18:25
+laise huge update awesome thanks; 1; 2010-04-27 03:41:50
+thanks; 1; 2010-04-27 03:50:46
+awesome; 1; 2010-04-27 04:01:28
+oh god laise 're beast p; 0; 2010-04-27 09:35:00
+except easy code future also fix damage/heal time aura store caster damage apply meaning caster example dy dot still amount damage dependent target side ofc; 0; 2010-04-27 07:20:05
+oh god laise 're beast p; 0; 2010-04-27 09:35:00
+also fix shatter combo; 0; 2010-04-28 06:11:06
+shatter combo fix 9784; 0; 2010-04-28 21:18:24
+already revert revision xd; 1; 2010-04-28 23:41:27
+anyone high conflagrate damage spelleffects.cpp line 512-513 try remove call spelldamagebonusdone maybe also taken; 0; 2010-04-28 21:27:08
+clean core happen; 1; 2010-05-03 00:53:10
+'s bugreport core user n't test already maybe specific condition bug ... try get info user think patch ca n't cause bug affect single spell start aft; 0; 2010-05-03 01:16:46
+100 clean core spell paladin; 0; 2010-05-03 02:33:29
+bug mage talent 12606 spell 43015 receive damage example dk blood plague receive million damage; 0; 2010-05-03 00:29:32
+wrong value come insider addition sorry ^_^; -1; 2010-05-04 14:07:59
+note bug happen rank 7 dampen magic rank 6 dont bug use win server 2008 x64; 0; 2010-05-03 19:17:02
+db value wowka321 didnt manually edit come 1 db provider ytdb 2 core update; 0; 2010-05-03 20:55:20
+thx laise ^^; 1; 2010-05-03 21:50:36
+thx xd; 1; 2010-05-11 12:16:43
+`` return '' cause affected spell calculate spelldamagebonusdone/meeleedamagebonusdone; 0; 2010-05-11 08:15:23

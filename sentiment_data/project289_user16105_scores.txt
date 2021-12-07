@@ -1,0 +1,2 @@
+comment; score; time
+group flag column additionalrequirement2_type ...; 0; 2010-08-13 13:39:14

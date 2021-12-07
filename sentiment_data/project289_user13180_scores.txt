@@ -1,0 +1,5 @@
+comment; score; time
+remove _by_chance_ damage 5k middle damage need remove; -1; 2009-12-15 13:18:11
+n't hex remove 5k dmg caster dmg; 0; 2009-12-15 11:39:39
+hmm far know spell castable player patch make uncastable; 0; 2009-12-06 06:51:27
+fixed generic way 8940 taunt-like spell; 0; 2009-12-07 07:28:26

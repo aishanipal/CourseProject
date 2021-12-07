@@ -1,0 +1,35 @@
+comment; score; time
+action function execute; 0; 2009-06-23 17:13:55
+; -1; 2009-06-24 10:30:04
+yes actually save immediately time gold/money change quite understandable 's crash nothing really lose unless quest whatever; 0; 2009-06-24 18:15:47
+gold save instantly instead normal 900 second save interval logout; 0; 2009-06-24 03:41:38
+prevent cheat gold use know crash bug; -1; 2009-06-26 19:14:41
+awesome thx; 1; 2009-06-23 19:13:12
+separated field stay also data column new column ingame magically join send client; 0; 2009-06-24 09:36:17
+так гаразда удобнее; 0; 2009-06-25 06:15:41
+could fix getinstance crash; 0; 2009-06-16 03:48:55
+; -1; 2009-05-21 12:59:33
+well think would due old statement use compile; 0; 2009-05-21 14:15:35
+mh strange ca n't post part code honorbale honorable; 0; 2009-04-22 13:33:06
+player_field_lifetime_honorable_kills; 0; 2009-04-22 13:32:24
+ok sorry; 1; 2009-04-22 22:50:51
+typical blizz; 0; 2009-04-23 04:44:48
+mh strange ca n't post part code honorbale honorable; 0; 2009-04-22 13:33:06
+player_field_lifetime_honorable_kills; 0; 2009-04-22 13:32:24
+ok sorry; 1; 2009-04-22 22:50:51
+typical blizz; 0; 2009-04-23 04:44:48
+mh strange ca n't post part code honorbale honorable; 0; 2009-04-22 13:33:06
+player_field_lifetime_honorable_kills; 0; 2009-04-22 13:32:24
+ok sorry; 1; 2009-04-22 22:50:51
+typical blizz; 0; 2009-04-23 04:44:48
+know n't best way report could look `` level achievement '' reached 10. level etc.. n't work..; 0; 2009-03-06 13:19:38
+nenravica tebe kak drugie kodjat; 0; 2009-03-02 06:10:44
+warsong would say n't getclosestgraveyard; 0; 2009-03-02 08:28:15
+ok sorry; 1; 2009-03-02 10:11:12
+nenravica tebe kak drugie kodjat; 0; 2009-03-02 06:10:44
+warsong would say n't getclosestgraveyard; 0; 2009-03-02 08:28:15
+ok sorry; 1; 2009-03-02 10:11:12
+please recheck 7247 http //github.com/mangos/mangos/commit/4c194e0fd3034b8badd338387c98eaed34b0e924; 0; 2009-02-07 13:43:07
+totaly unstable; -1; 2009-02-07 10:37:24
+dislord awesome..; 0; 2009-01-10 10:36:33
+; -1; 2009-01-10 11:27:44

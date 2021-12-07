@@ -1,0 +1,21 @@
+comment; score; time
+return value boolean null; 0; 2012-02-17 02:01:16
+remove pitem check; 0; 2012-02-17 02:01:55
+already check; 0; 2012-02-17 02:11:54
+git parser lose context fact chagnes queryresult* database :pquery const char *format ...; 0; 2012-02-17 02:15:17
+thx answer hate small diffs xd; 1; 2012-02-17 02:16:49
+thx; 1; 2012-02-17 02:18:10
+eartly code already expect pitem null; 0; 2012-02-17 02:19:20
+ok forget getspellentrybydifficulty; 1; 2011-09-27 04:56:24
+laise would cool drop irc; 0; 2011-09-27 05:33:12
+sniff try add thing make ​​me year ago full accordance provide sniff want get please refer romanrom2 yuriy problem mango; 0; 2011-09-27 03:34:51
+thank contribute fix 11811; 0; 2011-09-27 06:10:06
+spellauraholder constructor switch-case spell need custom stack amount apply 4 max stack amount maybe add case; 0; 2011-09-27 05:13:21
+guy post sniff question review preferably annotate 's always bit easy argue solid data ...; 0; 2011-09-28 02:23:57
+unused; 0; 2011-05-10 18:12:20
+deprecated; 0; 2011-05-11 03:27:36
+std :numeric_limits float :signaling_nan; 0; 2011-04-13 10:53:17
+...; 0; 2011-04-13 11:35:43
+_rare_ crash; -1; 2011-04-12 22:40:46
+n't good set summon point create; 0; 2011-04-13 09:55:36
+vinolentus start discussion yesterday suppose move code create patch already available anyway protect code incorrect usage forbid access uninitialized data; 0; 2011-04-13 10:03:13

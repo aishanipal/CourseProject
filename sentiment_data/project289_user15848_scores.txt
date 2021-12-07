@@ -1,0 +1,93 @@
+comment; score; time
+cool arcane missiles spell work great ^^; 1; 2011-05-20 13:34:13
+hostile version look like work problem missile fix; -1; 2011-05-22 14:45:16
+fix anything penance spell; 0; 2011-05-22 13:18:54
+oh thank lynx3d evil unix-side build killer; -1; 2011-02-15 14:40:51
+lol; 1; 2011-02-16 00:43:26
+nice man; 1; 2010-09-04 08:59:34
+found bug pet swim pet stay bottom; 0; 2010-09-06 10:50:50
+yes swim case miss pet code possible; 0; 2010-09-07 04:35:33
+good; 1; 2010-09-02 11:28:26
+yep confirm fall underground enter evade mode; 0; 2010-09-05 04:32:12
+problem partially solve getheight still continue return wrong value go type 33 lk platform toc creature suumoned go 's fall underground ... disabling vmaps solve problem add problem; 0; 2010-09-09 21:11:11
+bug result fail get height bad local result global good work; 0; 2010-09-10 08:14:29
+however 10380 work fine; 0; 2010-09-10 06:26:16
+red use pink; 0; 2010-06-03 04:47:50
+lol; 1; 2010-06-03 05:47:08
+congrats; 1; 2010-05-28 09:53:23
+hahaha grats; 1; 2010-05-28 09:58:30
+10 001 revert commit back; 0; 2010-05-28 10:02:39
+спасибо вам владимир; 0; 2010-05-28 10:06:21
+w00t; 1; 2010-05-28 10:45:23
+epic; 0; 2010-05-28 10:55:06
+lol good team; 1; 2010-05-28 11:14:48
+give congratulation; 1; 2010-05-28 11:20:31
+graz good work; 1; 2010-05-28 12:04:30
+10000 revision congratulation thank people help; 1; 2010-05-28 13:02:40
+gz 10000 best commits; 1; 2010-05-28 13:32:19
+gj 10 000 10x; 0; 2010-05-28 19:01:14
+congratz thanks everything; 1; 2010-05-28 20:51:50
+laise huge update awesome thanks; 1; 2010-04-27 03:41:50
+thanks; 1; 2010-04-27 03:50:46
+awesome; 1; 2010-04-27 04:01:28
+oh god laise 're beast p; 0; 2010-04-27 09:35:00
+except easy code future also fix damage/heal time aura store caster damage apply meaning caster example dy dot still amount damage dependent target side ofc; 0; 2010-04-27 07:20:05
+oh god laise 're beast p; 0; 2010-04-27 09:35:00
+also fix shatter combo; 0; 2010-04-28 06:11:06
+shatter combo fix 9784; 0; 2010-04-28 21:18:24
+already revert revision xd; 1; 2010-04-28 23:41:27
+anyone high conflagrate damage spelleffects.cpp line 512-513 try remove call spelldamagebonusdone maybe also taken; 0; 2010-04-28 21:27:08
+clean core happen; 1; 2010-05-03 00:53:10
+'s bugreport core user n't test already maybe specific condition bug ... try get info user think patch ca n't cause bug affect single spell start aft; 0; 2010-05-03 01:16:46
+100 clean core spell paladin; 0; 2010-05-03 02:33:29
+bug mage talent 12606 spell 43015 receive damage example dk blood plague receive million damage; 0; 2010-05-03 00:29:32
+wrong value come insider addition sorry ^_^; -1; 2010-05-04 14:07:59
+note bug happen rank 7 dampen magic rank 6 dont bug use win server 2008 x64; 0; 2010-05-03 19:17:02
+db value wowka321 didnt manually edit come 1 db provider ytdb 2 core update; 0; 2010-05-03 20:55:20
+thx laise ^^; 1; 2010-05-03 21:50:36
+thx xd; 1; 2010-05-11 12:16:43
+`` return '' cause affected spell calculate spelldamagebonusdone/meeleedamagebonusdone; 0; 2010-05-11 08:15:23
+thx; 1; 2010-02-22 12:07:27
+thanks =d; 1; 2010-02-22 12:16:04
+thanks need lot crash fix; 0; 2010-02-22 12:28:58
+see crash script code hell relate core go fix script; 0; 2010-02-22 13:43:40
+really fix still crash; 0; 2010-02-22 13:16:43
+ok always wrong read post anyway care crash without useful info ...; -1; 2010-02-22 13:51:27
+yes problem present mangos _without_ sd2 server crash load creature long movement list one-two may anyone present db; 0; 2010-02-22 13:58:05
+see like crash possible broken db ... need real data catch script data create porblems must easy provide way reporduce ...; 0; 2010-02-22 14:02:26
+'m manually re-apply movement list creature 94985 ytdb 5-6 crash load creature nothing criminal list ...; 0; 2010-02-22 14:08:26
+data data crash backtrace help ... know crash help crash source ...; -1; 2010-02-22 14:48:27
+fix.. crash ...; -1; 2010-02-22 14:12:21
+great lift 1000needles barrens give dc; 0; 2010-02-22 14:52:09
+crash taxi write taxi path crash ppl write something crash useless info possible need real specific data repeating; 0; 2010-02-22 14:50:17
+crash ...; -1; 2010-02-22 16:14:08
+sorry previous post -.- try put post code; 0; 2010-02-22 17:32:17
+hmm forum ... ah yes polite spam comment commits ...; 0; 2010-02-23 05:27:20
+awesome; 1; 2010-02-12 01:19:31
+thanks; 1; 2010-02-12 06:51:32
+ну вот наконец-то какой-то заметный и очень даже шаг к реализации двойной специализации; 0; 2010-02-12 04:19:58
+omg thanks; 1; 2010-02-13 16:21:20
+nice work; 1; 2010-02-12 14:49:05
+great thx; 1; 2010-02-12 12:09:38
+thank; 1; 2010-01-17 00:35:01
+thank much; 1; 2010-01-10 01:44:07
+thank vladimir nofantasy main reason donate mango project; 0; 2010-01-10 03:06:10
+thank vladimirmangos; 1; 2010-01-11 03:31:12
+thank ^_^; 1; 2009-12-21 04:00:45
+jaddie 's open source fix instead complain; 0; 2009-11-05 22:24:44
+totally agree; 1; 2009-11-06 09:08:20
+tell thanks devs work free.. ^_^; 0; 2009-11-07 07:27:28
+agree 2 thats good developer work; 1; 2009-11-07 03:14:24
+agree everything else disagree statement regard c `` drag drop '' sure ui designer ... wcell n't ui fact wcell extremely well-designed also disagree c/c++ c c ric; 0; 2009-11-08 18:35:48
+n't get wrong guy use c tool development quick hobby project would n't even think use game development standpoint; 0; 2009-11-09 13:53:34
+change 8750 sql problem still come error sql mail_loot_template; 0; 2009-10-29 11:39:26
+problem ...; -1; 2009-10-30 03:29:13
+core problem result wrong data db; -1; 2009-10-29 21:15:15
+none 0 normal value quest n't must duplicate mail template id different quest; 0; 2009-10-30 16:37:16
+nvm im wrong p; -1; 2009-10-25 06:28:15
+thank; 1; 2009-10-14 04:00:36
+yes last thx; 1; 2009-10-13 22:18:26
+wow great patch thanks guy; 1; 2009-10-14 10:39:25
+thank; 1; 2009-08-03 05:47:45
+thank ^_^; 1; 2009-05-16 09:13:33
+finally; 0; 2009-03-31 05:24:40

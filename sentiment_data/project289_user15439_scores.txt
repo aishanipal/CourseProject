@@ -1,0 +1,10 @@
+comment; score; time
+forget sendpacket data; 0; 2010-07-19 02:49:07
+thank point fixed 10228; 0; 2010-07-19 12:39:34
+'s hack think ...; 0; 2010-07-17 11:51:26
+typo; 0; 2010-07-17 11:16:30
+description retail player debuff remove expired independent zone leave etc affect restrict zone; 0; 2010-07-17 12:42:00
+work test o.o thanks; 1; 2010-07-17 12:46:22
+understood fix small fix thank; 0; 2010-07-17 13:56:34
+'s hack think parachute spell trigger spell 58601 `` trigger spell '' effect; 0; 2010-07-17 13:23:02
+add aura remove exist special spell ... specially exist remove mount/form dummy spell; 0; 2010-07-17 13:19:19

@@ -1,0 +1,2 @@
+comment; score; time
+reduce sela command 's damage; 0; 2009-02-26 09:12:08

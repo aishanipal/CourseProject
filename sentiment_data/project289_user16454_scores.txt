@@ -1,0 +1,8 @@
+comment; score; time
+мда ... нет слов это теперь девелоперы такие пошли п-ц котенку ...; 0; 2013-01-04 08:10:48
+crlf -_\\\\; 0; 2013-01-03 10:45:52
+yup developer abandon even n't know c++ good good feature; -1; 2013-01-04 17:31:44
+least 're good obfuscate commit change; 1; 2013-01-04 21:52:09
+include unistd.h comment dont compile ubuntu; 0; 2013-01-05 05:46:19
+line break build linux ... use linux mint 14 cinnamon; 0; 2013-01-05 08:37:48
+indeed; 0; 2013-01-06 16:13:35

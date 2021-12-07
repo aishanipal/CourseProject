@@ -1,0 +1,55 @@
+comment; score; time
+field probably gender ... 0 male 1 female; 0; 2010-12-20 06:16:32
+confirned test game thank look currently use code ...; 0; 2010-12-20 08:26:22
+hm good idea check game check race custom modifed .npc info; 0; 2010-12-20 07:02:51
+look like conflict sometime query gender version ca n't use directly description add 10895 thank; 0; 2010-12-20 10:01:40
+miss infor add 11030 thank; 0; 2011-01-17 10:50:15
+thank report must fix 10670 vc++ hard write real c++ compatible code; 0; 2010-11-01 00:45:25
+would n't use `` else '' good since 're work booleans 2 value; 0; 2010-11-01 02:12:40
+important thing criterias need save even counter == 0; 0; 2010-11-01 04:33:08
+add update sql; 0; 2010-09-03 07:31:23
+sql update; 0; 2010-09-03 08:55:26
+bonus work even 1 skill point; 0; 2010-09-03 08:30:30
+believe mean people update sql\updates though n't particularly see necessary table; 0; 2010-09-04 01:28:40
+indeed look like typo; 0; 2010-09-05 03:15:49
+post patch file mangos forum ...; 0; 2010-09-05 03:36:32
+n't `` 1.x reacts incorrectly 4-byte message use 3 real error ''; 0; 2010-08-16 13:42:08
+importantly 2 instead 3 's comment; 0; 2010-08-16 23:13:51
+yup see mean ... lol n't even notice; 0; 2010-08-17 00:08:34
+think mean 3-bytes sorry; 0; 2010-08-22 21:26:21
+n't `` 1.x reacts incorrectly 4-byte message use 3 real error ''; 0; 2010-08-16 13:42:08
+importantly 2 instead 3 's comment; 0; 2010-08-16 23:13:51
+yup see mean ... lol n't even notice; 0; 2010-08-17 00:08:34
+think mean 3-bytes sorry; 0; 2010-08-22 21:26:21
+ty tom; 1; 2010-06-29 10:18:07
+support enus cause clearly see people connect play server however updated enus client get stick authenticating deleteing wtf/cache im going assume use eu client; 0; 2010-06-29 11:47:19
+confirmed get stick authenticate well realmd.exe n't show attempt either; 0; 2010-06-29 11:48:24
+strange lot people connecting playing almost certain though use eu client us im go update engb 3.3.5 report connect enus; 0; 2010-06-29 11:49:52
+nvm find issue..the patch reset realmlist.wtf; 0; 2010-06-29 11:49:40
+wow 2 1/2 years running private server cant figure thanks darkrulerz; 0; 2010-06-29 11:50:38
+ty tom; 1; 2010-06-29 10:18:07
+support enus cause clearly see people connect play server however updated enus client get stick authenticating deleteing wtf/cache im going assume use eu client; 0; 2010-06-29 11:47:19
+confirmed get stick authenticate well realmd.exe n't show attempt either; 0; 2010-06-29 11:48:24
+strange lot people connecting playing almost certain though use eu client us im go update engb 3.3.5 report connect enus; 0; 2010-06-29 11:49:52
+nvm find issue..the patch reset realmlist.wtf; 0; 2010-06-29 11:49:40
+wow 2 1/2 years running private server cant figure thanks darkrulerz; 0; 2010-06-29 11:50:38
+think use 0 instead null integer value; 0; 2010-05-12 04:08:04
+... nice solution mount; 1; 2010-05-12 04:49:07
+edit laise fast post response ask something similar p; 0; 2010-05-12 05:15:44
+thank much explain laise ... helpfull future; 0; 2010-05-12 05:46:09
+last arg use replace 280 speed player know mount 310 invincible 310 initial speed n't need check; 0; 2010-05-12 05:15:16
+phail copy paste -_-; 0; 2010-05-12 07:41:42
+good commit fly dalaran mount; 1; 2010-05-12 07:58:48
+found bug example mount fly headless horseman 's mount teleport stormwind dismount fly stormwind; 0; 2010-06-02 11:55:30
+.gm _test_this; 0; 2010-06-02 22:25:38
+think use 0 instead null integer value; 0; 2010-05-12 04:08:04
+... nice solution mount; 1; 2010-05-12 04:49:07
+edit laise fast post response ask something similar p; 0; 2010-05-12 05:15:44
+thank much explain laise ... helpfull future; 0; 2010-05-12 05:46:09
+last arg use replace 280 speed player know mount 310 invincible 310 initial speed n't need check; 0; 2010-05-12 05:15:16
+phail copy paste -_-; 0; 2010-05-12 07:41:42
+good commit fly dalaran mount; 1; 2010-05-12 07:58:48
+found bug example mount fly headless horseman 's mount teleport stormwind dismount fly stormwind; 0; 2010-06-02 11:55:30
+.gm _test_this; 0; 2010-06-02 22:25:38
+n't choice instead choise; 0; 2010-05-07 06:50:40
+woops sorry see already ...; 0; 2010-02-28 09:26:35

@@ -1,0 +1,38 @@
+comment; score; time
+nice good job; 1; 2012-04-15 17:24:01
+python envelope 619 link forum check result 1365 record; 0; 2012-04-16 02:44:24
+free time try accommodate request correct permutation сonditions place; 0; 2012-04-16 03:13:14
+think maybe table _loot_template primary key specie entry item condition_id need greatly alter code; 0; 2012-04-16 03:20:44
+'ve get think immediately remind fish fish catch summer winter time day though likely reference play; 0; 2012-04-16 03:32:25
+good work thx; 1; 2012-04-16 10:03:54
+nice; 1; 2012-04-17 04:49:07
+indentation would nice else block; 0; 2012-04-22 02:32:49
+; -1; 2012-04-22 02:33:34
+nice good job; 1; 2012-04-15 17:24:01
+python envelope 619 link forum check result 1365 record; 0; 2012-04-16 02:44:24
+free time try accommodate request correct permutation сonditions place; 0; 2012-04-16 03:13:14
+think maybe table _loot_template primary key specie entry item condition_id need greatly alter code; 0; 2012-04-16 03:20:44
+'ve get think immediately remind fish fish catch summer winter time day though likely reference play; 0; 2012-04-16 03:32:25
+good work thx; 1; 2012-04-16 10:03:54
+nice; 1; 2012-04-17 04:49:07
+indentation would nice else block; 0; 2012-04-22 02:32:49
+; -1; 2012-04-22 02:33:34
+nice good job; 1; 2012-04-15 17:24:01
+python envelope 619 link forum check result 1365 record; 0; 2012-04-16 02:44:24
+free time try accommodate request correct permutation сonditions place; 0; 2012-04-16 03:13:14
+think maybe table _loot_template primary key specie entry item condition_id need greatly alter code; 0; 2012-04-16 03:20:44
+'ve get think immediately remind fish fish catch summer winter time day though likely reference play; 0; 2012-04-16 03:32:25
+good work thx; 1; 2012-04-16 10:03:54
+nice; 1; 2012-04-17 04:49:07
+indentation would nice else block; 0; 2012-04-22 02:32:49
+; -1; 2012-04-22 02:33:34
+break; 0; 2011-05-18 09:25:47
+break; 0; 2011-05-18 09:28:10
+fixed 11508 thank vs accept old version lol; 1; 2011-05-18 09:45:47
+yes make sense miss non-win case slow understand ^^; 0; 2011-05-18 19:41:58
+fault re-check final code change possible fix 11520 also read commit note -s run problem sometime; 0; 2011-05-21 12:49:01
+break; 0; 2011-05-18 09:25:47
+break; 0; 2011-05-18 09:28:10
+fixed 11508 thank vs accept old version lol; 1; 2011-05-18 09:45:47
+yes make sense miss non-win case slow understand ^^; 0; 2011-05-18 19:41:58
+fault re-check final code change possible fix 11520 also read commit note -s run problem sometime; 0; 2011-05-21 12:49:01

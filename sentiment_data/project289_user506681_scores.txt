@@ -1,0 +1,40 @@
+comment; score; time
+clean solution already rebuild also ...; 1; 2011-06-11 11:52:09
+ok thank far try reinstall service pack instal though; 0; 2011-06-12 01:24:25
+try mark objectguid uint32 const constructor explicit; 0; 2011-06-12 04:30:39
+ah zergtmn good note explicit explicit main declaration wrong us catch declaration also good make explicit case; 0; 2011-06-12 10:12:51
+chance use ofc project file mangosdir/win dir maybe use cmake generated version; 0; 2011-06-13 12:34:26
+vs2008 sp1 pc iso download microsoft reinstall ...; 0; 2011-06-13 14:13:34
+mean problem exist beofre commit hide base affect hash_value look like instal sp1 vs2008 note free version vs2008 exist sp1 independent instal need; 0; 2011-06-13 14:09:34
+help http //gist.github.com/1024064; 1; 2011-06-13 17:10:13
+thank far weird problem solve reinstall; -1; 2011-06-14 04:12:35
+clean solution already rebuild also ...; 1; 2011-06-11 11:52:09
+ok thank far try reinstall service pack instal though; 0; 2011-06-12 01:24:25
+try mark objectguid uint32 const constructor explicit; 0; 2011-06-12 04:30:39
+ah zergtmn good note explicit explicit main declaration wrong us catch declaration also good make explicit case; 0; 2011-06-12 10:12:51
+chance use ofc project file mangosdir/win dir maybe use cmake generated version; 0; 2011-06-13 12:34:26
+vs2008 sp1 pc iso download microsoft reinstall ...; 0; 2011-06-13 14:13:34
+mean problem exist beofre commit hide base affect hash_value look like instal sp1 vs2008 note free version vs2008 exist sp1 independent instal need; 0; 2011-06-13 14:09:34
+help http //gist.github.com/1024064; 1; 2011-06-13 17:10:13
+thank far weird problem solve reinstall; -1; 2011-06-14 04:12:35
+clean solution already rebuild also ...; 1; 2011-06-11 11:52:09
+ok thank far try reinstall service pack instal though; 0; 2011-06-12 01:24:25
+try mark objectguid uint32 const constructor explicit; 0; 2011-06-12 04:30:39
+ah zergtmn good note explicit explicit main declaration wrong us catch declaration also good make explicit case; 0; 2011-06-12 10:12:51
+chance use ofc project file mangosdir/win dir maybe use cmake generated version; 0; 2011-06-13 12:34:26
+vs2008 sp1 pc iso download microsoft reinstall ...; 0; 2011-06-13 14:13:34
+mean problem exist beofre commit hide base affect hash_value look like instal sp1 vs2008 note free version vs2008 exist sp1 independent instal need; 0; 2011-06-13 14:09:34
+help http //gist.github.com/1024064; 1; 2011-06-13 17:10:13
+thank far weird problem solve reinstall; -1; 2011-06-14 04:12:35
+clean solution already rebuild also ...; 1; 2011-06-11 11:52:09
+ok thank far try reinstall service pack instal though; 0; 2011-06-12 01:24:25
+try mark objectguid uint32 const constructor explicit; 0; 2011-06-12 04:30:39
+ah zergtmn good note explicit explicit main declaration wrong us catch declaration also good make explicit case; 0; 2011-06-12 10:12:51
+chance use ofc project file mangosdir/win dir maybe use cmake generated version; 0; 2011-06-13 12:34:26
+vs2008 sp1 pc iso download microsoft reinstall ...; 0; 2011-06-13 14:13:34
+mean problem exist beofre commit hide base affect hash_value look like instal sp1 vs2008 note free version vs2008 exist sp1 independent instal need; 0; 2011-06-13 14:09:34
+help http //gist.github.com/1024064; 1; 2011-06-13 17:10:13
+thank far weird problem solve reinstall; -1; 2011-06-14 04:12:35
+typo addcareturetoremovelistinmapsworker -- addcreaturetoremovelistinmapsworker; 0; 2011-02-12 05:51:22
+yes another type require separate commit fix; 0; 2011-02-12 06:35:43
+fixed 11151 thank; 1; 2011-02-12 11:09:55

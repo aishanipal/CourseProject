@@ -1,0 +1,125 @@
+comment; score; time
+`` 3 minute '' comment useful p; 0; 2010-08-13 04:27:56
+every commit useful even `` remove tab whitespaces ... .etc ... ''; 0; 2010-08-13 04:50:56
+commit dedicate feel commits like always useless around; 1; 2010-08-13 06:59:06
+silverice back; 0; 2010-07-26 18:39:19
+graz silverice ^^; 0; 2010-07-26 22:03:24
+'m wonder difference vector good list n't think 're wrong want able understand future; 0; 2010-07-26 22:06:15
+think silverice already provide answer `` vector container provide less time access contain element ''; 0; 2010-07-26 22:56:08
+btw use typedef collection thus 'll able change container type one place; 0; 2010-07-27 00:59:52
+sure type change good container use 1 full loop element std :list std :vector expect big difference ok maybe small vector prio 2 push_back _at_ ai create vector think lot slow; 0; 2010-07-27 01:18:59
+vector case vector reserve size use memory need reserve small reallocate memory block data move old new ... bad case; 0; 2010-07-27 02:11:50
+vector good push_back reserve _exactly_ require data amount -pre-counting need push; 0; 2010-07-27 02:13:38
+n't typo typelist_3 typelist_4 define one line line 62; 0; 2010-06-14 07:11:54
+gz; 0; 2010-06-14 00:08:00
+nice p; 1; 2010-06-14 00:01:25
+cool ^^; 1; 2010-06-13 23:51:37
+'s correct typelist_x macro help `` assemble '' list type contain x amount type object ... make sense; 0; 2010-06-14 07:50:29
+ah sorry n't read correctly ... thought 'd define typelist_* thing; 0; 2010-06-14 08:22:40
+'s camera system; 0; 2010-06-14 12:55:21
+fixed 10072 thank; 1; 2010-06-16 19:01:08
+cool ^^; 1; 2010-05-19 13:43:02
+yeah commit realmd dont freeze 2000+ player try connect time crash; 0; 2010-05-20 04:57:02
+useful work; 1; 2010-05-19 15:51:35
+mango core problem use broken custom patch; -1; 2010-05-12 20:04:21
+see hackworld use mtmaps; 0; 2010-05-12 21:51:07
+definitely hsc ... dont even recognize code ... whats think vlad; 0; 2010-05-12 21:04:36
+ну используете мангос то тут причем в нем проблем нет; 0; 2010-05-13 05:32:09
+hva er poenget med å skrive russisk kanskje alle skal begynne å skrive sitt eget morsmål sånn som dette bare å gjøre ting enda mer vanskelig; 0; 2010-05-13 10:50:22
+為什麼都寫在俄羅斯？也許每個人都應該開始寫在他們的母語，只是複雜的一切？; 0; 2010-05-13 10:59:41
+просто следите за актуальностью патчей которые вы ставите на ядро и всё будет оке это явно не проблемы разработчиков мангоса; 0; 2010-05-13 10:29:17
+immer die russe wo gfühl hän sie mieste ihrer eigene sproch statt änglisch schribe ... tztztz; 0; 2010-05-13 16:39:56
+למה על הקומיט שלי אבל =\; 0; 2010-05-13 12:56:01
+insider42 за патчами я слежу все дело оказалось в настройке проекта share game мудил с оптимизаций кудато тыкнул и все нарушил линки на библиотеки вот и вся проблема из за этого тут такой балаган банально попросил привести хотя бы догадки к; 0; 2010-05-14 12:37:52
+hola que tal; 0; 2010-05-13 17:19:16
+laise huge update awesome thanks; 1; 2010-04-27 03:41:50
+thanks; 1; 2010-04-27 03:50:46
+awesome; 1; 2010-04-27 04:01:28
+oh god laise 're beast p; 0; 2010-04-27 09:35:00
+except easy code future also fix damage/heal time aura store caster damage apply meaning caster example dy dot still amount damage dependent target side ofc; 0; 2010-04-27 07:20:05
+oh god laise 're beast p; 0; 2010-04-27 09:35:00
+also fix shatter combo; 0; 2010-04-28 06:11:06
+shatter combo fix 9784; 0; 2010-04-28 21:18:24
+already revert revision xd; 1; 2010-04-28 23:41:27
+anyone high conflagrate damage spelleffects.cpp line 512-513 try remove call spelldamagebonusdone maybe also taken; 0; 2010-04-28 21:27:08
+clean core happen; 1; 2010-05-03 00:53:10
+'s bugreport core user n't test already maybe specific condition bug ... try get info user think patch ca n't cause bug affect single spell start aft; 0; 2010-05-03 01:16:46
+100 clean core spell paladin; 0; 2010-05-03 02:33:29
+bug mage talent 12606 spell 43015 receive damage example dk blood plague receive million damage; 0; 2010-05-03 00:29:32
+wrong value come insider addition sorry ^_^; -1; 2010-05-04 14:07:59
+note bug happen rank 7 dampen magic rank 6 dont bug use win server 2008 x64; 0; 2010-05-03 19:17:02
+db value wowka321 didnt manually edit come 1 db provider ytdb 2 core update; 0; 2010-05-03 20:55:20
+thx laise ^^; 1; 2010-05-03 21:50:36
+thx xd; 1; 2010-05-11 12:16:43
+`` return '' cause affected spell calculate spelldamagebonusdone/meeleedamagebonusdone; 0; 2010-05-11 08:15:23
+need also character_glyph ^^; 0; 2010-04-08 11:38:37
+first need fix finish item_text redundent state switch; 0; 2010-04-08 14:24:22
+see like case misc id maybe loot id useless us ... 's match item test; 0; 2010-04-06 12:40:32
+sometimes fake item effectmiscvalue instead effectitemtype =\; -1; 2010-04-06 12:15:09
+good; 1; 2010-03-27 16:39:19
+wowka 's update really work previous update mango freeze mysql execution wowka 's execute second title exists note 30000 character; 0; 2010-03-29 12:06:34
+insider right mine also stop sql wowka321 work; 0; 2010-03-30 14:20:01
+something wrong sql character knowntitles 0 0 0 0 0 0 title; 0; 2010-03-28 05:57:21
+well finally something ... long wait; 0; 2010-03-11 10:55:52
+database-based gossip system suit create multilevel dynamic menu example teleport system ulduar icecrown citadel 'm realise next exist object put hand-made creature gossip; 0; 2010-03-11 14:03:38
+nofantasy thx course use db-based gossip system access script library need ^^; 0; 2010-03-12 01:52:46
+frost presence n't give stamen; 0; 2010-03-05 08:45:53
+must fix 9531 thank point; 0; 2010-03-06 01:29:11
+good code readability crucial know anything c/c++ even know compute sum two number programming language want provide good patch go ahead post forum otherwise enjoy mag; 0; 2010-02-20 13:49:18
+ha-ha f ... g brain xd; 1; 2010-02-20 17:10:01
+lighten sarcastic; -1; 2010-02-20 15:44:52
+sure 's even worth reply go piss tgm make code change tomorrow 'm certain community whole happy spell implement tad easy read code oh; 0; 2010-02-20 18:21:04
+past day great project perspective changed movement code huge performance boost overall overhead cause mob erratic facing movement go problem cause character pets behave; 0; 2010-02-21 00:50:30
+hard way commit ...; 1; 2010-02-14 05:46:39
+vladimir becomes enrage p; -1; 2010-02-14 06:26:45
+rofl hard need; 1; 2010-02-14 06:27:17
+super; 1; 2010-02-14 10:09:02
+eeeeeeeeeeeeerrrrrrrrrrrrrrrr 1; 0; 2010-02-14 10:09:23
+nobody 's perfect; 1; 2010-02-14 16:35:34
+typo hit vladimir 50000000 nerve damage target enrage 5 next commits commit reduce stack 1; 0; 2010-02-14 14:18:31
+lol ^^; 1; 2010-02-14 14:47:56
+awesome; 1; 2010-02-12 01:19:31
+thanks; 1; 2010-02-12 06:51:32
+ну вот наконец-то какой-то заметный и очень даже шаг к реализации двойной специализации; 0; 2010-02-12 04:19:58
+omg thanks; 1; 2010-02-13 16:21:20
+nice work; 1; 2010-02-12 14:49:05
+great thx; 1; 2010-02-12 12:09:38
+give mango team time know great job dual talent get implement wont see commit message say `` actual dual spec still implement '' instead see something like `` dual talent implemente; 0; 2010-02-10 18:56:12
+fuuu 'm sorry much respecting developer vladimir cool work always shame mangos patch `` dual spec '' exist already long time work perfectly server also n't use `` official '' version; 0; 2010-02-10 22:24:07
+note fully implement yet hope soon; 0; 2010-02-10 13:22:21
+totally agree accord dual spec p; 0; 2010-02-10 23:33:19
++1 cyrex wait see; 0; 2010-02-10 22:35:08
+lightguard congrats dev status first official commit; 1; 2010-02-02 13:36:31
+graz; 0; 2010-02-02 13:44:55
+graz; 0; 2010-02-02 18:57:18
+gratula; 0; 2010-02-03 01:38:25
+gratz lightguard nice job; 1; 2010-02-03 03:13:36
+serious bug find player n't move loot chest chest n't despawn player may loot many-many time; 0; 2010-01-21 03:36:04
+'m dont enter forum 2-3 last month ~~ 'm re-register many time login get message `` type incorrect username password '' restore password email also work ...; 0; 2010-01-21 09:54:42
+search forum lutik remember clearly write fix; 0; 2010-01-21 09:36:06
+big thanks 's work fine; 1; 2010-01-22 12:15:46
+thx; 1; 2010-01-17 12:23:26
+another way multi-locale support english/russian client server ...; 0; 2010-01-13 04:33:59
+thx n't know feature multi-dbc; 0; 2010-01-13 06:06:20
+assignment instead match; 0; 2009-12-31 11:13:23
+well know assigment-with-check-non-null c++; 0; 2010-01-01 10:55:32
+graz; 0; 2009-12-16 05:16:35
+bad; -1; 2009-12-16 06:39:23
+woot 9000 rev; 1; 2009-12-16 05:13:04
+commit revert 9003 result find diff relate problem debug server lag case ...; 0; 2009-12-16 07:06:13
+graz 9000 rev х; 0; 2009-12-16 09:07:10
+wow ... thx; 1; 2009-12-12 15:50:08
+configure error find source src/shared/base.cpp .. ..; 0; 2009-11-08 04:57:55
+must fix 8792 thank point ofc configure need regenerate fix apply; 0; 2009-11-08 09:59:24
+great work thx; 1; 2009-10-09 09:31:33
+thanks; 1; 2009-10-09 09:28:51
+bug fix; 0; 2009-10-09 10:01:44
+wonderful; 1; 2009-10-09 14:17:35
+way go; 0; 2009-10-09 11:06:51
+nice work thanx; 1; 2009-10-09 21:00:37
+nice thx xd; 1; 2009-10-09 14:27:34
+yes congratulation; 1; 2009-10-06 01:53:27
+gz; 0; 2009-10-06 01:57:35
+way 2 go congratz 2; 0; 2009-10-06 02:02:17
+; -1; 2009-10-06 01:46:13
+great job; 1; 2009-10-06 14:11:59

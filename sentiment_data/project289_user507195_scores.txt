@@ -1,0 +1,3 @@
+comment; score; time
+say code maintainability stability redundant ca n't make patch hard understand exist code stability usability performance; 0; 2009-07-17 14:57:05
+exactly changelog; 0; 2009-07-17 09:51:56

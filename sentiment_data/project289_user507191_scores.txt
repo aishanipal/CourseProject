@@ -1,0 +1,4 @@
+comment; score; time
+bug fix; 0; 2009-08-27 03:35:11
+able join enabled afk battleground since kick toggle could gather mark honor without anything; 0; 2009-08-27 04:54:58
+'s wrong 're go afk 're queue remove queue 're afk ca n't join queue; 0; 2009-08-31 22:42:37

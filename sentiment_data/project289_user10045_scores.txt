@@ -1,0 +1,56 @@
+comment; score; time
+tom refuse use git_id unknown least resons ...; 0; 2011-04-24 00:48:56
+project use revision number release user know easy mangos need one main reason mangos team agree use revision number like personally think nobody make sure 's use; 0; 2011-04-24 01:21:19
+hey definition lazy still use git_id; 0; 2011-04-24 03:11:48
+find file miss copyright information belong us please tell us either prefer forum thanks; 0; 2011-03-21 15:48:12
+'s 2011; 0; 2011-03-21 16:03:45
+commit change anything configure git client download crlf commit lf format; 0; 2011-03-12 12:33:38
+crlf=auto trouble git n't always convert line ending properly diff index; 0; 2011-03-12 13:34:21
+sorry n't get back lot thing go real life; 0; 2011-03-25 16:11:43
+problem nobody yet commit suicide assume commit work; -1; 2011-03-25 16:38:28
+fix miss http //github.com/mangos/mangos/commit/4bd343f48a65353d63369f0095134f55cb0f4b12; 0; 2011-02-24 13:36:46
+hm remember somewhere around 6000 join ... think since switch git commits mean 'd less either git atomic commits instead big commits thus r; 0; 2011-01-11 13:51:50
+also cheat 1 commit 2 fix ^^; -1; 2011-01-11 13:56:39
+commit 11000 jeez ... join mango rev 1527 11k nice progress 'd say; 1; 2011-01-11 09:58:43
+return 0 shoulda return getrewhonoraddition even put uint32 honor getrewhonoraddition; 0; 2010-11-11 14:05:56
+anyway 's logical mistake either return thing mention check tc null; 0; 2010-11-13 00:39:24
+lordjz expect line 289 work hardly tc- value tc null ... 'd crash without tc see 0 getrewhonormultiplier 0.100 ...; 0; 2010-11-13 07:58:45
+return 0 statement true otherwise return honor see line 293; 0; 2010-11-12 14:54:49
+dasblub probably read comment n't mess dbc function like tc tc never go null; 0; 2010-11-13 11:15:32
+write russian forum row 100 probably use calculate honor honorable kill different pvp rank victim total 14 pvp rank know 14 100 max level 1400 row; 0; 2010-11-13 00:05:00
+attributesex7 might use identify spell faster/better currently would nice someone could research maybe provide patch; 0; 2010-11-07 13:14:28
+n't typo typelist_3 typelist_4 define one line line 62; 0; 2010-06-14 07:11:54
+gz; 0; 2010-06-14 00:08:00
+nice p; 1; 2010-06-14 00:01:25
+cool ^^; 1; 2010-06-13 23:51:37
+'s correct typelist_x macro help `` assemble '' list type contain x amount type object ... make sense; 0; 2010-06-14 07:50:29
+ah sorry n't read correctly ... thought 'd define typelist_* thing; 0; 2010-06-14 08:22:40
+'s camera system; 0; 2010-06-14 12:55:21
+fixed 10072 thank; 1; 2010-06-16 19:01:08
+n't typo typelist_3 typelist_4 define one line line 62; 0; 2010-06-14 07:11:54
+gz; 0; 2010-06-14 00:08:00
+nice p; 1; 2010-06-14 00:01:25
+cool ^^; 1; 2010-06-13 23:51:37
+'s correct typelist_x macro help `` assemble '' list type contain x amount type object ... make sense; 0; 2010-06-14 07:50:29
+ah sorry n't read correctly ... thought 'd define typelist_* thing; 0; 2010-06-14 08:22:40
+'s camera system; 0; 2010-06-14 12:55:21
+fixed 10072 thank; 1; 2010-06-16 19:01:08
+red use pink; 0; 2010-06-03 04:47:50
+lol; 1; 2010-06-03 05:47:08
+mango core problem use broken custom patch; -1; 2010-05-12 20:04:21
+see hackworld use mtmaps; 0; 2010-05-12 21:51:07
+definitely hsc ... dont even recognize code ... whats think vlad; 0; 2010-05-12 21:04:36
+ну используете мангос то тут причем в нем проблем нет; 0; 2010-05-13 05:32:09
+hva er poenget med å skrive russisk kanskje alle skal begynne å skrive sitt eget morsmål sånn som dette bare å gjøre ting enda mer vanskelig; 0; 2010-05-13 10:50:22
+為什麼都寫在俄羅斯？也許每個人都應該開始寫在他們的母語，只是複雜的一切？; 0; 2010-05-13 10:59:41
+просто следите за актуальностью патчей которые вы ставите на ядро и всё будет оке это явно не проблемы разработчиков мангоса; 0; 2010-05-13 10:29:17
+immer die russe wo gfühl hän sie mieste ihrer eigene sproch statt änglisch schribe ... tztztz; 0; 2010-05-13 16:39:56
+למה על הקומיט שלי אבל =\; 0; 2010-05-13 12:56:01
+insider42 за патчами я слежу все дело оказалось в настройке проекта share game мудил с оптимизаций кудато тыкнул и все нарушил линки на библиотеки вот и вся проблема из за этого тут такой балаган банально попросил привести хотя бы догадки к; 0; 2010-05-14 12:37:52
+hola que tal; 0; 2010-05-13 17:19:16
+know would good see ip ingame associate account see account player 1 account; 0; 2010-04-25 20:32:43
+store last used ip account login mean search account ip; 0; 2010-04-25 21:33:56
+nice thanks vladimir; 1; 2010-04-26 19:51:13
+something like '.lookup player ip ip limit account would nice yes; 0; 2010-04-26 01:46:16
+would definitely interesting useful command; 1; 2010-04-26 08:41:25
+9886 implement .lookup account command; 0; 2010-05-13 00:45:04

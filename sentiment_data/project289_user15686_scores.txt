@@ -1,0 +1,8 @@
+comment; score; time
+euh utilité; 0; 2011-02-24 14:46:36
+3 n't harsh rude polite helpful; 1; 2011-02-25 05:49:06
+wrong revision number; -1; 2011-01-16 11:10:45
+11018; 0; 2011-01-16 11:27:16
+happy new year guy; 1; 2011-01-01 14:25:24
+happy new year; 1; 2011-01-01 11:34:39
+bonne années happy new year; 0; 2011-01-02 04:12:45

@@ -1,0 +1,16 @@
+comment; score; time
+need check old value one encounter credit may reach one time; 0; 2011-09-04 06:31:30
+fully functional replace impossible check state encounter dungeon; 0; 2011-09-04 06:51:17
+exactly creature kill single call spell :finish; 0; 2011-09-04 07:36:30
+see may multi-boss last encounter spell may cast unexpected bos respawn; 0; 2011-09-04 07:47:08
+state talk encounter complete reflect m_completedencountersmask far know n't link encounter map need load map id difficulty ofc ca; 0; 2011-09-04 07:47:45
+spell cast expect encounter complete case wrong 've see multi-boss encounter always spell dependency 's update simple kill; 0; 2011-09-04 07:49:07
+well desire leave open use bug error db script hard find everyone forget; -1; 2011-09-04 08:30:28
+dont need complete encounter order receive lfg reward least n't wotlk guess matter anyway thanks patch; 0; 2011-09-04 08:57:31
+'s discussied question ... 50/50 different opinion problem anyway possibility check complete separate encouter must check mask good idea encounter may disable dbc double heroic additional boss; 0; 2011-09-04 09:12:30
+think label wrong manually edit; 0; 2011-09-06 20:18:42
+looks like 've mess revision number; 1; 2010-07-13 11:04:37
+revision number overrate; 0; 2010-07-13 11:09:53
+guess mean grant xd; 1; 2010-07-13 12:32:12
+grunt client 's name login protocol mangos rely look connection.log file log directory client; 0; 2010-07-13 13:10:20
+'where active_realm_id column name active_realm_id realm; 0; 2010-05-14 11:20:19

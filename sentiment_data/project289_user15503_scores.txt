@@ -1,0 +1,7 @@
+comment; score; time
+; -1; 2010-06-15 08:59:30
+think relate http //pastebin.com/eb6ncacg; 0; 2010-06-15 10:05:15
+update 10065 30 min crash; 0; 2010-06-15 11:33:09
+fixed commit lol; 1; 2010-06-15 11:51:27
+confirm v get error; -1; 2010-01-17 07:27:49
+possible fix 9202; 0; 2010-01-17 08:34:00

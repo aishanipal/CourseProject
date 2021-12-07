@@ -1,0 +1,143 @@
+comment; score; time
+thanks; 1; 2010-07-08 08:38:05
+nice catch pasdvn; 1; 2010-07-20 00:57:49
+thanks pasdvn guess http //paste2.org/p/921034 trick also update patch http //getmangos.com/community/showthread.php t=14623 p=119952 viewfull=1 post119952 getmangos.com; 0; 2010-07-20 01:11:16
+; -1; 2010-07-20 01:45:45
+n't typo typelist_3 typelist_4 define one line line 62; 0; 2010-06-14 07:11:54
+gz; 0; 2010-06-14 00:08:00
+nice p; 1; 2010-06-14 00:01:25
+cool ^^; 1; 2010-06-13 23:51:37
+'s correct typelist_x macro help `` assemble '' list type contain x amount type object ... make sense; 0; 2010-06-14 07:50:29
+ah sorry n't read correctly ... thought 'd define typelist_* thing; 0; 2010-06-14 08:22:40
+'s camera system; 0; 2010-06-14 12:55:21
+fixed 10072 thank; 1; 2010-06-16 19:01:08
+; -1; 2010-05-08 00:08:02
+default set 1; 0; 2010-05-07 20:09:11
+yes 'm little confuse commit exactly clean; 1; 2010-05-08 07:48:19
+revils correct; 0; 2010-05-09 01:15:37
+ok thanks; 1; 2010-05-09 03:48:12
+omg great; 1; 2010-04-07 17:38:43
+thank much; 1; 2010-04-07 17:46:31
+thaaanks p; 0; 2010-04-07 18:07:52
+nice one thanks; 1; 2010-04-07 18:17:35
+think error output code attach check describe good checked; 0; 2010-04-07 19:02:14
+awesome great job; 1; 2010-04-07 19:44:42
+know git merge work commits mix old master revision see absent rev mostly; 0; 2010-04-09 19:40:06
+see lol commit content ...; 1; 2010-04-02 17:51:49
+well think usefull noob user; 0; 2010-04-02 17:25:52
+n't use mangos mangos years back; 0; 2010-04-02 19:59:43
+apple orange way back change fruit; 0; 2010-04-02 20:55:38
+pff get ta dream somebody bitch slap silly; 1; 2010-04-02 13:06:10
+really good job thanks; 1; 2010-04-02 13:38:54
+/me slap cyrex; 0; 2010-04-02 13:15:44
+thanks nice work; 1; 2010-04-02 13:26:05
+impossable one look code ...; 0; 2010-04-02 15:31:16
+thx good work; 1; 2010-04-02 23:32:54
+excellent work often commits instead cut away never stop anyone field database ...; 0; 2010-04-03 10:44:11
+ppl understanding code development think feature add commits exist without many preparation commits without const code cleanup improve code _without_ visible user changes.. devs think man; 0; 2010-04-03 11:34:29
+something new good never abandon backwards compatibility relation hack unused core code field database prevent develop core however removal field bury lot well-done work web p; 0; 2010-04-03 13:40:14
+think remove data blob pain long time storing data way well design inefficient also make harder get certain data web portal mention also update code web portal; 0; 2010-04-03 15:01:19
+think start think thing like backward compatibility reach 1.0 ...; 0; 2010-04-03 15:58:14
+also remove title bye bye title epic fail; 0; 2010-03-27 13:36:09
+help lot web management page; 0; 2010-03-27 15:44:55
+wow cant believe already everything columns/tables good work; 1; 2010-03-28 02:19:28
+yessssssssssssssss good work performance db kill item_instance blob ... db fly ^^ good work devel; 0; 2010-03-28 05:20:53
+actually read commit would see character data backed-up nothing actually lose unless choose drop back-ups make back-ups use late commit make title work; 0; 2010-03-27 21:22:02
+item_instance use character_inventory also table like mail_items ca n't merge one ...; 0; 2010-03-29 01:05:51
+nanouniko know think long time ago merge table one could help manage item cause share similar information; 0; 2010-03-28 16:36:30
+hunuza thanks tip; 1; 2010-03-29 15:04:17
+like know arcemu; 1; 2010-03-29 23:28:32
+n't know arcemu probably different database design ...; 0; 2010-03-30 01:38:51
+wow guy congrats ... pretty big milestone imo; 1; 2010-03-29 20:51:49
+also necessary review crash becouse patch addes crash; 0; 2010-03-26 16:35:28
+thanks let us know tgm appreciate well aware among late 200 commits claim junk useless code several key feature see vital progression hope lose th; 0; 2010-03-26 19:20:37
+nice; 1; 2010-03-17 06:07:15
+crash relate commit; -1; 2010-03-08 18:11:02
+least; 0; 2010-03-08 18:52:57
+confirmed annoy crash may happen 3 time per minute; 0; 2010-03-09 01:49:26
+dump http //paste2.org/p/708597; -1; 2010-03-09 01:50:43
+crash look relate either 9550 9551..; 0; 2010-03-09 01:52:20
+fixed already; 0; 2010-03-09 07:08:10
+dont think; 0; 2010-03-09 12:59:02
+crash relate commit; -1; 2010-03-08 18:11:02
+least; 0; 2010-03-08 18:52:57
+confirmed annoy crash may happen 3 time per minute; 0; 2010-03-09 01:49:26
+dump http //paste2.org/p/708597; -1; 2010-03-09 01:50:43
+crash look relate either 9550 9551..; 0; 2010-03-09 01:52:20
+fixed already; 0; 2010-03-09 07:08:10
+dont think; 0; 2010-03-09 12:59:02
+gr8 thx vladimir thx drklo; 1; 2010-02-24 13:11:31
+thanks vlad; 1; 2010-02-24 13:43:10
+thx; 1; 2010-02-22 12:07:27
+thanks =d; 1; 2010-02-22 12:16:04
+thanks need lot crash fix; 0; 2010-02-22 12:28:58
+see crash script code hell relate core go fix script; 0; 2010-02-22 13:43:40
+really fix still crash; 0; 2010-02-22 13:16:43
+ok always wrong read post anyway care crash without useful info ...; -1; 2010-02-22 13:51:27
+yes problem present mangos _without_ sd2 server crash load creature long movement list one-two may anyone present db; 0; 2010-02-22 13:58:05
+see like crash possible broken db ... need real data catch script data create porblems must easy provide way reporduce ...; 0; 2010-02-22 14:02:26
+'m manually re-apply movement list creature 94985 ytdb 5-6 crash load creature nothing criminal list ...; 0; 2010-02-22 14:08:26
+data data crash backtrace help ... know crash help crash source ...; -1; 2010-02-22 14:48:27
+fix.. crash ...; -1; 2010-02-22 14:12:21
+great lift 1000needles barrens give dc; 0; 2010-02-22 14:52:09
+crash taxi write taxi path crash ppl write something crash useless info possible need real specific data repeating; 0; 2010-02-22 14:50:17
+crash ...; -1; 2010-02-22 16:14:08
+sorry previous post -.- try put post code; 0; 2010-02-22 17:32:17
+hmm forum ... ah yes polite spam comment commits ...; 0; 2010-02-23 05:27:20
+o_o wow; 1; 2010-02-10 10:33:59
+nice; 1; 2010-02-10 19:55:22
+confirm ca n't compile rhel 5.4; 0; 2009-12-25 10:09:34
+maybe glyph next could close dual spec one step closer; 0; 2009-11-25 12:22:19
+talent point possible extract; 0; 2009-11-26 08:08:17
+need extract recalculate load talent point data db use server character load need extract drop data field drop really req data store field; 0; 2009-11-26 13:56:16
+guess character_skills table add playerdump character delete handler; 0; 2009-11-29 09:16:06
+yes good remark point look tomorrow fix someone; 0; 2009-11-29 09:34:12
+fixed 8896; 0; 2009-11-30 05:10:06
+one good linux; 1; 2009-11-11 15:15:25
+'s tbbmalloc; 0; 2009-11-11 16:22:54
+cyrex linux tbbmalloc reduce performance 10-30; 0; 2009-11-11 19:14:03
+try compile -- with-std-malloc -- with-std-malloc= '' yes '' still compile tbb cant tell moment works good; 0; 2009-11-11 20:26:03
+added form option useless; 0; 2009-11-12 02:59:21
+correct work option must _all_ cpp affect tbb use include make wrong way; 0; 2009-11-12 03:37:44
+sorry think missundestand way work option possible work correctly right ...; 0; 2009-11-12 05:51:19
+yes vladimir aparently -- with-std-malloc= '' yes '' work compile tbb libraries; 0; 2009-11-12 08:34:30
+one good linux; 1; 2009-11-11 15:15:25
+'s tbbmalloc; 0; 2009-11-11 16:22:54
+cyrex linux tbbmalloc reduce performance 10-30; 0; 2009-11-11 19:14:03
+try compile -- with-std-malloc -- with-std-malloc= '' yes '' still compile tbb cant tell moment works good; 0; 2009-11-11 20:26:03
+added form option useless; 0; 2009-11-12 02:59:21
+correct work option must _all_ cpp affect tbb use include make wrong way; 0; 2009-11-12 03:37:44
+sorry think missundestand way work option possible work correctly right ...; 0; 2009-11-12 05:51:19
+yes vladimir aparently -- with-std-malloc= '' yes '' work compile tbb libraries; 0; 2009-11-12 08:34:30
+one good linux; 1; 2009-11-11 15:15:25
+'s tbbmalloc; 0; 2009-11-11 16:22:54
+cyrex linux tbbmalloc reduce performance 10-30; 0; 2009-11-11 19:14:03
+try compile -- with-std-malloc -- with-std-malloc= '' yes '' still compile tbb cant tell moment works good; 0; 2009-11-11 20:26:03
+added form option useless; 0; 2009-11-12 02:59:21
+correct work option must _all_ cpp affect tbb use include make wrong way; 0; 2009-11-12 03:37:44
+sorry think missundestand way work option possible work correctly right ...; 0; 2009-11-12 05:51:19
+yes vladimir aparently -- with-std-malloc= '' yes '' work compile tbb libraries; 0; 2009-11-12 08:34:30
+nice; 1; 2009-11-09 14:30:53
+n't sorry thanks make us; 0; 2009-10-24 17:43:34
+thank old vlad devs appreciate work dedication sorry us time annoy p; 0; 2009-10-24 18:05:16
+critical issue still present; 0; 2009-10-24 18:51:31
+balrok friend need little attention crash ...; 0; 2009-10-20 16:02:23
+send gdb stack; 0; 2009-10-20 18:59:39
+ok balrok go test tell; 0; 2009-10-21 08:02:21
+balrok friend need little attention crash ...; 0; 2009-10-20 16:02:23
+send gdb stack; 0; 2009-10-20 18:59:39
+ok balrok go test tell; 0; 2009-10-21 08:02:21
+like remark totally useless without crash line least; 1; 2009-10-19 00:44:57
+crash related `` unit.cpp ''; 0; 2009-10-18 14:03:33
+hey vladimmir revision server crash every 10 20 minute; 0; 2009-05-30 11:47:02
+course sorry bother return 7906 cant provide data; 0; 2009-05-30 13:35:44
+cleary relate commit test 7929; 0; 2009-05-31 13:41:30
+hey vladimmir revision server crash every 10 20 minute; 0; 2009-05-30 11:47:02
+course sorry bother return 7906 cant provide data; 0; 2009-05-30 13:35:44
+cleary relate commit test 7929; 0; 2009-05-31 13:41:30
+sorry n't understand; 0; 2009-05-11 03:23:51
+exactly change; 0; 2009-05-11 10:36:32
+http //getmangos.com/community/showthread.php p=71270 post71270; 0; 2009-05-12 12:25:35
+crash often; -1; 2009-03-17 14:17:46
+cause emote opcodes suggest; 0; 2009-03-17 15:13:37
+client crash player go thral room; 0; 2009-03-09 15:44:20

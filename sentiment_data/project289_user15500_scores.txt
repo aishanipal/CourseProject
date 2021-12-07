@@ -1,0 +1,5 @@
+comment; score; time
+’ purely awesome thanks bunch commit; 1; 2009-05-03 08:04:35
+amen; 0; 2009-05-03 07:46:31
+change `` confversion '' `` mangosd.conf.dist.in '' change make; 0; 2008-12-29 16:39:36
+need default setting work way without patch ...; 0; 2008-12-29 17:53:46

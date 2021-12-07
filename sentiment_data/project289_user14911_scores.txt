@@ -1,0 +1,11 @@
+comment; score; time
+spell need fill reqlevel npc_trainer _template correct one still lvl 0; 0; 2011-12-06 10:28:33
+uhm yes question usually ask 2+; 0; 2011-12-06 11:15:07
+spell need fill reqlevel npc_trainer _template correct one still lvl 0; 0; 2011-12-06 10:28:33
+uhm yes question usually ask 2+; 0; 2011-12-06 11:15:07
+yeah `` redunction '' overpowered nerf totally need; 0; 2011-05-25 02:27:51
+hope next change fix bug aura 269 affect resilience; 0; 2011-05-26 02:50:48
+whole reduction_affected_damage need time ago replace simple get*damagereduction damage stand melee/ranged/whatever.. see difference; 0; 2011-05-26 12:05:37
+nice one probably fixes totemtimers addon well; 0; 2011-05-21 10:14:46
+totem summon work fine mango; 0; 2011-05-22 11:06:54
+ye summon work fine also totem timer work already well feeling play shamy thx; 1; 2011-05-23 04:25:12

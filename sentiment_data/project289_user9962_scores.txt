@@ -1,0 +1,116 @@
+comment; score; time
+need check non-players; 0; 2012-12-27 15:13:06
+nice value; 1; 2012-12-27 15:13:12
+wrong need store mount capability basepoints correct aura display least remove spell; 0; 2012-12-27 15:13:59
+rip client; 0; 2012-12-29 16:01:10
++1; 0; 2012-12-27 15:40:01
+actually highguid_guild 0x1ff 7 highguid_player realm sniff realm identifier; 0; 2012-10-03 08:34:25
+seem 0x1ff would sufficient least; 0; 2012-10-07 22:28:43
+correct elemental shaman example use spirit base regen combat personally one retail; 0; 2012-09-09 11:47:08
+spirit regen toolip show every spec wowpedia say non-healers n't receive spirit bonus regen need check sniff; 0; 2012-09-10 01:45:21
+fun fact value actually store spellentry structure maxaffectedtargets field weird hack; 0; 2012-09-08 16:11:18
+n't look spelltargetrestrictions xd; -1; 2012-09-09 06:44:27
+say weird blizz hack; 0; 2012-09-09 07:06:44
+fun fact value actually store spellentry structure maxaffectedtargets field weird hack; 0; 2012-09-08 16:11:18
+n't look spelltargetrestrictions xd; -1; 2012-09-09 06:44:27
+say weird blizz hack; 0; 2012-09-09 07:06:44
+author maxxx2021 mioka remember correctly method fully good problem least possibility summon behind wal ...; 0; 2012-05-04 21:05:31
+test send smsg_spell_go time soon; 0; 2012-05-06 11:58:14
+alright share retail research totem summon record would summon invalid position los position instead move directly top caster; 0; 2012-05-06 07:22:03
+author maxxx2021 mioka remember correctly method fully good problem least possibility summon behind wal ...; 0; 2012-05-04 21:05:31
+test send smsg_spell_go time soon; 0; 2012-05-06 11:58:14
+alright share retail research totem summon record would summon invalid position los position instead move directly top caster; 0; 2012-05-06 07:22:03
+point access hashmapholder directly findplayer wrapper check isinworld false teleport cause well know bug party member appear offline process; 0; 2012-04-02 09:34:09
+week ago schmoozerd add arg findplayer prevent check isinworld false end objectaccessor :findplayer ... *false*; 0; 2012-04-02 10:19:05
+must miss commit; 1; 2012-04-02 14:49:58
+mean 1f96ccdfe24ffedd9eb303f73f5985a3a127e203 cyberium saw try backport schmooz patch cyberiums miss mango one; 0; 2012-04-02 10:54:40
+point access hashmapholder directly findplayer wrapper check isinworld false teleport cause well know bug party member appear offline process; 0; 2012-04-02 09:34:09
+week ago schmoozerd add arg findplayer prevent check isinworld false end objectaccessor :findplayer ... *false*; 0; 2012-04-02 10:19:05
+must miss commit; 1; 2012-04-02 14:49:58
+mean 1f96ccdfe24ffedd9eb303f73f5985a3a127e203 cyberium saw try backport schmooz patch cyberiums miss mango one; 0; 2012-04-02 10:54:40
+need spell :m_spellinfo select per difficulty spell constructor always spell cast; 0; 2011-11-07 15:30:18
+mango creature create yet add world one last thing; 0; 2011-11-07 16:04:18
+vladimirmangos say map pointer set load creature_addon need select difficulty isinworld check need spell ctor; 0; 2011-11-08 01:40:58
+possible ca n't cast spell player world case cleary need pas getmap value arg code base current creature map pointer value simplify change drop new arg loadcreatureaddon; 0; 2011-11-08 07:55:53
+need spell :m_spellinfo select per difficulty spell constructor always spell cast; 0; 2011-11-07 15:30:18
+mango creature create yet add world one last thing; 0; 2011-11-07 16:04:18
+vladimirmangos say map pointer set load creature_addon need select difficulty isinworld check need spell ctor; 0; 2011-11-08 01:40:58
+possible ca n't cast spell player world case cleary need pas getmap value arg code base current creature map pointer value simplify change drop new arg loadcreatureaddon; 0; 2011-11-08 07:55:53
+triggered spell cooldown 6 second guess wo n't work ...; 0; 2011-09-27 11:35:02
+im 100 sure blizz never plain cast spell multiple time achieve max stackamount aura creation; 0; 2011-09-27 08:49:27
+sence dispute someone read line sniff; 0; 2011-09-27 23:00:48
+shauren sure guy source check instead write memory; 0; 2011-09-28 04:09:51
+zergtmn say trigger spell cd wo n't work must set stack amount aura creation; 0; 2011-09-28 05:41:40
+lets go bar; 0; 2011-06-03 02:26:39
+exist one reason must die engrish; 0; 2011-06-03 09:29:31
+seriously cant class name progressbar; 0; 2011-06-03 04:02:56
+read mangos/tc code much; 0; 2011-06-06 08:27:10
+lol engrish win replace english virus plug mind; 1; 2011-06-10 00:52:47
+base belong us c; 0; 2011-06-10 01:07:51
+; -1; 2011-06-11 03:47:53
+lets go bar; 0; 2011-06-03 02:26:39
+exist one reason must die engrish; 0; 2011-06-03 09:29:31
+seriously cant class name progressbar; 0; 2011-06-03 04:02:56
+read mangos/tc code much; 0; 2011-06-06 08:27:10
+lol engrish win replace english virus plug mind; 1; 2011-06-10 00:52:47
+base belong us c; 0; 2011-06-10 01:07:51
+; -1; 2011-06-11 03:47:53
+lets go bar; 0; 2011-06-03 02:26:39
+exist one reason must die engrish; 0; 2011-06-03 09:29:31
+seriously cant class name progressbar; 0; 2011-06-03 04:02:56
+read mangos/tc code much; 0; 2011-06-06 08:27:10
+lol engrish win replace english virus plug mind; 1; 2011-06-10 00:52:47
+base belong us c; 0; 2011-06-10 01:07:51
+; -1; 2011-06-11 03:47:53
+overwrite overwritten; 0; 2011-04-13 09:45:09
+oh damn another commit fix engrish; 0; 2011-04-13 10:06:29
+overwritten proper one; 0; 2011-04-13 12:09:44
+no-no-no need comment fix darkknight900; 0; 2011-04-04 00:11:48
+mango isnt mango without engrish; 0; 2011-04-04 05:46:48
+11337 thank; 1; 2011-04-12 07:04:18
+harvest blight specimen check incorrect spell award credit entire raid spell target area target one member aura yes effect 's basepoints; 0; 2011-03-10 09:32:57
+thanks clearly much haste comment crap someone hopefully provide proper patch; 1; 2011-03-10 12:04:07
+imo pool state need save db; 0; 2011-02-19 04:10:07
+day ago attempt alt way restore state current respawn time fact need sure pool object wait respawn shutdown replace moment state load fail work right selection object; 0; 2011-02-19 05:03:33
+completely remove progress bar make startup much fast; 0; 2011-01-07 14:10:05
+ok wrong nonsafe remark mysql look like safe less know posgre expect also safe base lock internal engine object query exist; 0; 2011-01-07 15:02:35
+think mangos startup-time 1 progress bar really must; 0; 2011-01-07 15:42:23
+vladimir may get useful 're writting lot code/doing lot database modification row need test fix progressively may reboot lot time row idiot error due speed/; 0; 2011-01-07 16:01:23
+debug mode build slowdown bar inlined code use iteration involve startup load; 0; 2011-01-07 16:29:47
+fallenangelx bar help; 1; 2011-01-07 16:36:13
+show big loading table like creature/go load go infinity loop reason example; 0; 2011-01-07 17:16:20
+boyz mangos startup time important host server vital developer since sometimes need restart server several time row debug code startup time 50 30 second matter thank c; 0; 2011-01-10 02:24:15
+'s wrong vehicles source principle may threatlist examples boss gormok impaler toc professor putricide saurfang icc creatures vehicle see sniff; 0; 2010-10-02 10:56:09
+obvious example flame leviathan ulduar; 0; 2010-10-02 11:00:50
+sure vehicle threat list 's controller; 0; 2010-10-02 12:50:18
+flame leviathan bad example always follow one particular target time regardless threat level; 0; 2010-10-02 13:03:47
+n't subtract absorb addhealth; 0; 2010-09-11 17:00:30
+need additional const spellentry *healspell parameter check school mask complete implementation affect aura find miscvalue; 0; 2010-09-12 04:17:05
+would actually easy heal amount pass reference/pointer calculate function modify inside; 0; 2010-09-12 04:18:06
+n't subtract absorbheal heal; 0; 2010-09-11 17:00:00
+case fix 10477 thank; 0; 2010-09-12 09:36:12
+damage attempt preserve way work ...; 0; 2010-09-12 16:18:49
+sendperiodicauralog absorb field case sure really affect heal absorb ...; 0; 2010-09-12 09:01:16
+true blizzard add spell already support predict possible future situation add useless check; 0; 2010-09-17 05:44:21
+n't subtract absorb addhealth; 0; 2010-09-11 17:00:30
+need additional const spellentry *healspell parameter check school mask complete implementation affect aura find miscvalue; 0; 2010-09-12 04:17:05
+would actually easy heal amount pass reference/pointer calculate function modify inside; 0; 2010-09-12 04:18:06
+n't subtract absorbheal heal; 0; 2010-09-11 17:00:00
+case fix 10477 thank; 0; 2010-09-12 09:36:12
+damage attempt preserve way work ...; 0; 2010-09-12 16:18:49
+sendperiodicauralog absorb field case sure really affect heal absorb ...; 0; 2010-09-12 09:01:16
+true blizzard add spell already support predict possible future situation add useless check; 0; 2010-09-17 05:44:21
+n't subtract absorb addhealth; 0; 2010-09-11 17:00:30
+need additional const spellentry *healspell parameter check school mask complete implementation affect aura find miscvalue; 0; 2010-09-12 04:17:05
+would actually easy heal amount pass reference/pointer calculate function modify inside; 0; 2010-09-12 04:18:06
+n't subtract absorbheal heal; 0; 2010-09-11 17:00:00
+case fix 10477 thank; 0; 2010-09-12 09:36:12
+damage attempt preserve way work ...; 0; 2010-09-12 16:18:49
+sendperiodicauralog absorb field case sure really affect heal absorb ...; 0; 2010-09-12 09:01:16
+true blizzard add spell already support predict possible future situation add useless check; 0; 2010-09-17 05:44:21
+lot work commit good work; 1; 2010-06-11 13:06:49
+sorry wrong right; -1; 2010-06-13 02:45:08
+delete; 0; 2010-06-13 02:38:37
+lot work commit good work; 1; 2010-06-11 13:06:49
+sorry wrong right; -1; 2010-06-13 02:45:08
+delete; 0; 2010-06-13 02:38:37

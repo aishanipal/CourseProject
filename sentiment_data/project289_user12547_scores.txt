@@ -1,0 +1,5 @@
+comment; score; time
+need apply sql patch udb r366; 0; 2009-01-14 05:00:48
+apply character database n't udpated yet since 366 probably already convert; 0; 2009-01-14 06:38:32
+udb modify character db anyway yiu ca n't apply slq update wrong order result built-in order protection; 0; 2009-01-14 14:22:45
+previous database r364 one skip r365 one apply r366 `` 2008_12_22_19_characters_item_instance.sql '' need skip; 0; 2009-01-14 09:14:55

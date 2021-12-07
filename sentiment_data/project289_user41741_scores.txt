@@ -1,0 +1,11 @@
+comment; score; time
+great thanx; 1; 2010-08-11 01:54:37
+typo fix 10344 thank; 0; 2010-08-11 10:16:46
+bad mostly fix typo need search similar case always fix last case 10346 thank one time ^^; 0; 2010-08-11 12:05:36
+nice job thanks; 1; 2010-08-06 00:03:28
+lol 's important; 1; 2010-08-06 00:31:57
+know; 0; 2010-08-06 00:43:50
+may function extract name; 0; 2010-08-06 06:46:44
+yes fix typo already locally prepare next step commit chat command parsing; 0; 2010-08-06 10:09:04
+use std :istringstream parse text; 0; 2010-08-06 11:44:51
+thank yes result use char* handler args fix next commit; 1; 2010-08-08 11:27:26

@@ -1,0 +1,4 @@
+comment; score; time
+happy new year guy; 1; 2011-01-01 14:25:24
+happy new year; 1; 2011-01-01 11:34:39
+bonne années happy new year; 0; 2011-01-02 04:12:45

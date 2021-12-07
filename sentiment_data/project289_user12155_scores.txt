@@ -1,0 +1,8 @@
+comment; score; time
+yeah crash even localhost use eyes beast http //www.wowhead.com/spell=1002; 0; 2010-07-24 16:35:47
+discuss; 0; 2010-07-25 00:15:26
+'ve see copy x3 time still clean src; 0; 2010-07-25 09:01:39
+axxus understand 's entirely possible aura system already finish stable 's one patch incompatible even likely people extra patch gettin; 0; 2010-07-25 12:17:56
+understand use clean source player order offer crashdumps ... difficult repeat crash test enviroment revert 10155 try backport new collision vmaps system n; 0; 2010-07-25 11:54:08
+'s big performance drain mmorpg size load want feature n't mind overhead go ahead revert commit; 0; 2008-12-14 16:25:10
+; -1; 2008-12-14 11:59:32

@@ -1,0 +1,7 @@
+comment; score; time
+thanks balrok; 1; 2009-11-20 11:00:34
+thank; 1; 2009-10-14 04:00:36
+yes last thx; 1; 2009-10-13 22:18:26
+wow great patch thanks guy; 1; 2009-10-14 10:39:25
+thanks balrok; 1; 2009-10-08 06:39:44
+good hear help others; 1; 2009-10-08 07:31:53

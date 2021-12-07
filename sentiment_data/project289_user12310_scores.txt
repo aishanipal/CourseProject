@@ -1,0 +1,3 @@
+comment; score; time
+erros compiling centos; 0; 2010-03-13 07:30:33
+bad formating think bit imagination see add include `` objectguid.h '' include worldsession.h; 0; 2010-03-13 07:37:57

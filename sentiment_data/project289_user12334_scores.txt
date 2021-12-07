@@ -1,0 +1,19 @@
+comment; score; time
+officially post forum guess would new record `` thanked bys '' post well ... thank vlad; 0; 2011-09-20 08:13:37
+anyone tell n't see commits vlad recently; 0; 2011-09-20 02:08:51
+thank vlad 're great dev 'll miss commits; 1; 2011-10-10 06:43:50
+thank vlad contribution mangos tc remember admire much; 0; 2011-10-10 10:26:30
+patch suggest mangos.ru without author provide reference patch apply trinity find name search trinity commits forum ofc sorry wrong conclusion info case base p; 0; 2008-12-21 10:20:56
+author patch paradox sorry paradox; -1; 2008-12-20 23:29:13
+people report fix change line spell actually handle another way; 0; 2008-12-07 10:11:48
+megamage problem downranking code actualy level 1 spell scale ground afaik downranking code check level cap spell nerfing 's effect; 0; 2008-12-08 13:50:52
+fact break trigger periodic tick note quite bunch adding proc_flag_periodic_heal proc_flag_periodic_damage would allow work db update; 0; 2008-11-10 07:31:03
+back back n't wan na fix ^^; 0; 2008-12-07 07:16:59
+fix broken nightfall talent http //www.wowhead.com/ spell=18095; 0; 2008-11-12 14:40:04
+part patch tc proc_flag_periodic_heal proc_flag_periodic_damage delete add somewhere else otherwise spell break; 0; 2008-12-07 10:08:01
+actually patch first post mangos forum `` reject '' section procflag patch solve good way however much simple procflag remove easily; 0; 2008-12-07 10:10:26
+fact break trigger periodic tick note quite bunch adding proc_flag_periodic_heal proc_flag_periodic_damage would allow work db update; 0; 2008-11-10 07:31:03
+back back n't wan na fix ^^; 0; 2008-12-07 07:16:59
+fix broken nightfall talent http //www.wowhead.com/ spell=18095; 0; 2008-11-12 14:40:04
+part patch tc proc_flag_periodic_heal proc_flag_periodic_damage delete add somewhere else otherwise spell break; 0; 2008-12-07 10:08:01
+actually patch first post mangos forum `` reject '' section procflag patch solve good way however much simple procflag remove easily; 0; 2008-12-07 10:10:26

@@ -1,0 +1,30 @@
+comment; score; time
+experience trouble allocater even though use intel chipset send gdb; 0; 2009-10-26 14:55:54
+3 hope one back-ported mangos-0.12 o_o; 0; 2009-10-25 23:14:02
+; -1; 2009-10-13 13:09:24
+great work thx; 1; 2009-10-09 09:31:33
+thanks; 1; 2009-10-09 09:28:51
+bug fix; 0; 2009-10-09 10:01:44
+wonderful; 1; 2009-10-09 14:17:35
+way go; 0; 2009-10-09 11:06:51
+nice work thanx; 1; 2009-10-09 21:00:37
+nice thx xd; 1; 2009-10-09 14:27:34
+yes congratulation; 1; 2009-10-06 01:53:27
+gz; 0; 2009-10-06 01:57:35
+way 2 go congratz 2; 0; 2009-10-06 02:02:17
+; -1; 2009-10-06 01:46:13
+great job; 1; 2009-10-06 14:11:59
+yes port 0.12 come near day; 0; 2009-09-21 14:26:30
+3; -1; 2009-09-21 17:27:06
+yeah 'm loving finally make see game objects far away like retail; 0; 2009-09-26 18:54:00
+yes port 0.12 come near day; 0; 2009-09-21 14:26:30
+3; -1; 2009-09-21 17:27:06
+yeah 'm loving finally make see game objects far away like retail; 0; 2009-09-26 18:54:00
+make option revert coding run account database test 2.4.3 3.1.3 server else split simply n't required field; 0; 2009-09-20 18:57:04
+thanks; 1; 2009-08-27 01:54:09
+3; -1; 2009-09-16 13:49:01
+packet exist 2.4.3; 0; 2009-09-16 16:08:46
+come mangos-0.12 looks great; 1; 2009-09-16 13:52:14
+yaa; 0; 2008-12-31 14:14:01
+great job everyone; 1; 2008-12-15 18:25:28
+hurray ca n't wait see implement; 0; 2008-12-01 14:28:04
