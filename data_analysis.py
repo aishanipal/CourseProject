@@ -1,7 +1,7 @@
 import pandas
 import matplotlib.pyplot as plt
 
-user_ids = [506780, 15246, 9883, 4024, 252614, 3]
+user_ids = [506780, 15246, 9883, 4024, 252614]
 graph_type = "line"
 
 for user_id in user_ids:
