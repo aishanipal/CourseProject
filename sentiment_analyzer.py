@@ -51,6 +51,7 @@ pos_comment = data.loc[:,'pos_comment']
 Step 4. Remove Noise from Data (i.e. stop words)
 """
 
+nltk.download('stopwords')
 stop_words = stopwords.words('english')
 
 def remove_noise(pos_comment):
