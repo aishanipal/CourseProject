@@ -18,6 +18,6 @@ for user_id in user_ids:
     plt.xlabel('Time')
     plt.ylabel('Comment Sentiment')
     plt.title('User ' + str(user_id))
-    plt.savefig('user'+ str(user_id) + '.png')
+    plt.savefig('plots/user'+ str(user_id) + '.png')
     plt.clf()
 
