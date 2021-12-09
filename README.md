@@ -11,11 +11,11 @@ The paper our project is based on is included in this repository.
 https://mediaspace.illinois.edu/media/t/1_t06bkpvd
 # Software Implementation
 ## Data Collection
-All data is coming from GHTorrent’s MSR 2014 Mining Challenge Dataset, which includes data from the top-10 starred software projects, for a total of 90 projects and all their forks. After downloading the SQL dump and saving it locally, running data_script.py will run the required SQL queries to generate the data we need for this project in the appropriate format for our software.
+All data is coming from [GHTorrent’s](https://ghtorrent.org/msr14.html) MSR 2014 Mining Challenge Dataset, which includes data from the top-10 starred software projects, for a total of 90 projects and all their forks. After downloading the SQL dump and saving it locally, running data_script.py will run the required SQL queries to generate the data we need for this project in the appropriate format for our software.
 ## Sentiment Analyzer
 All code for the sentiment analyzer exists in sentiment_analyzer.py. 
 ## Data Preparation
-We mostly followed this tutorial. We completed the following steps to prepare our data for the sentiment model.
+We mostly followed [this](https://www.digitalocean.com/community/tutorials/how-to-perform-sentiment-analysis-in-python-3-using-the-natural-language-toolkit-nltk) tutorial. We completed the following steps to prepare our data for the sentiment model.
 - Tokenize 
 - Part of Speech tagging
 - Removed excess noise (i.e. removed stop words)
@@ -30,13 +30,13 @@ If this project was to be continued in the future, we would like to explore runn
 # Software Usage
 We have already prepped the data needed to run the sentiment analyzer tool for this project. There is no need to download the SQL dump from GHTorrent. You can ignore the data_script.py for the sake of testing.
 
-Clone the repo and ensure that python3 is installed. After cloning, cd into GithubCommentsSentimentAnalysis.
+1. Clone the repo and ensure that python3 is installed. After cloning, cd into GithubCommentsSentimentAnalysis.
 
-Run pip3 install -r requirements.txt to ensure you have the required packages to run this project.
+2. Run pip3 install -r requirements.txt to ensure you have the required packages to run this project.
 
-To test the sentiment analyzer, run python3 sentiment_analyzer.py. The outputs of this script are all the comments with their timestamp and corresponding sentiment (saved in the sentiment_data/ folder) and the baseline graphs (saved in the plots/ folder). You will notice that each baseline graph shows significantly more neutral comments (than positive or negative) for any time of day, similar to that of the paper this project is based on (included in this repository). This tells us that our sentiment analyzer tool is similar to that of the paper’s and we have successfully written our own version.
+3. To test the sentiment analyzer, run python3 sentiment_analyzer.py. The outputs of this script are all the comments with their timestamp and corresponding sentiment (saved in the sentiment_data/ folder) and the baseline graphs (saved in the plots/ folder). You will notice that each baseline graph shows significantly more neutral comments (than positive or negative) for any time of day, similar to that of the paper this project is based on (included in this repository). This tells us that our sentiment analyzer tool is similar to that of the paper’s and we have successfully written our own version.
 
-You may see the following error message
+   - You may see the following error message
 [nltk_data] Error loading punkt: <urlopen error [SSL:
 [nltk_data]     CERTIFICATE_VERIFY_FAILED] certificate verify failed:
 [nltk_data]     unable to get local issuer certificate (_ssl.c:1108)>
@@ -44,7 +44,7 @@ You may see the following error message
 
 
 
-To run the script that allows for the analysis of our sentiment results for users over time, run python3 data_analysis.py. At the top of this file, one can specify an array of user_ids that have contributed to the project with id 289. For each user, the script will graph the sentiment over time. The output of this script is the saved graphs in the plots/ folder for each user following the naming convention “user{id}.png”.
+4. To run the script that allows for the analysis of our sentiment results for users over time, run python3 data_analysis.py. At the top of this file, one can specify an array of user_ids that have contributed to the project with id 289. For each user, the script will graph the sentiment over time. The output of this script is the saved graphs in the plots/ folder for each user following the naming convention “user{id}.png”.
 # Team Members Contribution
 Both Aishani and Alyx worked on creating the sentiment analysis tool including data preparation with steps such as POS tagging and removing stop words. We also worked together to use the nltk toolkit and run the sentiment analysis on the comments. All of the reports and final video were completed together as well.
 
