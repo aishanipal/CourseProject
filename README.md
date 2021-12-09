@@ -1,6 +1,7 @@
 # Github Commit Comments Sentiment Analysis
 
-Aishani Pal, Alyxandra Merritt
+Captain: Aishani Pal - aishani2 , Alyxandra Merritt - merritt9
+December 9, 2021
 
 # Overview
 The main goal of our project is to analyze the emotions of GitHub commit comments associated with a person(s) over time for a single project(s). While this is one specific metric that we chose to analyze, the tool we have built can expand to other areas. For example, one can look at commit comment sentiment across time for specific languages or size of project (determined by numbers of lines of code). With the collected data, personalized sentiment tool, and graphical outputs, a project manager can use the analysis to better manage workflow and team dynamics. If he/she notices team members displaying more negativity during certain days of the week, the manager can encourage team members to focus on other non-code related work. 
@@ -42,7 +43,7 @@ We have already prepped the data needed to run the sentiment analyzer tool for t
 [nltk_data]     unable to get local issuer certificate (_ssl.c:1108)>
 		To resolve this, navigate to your Python applications folder and run the Install Certificate.command (you may have to do this for all your Python3 versions). 
 
-
+   - ![Python applications folder](https://github.com/aishanipal/GithubCommentsSentimentAnalysis/blob/main/usage_step3.PNG)
 
 4. To run the script that allows for the analysis of our sentiment results for users over time, run python3 data_analysis.py. At the top of this file, one can specify an array of user_ids that have contributed to the project with id 289. For each user, the script will graph the sentiment over time. The output of this script is the saved graphs in the plots/ folder for each user following the naming convention “user{id}.png”.
 # Team Members Contribution
